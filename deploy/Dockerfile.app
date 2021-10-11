@@ -20,3 +20,5 @@ RUN python3 -m pip install -r gnt_core/requirements.txt && \
 
 # Source environment file, fill database and serve API
 ENTRYPOINT python3 ./gnt_core/gnt_core/database_filler.py && python -m uvicorn gnt_api.main:app --port 8000 --host 0.0.0.0
+
+CMD "--root-path=/api"
