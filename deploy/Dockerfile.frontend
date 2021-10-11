@@ -6,8 +6,8 @@ FROM node as build
 COPY frontend-vue/ /frontend-vue
 
 # Change the permission to the files to the user node
-RUN chown -R node: /frontend && \
-    chmod 744 /frontend
+RUN chown -R node: /frontend-vue && \
+    chmod 744 /frontend-vue
 
 # Set user as node
 USER node
