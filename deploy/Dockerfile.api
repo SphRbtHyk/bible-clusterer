@@ -1,0 +1,17 @@
+# Dockerfile containing the Python backend
+# Copyright 2020 BULL SAS All rights reserved
+
+FROM python:3.8-slim
+
+# Update pip
+RUN python3 -m pip install update
+
+# Make as workdir main Python directory
+
+# Copy requirements project
+
+# Copy src files
+
+# Install package
+
+# Serve API
