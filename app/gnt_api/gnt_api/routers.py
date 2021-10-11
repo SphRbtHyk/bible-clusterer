@@ -4,8 +4,8 @@ available texts.
 """
 from typing import List, Optional
 from fastapi import APIRouter, Query
-from lxx_api.instances import database_instance, lxx_clusterer
-from lxx_api.models import BookList, ClusteringResults, TextList, BookClasses
+from gnt_api.instances import database_instance, gnt_clusterer
+from gnt_api.models import BookList, ClusteringResults, TextList, BookClasses
 
 router = APIRouter()
 
@@ -38,7 +38,8 @@ async def post_clusterize(book: Optional[List[str]] = Query([])):
         text_names.append(book_data["book"])
     # Get the corresponding ground truth group
     ground_truth = await database_instance.get_book_class(text_names)
-    return lxx_clusterer.pipeline(text_corpus=text_corpus,
+    print(ground_truth)
+    return gnt_clusterer.pipeline(text_corpus=text_corpus,
                                   names=text_names,
                                   n_clusters=10,
                                   ground_truth=ground_truth)

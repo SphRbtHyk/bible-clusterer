@@ -5,12 +5,12 @@ from sklearn.decomposition import PCA
 from sklearn.cluster import KMeans
 from sklearn.feature_extraction.text import TfidfVectorizer
 
-from lxx_nlp_utils import STOP_WORDS
+from gnt_nlp_utils import STOP_WORDS
 
 
-class LXXClusterer:
+class GNTClusterer:
     """
-    Class to perform the clustering of LXX data, using the following workflow:
+    Class to perform the clustering of gnt data, using the following workflow:
 
     - Remove stop words from text
     - Perform tf-idf transformation using sklearn
@@ -120,7 +120,6 @@ class LXXClusterer:
         # Cluster data
         clustered_data = self.clusterize(
             reduced_vectorized_matrix, name=names, n_cluster=n_clusters, ground_truth=ground_truth)
-        print(clustered_data)
         # Perform final transformation
         data_3D = pd.DataFrame(self.reduce(
             reduced_vectorized_matrix, dimension=3))

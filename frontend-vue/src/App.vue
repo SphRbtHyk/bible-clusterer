@@ -2,7 +2,7 @@
   <b-container>
     <b-row class="text-center mb-4">
       <b-col>
-        <h1>LXX New Testament book projecter</h1>
+        <h1>SBL Greek New Testament book projecter</h1>
         <div>
           <!-- Using modifiers -->
           <b-button v-b-modal.info-modal>?</b-button>

@@ -15,7 +15,7 @@ class MongoConnector:
         - Send the data from the database
     """
 
-    def __init__(self, mongo_database: str = "lxx", mongo_host: str = "localhost", mongo_port: int = 27017) -> None:
+    def __init__(self, mongo_database: str = "gnt", mongo_host: str = "localhost", mongo_port: int = 27017) -> None:
         """
         Initializes an object of class DataBaseFiller, using the information of the
         mongo database.
@@ -48,7 +48,7 @@ class MongoConnector:
             host=self.mongo_host, port=self.mongo_port
         )
         self.async_db = self.async_client[self.mongo_database]
-        self.texts = self.async_db["LXXText"]
+        self.texts = self.async_db["GNTText"]
         self.booklists = self.async_db["BookList"]
         self.bookclasses = self.async_db["BookClasses"]
         self.server_info = await self.async_client.server_info()
@@ -123,7 +123,7 @@ class MongoConnector:
 
     def write_text(self, book_data: List) -> None:
         """
-        Overwrite the collection LXXText to write down the textual
+        Overwrite the collection GNTText to write down the textual
         data available for each book.
         """
         # Drop existing data

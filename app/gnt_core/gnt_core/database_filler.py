@@ -3,7 +3,7 @@ Python module to fill up the database with the data available in the data/ folde
 """
 from pathlib import Path
 from loguru import logger
-from lxx_core.database import MongoConnector
+from gnt_core.database import MongoConnector
 import asyncio
 
 
@@ -14,7 +14,7 @@ class DataBaseFiller:
     Should only be run once upon install of the application on the system.
     """
 
-    def __init__(self, mongo_database: str = "lxx", mongo_host: str = "localhost", mongo_port: int = 27017) -> None:
+    def __init__(self, mongo_database: str = "gnt", mongo_host: str = "localhost", mongo_port: int = 27017) -> None:
         """
         Initializes an object of class DataBaseFiller, using the information of the
         mongo database.
@@ -37,7 +37,7 @@ class DataBaseFiller:
     def load_json(self, input_folder: str = "data/sblgnt/") -> None:
         """
         Load the JSON files into a list of Python dictionary using encoding
-        adapted to the LXX. The only loaded text is the lemmed and stemmed
+        adapted to the gnt. The only loaded text is the lemmed and stemmed
         words, as only these will be considered whenever performing the
         clustering.
 
@@ -83,7 +83,7 @@ class DataBaseFiller:
 
     def write_texts(self) -> None:
         """
-        Overwrite the collection LXXText to write down the textual
+        Overwrite the collection GNTText to write down the textual
         data available for each book.
         """
         self.database_instance.write_text(self.texts)
@@ -104,8 +104,9 @@ if __name__ == "__main__":
     # TODO: parse variable from environment
     MONGO_HOST = "localhost"
     MONGO_PORT = 27017
+    MONGO_DATABASE = 'gnt'
     # Create the database filler object
-    filler = DataBaseFiller(mongo_host=MONGO_HOST, mongo_port=MONGO_PORT)
+    filler = DataBaseFiller(mongo_database=MONGO_DATABASE, mongo_host=MONGO_HOST, mongo_port=MONGO_PORT)
     # Fill up database
     loop = asyncio.get_event_loop()
     loop.run_until_complete(filler.main())

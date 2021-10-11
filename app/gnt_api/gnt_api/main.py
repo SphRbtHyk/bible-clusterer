@@ -2,14 +2,14 @@
 
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
-from lxx_api.instances import database_instance
-from lxx_api.routers import router
+from gnt_api.instances import database_instance
+from gnt_api.routers import router
 
 
 app = FastAPI(
-    title="LXX clusterer API",
+    title="gnt clusterer API",
     version="1.0.0",
-    description="A REST API to interact with the lxx data",
+    description="A REST API to interact with the gnt data",
 )
 
 

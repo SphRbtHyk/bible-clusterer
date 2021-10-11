@@ -14,12 +14,12 @@ COPY . /app
 
 # Install packages
 RUN cd /app &&
-    python3 -m pip install -r lxx_core/requirements.txt &&
-    python3 -m pip install lxx_core --use-feature=in-tree-build &&
-    python3 -m pip install -r lxx_nlp_utils/requirements.txt &&
-    python3 -m pip install lxx_nlp_utils --use-feature=in-tree-build &&
-    python3 -m pip install -r lxx_api/external-requirements.txt
-    python3 -m pip install -r lxx_api --use-feature=in-tree-build
+    python3 -m pip install -r gnt_core/requirements.txt &&
+    python3 -m pip install gnt_core --use-feature=in-tree-build &&
+    python3 -m pip install -r gnt_nlp_utils/requirements.txt &&
+    python3 -m pip install gnt_nlp_utils --use-feature=in-tree-build &&
+    python3 -m pip install -r gnt_api/external-requirements.txt
+    python3 -m pip install -r gnt_api --use-feature=in-tree-build
 
 # Serve API
-CMD ["python", "-m", "uvicorn", "lxx_api.main:app --port 8000 --host 0.0.0.0]
+CMD ["python", "-m", "uvicorn", "gnt_api.main:app --port 8000 --host 0.0.0.0]
