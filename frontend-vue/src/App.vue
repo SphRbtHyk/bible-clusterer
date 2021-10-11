@@ -28,7 +28,7 @@
           class="mx-auto"
           :disabled="selectedList.length < 3"
           v-on:click="launchClustering"
-          >Clusterize</b-button
+          >Project</b-button
         >
       </b-col>
       <b-col md="8" v-if="isProjection">
