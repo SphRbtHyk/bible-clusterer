@@ -6,6 +6,6 @@ setup(name='gnt-core',
       author='Sophie Robert',
       find_packages=find_packages(),
       entry_points = {
-        'console_scripts': ['fill_database=gnt_core.database_filler:main'],
+        'console_scripts': ['fill_database=gnt_core.database_filler:fill'],
     }
       )

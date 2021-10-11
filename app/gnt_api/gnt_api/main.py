@@ -15,6 +15,7 @@ app = FastAPI(
 
 @app.on_event("startup")
 async def startup():
+    # Connect to database
     await database_instance.connect()
     print("Connected mongo database")
 
