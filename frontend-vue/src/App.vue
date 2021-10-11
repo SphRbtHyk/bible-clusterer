@@ -78,7 +78,7 @@ export default {
   },
   mounted() {
     this.axios
-      .get("http://app.lxx.quest/api/bookclasses")
+      .get("http://app.lxx.quest/bookclasses")
       .then((response) => {
         this.booksList = response.data;
       })
@@ -91,7 +91,7 @@ export default {
       if (this.selectedList.length > 0) {
         console.log(this.selectedList);
         this.axios
-          .post("http://app.lxx.quest/api/clusterize?", null, {
+          .post("http://app.lxx.quest/clusterize?", null, {
             params: { book: this.selectedList },
             paramsSerializer: (params) => {
               return qs.stringify(params, { arrayFormat: "repeat" });
