@@ -12,7 +12,7 @@
     </p>
     <h5>Method</h5>
     <p>
-      The application performs a <a href="https://en.wikipedia.org/wiki/Tf%E2%80%93idf">tf-idf vectorization</a> of the selected LXX texts,
+      The application performs a <a href="https://en.wikipedia.org/wiki/Tf%E2%80%93idf">tf-idf vectorization</a> of the selected SBLGNT texts,
       and then projects this data into a 3-Dimensional vizualization space using <a href="https://en.wikipedia.org/wiki/Principal_component_analysis">Principal Component Analysis</a>.
     </p>
     <h5>Coming later</h5>
