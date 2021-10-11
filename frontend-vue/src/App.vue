@@ -47,6 +47,9 @@ var qs = require("qs");
 
 export default {
   name: "App",
+  created() {
+    document.title = "SBG New Testament projecter";
+  },
   components: { Checkboxes, ProjectionGraph, InfoButton },
   data() {
     return {
