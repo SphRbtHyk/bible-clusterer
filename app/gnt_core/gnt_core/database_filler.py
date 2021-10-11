@@ -35,7 +35,7 @@ class DataBaseFiller:
         """
         await self.database_instance.connect()
 
-    def load_json(self, input_folder: str = "data/sblgnt/") -> None:
+    def load_json(self, input_folder: str = "../data/sblgnt/") -> None:
         """
         Load the JSON files into a list of Python dictionary using encoding
         adapted to the gnt. The only loaded text is the lemmed and stemmed
@@ -46,7 +46,8 @@ class DataBaseFiller:
             input_folder (str): Folder to find the data in
         """
         # Load the greek text
-        for file in Path(input_folder).glob("*.txt"):
+        for file in Path(Path(__file__).resolve().parent / input_folder).glob("*.txt"):
+            logger.info(f"--- Writting down text found in files: {file} ---")
             book = file.name.split("-")[1]
             split_text = file.read_text(encoding="utf8").split("\n")
             text = ""
