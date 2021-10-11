@@ -23,7 +23,6 @@
           name="booklist"
           class="ml-4"
           aria-label="Individual booklist"
-          stacked
         ></b-form-checkbox-group>
       </template>
     </b-form-group>

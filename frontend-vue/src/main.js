@@ -1,5 +1,11 @@
 import App from "./App.vue";
 import Vue from "vue";
+// Load AXIOS
+import axios from "axios";
+import VueAxios from "vue-axios";
+Vue.use(VueAxios, axios);
+
+// Load Boostrap
 import { BootstrapVue, IconsPlugin } from "bootstrap-vue";
 
 // Make BootstrapVue available throughout your project
