@@ -13,7 +13,7 @@
         </div>
       </b-col>
     </b-row>
-    <b-row fluid>
+    <b-row>
       <b-col class="jumbotron" md="4" :offset="isProjection ? 0 : 4">
         <b>Select NT books:</b><br />
 

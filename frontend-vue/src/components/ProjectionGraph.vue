@@ -32,7 +32,7 @@ export default {
 <style scoped>
 .js-plotly-plot,
 .plot-container {
-  height: 90vh;
+  height: 80vh;
   width: 100%;
   padding: 0;
 }
