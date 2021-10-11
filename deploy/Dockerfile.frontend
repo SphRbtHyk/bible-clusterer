@@ -23,3 +23,6 @@ RUN npm run build
 
 # Bind to correct host
 ENV HOST 0.0.0.0
+
+# Run serving command
+CMD ["npm", "run", "start"]
