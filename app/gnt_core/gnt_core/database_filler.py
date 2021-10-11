@@ -100,7 +100,7 @@ class DataBaseFiller:
         self.write_book_classes()
         self.write_texts()
 
-def main():
+def fill():
     """
     Main function to fill database
     """
@@ -115,4 +115,4 @@ def main():
 
 
 if __name__ == '__main__':
-    main()
+    fill()
