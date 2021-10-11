@@ -3,6 +3,7 @@ Python module to fill up the database with the data available in the data/ folde
 """
 from pathlib import Path
 from loguru import logger
+import os
 from gnt_core.database import MongoConnector
 import asyncio
 
@@ -99,12 +100,13 @@ class DataBaseFiller:
         self.write_book_classes()
         self.write_texts()
 
-
-if __name__ == "__main__":
-    # TODO: parse variable from environment
-    MONGO_HOST = "localhost"
-    MONGO_PORT = 27017
-    MONGO_DATABASE = 'gnt'
+def main():
+    """
+    Main function to fill database
+    """
+    MONGO_HOST = os.environ["GNT_MONGODB_HOST"] if "GNT_MONGODB_HOST" in os.environ else "localhost"
+    MONGO_PORT = os.environ["GNT_MONGODB_PORT"] if "GNT_MONGODB_PORT" in os.environ else 27017
+    MONGO_DATABASE = os.environ["GNT_MONGODB_DATABASE"] if "GNT_MONGODB_DATABASE" in os.environ else "gnt"
     # Create the database filler object
     filler = DataBaseFiller(mongo_database=MONGO_DATABASE, mongo_host=MONGO_HOST, mongo_port=MONGO_PORT)
     # Fill up database
