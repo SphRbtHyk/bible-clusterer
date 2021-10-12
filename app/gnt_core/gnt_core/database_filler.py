@@ -76,7 +76,8 @@ class DataBaseFiller:
             {"group": "Pastoral", "books": ["1Ti", "2Ti", "Tit"]},
             {"group": "Gospels", "books": ["Jn", "Mk", "Lk", "Mt"]},
             {"group": "Other", "books": [
-                "Ac", "Re", "1Pe", "2Pe", "Jas", "Jud", "Heb"]}
+                "Ac", "Re", "1Pe", "2Pe", "Jas", "Jud", "Heb"]},
+            {"group": "Johannine", "books": ["1Jn", "2Jn", "3Jn"]}
         ]
         self.database_instance.write_book_classes(
             book_classes

@@ -59,6 +59,7 @@ export default {
         Pauline: [],
         Pastoral: [],
         "Deutero-Pauline": [],
+        Johannine: [],
         Other: [],
       },
       booksList: [],
