@@ -21,7 +21,7 @@
           :options="booklist"
           :aria-describedby="ariaDescribedby"
           name="booklist"
-          class="ml-4"
+          style="column-count: 3;"
           aria-label="Individual booklist"
         ></b-form-checkbox-group>
       </template>

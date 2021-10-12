@@ -1,8 +1,8 @@
 <template>
-  <b-container>
+  <b-container fluid>
     <b-row class="text-center mb-4">
       <b-col>
-        <h1>SBL Greek New Testament book projecter</h1>
+        <h1>LXX and SBLGNT book projecter</h1>
         <div>
           <!-- Using modifiers -->
           <b-button v-b-modal.info-modal>?</b-button>
@@ -14,24 +14,45 @@
       </b-col>
     </b-row>
     <b-row>
-      <b-col class="jumbotron" md="4" :offset="isProjection ? 0 : 4">
-        <b>Select NT books:</b><br />
+      <b-col
+        class="jumbotron"
+        :md="isProjection ? 4 : 6"
+        :offset="isProjection ? 1 : 3"
+      >
+        <b-row>
+          <b-col md="6">
+            <b>Select NT books:</b><br />
 
-        <Checkboxes
-          v-for="books in booksList"
-          :key="books.group"
-          :booklist="books.books"
-          :bookgroup="books.group"
-          :model="selected"
-        />
-        <b-button
-          class="mx-auto"
-          :disabled="selectedList.length < 3"
-          v-on:click="launchClustering"
-          >Project</b-button
-        >
+            <Checkboxes
+              v-for="books in booksListNT"
+              :key="books.group"
+              :booklist="books.books"
+              :bookgroup="books.group"
+              :model="selected"
+            />
+          </b-col>
+          <b-col md="6">
+            <b>Select OT books:</b><br />
+
+            <Checkboxes
+              v-for="books in booksListOT"
+              :key="books.group"
+              :booklist="books.books"
+              :bookgroup="books.group"
+              :model="selected"
+            />
+          </b-col>
+        </b-row>
+        <b-row class="text-center">
+          <b-button
+            class="mx-auto"
+            :disabled="selectedList.length < 3"
+            v-on:click="launchClustering"
+            >Project</b-button
+          >
+        </b-row>
       </b-col>
-      <b-col md="8" v-if="isProjection">
+      <b-col md="7" v-if="isProjection">
         <ProjectionGraph :data="projectionsList" />
       </b-col>
       <b-col class="text-center" v-else> </b-col>
@@ -60,9 +81,14 @@ export default {
         Pastoral: [],
         "Deutero-Pauline": [],
         Johannine: [],
-        Other: [],
+        "Other epistles": [],
+        History: [],
+        Prophets: [],
+        Law: [],
+        Wisdom: [],
       },
-      booksList: [],
+      booksListNT: [],
+      booksListOT: [],
       projectionsList: [],
     };
   },
@@ -82,9 +108,17 @@ export default {
   },
   mounted() {
     this.axios
-      .get("https://app.lxx.quest/api/bookclasses")
+      .get("http://localhost:8000/bookclasses/nt")
       .then((response) => {
-        this.booksList = response.data;
+        this.booksListNT = response.data;
+      })
+      .catch((error) => {
+        console.log(error);
+      });
+    this.axios
+      .get("http://localhost:8000/bookclasses/ot")
+      .then((response) => {
+        this.booksListOT = response.data;
       })
       .catch((error) => {
         console.log(error);
@@ -95,7 +129,7 @@ export default {
       if (this.selectedList.length > 0) {
         console.log(this.selectedList);
         this.axios
-          .post("https://app.lxx.quest/api/clusterize?", null, {
+          .post("http://localhost:8000/clusterize?", null, {
             params: { book: this.selectedList },
             paramsSerializer: (params) => {
               return qs.stringify(params, { arrayFormat: "repeat" });
