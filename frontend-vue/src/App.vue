@@ -69,7 +69,7 @@ var qs = require("qs");
 export default {
   name: "App",
   created() {
-    document.title = "SBG New Testament projecter";
+    document.title = "Bible projecter";
   },
   components: { Checkboxes, ProjectionGraph, InfoButton },
   data() {
@@ -108,7 +108,7 @@ export default {
   },
   mounted() {
     this.axios
-      .get("http://localhost:8000/bookclasses/nt")
+      .get("https://app.lxx.quest/api/bookclasses/nt")
       .then((response) => {
         this.booksListNT = response.data;
       })
@@ -116,7 +116,7 @@ export default {
         console.log(error);
       });
     this.axios
-      .get("http://localhost:8000/bookclasses/ot")
+      .get("https://app.lxx.quest/api/bookclasses/ot")
       .then((response) => {
         this.booksListOT = response.data;
       })
@@ -129,7 +129,7 @@ export default {
       if (this.selectedList.length > 0) {
         console.log(this.selectedList);
         this.axios
-          .post("http://localhost:8000/clusterize?", null, {
+          .post("https://app.lxx.quest/api/clusterize?", null, {
             params: { book: this.selectedList },
             paramsSerializer: (params) => {
               return qs.stringify(params, { arrayFormat: "repeat" });
