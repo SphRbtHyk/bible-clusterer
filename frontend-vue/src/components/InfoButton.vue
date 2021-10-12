@@ -3,12 +3,13 @@
     <h5>Goal</h5>
     <p>
       The goal of this small application is to quickly vizualize textual
-      similarities between the SBL Greek New Testament texts.
+      similarities between the Bible books, respectively taken from the LXX and the SBLGNT texts.
     </p>
       <h5>Data</h5>
     <p>
       All of the data used for clustering is taken from the SBLGNT morphological
-      tagging made available <a href="https://github.com/morphgnt/sblgnt">here</a> (warmest of thanks !)
+      tagging made available <a href="https://github.com/morphgnt/sblgnt">here</a> for the SBLGNT and from
+      <a href="https://github.com/openscriptures/GreekResources/tree/master/LxxLemmas">here</a> for the LXX. Warmest of thanks to all those who have made this data freely available.
     </p>
     <h5>Method</h5>
     <p>

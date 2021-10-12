@@ -50,7 +50,8 @@ class MongoConnector:
         self.async_db = self.async_client[self.mongo_database]
         self.texts = self.async_db["GNTText"]
         self.booklists = self.async_db["BookList"]
-        self.bookclasses = self.async_db["BookClasses"]
+        self.bookclasses_nt = self.async_db["BookClassesNT"]
+        self.bookclasses_ot = self.async_db["BookClassesOT"]
         self.server_info = await self.async_client.server_info()
         logger.info(
             "Connected to mongodb server version {0}"
@@ -74,12 +75,28 @@ class MongoConnector:
         booklist = self.booklists.find({}, {"_id": 0})
         return await booklist.to_list(length=27)
 
+    async def get_book_classes_nt(self) -> Dict[str, List[str]]:
+        """
+        Get all of the books stored into the collection BookList.
+        """
+        booklist = self.bookclasses_nt.find({}, {"_id": 0})
+        return await booklist.to_list(length=70)
+
+    async def get_book_classes_ot(self) -> Dict[str, List[str]]:
+        """
+        Get all of the books stored into the collection BookList.
+        """
+        booklist = self.bookclasses_ot.find({}, {"_id": 0})
+        return await booklist.to_list(length=70)
+
     async def get_book_classes(self) -> Dict[str, List[str]]:
         """
         Get all of the books stored into the collection BookList.
         """
-        booklist = self.bookclasses.find({}, {"_id": 0})
-        return await booklist.to_list(length=27)
+        ot_classes = await self.bookclasses_ot.find({}, {"_id": 0}).to_list(length=70)
+        nt_classes = await self.bookclasses_nt.find({}, {"_id": 0}).to_list(length=27)
+        all_classes = ot_classes + nt_classes
+        return all_classes
 
     async def get_book_class(self, book_list: List[str]) -> List[str]:
         """
@@ -131,12 +148,15 @@ class MongoConnector:
         # Add new data
         self.texts.insert_many(book_data)
 
-    def write_book_classes(self, book_classes: List[Dict[str, List[str]]]) -> None:
+    def write_book_classes(self, book_classes_nt: List[Dict[str, List[str]]], 
+                                 book_classes_ot: List[Dict[str, List[str]]]) -> None:
         """
         Overwrite the collection BookClass to write down the textual data 
         and the corresponding values.
         """
         # Drop existing data
-        self.bookclasses.drop()
+        self.bookclasses_nt.drop()
+        self.bookclasses_ot.drop()
         # Add new data
-        self.bookclasses.insert_many(book_classes)
+        self.bookclasses_nt.insert_many(book_classes_nt)
+        self.bookclasses_ot.insert_many(book_classes_ot)

@@ -19,6 +19,13 @@ async def get_book_list():
 async def get_book_list():
     return await database_instance.get_book_classes()
 
+@router.get("/bookclasses/nt", response_model=List[BookClasses])
+async def get_book_list():
+    return await database_instance.get_book_classes_nt()
+
+@router.get("/bookclasses/ot", response_model=List[BookClasses])
+async def get_book_list():
+    return await database_instance.get_book_classes_ot()
 
 @router.get("/texts", response_model=List[TextList])
 async def get_book_text(q: Optional[List[str]] = Query([])):
@@ -38,7 +45,6 @@ async def post_clusterize(book: Optional[List[str]] = Query([])):
         text_names.append(book_data["book"])
     # Get the corresponding ground truth group
     ground_truth = await database_instance.get_book_class(text_names)
-    print(ground_truth)
     return gnt_clusterer.pipeline(text_corpus=text_corpus,
                                   names=text_names,
                                   n_clusters=10,

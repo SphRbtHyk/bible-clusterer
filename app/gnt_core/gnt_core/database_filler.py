@@ -6,6 +6,7 @@ from loguru import logger
 import os
 from gnt_core.database import MongoConnector
 import asyncio
+import json
 
 
 class DataBaseFiller:
@@ -35,9 +36,9 @@ class DataBaseFiller:
         """
         await self.database_instance.connect()
 
-    def load_json(self, input_folder: str = "../data/sblgnt/") -> None:
+    def load_sblgnt(self, input_folder: str = "../data/sblgnt/") -> None:
         """
-        Load the JSON files into a list of Python dictionary using encoding
+        Load the SBLGNT JSON files into a list of Python dictionary using encoding
         adapted to the gnt. The only loaded text is the lemmed and stemmed
         words, as only these will be considered whenever performing the
         clustering.
@@ -56,6 +57,34 @@ class DataBaseFiller:
                     word = line.split(" ")[-1]
                     text += word + " "
             self.texts.append({"book": book, "text": text})
+    
+    def load_lxx(self, input_folder: str = "../data/lxx/") -> None:
+            """
+            Load the LXX JSON files into a list of Python dictionary using encoding
+            adapted to the text. The only loaded text is the lemmed and stemmed
+            words, as only these will be considered whenever performing the
+            clustering.
+
+            Args:
+                input_folder (str): Folder to find the data in
+            """
+            # Load the greek text
+            for file in Path(Path(__file__).resolve().parent / input_folder).glob("*.js"):
+                logger.info(f"--- Writting down text found in files: {file} ---")
+                book = file.name.split(".")[0]
+                opened_file = json.loads(file.read_text("utf-8"))
+                text = ""
+                for _, verses in opened_file.items():
+                    for words in verses:
+                        text += words["lemma"] + " "
+                self.texts.append({"book": book, "text": text})
+
+    def load_json(self):
+        """
+        Load OT and NT texts.
+        """
+        self.load_sblgnt()
+        self.load_lxx()
 
     def write_booklist(self) -> None:
         """
@@ -69,18 +98,29 @@ class DataBaseFiller:
         """
         Write the bookclasses in the mongo collection.
         """
-        book_classes = [
+        book_classes_nt = [
             {"group": "Pauline", "books":  [
                 "Ga", "Php", "1Th", "Phm", "Ro", "2Co", "1Co"]},
             {"group": "Deutero-Pauline", "books": ["Eph", "Col", "2Th"]},
             {"group": "Pastoral", "books": ["1Ti", "2Ti", "Tit"]},
             {"group": "Gospels", "books": ["Jn", "Mk", "Lk", "Mt"]},
-            {"group": "Other", "books": [
+            {"group": "Other epistles", "books": [
                 "Ac", "Re", "1Pe", "2Pe", "Jas", "Jud", "Heb"]},
-            {"group": "Johannine", "books": ["1Jn", "2Jn", "3Jn"]}
+            {"group": "Johannine", "books": ["1Jn", "2Jn", "3Jn"]}]
+        book_classes_ot = [
+            {"group": "Law", "books": ["Gen", "Exod", "Lev", "Num", "Deut"]},
+            {"group": "History", "books": ["JoshA", "JoshB", "JudgA", 
+            "JudgB", "1Kgs", "2Kgs", "1Sam", "2Sam", "1Chr", "2Chr", "1Esd",
+            "TobBA","TobS", "Esth", "1Macc", "2Macc", "3Macc"]},
+            {"group": "Wisdom", "books": ["Ps", "PsSol", "Job", "Prov", "Eccl",
+            "Wis", "Sira", "Song"]},
+            {"group": "Prophets", "books": ["Hos", "Amos", "Mic",
+            "Joel", "Obad", "Jonah", "Nah", "Hab",
+            "Zeph", "Zec", "Mal", "Isa", "Jer", "Bar", "Lam", "Ezek", "DanOG", "DanTh"]}
         ]
         self.database_instance.write_book_classes(
-            book_classes
+            book_classes_nt=book_classes_nt,
+            book_classes_ot=book_classes_ot
         )
         logger.info("Successfully wrote book classes")
 
