@@ -3,7 +3,7 @@
     <h5>Goal</h5>
     <p>
       The goal of this small application is to quickly vizualize textual
-      similarities between the Bible books, respectively taken from the LXX and the SBLGNT texts.
+      similarities between the Bible books and its different chapters, respectively taken from the LXX and the SBLGNT texts.
     </p>
       <h5>Data</h5>
     <p>
