@@ -3,14 +3,6 @@
     <b-row class="text-center" align="vertical">
       <b-col>
         <h1>Welcome to the Greek Bible analyzer !</h1>
-        <div>
-          <!-- Using modifiers -->
-          <b-button v-b-modal.info-modal>?</b-button>
-          <!-- The modal -->
-          <b-modal id="info-modal" title="About this project">
-            <InfoButton />
-          </b-modal>
-        </div>
       </b-col>
     </b-row>
     <b-row class="text-center mt-5">
@@ -29,11 +21,10 @@
 
 <script>
 import MenuBox from "../components/MenuBox";
-import InfoButton from "../components/InfoButton.vue";
 
 export default {
   name: "HomePage",
-  components: { MenuBox, InfoButton },
+  components: { MenuBox },
   data() {
     return {
       menuBoxes: [

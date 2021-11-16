@@ -1,6 +1,12 @@
 <template>
-  <b-container fluid>
-    <b-row class="text-center mb-4"> <router-view></router-view>> </b-row>
+  <b-col>
+    <router-view></router-view>
+    <b-row>
+      <b-col md="4" class="text-center" offset="4">
+        Select up to 4 books, in order to check the similarities between each of
+        their chapters, through a PCA projection of their tf-idf similarities.
+      </b-col></b-row
+    >
     <b-row>
       <b-col
         class="jumbotron"
@@ -25,6 +31,7 @@
             class="mx-auto"
             :disabled="selectedList.length > 3"
             v-on:click="launchClustering"
+            variant="danger"
             >Project</b-button
           >
         </b-row>
@@ -34,7 +41,7 @@
       </b-col>
       <b-col class="text-center" v-else> </b-col>
     </b-row>
-  </b-container>
+  </b-col>
 </template>
 
 <script>

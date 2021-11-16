@@ -1,18 +1,12 @@
 <template>
-  <b-container fluid>
-    <b-row class="text-center mb-4">
-      <router-view></router-view>
-      <b-col>
-        <div>
-          <!-- Using modifiers -->
-          <b-button v-b-modal.info-modal>?</b-button>
-          <!-- The modal -->
-          <b-modal id="info-modal" title="About this project">
-            <InfoButton />
-          </b-modal>
-        </div>
-      </b-col>
-    </b-row>
+  <b-col>
+    <router-view></router-view>
+    <b-row>
+      <b-col md="4" class="text-center" offset="4">
+        Select up at least 3 books, in order to check the similarities between
+        their vocabulary, through a PCA projection of their tf-idf similarities.
+      </b-col></b-row
+    >
     <b-row>
       <b-col
         class="jumbotron"
@@ -48,6 +42,7 @@
             class="mx-auto"
             :disabled="selectedList.length < 3"
             v-on:click="launchClustering"
+            variant="danger"
             >Project</b-button
           >
         </b-row>
@@ -57,13 +52,12 @@
       </b-col>
       <b-col class="text-center" v-else> </b-col>
     </b-row>
-  </b-container>
+  </b-col>
 </template>
 
 <script>
 import Checkboxes from "../components/Checkboxes.vue";
 import ProjectionGraph from "../components/ProjectionGraph.vue";
-import InfoButton from "../components/InfoButton.vue";
 var qs = require("qs");
 
 export default {
@@ -71,7 +65,7 @@ export default {
   created() {
     document.title = "Bible projecter";
   },
-  components: { Checkboxes, ProjectionGraph, InfoButton },
+  components: { Checkboxes, ProjectionGraph },
   data() {
     return {
       projections: {},

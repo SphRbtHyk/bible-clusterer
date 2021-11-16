@@ -1,18 +1,22 @@
 <template>
-  <div>
-    <h1>Project chapters within books</h1>
-    <b-col>
-      <div>
-        <!-- Using modifiers -->
-        <b-button v-b-modal.info-modal>?</b-button>
-        <!-- The modal -->
-        <b-modal id="info-modal" title="About this project">
-          <InfoButton />
-        </b-modal>
-      </div>
-    </b-col>
+  <b-container fluid>
+    <div>
+      <b-navbar toggleable="lg" type="dark" variant="info">
+        <b-navbar-brand href="#">Bible projecter</b-navbar-brand>
+
+        <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
+
+        <b-collapse id="nav-collapse" is-nav>
+          <b-navbar-nav fill>
+            <b-nav-item href="/books">Book level</b-nav-item>
+            <b-nav-item href="/chapters">Chapter level</b-nav-item>
+            <b-nav-item href="/about">About this project</b-nav-item>
+          </b-navbar-nav>
+        </b-collapse>
+      </b-navbar>
+    </div>
     <router-view />
-  </div>
+  </b-container>
 </template>
 
 <script>

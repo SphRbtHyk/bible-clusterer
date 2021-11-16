@@ -33,6 +33,7 @@ const routes = [
     component: () => import("./pages/ChapterProjector.vue"),
   },
   { path: "/", component: () => import("./pages/HomePage.vue") },
+  { path: "/about", component: () => import("./pages/About.vue") },
 ];
 // Create router
 const router = new VueRouter({
