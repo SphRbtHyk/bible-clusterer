@@ -37,6 +37,14 @@ class TextChapter(BaseModel):
     chapters: Dict[str, str]
 
 
+class TextVerses(BaseModel):
+    """
+    Model class representing the data displayed on a per chapter basis.
+    """
+    book: str
+    verses: Dict[str, Dict[str, str]]
+
+
 class ClusteringResults(BaseModel):
     """
     Model class representing results associated with a clustering processing.

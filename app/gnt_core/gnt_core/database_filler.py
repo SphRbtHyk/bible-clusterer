@@ -84,6 +84,39 @@ class DataBaseFiller:
                     except KeyError:
                         texts[chapter_ix] = parsed_text[-1]
             self.texts_chapter.append({"book": book, "chapters": texts})
+
+    def load_sbglnt_verses(self, input_folder: str = "../data/sblgnt/") -> None:
+        """
+        Load the SBLGNT JSON files into a list of Python dictionary on
+        a per verse basis using encoding
+        adapted to the gnt. The only loaded text is the lemmed and stemmed
+        words, as only these will be considered whenever performing the
+        clustering.
+
+        Args:
+            input_folder (str): Folder to find the data in
+        """
+        for file in Path(Path(__file__).resolve().parent / input_folder).glob("*.txt"):   
+            book = file.name.split("-")[1]
+            split_text = file.read_text(encoding="utf8").split("\n")
+            text = {}
+            for texts in split_text:
+                parsed_text = texts.split(" ")
+                if parsed_text[0]:
+                    chapter_ix = str(int(parsed_text[0][2:4]))
+                    verse_ix = str(int(parsed_text[0][4:6]))
+                    # Check if chapter already exists
+                    try:
+                        text[chapter_ix]
+                    # If it doesn't, fill it with an empty dictionary
+                    except KeyError:
+                        text[chapter_ix] = {}
+                    # Else, fill it with content
+                    try:
+                        text[chapter_ix][verse_ix] += parsed_text[-1] + " "
+                    except KeyError:
+                        text[chapter_ix][verse_ix] = parsed_text[-1]  
+            self.texts_verses.append({"book": book, "verses": text})
     
     def load_lxx(self, input_folder: str = "../data/lxx/") -> None:
         """
@@ -129,6 +162,36 @@ class DataBaseFiller:
                         text[chapter_ix] = verse_content["lemma"]
             self.texts_chapter.append({"book": book, "chapters": text})
 
+    def load_lxx_verses(self, input_folder: str = "../data/lxx/") -> None:
+        """
+        Load the LXX JSON files into a list of Python dictionary on a per verse basis,
+        using encoding adapted to the text. The only loaded text is the
+        lemmed and stemmed words, as only these will be considered whenever performing the
+        clustering.
+
+        Args:
+            input_folder (str): Folder to find the data in
+        """
+        for file in Path(Path(__file__).resolve().parent / input_folder).glob("*.js"):
+            book = file.name.split(".")[0]
+            opened_file = json.loads(file.read_text("utf-8"))
+            text = {}
+            for verses_nbr, verses in opened_file.items():
+                chapter_ix = verses_nbr.split(".")[1]
+                for verse_content in verses:
+                    verse_ix = verses_nbr.split(".")[2]
+                    # Check if chapter already exists
+                    try:
+                        text[chapter_ix]
+                    # If it doesn't, fill it with an empty dictionary
+                    except KeyError:
+                        text[chapter_ix] = {}
+                    # Else, fill it with content
+                    try:
+                        text[chapter_ix][verse_ix] += verse_content["lemma"] + " "
+                    except KeyError:
+                        text[chapter_ix][verse_ix] = verse_content["lemma"]  
+            self.texts_verses.append({"book": book, "verses": text})
 
     def load_json(self):
         """
@@ -138,6 +201,8 @@ class DataBaseFiller:
         self.load_lxx()
         self.load_lxx_chapters()
         self.load_sbglnt_chapters()
+        self.load_lxx_verses()
+        self.load_sbglnt_verses()
 
     def write_booklist(self) -> None:
         """
@@ -187,11 +252,19 @@ class DataBaseFiller:
 
     def write_chapters(self) -> None:
         """
-        Overwrite the collection GNTText to write down the textual
+        Overwrite the collection Chapters to write down the textual
         data available for each book.
         """
         self.database_instance.write_chapters(self.texts_chapter)
         logger.info("Successfully wrote text content separated as a chapter.")
+
+    def write_verses(self) -> None:
+        """
+        Overwrite the collection Verses to write down the textual
+        data available for each book.
+        """
+        self.database_instance.write_verses(self.texts_verses)
+        logger.info("Successfully wrote text content separated in verses.")
 
     async def main(self) -> None:
         """
@@ -203,6 +276,8 @@ class DataBaseFiller:
         self.write_book_classes()
         self.write_texts()
         self.write_chapters()
+        self.write_verses()
+
 
 def fill():
     """

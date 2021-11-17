@@ -50,6 +50,7 @@ class MongoConnector:
         self.async_db = self.async_client[self.mongo_database]
         self.texts = self.async_db["GNTText"]
         self.chapters = self.async_db["Chapters"]
+        self.verses = self.async_db["Verses"]
         self.booklists = self.async_db["BookList"]
         self.bookclasses_nt = self.async_db["BookClassesNT"]
         self.bookclasses_ot = self.async_db["BookClassesOT"]
@@ -147,6 +148,24 @@ class MongoConnector:
                 {"book": {"$in": text_list}}, {"_id": 0})
         return await collection.to_list(length=1000)
 
+    async def get_verses(self, text_list=Optional[List[str]]) -> List[Dict[str, str]]:
+        """
+        Get the texts specified in text_list. If the argument text_list
+        is set to None, return all the texts in the database.
+
+        Args:
+            text_list (list): The list of texts to fetch from the database.
+
+        Returns:
+            dict: A dictionnary containing the different available texts.
+        """
+        if not text_list:
+            collection = self.verses.find({}, {"_id": 0})
+        else:
+            collection = self.verses.find(
+                {"book": {"$in": text_list}}, {"_id": 0})
+        return await collection.to_list(length=1000)
+
     def write_book_lists(self, book_names: List[str]) -> None:
         """
         Overwrite the collection BookList to write down the list
@@ -175,7 +194,17 @@ class MongoConnector:
         # Drop existing data
         self.chapters.drop()
         # Add new data
-        self.chapters.insert_many(book_data)
+        result = self.chapters.insert_many(book_data)
+
+    def write_verses(self, book_data: List) -> None:
+        """
+        Overwrite the collection Verses to write down the textual
+        data available for each book.
+        """
+        # Drop existing data
+        self.verses.drop()
+        # Add new data
+        self.verses.insert_many(book_data)
 
     def write_book_classes(self, book_classes_nt: List[Dict[str, List[str]]], 
                                  book_classes_ot: List[Dict[str, List[str]]]) -> None:

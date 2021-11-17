@@ -136,7 +136,7 @@ export default {
               value["y"] = value.projection.y;
               value["z"] = value.projection.z;
               value["type"] = "scatter3d";
-              value["text"] = value.ground_truth[0];
+              value["text"] = value.labels;
               value["mode"] = "markers+text";
               value["name"] = value.ground_truth[0];
             });

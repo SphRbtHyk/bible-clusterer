@@ -10,6 +10,7 @@
           <b-navbar-nav fill>
             <b-nav-item href="/books">Book level</b-nav-item>
             <b-nav-item href="/chapters">Chapter level</b-nav-item>
+            <b-nav-item href="/verses">Verse level</b-nav-item>
             <b-nav-item href="/about">About this project</b-nav-item>
           </b-navbar-nav>
         </b-collapse>
