@@ -34,7 +34,7 @@ class TextChapter(BaseModel):
     Model class representing the data displayed on a per chapter basis.
     """
     book: str
-    chapters: List[Dict[str, str]]
+    chapters: Dict[str, str]
 
 
 class ClusteringResults(BaseModel):

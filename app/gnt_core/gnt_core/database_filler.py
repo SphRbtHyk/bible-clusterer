@@ -30,6 +30,7 @@ class DataBaseFiller:
             mongo_database, mongo_host, mongo_port)
         self.texts = list()
         self.texts_chapter = list()
+        self.texts_verses = list()
 
     async def connect(self):
         """
@@ -58,6 +59,31 @@ class DataBaseFiller:
                     word = line.split(" ")[-1]
                     text += word + " "
             self.texts.append({"book": book, "text": text})
+    
+    def load_sbglnt_chapters(self, input_folder: str = "../data/sblgnt/") -> None:
+        """
+        Load the SBLGNT JSON files into a list of Python dictionary on
+        a per chapter basis using encoding
+        adapted to the gnt. The only loaded text is the lemmed and stemmed
+        words, as only these will be considered whenever performing the
+        clustering.
+
+        Args:
+            input_folder (str): Folder to find the data in
+        """
+        for file in Path(Path(__file__).resolve().parent / input_folder).glob("*.txt"):
+            book = file.name.split("-")[1]
+            split_text = file.read_text(encoding="utf8").split("\n")
+            texts = {}
+            for text in split_text:
+                parsed_text = text.split(" ")
+                if parsed_text[0]:
+                    chapter_ix = str(int(parsed_text[0][2:4]))
+                    try:
+                        texts[chapter_ix] += parsed_text[-1] + " "
+                    except KeyError:
+                        texts[chapter_ix] = parsed_text[-1]
+            self.texts_chapter.append({"book": book, "chapters": texts})
     
     def load_lxx(self, input_folder: str = "../data/lxx/") -> None:
         """
@@ -100,8 +126,9 @@ class DataBaseFiller:
                     try:
                         text[chapter_ix] += verse_content["lemma"] + " "
                     except KeyError:
-                        text[chapter_ix] = " "
+                        text[chapter_ix] = verse_content["lemma"]
             self.texts_chapter.append({"book": book, "chapters": text})
+
 
     def load_json(self):
         """
@@ -110,6 +137,7 @@ class DataBaseFiller:
         self.load_sblgnt()
         self.load_lxx()
         self.load_lxx_chapters()
+        self.load_sbglnt_chapters()
 
     def write_booklist(self) -> None:
         """

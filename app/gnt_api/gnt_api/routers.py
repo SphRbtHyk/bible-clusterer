@@ -34,6 +34,7 @@ async def get_book_text(q: Optional[List[str]] = Query([])):
 @router.get("/texts/chapters", response_model=List[TextChapter])
 async def get_book_text(q: Optional[List[str]] = Query([])):
     test = await database_instance.get_chapters(q)
+    print(test[:10])
     return test
 
 @router.post("/clusterize", response_model=List[ClusteringResults])

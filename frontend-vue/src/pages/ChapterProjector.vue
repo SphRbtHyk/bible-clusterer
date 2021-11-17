@@ -14,7 +14,18 @@
         :offset="isProjection ? 1 : 4"
       >
         <b-row>
-          <b-col md="12">
+          <b-col md="6">
+            <b>Select NT books:</b><br />
+
+            <Checkboxes
+              v-for="books in booksListNT"
+              :key="books.group"
+              :booklist="books.books"
+              :bookgroup="books.group"
+              :model="selected"
+            />
+          </b-col>
+          <b-col md="6">
             <b>Select OT books:</b><br />
 
             <Checkboxes
@@ -63,8 +74,15 @@ export default {
         Prophets: [],
         Law: [],
         Wisdom: [],
+        Gospels: [],
+        Pauline: [],
+        Pastoral: [],
+        "Deutero-Pauline": [],
+        Johannine: [],
+        "Other epistles": [],
       },
       booksListOT: [],
+      booksListNT: [],
       projectionsList: [],
     };
   },
@@ -83,6 +101,14 @@ export default {
     },
   },
   mounted() {
+    this.axios
+      .get("https://app.lxx.quest/api/bookclasses/nt")
+      .then((response) => {
+        this.booksListNT = response.data;
+      })
+      .catch((error) => {
+        console.log(error);
+      });
     this.axios
       .get("https://app.lxx.quest/api/bookclasses/ot")
       .then((response) => {

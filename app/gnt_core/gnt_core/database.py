@@ -145,7 +145,7 @@ class MongoConnector:
         else:
             collection = self.chapters.find(
                 {"book": {"$in": text_list}}, {"_id": 0})
-        return await collection.to_list(length=100)
+        return await collection.to_list(length=1000)
 
     def write_book_lists(self, book_names: List[str]) -> None:
         """
