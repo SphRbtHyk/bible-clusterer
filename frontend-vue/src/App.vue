@@ -8,10 +8,14 @@
 
         <b-collapse id="nav-collapse" is-nav>
           <b-navbar-nav fill>
-            <b-nav-item href="/books">Book level</b-nav-item>
-            <b-nav-item href="/chapters">Chapter level</b-nav-item>
-            <b-nav-item href="/verses">Verse level</b-nav-item>
-            <b-nav-item href="/about">About this project</b-nav-item>
+            <b-nav-item><b-link to="books">Book level</b-link></b-nav-item>
+            <b-nav-item>
+              <b-link to="/chapters">Chapter level</b-link></b-nav-item
+            >
+            <b-nav-item> <b-link to="/verses">Verse level</b-link></b-nav-item>
+            <b-nav-item>
+              <b-link to="/about">About this project</b-link></b-nav-item
+            >
           </b-navbar-nav>
         </b-collapse>
       </b-navbar>
@@ -25,3 +29,13 @@ export default {
   name: "App",
 };
 </script>
+
+<style>
+.nav-item.nav-item.nav-item a a {
+  color: white;
+}
+
+hover .nav-item.nav-item.nav-item a a:hover {
+  color: blue;
+}
+</style>
