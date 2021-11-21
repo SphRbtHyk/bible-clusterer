@@ -10,8 +10,8 @@
     <b-row>
       <b-col
         class="jumbotron"
-        :md="isProjection ? 4 : 4"
-        :offset="isProjection ? 1 : 4"
+        :md="isProjection ? 4 : 6"
+        :offset="isProjection ? 1 : 3"
       >
         <b-row>
           <b-col md="6">
@@ -40,7 +40,7 @@
         <b-row class="text-center">
           <b-button
             class="mx-auto"
-            :disabled="selectedList.length > 3"
+            :disabled="selectedList.length > 14"
             v-on:click="launchClustering"
             variant="danger"
             >Project</b-button

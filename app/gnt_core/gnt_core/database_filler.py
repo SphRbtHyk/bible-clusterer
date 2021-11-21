@@ -82,7 +82,7 @@ class DataBaseFiller:
                     try:
                         texts[chapter_ix] += parsed_text[-1] + " "
                     except KeyError:
-                        texts[chapter_ix] = parsed_text[-1]
+                        texts[chapter_ix] = parsed_text[-1] + " "
             self.texts_chapter.append({"book": book, "chapters": texts})
 
     def load_sbglnt_verses(self, input_folder: str = "../data/sblgnt/") -> None:
@@ -115,7 +115,7 @@ class DataBaseFiller:
                     try:
                         text[chapter_ix][verse_ix] += parsed_text[-1] + " "
                     except KeyError:
-                        text[chapter_ix][verse_ix] = parsed_text[-1]  
+                        text[chapter_ix][verse_ix] = parsed_text[-1] + " "  
             self.texts_verses.append({"book": book, "verses": text})
     
     def load_lxx(self, input_folder: str = "../data/lxx/") -> None:
@@ -159,7 +159,7 @@ class DataBaseFiller:
                     try:
                         text[chapter_ix] += verse_content["lemma"] + " "
                     except KeyError:
-                        text[chapter_ix] = verse_content["lemma"]
+                        text[chapter_ix] = verse_content["lemma"] + " "
             self.texts_chapter.append({"book": book, "chapters": text})
 
     def load_lxx_verses(self, input_folder: str = "../data/lxx/") -> None:
@@ -190,7 +190,7 @@ class DataBaseFiller:
                     try:
                         text[chapter_ix][verse_ix] += verse_content["lemma"] + " "
                     except KeyError:
-                        text[chapter_ix][verse_ix] = verse_content["lemma"]  
+                        text[chapter_ix][verse_ix] = verse_content["lemma"] + " "
             self.texts_verses.append({"book": book, "verses": text})
 
     def load_json(self):

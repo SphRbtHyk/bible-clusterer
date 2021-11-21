@@ -75,28 +75,28 @@ class MongoConnector:
         Get all of the books stored into the collection BookList.
         """
         booklist = self.booklists.find({}, {"_id": 0})
-        return await booklist.to_list(length=27)
+        return await booklist.to_list(length=100)
 
     async def get_book_classes_nt(self) -> Dict[str, List[str]]:
         """
         Get all of the books stored into the collection BookList.
         """
         booklist = self.bookclasses_nt.find({}, {"_id": 0})
-        return await booklist.to_list(length=70)
+        return await booklist.to_list(length=100)
 
     async def get_book_classes_ot(self) -> Dict[str, List[str]]:
         """
         Get all of the books stored into the collection BookList.
         """
         booklist = self.bookclasses_ot.find({}, {"_id": 0})
-        return await booklist.to_list(length=70)
+        return await booklist.to_list(length=100)
 
     async def get_book_classes(self) -> Dict[str, List[str]]:
         """
         Get all of the books stored into the collection BookList.
         """
-        ot_classes = await self.bookclasses_ot.find({}, {"_id": 0}).to_list(length=70)
-        nt_classes = await self.bookclasses_nt.find({}, {"_id": 0}).to_list(length=27)
+        ot_classes = await self.bookclasses_ot.find({}, {"_id": 0}).to_list(length=100)
+        nt_classes = await self.bookclasses_nt.find({}, {"_id": 0}).to_list(length=100)
         all_classes = ot_classes + nt_classes
         return all_classes
 
@@ -128,7 +128,7 @@ class MongoConnector:
         else:
             collection = self.texts.find(
                 {"book": {"$in": text_list}}, {"_id": 0})
-        return await collection.to_list(length=100)
+        return await collection.to_list(length=1000)
 
     async def get_chapters(self, text_list=Optional[List[str]]) -> List[Dict[str, str]]:
         """

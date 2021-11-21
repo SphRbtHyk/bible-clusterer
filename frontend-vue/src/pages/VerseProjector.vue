@@ -4,14 +4,14 @@
     <b-row>
       <b-col md="4" class="text-center" offset="4">
         Select up to 3 books, in order to check the similarities between each of
-        their chapters, through a PCA projection of their tf-idf similarities.
+        their verses, through a PCA projection of their tf-idf similarities.
       </b-col></b-row
     >
     <b-row>
       <b-col
         class="jumbotron"
-        :md="isProjection ? 4 : 4"
-        :offset="isProjection ? 1 : 4"
+        :md="isProjection ? 4 : 6"
+        :offset="isProjection ? 1 : 3"
       >
         <b-row>
           <b-col md="6">
@@ -136,8 +136,11 @@ export default {
               value["y"] = value.projection.y;
               value["z"] = value.projection.z;
               value["type"] = "scatter3d";
+              value["customdata"] = value.fullText;
               value["text"] = value.labels;
               value["mode"] = "markers+text";
+              value["hovertemplate"] =
+                "<b>%{text}: %{customdata}<extra></extra></b>";
               value["name"] = value.ground_truth[0];
             });
             console.log(this.projectionsList);

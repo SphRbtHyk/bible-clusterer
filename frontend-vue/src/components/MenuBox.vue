@@ -1,17 +1,12 @@
 <template>
   <b-col class="text-center">
-    <b-card
-      height="5rem"
-      :title="title"
-      :img-src="img"
-      img-alt="Image"
-      img-top
-      class="box"
-    >
+    <b-card :title="title" :img-src="img" img-alt="Image" img-top class="box">
       <b-card-text>
         {{ text }}
       </b-card-text>
-      <router-link :to="path" tag="button">{{ textButton }}</router-link>
+      <router-link :to="path" tag="button" variant="info">{{
+        textButton
+      }}</router-link>
     </b-card>
   </b-col>
 </template>
@@ -31,8 +26,9 @@ export default {
 
 <style>
 .box img {
+  padding-top: 10px;
   width: 100%;
-  height: 200px;
+  height: 100px;
   object-fit: contain;
 }
 </style>

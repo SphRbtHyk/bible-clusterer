@@ -3,7 +3,7 @@
     <router-view></router-view>
     <b-row>
       <b-col md="4" class="text-center" offset="4">
-        Select up at least 3 books, in order to check the similarities between
+        Select at least 3 books, in order to check the similarities between
         their vocabulary, through a PCA projection of their tf-idf similarities.
       </b-col></b-row
     >
@@ -123,7 +123,7 @@ export default {
       if (this.selectedList.length > 0) {
         console.log(this.selectedList);
         this.axios
-          .post("https://app.lxx.quest/api/clusterize?", null, {
+          .post("http://localhost:8000/clusterize?", null, {
             params: { book: this.selectedList },
             paramsSerializer: (params) => {
               return qs.stringify(params, { arrayFormat: "repeat" });

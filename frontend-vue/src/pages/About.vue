@@ -1,9 +1,9 @@
 <template>
-  <b-col md="6" offset='3'>
+  <b-col sm="1" md="6" offset-md='3'>
     <h5>Goal</h5>
     <p>
       The goal of this small application is to quickly vizualize textual
-      similarities between the Bible books and its different chapters, respectively taken from the LXX and the SBLGNT texts.
+      similarities between the Bible books, its different chapters and its different verses, respectively taken from the LXX and the SBLGNT texts.
     </p>
       <h5>Data</h5>
     <p>
@@ -20,15 +20,16 @@
     <p>
       The next inquired features are:
       <ul>
-        <li>The computation of distances between verses </li>
+        <li>An easier to read representation of verses/chapters for large books </li>
         <li>
           The use of clustering algorithms to perform the clustering of the
           space
         </li>
+        <li>Some explainability tools</li>
       </ul>
     </p>
     <h5>About the author</h5>
-    <p>I have a PhD in computer science, and I've worked mostly on the use of artificial intelligence in order to optimize High Performance Computing system. I'm also a Bible enthusiast, hence this project !
+    <p>I have a master's in applied Mathematics and a PhD in computer science, and I've worked mostly on the use of artificial intelligence in order to optimize High Performance Computing system. I'm also a Bible studies enthusiast, hence this project at the intersection of my two hobbies !
     </p>
   </b-col>
 </template>

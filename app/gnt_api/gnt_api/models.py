@@ -1,7 +1,7 @@
 """
 Python module containing the data models of the data exchanged by the application.
 """
-from typing import Dict, List
+from typing import Dict, List, Optional
 from pydantic import BaseModel
 
 
@@ -53,3 +53,4 @@ class ClusteringResults(BaseModel):
     labels: List[str]
     clusters: List[str]
     ground_truth: List[str]
+    fullText: Optional[List[str]]

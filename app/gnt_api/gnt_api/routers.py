@@ -49,6 +49,7 @@ async def post_clusterize(book: Optional[List[str]] = Query([])):
     for book_data in texts:
         text_corpus.append(book_data["text"])
         text_names.append(book_data["book"])
+    print(text_names)
     # Get the corresponding ground truth group
     ground_truth = await database_instance.get_book_class(text_names)
     return gnt_clusterer.pipeline(text_corpus=text_corpus,
@@ -98,7 +99,8 @@ async def post_clusterize(book: Optional[List[str]] = Query([])):
                 text_corpus.append(verse_content)
                 text_names.append(book_data["book"])
                 book_chapter_verse_label.append(f"{book_data['book']}{chapter_nbr},{verse_nbr}")
-    return gnt_clusterer.pipeline(text_corpus=text_corpus,
+    clustering_results =  gnt_clusterer.pipeline(text_corpus=text_corpus,
                                   names=book_chapter_verse_label,
                                   n_clusters=10,
                                   ground_truth=text_names)
+    return clustering_results

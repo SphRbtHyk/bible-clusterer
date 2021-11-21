@@ -2,7 +2,7 @@
   <b-container>
     <b-row class="text-center" align="vertical">
       <b-col>
-        <h1>Welcome to the Greek Bible analyzer !</h1>
+        <h1>Welcome to the Greek Bible projecter project</h1>
       </b-col>
     </b-row>
     <b-row class="text-center mt-5">
@@ -32,15 +32,23 @@ export default {
           title: "Book projector",
           text:
             "Select books among those of the Greek Bible and check their repartition in a 3D space",
-          img: require("../assets/bookshelf.png"),
+          img: require("../assets/books.png"),
           textButton: "Get started !",
           path: "/books",
         },
         {
           title: "Chapter projector",
           text:
-            "Select chapters within the different books and project them into a 3D space (only available for the OT)",
+            "Select books among those of the Greek Bible and project their chapters into a 3D space",
           img: require("../assets/chapter.png"),
+          textButton: "Get started !",
+          path: "/chapters",
+        },
+        {
+          title: "Verse projector",
+          text:
+            "Select books among those of the Greek Bible and project their verses into a 3D space",
+          img: require("../assets/verses.png"),
           textButton: "Get started !",
           path: "/chapters",
         },
@@ -49,3 +57,12 @@ export default {
   },
 };
 </script>
+
+<style scoped>
+@import url("https://fonts.googleapis.com/css?family=Roboto+Condensed");
+
+h1 {
+  padding-top: 10px;
+  font-family: "Roboto Condensed";
+}
+</style>
