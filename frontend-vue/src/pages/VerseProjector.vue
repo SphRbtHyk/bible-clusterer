@@ -123,7 +123,7 @@ export default {
       if (this.selectedList.length > 0) {
         console.log(this.selectedList);
         this.axios
-          .post("http://localhost:8000/clusterize/verses?", null, {
+          .post("https://app.lxx.quest/api/clusterize/verses?", null, {
             params: { book: this.selectedList },
             paramsSerializer: (params) => {
               return qs.stringify(params, { arrayFormat: "repeat" });
