@@ -67,7 +67,7 @@ class GNTClusterer:
         pca = PCA(n_components=dimension)
         return pca.fit_transform(dataframe)
 
-    def clusterize(self, dataframe: pd.DataFrame, name: List[str], n_cluster: int = 10, ground_truth: List[str] = None) -> pd.DataFrame:
+    def clusterize(self, dataframe: pd.DataFrame, name: List[str], n_cluster: int = 10, ground_truth: List[str] = None, text_corpus: List[str] = None) -> pd.DataFrame:
         """
         Perform clustering on an input dataframe using kmeans.
 
@@ -91,7 +91,8 @@ class GNTClusterer:
             return pd.DataFrame(
                 {"label": name,
                  "cluster": kmeans.labels_,
-                 "ground_truth": ground_truth})
+                 "ground_truth": ground_truth,
+                 "text_corpus": text_corpus})
 
     def pipeline(self, text_corpus: List[str], n_clusters: int = 10, names: List[str] = [], ground_truth: List[str] = None):
         """
@@ -137,6 +138,7 @@ class GNTClusterer:
                  "clusters": sub_clustered_data.cluster.values.tolist(),
                  "labels": sub_clustered_data.label.values.tolist(),
                  "ground_truth": sub_clustered_data.ground_truth.values.tolist(),
+                 "fullText": text_corpus,
                  "markers": {"color": "blue"}}
             )
         return projections

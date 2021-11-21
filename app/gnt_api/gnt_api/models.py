@@ -1,7 +1,7 @@
 """
 Python module containing the data models of the data exchanged by the application.
 """
-from typing import Dict, List
+from typing import Dict, List, Optional
 from pydantic import BaseModel
 
 
@@ -29,6 +29,22 @@ class TextList(BaseModel):
     text: str
 
 
+class TextChapter(BaseModel):
+    """
+    Model class representing the data displayed on a per chapter basis.
+    """
+    book: str
+    chapters: Dict[str, str]
+
+
+class TextVerses(BaseModel):
+    """
+    Model class representing the data displayed on a per chapter basis.
+    """
+    book: str
+    verses: Dict[str, Dict[str, str]]
+
+
 class ClusteringResults(BaseModel):
     """
     Model class representing results associated with a clustering processing.
@@ -37,3 +53,4 @@ class ClusteringResults(BaseModel):
     labels: List[str]
     clusters: List[str]
     ground_truth: List[str]
+    fullText: Optional[List[str]]

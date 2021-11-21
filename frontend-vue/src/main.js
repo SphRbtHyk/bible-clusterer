@@ -1,5 +1,11 @@
 import App from "./App.vue";
+
 import Vue from "vue";
+
+// Load view router
+import VueRouter from "vue-router";
+Vue.use(VueRouter);
+
 // Load AXIOS
 import axios from "axios";
 import VueAxios from "vue-axios";
@@ -19,6 +25,24 @@ Vue.config.productionTip = false;
 import "bootstrap/dist/css/bootstrap.css";
 import "bootstrap-vue/dist/bootstrap-vue.css";
 
+// Define routes
+const routes = [
+  { path: "/books", component: () => import("./pages/BookProjector.vue") },
+  {
+    path: "/chapters",
+    component: () => import("./pages/ChapterProjector.vue"),
+  },
+  { path: "/", component: () => import("./pages/HomePage.vue") },
+  { path: "/about", component: () => import("./pages/About.vue") },
+  { path: "/verses", component: () => import("./pages/VerseProjector.vue") },
+];
+// Create router
+const router = new VueRouter({
+  mode: "history",
+  routes,
+});
+
 new Vue({
+  router,
   render: (h) => h(App),
 }).$mount("#app");
