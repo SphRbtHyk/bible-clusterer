@@ -67,7 +67,7 @@ def create_server(
     server = Starlette()
     # Check if web directory was provided
     if html_root is None:
-        html_root = STATIC_ROOT / "website"
+        html_root = STATIC_ROOT
     # Compose the FastAPI application and the HTML file server into the server
     compose(server, api, html_root)
     # Return the Starlette instance

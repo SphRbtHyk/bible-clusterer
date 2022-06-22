@@ -1,17 +1,16 @@
-FROM node:lts-alpine AS build_front
+FROM node:14-alpine AS build_front
 
 WORKDIR /app
 
-COPY package*.json ./
+COPY frontend-vue/package*.json ./
 
 RUN npm install
 
-COPY . .
+COPY frontend-vue/ .
 
 RUN npm run build
 
 FROM python:3.8-slim
-
 
 # Update pip
 RUN python3 -m pip install --upgrade pip
@@ -31,10 +30,13 @@ RUN python3 -m pip install -r gnt_core/requirements.txt && \
     python3 -m pip install -e ./gnt_api
 
 # Copy web files from previous stage
-COPY --from=build dist /front
+COPY --from=build_front /app/dist /front
 
 # Set environment variable for server
 ENV STATIC_ROOT /front
+
+# Expose port of API
+EXPOSE 8000
 
 # Source environment file, fill database and serve API
 ENTRYPOINT python3 ./gnt_core/gnt_core/database_filler.py && python -m uvicorn --factory server:factory --port 8000 --host 0.0.0.0
