@@ -41,35 +41,27 @@ class SPAStaticFiles(StaticFiles):
         return response
 
 
-def compose(
-    app: Starlette,
-    api: FastAPI,
-    web_directory: str,
+def create_server(
+    api: FastAPI, html_root: Optional[str] = None
 ) -> Starlette:
-    """Attach the website to the Starlette application"""
+
+    # Check if web directory was provided
+    if html_root is None:
+        html_root = STATIC_ROOT
+
     # First create an instance of StaticFiles to serve the HTML directory
-    website = SPAStaticFiles(directory=web_directory, html=True)
-    # Add routes to the app provided as argument
-    app.router.routes.extend(
-        [
+    website = SPAStaticFiles(directory=html_root, html=True)
+
+    # Create a Starlette instance
+    server = Starlette(
+        on_startup=api.on_startup,
+        on_shutdown=api.on_shutdown,
+        routes=[
             Mount("/api", api, name="api"),
             Mount("/", website, name="web"),
         ]
     )
-    # Return the application
-    return app
 
-
-def create_server(
-    api: FastAPI, html_root: Optional[str] = None
-) -> Starlette:
-    # Create a Starlette instance
-    server = Starlette()
-    # Check if web directory was provided
-    if html_root is None:
-        html_root = STATIC_ROOT
-    # Compose the FastAPI application and the HTML file server into the server
-    compose(server, api, html_root)
     # Return the Starlette instance
     return server
 

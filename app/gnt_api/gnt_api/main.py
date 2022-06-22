@@ -1,5 +1,5 @@
 # Copyright 2020 BULL SAS All rights reserved
-
+from loguru import logger
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from gnt_api.instances import database_instance
@@ -17,7 +17,7 @@ app = FastAPI(
 async def startup():
     # Connect to database
     await database_instance.connect()
-    print("Connected mongo database")
+    logger.info("Connected to mongo database")
 
 
 @app.on_event("shutdown")
