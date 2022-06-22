@@ -102,7 +102,7 @@ export default {
   },
   mounted() {
     this.axios
-      .get("https://app.lxx.quest/api/bookclasses/nt")
+      .get("localhost/api/bookclasses/nt")
       .then((response) => {
         this.booksListNT = response.data;
       })
@@ -110,7 +110,7 @@ export default {
         console.log(error);
       });
     this.axios
-      .get("https://app.lxx.quest/api/bookclasses/ot")
+      .get("localhost/api/bookclasses/ot")
       .then((response) => {
         this.booksListOT = response.data;
       })
@@ -123,7 +123,7 @@ export default {
       if (this.selectedList.length > 0) {
         console.log(this.selectedList);
         this.axios
-          .post("https://app.lxx.quest/api/clusterize/verses?", null, {
+          .post("localhost/api/clusterize/verses?", null, {
             params: { book: this.selectedList },
             paramsSerializer: (params) => {
               return qs.stringify(params, { arrayFormat: "repeat" });
@@ -143,7 +143,6 @@ export default {
                 "<b>%{text}: %{customdata}<extra></extra></b>";
               value["name"] = value.ground_truth[0];
             });
-            console.log(this.projectionsList);
           })
           .catch((error) => {
             console.log(error);

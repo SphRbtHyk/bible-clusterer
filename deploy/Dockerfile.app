@@ -39,4 +39,4 @@ ENV STATIC_ROOT /front
 EXPOSE 8000
 
 # Source environment file, fill database and serve API
-ENTRYPOINT python3 ./gnt_core/gnt_core/database_filler.py && python -m uvicorn --factory server:factory --port 8000 --host 0.0.0.0
+ENTRYPOINT python3 ./gnt_core/gnt_core/database_filler.py && python -m uvicorn --factory server:factory --port 80 --host 0.0.0.0
