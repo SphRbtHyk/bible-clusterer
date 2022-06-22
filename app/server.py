@@ -54,8 +54,8 @@ def create_server(
 
     # Create a Starlette instance
     server = Starlette(
-        on_startup=api.on_startup,
-        on_shutdown=api.on_shutdown,
+        on_startup=api.router.on_startup,
+        on_shutdown=api.router.on_shutdown,
         routes=[
             Mount("/api", api, name="api"),
             Mount("/", website, name="web"),
