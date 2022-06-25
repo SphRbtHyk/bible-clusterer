@@ -16,7 +16,7 @@ class DataBaseFiller:
     Should only be run once upon install of the application on the system.
     """
 
-    def __init__(self, mongo_database: str = "gnt", mongo_host: str = "localhost", mongo_port: int = 27017) -> None:
+    def __init__(self, mongo_database: str = "gnt", mongo_host: str = "localhost", mongo_port: int = 27017, mongo_user: str = "", mongo_password: str = "") -> None:
         """
         Initializes an object of class DataBaseFiller, using the information of the
         mongo database.
@@ -27,7 +27,7 @@ class DataBaseFiller:
             mongo_port (int): Port exposed by the database
         """
         self.database_instance = MongoConnector(
-            mongo_database, mongo_host, mongo_port)
+            mongo_database, mongo_host, mongo_port, mongo_password, mongo_user)
         self.texts = list()
         self.texts_chapter = list()
         self.texts_verses = list()
