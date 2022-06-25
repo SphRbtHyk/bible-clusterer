@@ -52,7 +52,7 @@ class MongoConnector:
         )
         if self.mongo_user:
             mongo_user_password = f"{self.mongo_user}:{self.mongo_password}@"
-        mongo_uri = f"mongodb://{mongo_user_password}{self.mongo_host}:{self.mongo_host}/{self.mongo_database}?authSource=admin"
+        mongo_uri = f"mongodb://{mongo_user_password}{self.mongo_host}:{self.mongo_port}/{self.mongo_database}?authSource=admin"
         # Create asynchronous Mongo client
         self.async_client = AsyncIOMotorClient(
             mongo_uri
