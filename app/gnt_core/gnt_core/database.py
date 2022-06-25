@@ -16,6 +16,7 @@ class MongoConnector:
     """
 
     def __init__(self,
+                mongo_uri: str = "",
                 mongo_database: str = "gnt",
                 mongo_host: str = "localhost",
                 mongo_port: int = 27017,
@@ -30,6 +31,7 @@ class MongoConnector:
             mongo_host (str): Host of the database
             mongo_port (int): Port exposed by the database
         """
+        self.mongo_uri: str = mongo_uri
         self.mongo_port: int = mongo_port
         self.mongo_host: str = mongo_host
         self.mongo_database: str = mongo_database
@@ -52,7 +54,9 @@ class MongoConnector:
         )
         mongo_user_password = f"{self.mongo_user}:{self.mongo_password}@" if self.mongo_user else ""
         mongo_user_port = f":{self.mongo_port}" if self.mongo_port else ""
-        mongo_uri = f"mongodb://{mongo_user_password}{self.mongo_host}{mongo_user_port}/{self.mongo_database}?authSource=admin"
+        # If URI has not been specified, then build it
+        if not self.mongo_uri:
+            mongo_uri = f"mongodb://{mongo_user_password}{self.mongo_host}{mongo_user_port}/{self.mongo_database}?authSource=admin"
         # Create asynchronous Mongo client
         self.async_client = AsyncIOMotorClient(
             mongo_uri

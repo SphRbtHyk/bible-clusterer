@@ -16,7 +16,7 @@ class DataBaseFiller:
     Should only be run once upon install of the application on the system.
     """
 
-    def __init__(self, mongo_database: str = "gnt", mongo_host: str = "localhost", mongo_port: int = 27017, mongo_user: str = "", mongo_password: str = "") -> None:
+    def __init__(self, mongo_uri: str = "", mongo_database: str = "gnt", mongo_host: str = "localhost", mongo_port: int = 27017, mongo_user: str = "", mongo_password: str = "") -> None:
         """
         Initializes an object of class DataBaseFiller, using the information of the
         mongo database.
@@ -27,7 +27,7 @@ class DataBaseFiller:
             mongo_port (int): Port exposed by the database
         """
         self.database_instance = MongoConnector(
-            mongo_database, mongo_host, mongo_port, mongo_password, mongo_user)
+            mongo_uri, mongo_database, mongo_host, mongo_port, mongo_password, mongo_user)
         self.texts = list()
         self.texts_chapter = list()
         self.texts_verses = list()
@@ -283,13 +283,14 @@ def fill():
     """
     Main function to fill database
     """
+    MONGO_URI = os.environ["GNT_MONGODB_URI"] if "GNT_MONGODB_URI" in os.environ else ""
     MONGO_HOST = os.environ["GNT_MONGODB_HOST"] if "GNT_MONGODB_HOST" in os.environ else "localhost"
     MONGO_PORT = os.environ["GNT_MONGODB_PORT"] if "GNT_MONGODB_PORT" in os.environ else 27017
     MONGO_DATABASE = os.environ["GNT_MONGODB_DATABASE"] if "GNT_MONGODB_DATABASE" in os.environ else "gnt"
     MONGO_PASSWORD = os.environ["GNT_MONGODB_PASSWORD"] if "GNT_MONGODB_PASSWORD" in os.environ else None
     MONGO_USER = os.environ["GNT_MONGODB_USER"] if "GNT_MONGODB_USER" in os.environ else None
     # Create the database filler object
-    filler = DataBaseFiller(mongo_database=MONGO_DATABASE, mongo_host=MONGO_HOST, mongo_port=MONGO_PORT, mongo_user=MONGO_USER, mongo_password=MONGO_PASSWORD)
+    filler = DataBaseFiller(mongo_uri=MONGO_URI, mongo_database=MONGO_DATABASE, mongo_host=MONGO_HOST, mongo_port=MONGO_PORT, mongo_user=MONGO_USER, mongo_password=MONGO_PASSWORD)
     # Fill up database
     loop = asyncio.get_event_loop()
     loop.run_until_complete(filler.main())

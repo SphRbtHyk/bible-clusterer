@@ -7,6 +7,8 @@ class GNTConfig(BaseSettings):
     class Config:
         case_sensitive = False
         env_prefix = "GNT_"
+    # Mongodb URI
+    mongodb_uri: str = "mongodb://localhost:27017"
     # Host of the mongo db
     mongodb_host: str = "localhost"
     # Port of the mongo db
