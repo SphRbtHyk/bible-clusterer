@@ -286,8 +286,10 @@ def fill():
     MONGO_HOST = os.environ["GNT_MONGODB_HOST"] if "GNT_MONGODB_HOST" in os.environ else "localhost"
     MONGO_PORT = os.environ["GNT_MONGODB_PORT"] if "GNT_MONGODB_PORT" in os.environ else 27017
     MONGO_DATABASE = os.environ["GNT_MONGODB_DATABASE"] if "GNT_MONGODB_DATABASE" in os.environ else "gnt"
+    MONGO_PASSWORD = os.environ["GNT_MONGODB_PASSWORD"] if "GNT_MONGODB_PASSWORD" in os.environ else None
+    MONGO_USER = os.environ["GNT_MONGODB_USER"] if "GNT_MONGODB_USER" in os.environ else None
     # Create the database filler object
-    filler = DataBaseFiller(mongo_database=MONGO_DATABASE, mongo_host=MONGO_HOST, mongo_port=MONGO_PORT)
+    filler = DataBaseFiller(mongo_database=MONGO_DATABASE, mongo_host=MONGO_HOST, mongo_port=MONGO_PORT, mongo_user=MONGO_USER, mongo_password=MONGO_PASSWORD)
     # Fill up database
     loop = asyncio.get_event_loop()
     loop.run_until_complete(filler.main())

@@ -17,6 +17,9 @@ class GNTConfig(BaseSettings):
     api_host: str = "localhost"
     # Port of the API
     api_port: int = 5000
-
+    # Mongodb password
+    mongodb_password: str = None
+    # Mongodb user
+    mongodb_user: str = None
 
 gnt_config = GNTConfig()

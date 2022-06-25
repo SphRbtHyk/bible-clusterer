@@ -15,7 +15,12 @@ class MongoConnector:
         - Send the data from the database
     """
 
-    def __init__(self, mongo_database: str = "gnt", mongo_host: str = "localhost", mongo_port: int = 27017) -> None:
+    def __init__(self,
+                mongo_database: str = "gnt",
+                mongo_host: str = "localhost",
+                mongo_port: int = 27017,
+                mongo_password: str = None,
+                mongo_user: str = None) -> None:
         """
         Initializes an object of class DataBaseFiller, using the information of the
         mongo database.
@@ -28,6 +33,8 @@ class MongoConnector:
         self.mongo_port: int = mongo_port
         self.mongo_host: str = mongo_host
         self.mongo_database: str = mongo_database
+        self.mongo_password: str = mongo_password
+        self.mongo_user: str = mongo_user
         self.async_client: Optional[AsyncIOMotorClient] = None
         self.async_db: Optional[AsyncIOMotorDatabase] = None
         self.text_collection: Optional[AsyncIOMotorCollection] = None
@@ -43,9 +50,12 @@ class MongoConnector:
             "Connecting to Mongo database on host"
             f"{self.mongo_host}:{self.mongo_port}"
         )
+        if self.mongo_user:
+            mongo_user_password = f"{self.mongo_user}:{self.mongo_password}@"
+        mongo_uri = f"mongodb://{mongo_user_password}{self.mongo_host}:{self.mongo_host}/{self.mongo_database}?authSource=admin"
         # Create asynchronous Mongo client
         self.async_client = AsyncIOMotorClient(
-            host=self.mongo_host, port=self.mongo_port
+            mongo_uri
         )
         self.async_db = self.async_client[self.mongo_database]
         self.texts = self.async_db["GNTText"]
