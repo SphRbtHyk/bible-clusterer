@@ -56,10 +56,10 @@ class MongoConnector:
         mongo_user_port = f":{self.mongo_port}" if self.mongo_port else ""
         # If URI has not been specified, then build it
         if not self.mongo_uri:
-            mongo_uri = f"mongodb://{mongo_user_password}{self.mongo_host}{mongo_user_port}/{self.mongo_database}?authSource=admin"
+            self.mongo_uri = f"mongodb://{mongo_user_password}{self.mongo_host}{mongo_user_port}/{self.mongo_database}?authSource=admin"
         # Create asynchronous Mongo client
         self.async_client = AsyncIOMotorClient(
-            mongo_uri
+            self.mongo_uri
         )
         self.async_db = self.async_client[self.mongo_database]
         self.texts = self.async_db["GNTText"]
