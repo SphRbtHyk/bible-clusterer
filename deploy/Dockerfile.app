@@ -22,12 +22,12 @@ COPY app /app
 WORKDIR /app
 
 # Install packages
-RUN python3 -m pip install -r gnt_core/requirements.txt && \
-    python3 -m pip install -e ./gnt_core && \
-    python3 -m pip install -r gnt_nlp_utils/requirements.txt && \
-    python3 -m pip install -e ./gnt_nlp_utils && \
-    python3 -m pip install -r gnt_api/external-requirements.txt && \
-    python3 -m pip install -e ./gnt_api
+RUN python3 -m pip install -r clusterer_core/requirements.txt && \
+    python3 -m pip install -e ./clusterer_core && \
+    python3 -m pip install -r clusterer_nlp_utils/requirements.txt && \
+    python3 -m pip install -e ./clusterer_nlp_utils && \
+    python3 -m pip install -r clusterer_api/external-requirements.txt && \
+    python3 -m pip install -e ./clusterer_api
 
 # Copy web files from previous stage
 COPY --from=build_front /app/dist /front
@@ -39,4 +39,4 @@ ENV STATIC_ROOT /front
 EXPOSE 8000
 
 # Source environment file, fill database and serve API
-ENTRYPOINT python3 ./gnt_core/gnt_core/database_filler.py && python -m uvicorn --factory server:factory --port 80 --host 0.0.0.0
+ENTRYPOINT python3 ./clusterer_core/clusterer_core/database_filler.py && python -m uvicorn --factory server:factory --port 80 --host 0.0.0.0

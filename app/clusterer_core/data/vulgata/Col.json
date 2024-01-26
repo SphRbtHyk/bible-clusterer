@@ -1,0 +1,6056 @@
+{
+    "Colossians.1.1": [
+        {
+            "key": "paulus",
+            "lemma": "paulus"
+        },
+        {
+            "key": "apostolus",
+            "lemma": "apostolus"
+        },
+        {
+            "key": "jesu",
+            "lemma": "jesus"
+        },
+        {
+            "key": "christi",
+            "lemma": "christus"
+        },
+        {
+            "key": "per",
+            "lemma": "per"
+        },
+        {
+            "key": "voluntatem",
+            "lemma": "uoluntas"
+        },
+        {
+            "key": "dei",
+            "lemma": "deus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "timotheus",
+            "lemma": "timotheus"
+        },
+        {
+            "key": "frater",
+            "lemma": "frater"
+        }
+    ],
+    "Colossians.1.2": [
+        {
+            "key": "eis",
+            "lemma": "is"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "sunt",
+            "lemma": "sum"
+        },
+        {
+            "key": "colossis",
+            "lemma": "colossae"
+        },
+        {
+            "key": "sanctis",
+            "lemma": "sanctus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "fidelibus",
+            "lemma": "fidelis"
+        },
+        {
+            "key": "fratribus",
+            "lemma": "frater"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "christo",
+            "lemma": "christus"
+        },
+        {
+            "key": "jesu",
+            "lemma": "jesus"
+        }
+    ],
+    "Colossians.1.3": [
+        {
+            "key": "gratia",
+            "lemma": "gratia"
+        },
+        {
+            "key": "vobis",
+            "lemma": "uos"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "pax",
+            "lemma": "pax"
+        },
+        {
+            "key": "a",
+            "lemma": "ab"
+        },
+        {
+            "key": "deo",
+            "lemma": "deus"
+        },
+        {
+            "key": "patre",
+            "lemma": "pater"
+        },
+        {
+            "key": "nostro",
+            "lemma": "noster"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "domino",
+            "lemma": "dominus"
+        },
+        {
+            "key": "jesu",
+            "lemma": "jesus"
+        },
+        {
+            "key": "christo",
+            "lemma": "christus"
+        },
+        {
+            "key": "gratias",
+            "lemma": "gratia"
+        },
+        {
+            "key": "agimus",
+            "lemma": "ago"
+        },
+        {
+            "key": "deo",
+            "lemma": "deus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "patri",
+            "lemma": "pater"
+        },
+        {
+            "key": "domini",
+            "lemma": "dominus"
+        },
+        {
+            "key": "nostri",
+            "lemma": "noster"
+        },
+        {
+            "key": "jesu",
+            "lemma": "jesus"
+        },
+        {
+            "key": "christi",
+            "lemma": "christus"
+        },
+        {
+            "key": "semper",
+            "lemma": "semper"
+        },
+        {
+            "key": "pro",
+            "lemma": "pro"
+        },
+        {
+            "key": "vobis",
+            "lemma": "uos"
+        },
+        {
+            "key": "orantes",
+            "lemma": "oro"
+        }
+    ],
+    "Colossians.1.4": [
+        {
+            "key": "audientes",
+            "lemma": "audio"
+        },
+        {
+            "key": "fidem",
+            "lemma": "fides"
+        },
+        {
+            "key": "vestram",
+            "lemma": "uester"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "christo",
+            "lemma": "christus"
+        },
+        {
+            "key": "jesu",
+            "lemma": "jesus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "dilectionem",
+            "lemma": "dilectio"
+        },
+        {
+            "key": "quam",
+            "lemma": "qui"
+        },
+        {
+            "key": "habetis",
+            "lemma": "habeo"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "sanctos",
+            "lemma": "sanctus"
+        },
+        {
+            "key": "omnes",
+            "lemma": "omnis"
+        }
+    ],
+    "Colossians.1.5": [
+        {
+            "key": "propter",
+            "lemma": "propter"
+        },
+        {
+            "key": "spem",
+            "lemma": "spes"
+        },
+        {
+            "key": "qu\u00e6",
+            "lemma": "qu\u00e6"
+        },
+        {
+            "key": "reposita",
+            "lemma": "repono"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "vobis",
+            "lemma": "uos"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "c\u00e6lis",
+            "lemma": "c\u00e6lum"
+        },
+        {
+            "key": "quam",
+            "lemma": "qui"
+        },
+        {
+            "key": "audistis",
+            "lemma": "audio"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "verbo",
+            "lemma": "uerbum"
+        },
+        {
+            "key": "veritatis",
+            "lemma": "ueritas"
+        },
+        {
+            "key": "evangelii",
+            "lemma": "evangelium"
+        }
+    ],
+    "Colossians.1.6": [
+        {
+            "key": "quod",
+            "lemma": "qui"
+        },
+        {
+            "key": "pervenit",
+            "lemma": "peruenio"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "vos",
+            "lemma": "uos"
+        },
+        {
+            "key": "sicut",
+            "lemma": "sicut"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "universo",
+            "lemma": "uniuersus"
+        },
+        {
+            "key": "mundo",
+            "lemma": "mundus"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "fructificat",
+            "lemma": "fructifico"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "crescit",
+            "lemma": "cresco"
+        },
+        {
+            "key": "sicut",
+            "lemma": "sicut"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "vobis",
+            "lemma": "uos"
+        },
+        {
+            "key": "ex",
+            "lemma": "ex"
+        },
+        {
+            "key": "ea",
+            "lemma": "is"
+        },
+        {
+            "key": "die",
+            "lemma": "dies"
+        },
+        {
+            "key": "qua",
+            "lemma": "qui"
+        },
+        {
+            "key": "audistis",
+            "lemma": "audio"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "cognovistis",
+            "lemma": "cognosco"
+        },
+        {
+            "key": "gratiam",
+            "lemma": "gratia"
+        },
+        {
+            "key": "dei",
+            "lemma": "deus"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "veritate",
+            "lemma": "ueritas"
+        }
+    ],
+    "Colossians.1.7": [
+        {
+            "key": "sicut",
+            "lemma": "sicut"
+        },
+        {
+            "key": "didicistis",
+            "lemma": "disco"
+        },
+        {
+            "key": "ab",
+            "lemma": "ab"
+        },
+        {
+            "key": "epaphra",
+            "lemma": "epaphras"
+        },
+        {
+            "key": "carissimo",
+            "lemma": "carus"
+        },
+        {
+            "key": "conservo",
+            "lemma": "conseruus"
+        },
+        {
+            "key": "nostro",
+            "lemma": "noster"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "fidelis",
+            "lemma": "fidelis"
+        },
+        {
+            "key": "pro",
+            "lemma": "pro"
+        },
+        {
+            "key": "vobis",
+            "lemma": "uos"
+        },
+        {
+            "key": "minister",
+            "lemma": "minister"
+        },
+        {
+            "key": "christi",
+            "lemma": "christus"
+        },
+        {
+            "key": "jesu",
+            "lemma": "jesus"
+        }
+    ],
+    "Colossians.1.8": [
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "etiam",
+            "lemma": "etiam"
+        },
+        {
+            "key": "manifestavit",
+            "lemma": "manifesto"
+        },
+        {
+            "key": "nobis",
+            "lemma": "nos"
+        },
+        {
+            "key": "dilectionem",
+            "lemma": "dilectio"
+        },
+        {
+            "key": "vestram",
+            "lemma": "uester"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "spiritu",
+            "lemma": "spiritus"
+        }
+    ],
+    "Colossians.1.9": [
+        {
+            "key": "ideo",
+            "lemma": "ideo"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "nos",
+            "lemma": "nos"
+        },
+        {
+            "key": "ex",
+            "lemma": "ex"
+        },
+        {
+            "key": "qua",
+            "lemma": "qui"
+        },
+        {
+            "key": "die",
+            "lemma": "dies"
+        },
+        {
+            "key": "audivimus",
+            "lemma": "audio"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "cessamus",
+            "lemma": "cesso"
+        },
+        {
+            "key": "pro",
+            "lemma": "pro"
+        },
+        {
+            "key": "vobis",
+            "lemma": "uos"
+        },
+        {
+            "key": "orantes",
+            "lemma": "oro"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "postulantes",
+            "lemma": "postulo"
+        },
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "impleamini",
+            "lemma": "impleo"
+        },
+        {
+            "key": "agnitione",
+            "lemma": "agnitio"
+        },
+        {
+            "key": "voluntatis",
+            "lemma": "uoluntas"
+        },
+        {
+            "key": "ejus",
+            "lemma": "js"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "omni",
+            "lemma": "omnis"
+        },
+        {
+            "key": "sapientia",
+            "lemma": "sapientia"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "intellectu",
+            "lemma": "intellectus"
+        },
+        {
+            "key": "spiritali",
+            "lemma": "spiritalis"
+        }
+    ],
+    "Colossians.1.10": [
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "ambuletis",
+            "lemma": "ambulo"
+        },
+        {
+            "key": "digne",
+            "lemma": "digne"
+        },
+        {
+            "key": "deo",
+            "lemma": "deus"
+        },
+        {
+            "key": "per",
+            "lemma": "per"
+        },
+        {
+            "key": "omnia",
+            "lemma": "omnis"
+        },
+        {
+            "key": "placentes",
+            "lemma": "placeo"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "omni",
+            "lemma": "omnis"
+        },
+        {
+            "key": "opere",
+            "lemma": "opus"
+        },
+        {
+            "key": "bono",
+            "lemma": "bonum"
+        },
+        {
+            "key": "fructificantes",
+            "lemma": "fructifico"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "crescentes",
+            "lemma": "cresco"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "scientia",
+            "lemma": "scientia"
+        },
+        {
+            "key": "dei",
+            "lemma": "deus"
+        }
+    ],
+    "Colossians.1.11": [
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "omni",
+            "lemma": "omnis"
+        },
+        {
+            "key": "virtute",
+            "lemma": "uirtus"
+        },
+        {
+            "key": "confortati",
+            "lemma": "conforto"
+        },
+        {
+            "key": "secundum",
+            "lemma": "secundum"
+        },
+        {
+            "key": "potentiam",
+            "lemma": "potentia"
+        },
+        {
+            "key": "claritatis",
+            "lemma": "claritas"
+        },
+        {
+            "key": "ejus",
+            "lemma": "js"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "omni",
+            "lemma": "omnis"
+        },
+        {
+            "key": "patientia",
+            "lemma": "patientia"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "longanimitate",
+            "lemma": "longanimitas"
+        },
+        {
+            "key": "cum",
+            "lemma": "cum"
+        },
+        {
+            "key": "gaudio",
+            "lemma": "gaudium"
+        }
+    ],
+    "Colossians.1.12": [
+        {
+            "key": "gratias",
+            "lemma": "gratia"
+        },
+        {
+            "key": "agentes",
+            "lemma": "ago"
+        },
+        {
+            "key": "deo",
+            "lemma": "deus"
+        },
+        {
+            "key": "patri",
+            "lemma": "pater"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "dignos",
+            "lemma": "dignus"
+        },
+        {
+            "key": "nos",
+            "lemma": "nos"
+        },
+        {
+            "key": "fecit",
+            "lemma": "facio"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "partem",
+            "lemma": "pars"
+        },
+        {
+            "key": "sortis",
+            "lemma": "sors"
+        },
+        {
+            "key": "sanctorum",
+            "lemma": "sanctus"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "lumine",
+            "lemma": "lumen"
+        }
+    ],
+    "Colossians.1.13": [
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "eripuit",
+            "lemma": "eripio"
+        },
+        {
+            "key": "nos",
+            "lemma": "nos"
+        },
+        {
+            "key": "de",
+            "lemma": "de"
+        },
+        {
+            "key": "potestate",
+            "lemma": "potestas"
+        },
+        {
+            "key": "tenebrarum",
+            "lemma": "tenebrae"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "transtulit",
+            "lemma": "transfero"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "regnum",
+            "lemma": "regnum"
+        },
+        {
+            "key": "filii",
+            "lemma": "filius"
+        },
+        {
+            "key": "dilectionis",
+            "lemma": "dilectio"
+        },
+        {
+            "key": "su\u00e6",
+            "lemma": "su\u00e6"
+        }
+    ],
+    "Colossians.1.14": [
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "quo",
+            "lemma": "qui"
+        },
+        {
+            "key": "habemus",
+            "lemma": "habeo"
+        },
+        {
+            "key": "redemptionem",
+            "lemma": "redemptio"
+        },
+        {
+            "key": "per",
+            "lemma": "per"
+        },
+        {
+            "key": "sanguinem",
+            "lemma": "sanguis"
+        },
+        {
+            "key": "ejus",
+            "lemma": "js"
+        },
+        {
+            "key": "remissionem",
+            "lemma": "remissio"
+        },
+        {
+            "key": "peccatorum",
+            "lemma": "peccatum"
+        }
+    ],
+    "Colossians.1.15": [
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "imago",
+            "lemma": "imago"
+        },
+        {
+            "key": "dei",
+            "lemma": "deus"
+        },
+        {
+            "key": "invisibilis",
+            "lemma": "inuisibilis"
+        },
+        {
+            "key": "primogenitus",
+            "lemma": "primogenitus"
+        },
+        {
+            "key": "omnis",
+            "lemma": "omnis"
+        },
+        {
+            "key": "creatur\u00e6",
+            "lemma": "creatur\u00e6"
+        }
+    ],
+    "Colossians.1.16": [
+        {
+            "key": "quoniam",
+            "lemma": "quoniam"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "ipso",
+            "lemma": "ipse"
+        },
+        {
+            "key": "condita",
+            "lemma": "condo"
+        },
+        {
+            "key": "sunt",
+            "lemma": "sum"
+        },
+        {
+            "key": "universa",
+            "lemma": "uniuersus"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "c\u00e6lis",
+            "lemma": "c\u00e6lum"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "terra",
+            "lemma": "terra"
+        },
+        {
+            "key": "visibilia",
+            "lemma": "uisibilis"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "invisibilia",
+            "lemma": "inuisibilis"
+        },
+        {
+            "key": "sive",
+            "lemma": "siue"
+        },
+        {
+            "key": "throni",
+            "lemma": "thronus"
+        },
+        {
+            "key": "sive",
+            "lemma": "siue"
+        },
+        {
+            "key": "dominationes",
+            "lemma": "dominatio"
+        },
+        {
+            "key": "sive",
+            "lemma": "siue"
+        },
+        {
+            "key": "principatus",
+            "lemma": "principatus"
+        },
+        {
+            "key": "sive",
+            "lemma": "siue"
+        },
+        {
+            "key": "potestates",
+            "lemma": "potestas"
+        },
+        {
+            "key": "omnia",
+            "lemma": "omnis"
+        },
+        {
+            "key": "per",
+            "lemma": "per"
+        },
+        {
+            "key": "ipsum",
+            "lemma": "ipse"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "ipso",
+            "lemma": "ipse"
+        },
+        {
+            "key": "creata",
+            "lemma": "creo"
+        },
+        {
+            "key": "sunt",
+            "lemma": "sum"
+        }
+    ],
+    "Colossians.1.17": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "ipse",
+            "lemma": "ipse"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "ante",
+            "lemma": "ante"
+        },
+        {
+            "key": "omnes",
+            "lemma": "omnis"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "omnia",
+            "lemma": "omnis"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "ipso",
+            "lemma": "ipse"
+        },
+        {
+            "key": "constant",
+            "lemma": "consto"
+        }
+    ],
+    "Colossians.1.18": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "ipse",
+            "lemma": "ipse"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "caput",
+            "lemma": "caput"
+        },
+        {
+            "key": "corporis",
+            "lemma": "corpus"
+        },
+        {
+            "key": "ecclesi\u00e6",
+            "lemma": "ecclesi\u00e6"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "principium",
+            "lemma": "principium"
+        },
+        {
+            "key": "primogenitus",
+            "lemma": "primogenitus"
+        },
+        {
+            "key": "ex",
+            "lemma": "ex"
+        },
+        {
+            "key": "mortuis",
+            "lemma": "morior"
+        },
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "sit",
+            "lemma": "sum"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "omnibus",
+            "lemma": "omnis"
+        },
+        {
+            "key": "ipse",
+            "lemma": "ipse"
+        },
+        {
+            "key": "primatum",
+            "lemma": "primatus"
+        },
+        {
+            "key": "tenens",
+            "lemma": "teneo"
+        }
+    ],
+    "Colossians.1.19": [
+        {
+            "key": "quia",
+            "lemma": "quia"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "ipso",
+            "lemma": "ipse"
+        },
+        {
+            "key": "complacuit",
+            "lemma": "complaceo"
+        },
+        {
+            "key": "omnem",
+            "lemma": "omnis"
+        },
+        {
+            "key": "plenitudinem",
+            "lemma": "plenitudo"
+        },
+        {
+            "key": "inhabitare",
+            "lemma": "inhabito"
+        }
+    ],
+    "Colossians.1.20": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "per",
+            "lemma": "per"
+        },
+        {
+            "key": "eum",
+            "lemma": "is"
+        },
+        {
+            "key": "reconciliare",
+            "lemma": "reconcilio"
+        },
+        {
+            "key": "omnia",
+            "lemma": "omnis"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "ipsum",
+            "lemma": "ipse"
+        },
+        {
+            "key": "pacificans",
+            "lemma": "pacifico"
+        },
+        {
+            "key": "per",
+            "lemma": "per"
+        },
+        {
+            "key": "sanguinem",
+            "lemma": "sanguis"
+        },
+        {
+            "key": "crucis",
+            "lemma": "crux"
+        },
+        {
+            "key": "ejus",
+            "lemma": "js"
+        },
+        {
+            "key": "sive",
+            "lemma": "siue"
+        },
+        {
+            "key": "qu\u00e6",
+            "lemma": "qu\u00e6"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "terris",
+            "lemma": "terra"
+        },
+        {
+            "key": "sive",
+            "lemma": "siue"
+        },
+        {
+            "key": "qu\u00e6",
+            "lemma": "qu\u00e6"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "c\u00e6lis",
+            "lemma": "c\u00e6lum"
+        },
+        {
+            "key": "sunt",
+            "lemma": "sum"
+        }
+    ],
+    "Colossians.1.21": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "vos",
+            "lemma": "uos"
+        },
+        {
+            "key": "cum",
+            "lemma": "cum"
+        },
+        {
+            "key": "essetis",
+            "lemma": "sum"
+        },
+        {
+            "key": "aliquando",
+            "lemma": "aliquando"
+        },
+        {
+            "key": "alienati",
+            "lemma": "alieno"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "inimici",
+            "lemma": "inimicus"
+        },
+        {
+            "key": "sensu",
+            "lemma": "sensus"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "operibus",
+            "lemma": "opus"
+        },
+        {
+            "key": "malis",
+            "lemma": "malum"
+        }
+    ],
+    "Colossians.1.22": [
+        {
+            "key": "nunc",
+            "lemma": "nunc"
+        },
+        {
+            "key": "autem",
+            "lemma": "autem"
+        },
+        {
+            "key": "reconciliavit",
+            "lemma": "reconcilio"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "corpore",
+            "lemma": "corpus"
+        },
+        {
+            "key": "carnis",
+            "lemma": "caro"
+        },
+        {
+            "key": "ejus",
+            "lemma": "js"
+        },
+        {
+            "key": "per",
+            "lemma": "per"
+        },
+        {
+            "key": "mortem",
+            "lemma": "mors"
+        },
+        {
+            "key": "exhibere",
+            "lemma": "exhibeo"
+        },
+        {
+            "key": "vos",
+            "lemma": "uos"
+        },
+        {
+            "key": "sanctos",
+            "lemma": "sanctus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "immaculatos",
+            "lemma": "immaculatus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "irreprehensibiles",
+            "lemma": "irreprehensibilis"
+        },
+        {
+            "key": "coram",
+            "lemma": "coram"
+        },
+        {
+            "key": "ipso",
+            "lemma": "ipse"
+        }
+    ],
+    "Colossians.1.23": [
+        {
+            "key": "si",
+            "lemma": "si"
+        },
+        {
+            "key": "tamen",
+            "lemma": "tamen"
+        },
+        {
+            "key": "permanetis",
+            "lemma": "permaneo"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "fide",
+            "lemma": "fides"
+        },
+        {
+            "key": "fundati",
+            "lemma": "fundo"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "stabiles",
+            "lemma": "stabilis"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "immobiles",
+            "lemma": "immobilis"
+        },
+        {
+            "key": "a",
+            "lemma": "ab"
+        },
+        {
+            "key": "spe",
+            "lemma": "spes"
+        },
+        {
+            "key": "evangelii",
+            "lemma": "evangelium"
+        },
+        {
+            "key": "quod",
+            "lemma": "qui"
+        },
+        {
+            "key": "audistis",
+            "lemma": "audio"
+        },
+        {
+            "key": "quod",
+            "lemma": "qui"
+        },
+        {
+            "key": "pr\u00e6dicatum",
+            "lemma": "pr\u00e6dico"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "universa",
+            "lemma": "uniuersus"
+        },
+        {
+            "key": "creatura",
+            "lemma": "creatura"
+        },
+        {
+            "key": "qu\u00e6",
+            "lemma": "qu\u00e6"
+        },
+        {
+            "key": "sub",
+            "lemma": "sub"
+        },
+        {
+            "key": "c\u00e6lo",
+            "lemma": "c\u00e6lo"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "cujus",
+            "lemma": "quj"
+        },
+        {
+            "key": "factus",
+            "lemma": "facio"
+        },
+        {
+            "key": "sum",
+            "lemma": "sum"
+        },
+        {
+            "key": "ego",
+            "lemma": "ego"
+        },
+        {
+            "key": "paulus",
+            "lemma": "paulus"
+        },
+        {
+            "key": "minister",
+            "lemma": "minister"
+        }
+    ],
+    "Colossians.1.24": [
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "nunc",
+            "lemma": "nunc"
+        },
+        {
+            "key": "gaudeo",
+            "lemma": "gaudeo"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "passionibus",
+            "lemma": "passio"
+        },
+        {
+            "key": "pro",
+            "lemma": "pro"
+        },
+        {
+            "key": "vobis",
+            "lemma": "uos"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "adimpleo",
+            "lemma": "adimpleo"
+        },
+        {
+            "key": "ea",
+            "lemma": "is"
+        },
+        {
+            "key": "qu\u00e6",
+            "lemma": "qu\u00e6"
+        },
+        {
+            "key": "desunt",
+            "lemma": "desum"
+        },
+        {
+            "key": "passionum",
+            "lemma": "passio"
+        },
+        {
+            "key": "christi",
+            "lemma": "christus"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "carne",
+            "lemma": "caro"
+        },
+        {
+            "key": "mea",
+            "lemma": "meus"
+        },
+        {
+            "key": "pro",
+            "lemma": "pro"
+        },
+        {
+            "key": "corpore",
+            "lemma": "corpus"
+        },
+        {
+            "key": "ejus",
+            "lemma": "js"
+        },
+        {
+            "key": "quod",
+            "lemma": "qui"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "ecclesia",
+            "lemma": "ecclesia"
+        }
+    ],
+    "Colossians.1.25": [
+        {
+            "key": "cujus",
+            "lemma": "qujs"
+        },
+        {
+            "key": "factus",
+            "lemma": "facio"
+        },
+        {
+            "key": "sum",
+            "lemma": "sum"
+        },
+        {
+            "key": "ego",
+            "lemma": "ego"
+        },
+        {
+            "key": "minister",
+            "lemma": "minister"
+        },
+        {
+            "key": "secundum",
+            "lemma": "secundum"
+        },
+        {
+            "key": "dispensationem",
+            "lemma": "dispensatio"
+        },
+        {
+            "key": "dei",
+            "lemma": "deus"
+        },
+        {
+            "key": "qu\u00e6",
+            "lemma": "qu\u00e6"
+        },
+        {
+            "key": "data",
+            "lemma": "do"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "mihi",
+            "lemma": "ego"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "vos",
+            "lemma": "uos"
+        },
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "impleam",
+            "lemma": "impleo"
+        },
+        {
+            "key": "verbum",
+            "lemma": "uerbum"
+        },
+        {
+            "key": "dei",
+            "lemma": "deus"
+        }
+    ],
+    "Colossians.1.26": [
+        {
+            "key": "mysterium",
+            "lemma": "mysterium"
+        },
+        {
+            "key": "quod",
+            "lemma": "qui"
+        },
+        {
+            "key": "absconditum",
+            "lemma": "absconditus"
+        },
+        {
+            "key": "fuit",
+            "lemma": "sum"
+        },
+        {
+            "key": "a",
+            "lemma": "ab"
+        },
+        {
+            "key": "s\u00e6culis",
+            "lemma": "s\u00e6culum"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "generationibus",
+            "lemma": "generatio"
+        },
+        {
+            "key": "nunc",
+            "lemma": "nunc"
+        },
+        {
+            "key": "autem",
+            "lemma": "autem"
+        },
+        {
+            "key": "manifestatum",
+            "lemma": "manifesto"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "sanctis",
+            "lemma": "sanctus"
+        },
+        {
+            "key": "ejus",
+            "lemma": "ejus"
+        }
+    ],
+    "Colossians.1.27": [
+        {
+            "key": "quibus",
+            "lemma": "qui"
+        },
+        {
+            "key": "voluit",
+            "lemma": "uolo"
+        },
+        {
+            "key": "deus",
+            "lemma": "deus"
+        },
+        {
+            "key": "notas",
+            "lemma": "notus"
+        },
+        {
+            "key": "facere",
+            "lemma": "facio"
+        },
+        {
+            "key": "divitias",
+            "lemma": "diuitiae"
+        },
+        {
+            "key": "glori\u00e6",
+            "lemma": "glori\u00e6"
+        },
+        {
+            "key": "sacramenti",
+            "lemma": "sacramentum"
+        },
+        {
+            "key": "hujus",
+            "lemma": "hjc"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "gentibus",
+            "lemma": "gens"
+        },
+        {
+            "key": "quod",
+            "lemma": "qui"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "christus",
+            "lemma": "christus"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "vobis",
+            "lemma": "uos"
+        },
+        {
+            "key": "spes",
+            "lemma": "spes"
+        },
+        {
+            "key": "glori\u00e6",
+            "lemma": "glori\u00e6"
+        }
+    ],
+    "Colossians.1.28": [
+        {
+            "key": "quem",
+            "lemma": "qui"
+        },
+        {
+            "key": "nos",
+            "lemma": "nos"
+        },
+        {
+            "key": "annuntiamus",
+            "lemma": "annuntio"
+        },
+        {
+            "key": "corripientes",
+            "lemma": "corripio"
+        },
+        {
+            "key": "omnem",
+            "lemma": "omnis"
+        },
+        {
+            "key": "hominem",
+            "lemma": "homo"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "docentes",
+            "lemma": "doceo"
+        },
+        {
+            "key": "omnem",
+            "lemma": "omnis"
+        },
+        {
+            "key": "hominem",
+            "lemma": "homo"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "omni",
+            "lemma": "omnis"
+        },
+        {
+            "key": "sapientia",
+            "lemma": "sapientia"
+        },
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "exhibeamus",
+            "lemma": "exhibeo"
+        },
+        {
+            "key": "omnem",
+            "lemma": "omnis"
+        },
+        {
+            "key": "hominem",
+            "lemma": "homo"
+        },
+        {
+            "key": "perfectum",
+            "lemma": "perfectus"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "christo",
+            "lemma": "christus"
+        },
+        {
+            "key": "jesu",
+            "lemma": "jesus"
+        }
+    ],
+    "Colossians.1.29": [
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "quo",
+            "lemma": "qui"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "laboro",
+            "lemma": "laboro"
+        },
+        {
+            "key": "certando",
+            "lemma": "certo"
+        },
+        {
+            "key": "secundum",
+            "lemma": "secundum"
+        },
+        {
+            "key": "operationem",
+            "lemma": "operatio"
+        },
+        {
+            "key": "ejus",
+            "lemma": "js"
+        },
+        {
+            "key": "quam",
+            "lemma": "qui"
+        },
+        {
+            "key": "operatur",
+            "lemma": "operor"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "me",
+            "lemma": "ego"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "virtute",
+            "lemma": "uirtus"
+        }
+    ],
+    "Colossians.2.1": [
+        {
+            "key": "volo",
+            "lemma": "volo"
+        },
+        {
+            "key": "enim",
+            "lemma": "enim"
+        },
+        {
+            "key": "vos",
+            "lemma": "uos"
+        },
+        {
+            "key": "scire",
+            "lemma": "scio"
+        },
+        {
+            "key": "qualem",
+            "lemma": "qualis"
+        },
+        {
+            "key": "sollicitudinem",
+            "lemma": "sollicitudo"
+        },
+        {
+            "key": "habeam",
+            "lemma": "habeo"
+        },
+        {
+            "key": "pro",
+            "lemma": "pro"
+        },
+        {
+            "key": "vobis",
+            "lemma": "uos"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "pro",
+            "lemma": "pro"
+        },
+        {
+            "key": "iis",
+            "lemma": "is"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "sunt",
+            "lemma": "sum"
+        },
+        {
+            "key": "laodici\u00e6",
+            "lemma": "laodici\u00e6"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "quicumque",
+            "lemma": "quicumque"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "viderunt",
+            "lemma": "uideo"
+        },
+        {
+            "key": "faciem",
+            "lemma": "facies"
+        },
+        {
+            "key": "meam",
+            "lemma": "meus"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "carne",
+            "lemma": "caro"
+        }
+    ],
+    "Colossians.2.2": [
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "consolentur",
+            "lemma": "consolor"
+        },
+        {
+            "key": "corda",
+            "lemma": "cor"
+        },
+        {
+            "key": "ipsorum",
+            "lemma": "ipse"
+        },
+        {
+            "key": "instructi",
+            "lemma": "instruo"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "caritate",
+            "lemma": "caritas"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "omnes",
+            "lemma": "omnis"
+        },
+        {
+            "key": "divitias",
+            "lemma": "diuitiae"
+        },
+        {
+            "key": "plenitudinis",
+            "lemma": "plenitudo"
+        },
+        {
+            "key": "intellectus",
+            "lemma": "intellectus"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "agnitionem",
+            "lemma": "agnitio"
+        },
+        {
+            "key": "mysterii",
+            "lemma": "mysterium"
+        },
+        {
+            "key": "dei",
+            "lemma": "deus"
+        },
+        {
+            "key": "patris",
+            "lemma": "pater"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "christi",
+            "lemma": "christus"
+        },
+        {
+            "key": "jesu",
+            "lemma": "jesus"
+        }
+    ],
+    "Colossians.2.3": [
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "quo",
+            "lemma": "qui"
+        },
+        {
+            "key": "sunt",
+            "lemma": "sum"
+        },
+        {
+            "key": "omnes",
+            "lemma": "omnis"
+        },
+        {
+            "key": "thesauri",
+            "lemma": "thesaurus"
+        },
+        {
+            "key": "sapienti\u00e6",
+            "lemma": "sapienti\u00e6um"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "scienti\u00e6",
+            "lemma": "scienti\u00e6"
+        },
+        {
+            "key": "absconditi",
+            "lemma": "abscondo"
+        }
+    ],
+    "Colossians.2.4": [
+        {
+            "key": "hoc",
+            "lemma": "hic"
+        },
+        {
+            "key": "autem",
+            "lemma": "autem"
+        },
+        {
+            "key": "dico",
+            "lemma": "dico"
+        },
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "nemo",
+            "lemma": "nemo"
+        },
+        {
+            "key": "vos",
+            "lemma": "uos"
+        },
+        {
+            "key": "decipiat",
+            "lemma": "decipio"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "sublimitate",
+            "lemma": "sublimitas"
+        },
+        {
+            "key": "sermonum",
+            "lemma": "sermo"
+        }
+    ],
+    "Colossians.2.5": [
+        {
+            "key": "nam",
+            "lemma": "nam"
+        },
+        {
+            "key": "etsi",
+            "lemma": "et si"
+        },
+        {
+            "key": "corpore",
+            "lemma": "corpus"
+        },
+        {
+            "key": "absens",
+            "lemma": "absens"
+        },
+        {
+            "key": "sum",
+            "lemma": "sum"
+        },
+        {
+            "key": "sed",
+            "lemma": "sed"
+        },
+        {
+            "key": "spiritu",
+            "lemma": "spiritus"
+        },
+        {
+            "key": "vobis",
+            "lemma": "uos"
+        },
+        {
+            "key": "cum",
+            "lemma": "cum"
+        },
+        {
+            "key": "sum",
+            "lemma": "sum"
+        },
+        {
+            "key": "gaudens",
+            "lemma": "gaudeo"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "videns",
+            "lemma": "uideo"
+        },
+        {
+            "key": "ordinem",
+            "lemma": "ordo"
+        },
+        {
+            "key": "vestrum",
+            "lemma": "uester"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "firmamentum",
+            "lemma": "firmamentum"
+        },
+        {
+            "key": "ejus",
+            "lemma": "js"
+        },
+        {
+            "key": "qu\u00e6",
+            "lemma": "qu\u00e6"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "christo",
+            "lemma": "christus"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "fidei",
+            "lemma": "fides"
+        },
+        {
+            "key": "vestr\u00e6",
+            "lemma": "uestr\u00e6"
+        }
+    ],
+    "Colossians.2.6": [
+        {
+            "key": "sicut",
+            "lemma": "sicut"
+        },
+        {
+            "key": "ergo",
+            "lemma": "ergo"
+        },
+        {
+            "key": "accepistis",
+            "lemma": "accipio"
+        },
+        {
+            "key": "jesum",
+            "lemma": "jesus"
+        },
+        {
+            "key": "christum",
+            "lemma": "christus"
+        },
+        {
+            "key": "dominum",
+            "lemma": "dominus"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "ipso",
+            "lemma": "ipse"
+        },
+        {
+            "key": "ambulate",
+            "lemma": "ambulo"
+        }
+    ],
+    "Colossians.2.7": [
+        {
+            "key": "radicati",
+            "lemma": "radico"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "super\u00e6dificati",
+            "lemma": "super\u00e6difico"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "ipso",
+            "lemma": "ipse"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "confirmati",
+            "lemma": "confirmo"
+        },
+        {
+            "key": "fide",
+            "lemma": "fides"
+        },
+        {
+            "key": "sicut",
+            "lemma": "sicut"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "didicistis",
+            "lemma": "disco"
+        },
+        {
+            "key": "abundantes",
+            "lemma": "abundo"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "illo",
+            "lemma": "ille"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "gratiarum",
+            "lemma": "gratia"
+        },
+        {
+            "key": "actione",
+            "lemma": "actio"
+        }
+    ],
+    "Colossians.2.8": [
+        {
+            "key": "videte",
+            "lemma": "videte"
+        },
+        {
+            "key": "ne",
+            "lemma": "ne"
+        },
+        {
+            "key": "quis",
+            "lemma": "quis"
+        },
+        {
+            "key": "vos",
+            "lemma": "uos"
+        },
+        {
+            "key": "decipiat",
+            "lemma": "decipio"
+        },
+        {
+            "key": "per",
+            "lemma": "per"
+        },
+        {
+            "key": "philosophiam",
+            "lemma": "philosophia"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "inanem",
+            "lemma": "inanis"
+        },
+        {
+            "key": "fallaciam",
+            "lemma": "fallacia"
+        },
+        {
+            "key": "secundum",
+            "lemma": "secundum"
+        },
+        {
+            "key": "traditionem",
+            "lemma": "traditio"
+        },
+        {
+            "key": "hominum",
+            "lemma": "homo"
+        },
+        {
+            "key": "secundum",
+            "lemma": "secundum"
+        },
+        {
+            "key": "elementa",
+            "lemma": "elementum"
+        },
+        {
+            "key": "mundi",
+            "lemma": "mundus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "secundum",
+            "lemma": "secundum"
+        },
+        {
+            "key": "christum",
+            "lemma": "christus"
+        }
+    ],
+    "Colossians.2.9": [
+        {
+            "key": "quia",
+            "lemma": "quia"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "ipso",
+            "lemma": "ipse"
+        },
+        {
+            "key": "inhabitat",
+            "lemma": "inhabito"
+        },
+        {
+            "key": "omnis",
+            "lemma": "omnis"
+        },
+        {
+            "key": "plenitudo",
+            "lemma": "plenitudo"
+        },
+        {
+            "key": "divinitatis",
+            "lemma": "divinitas"
+        },
+        {
+            "key": "corporaliter",
+            "lemma": "corporaliter"
+        }
+    ],
+    "Colossians.2.10": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "estis",
+            "lemma": "sum"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "illo",
+            "lemma": "ille"
+        },
+        {
+            "key": "repleti",
+            "lemma": "repleo"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "caput",
+            "lemma": "caput"
+        },
+        {
+            "key": "omnis",
+            "lemma": "omnis"
+        },
+        {
+            "key": "principatus",
+            "lemma": "principatus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "potestatis",
+            "lemma": "potestas"
+        }
+    ],
+    "Colossians.2.11": [
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "quo",
+            "lemma": "qui"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "circumcisi",
+            "lemma": "circumcido"
+        },
+        {
+            "key": "estis",
+            "lemma": "sum"
+        },
+        {
+            "key": "circumcisione",
+            "lemma": "circumcisio"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "manu",
+            "lemma": "manus"
+        },
+        {
+            "key": "facta",
+            "lemma": "facio"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "expoliatione",
+            "lemma": "expoliatio"
+        },
+        {
+            "key": "corporis",
+            "lemma": "corpus"
+        },
+        {
+            "key": "carnis",
+            "lemma": "caro"
+        },
+        {
+            "key": "sed",
+            "lemma": "sed"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "circumcisione",
+            "lemma": "circumcisio"
+        },
+        {
+            "key": "christi",
+            "lemma": "christus"
+        }
+    ],
+    "Colossians.2.12": [
+        {
+            "key": "consepulti",
+            "lemma": "consepulti"
+        },
+        {
+            "key": "ei",
+            "lemma": "is"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "baptismo",
+            "lemma": "baptisma"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "quo",
+            "lemma": "qui"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "resurrexistis",
+            "lemma": "resurrexo"
+        },
+        {
+            "key": "per",
+            "lemma": "per"
+        },
+        {
+            "key": "fidem",
+            "lemma": "fides"
+        },
+        {
+            "key": "operationis",
+            "lemma": "operatio"
+        },
+        {
+            "key": "dei",
+            "lemma": "deus"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "suscitavit",
+            "lemma": "suscito"
+        },
+        {
+            "key": "illum",
+            "lemma": "ille"
+        },
+        {
+            "key": "a",
+            "lemma": "ab"
+        },
+        {
+            "key": "mortuis",
+            "lemma": "morior"
+        }
+    ],
+    "Colossians.2.13": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "vos",
+            "lemma": "uos"
+        },
+        {
+            "key": "cum",
+            "lemma": "cum"
+        },
+        {
+            "key": "mortui",
+            "lemma": "morior"
+        },
+        {
+            "key": "essetis",
+            "lemma": "sum"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "delictis",
+            "lemma": "delictum"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "pr\u00e6putio",
+            "lemma": "pr\u00e6putio"
+        },
+        {
+            "key": "carnis",
+            "lemma": "caro"
+        },
+        {
+            "key": "vestr\u00e6",
+            "lemma": "vestr\u00e6"
+        },
+        {
+            "key": "convivificavit",
+            "lemma": "convivifico"
+        },
+        {
+            "key": "cum",
+            "lemma": "cum"
+        },
+        {
+            "key": "illo",
+            "lemma": "ille"
+        },
+        {
+            "key": "donans",
+            "lemma": "dono"
+        },
+        {
+            "key": "vobis",
+            "lemma": "uos"
+        },
+        {
+            "key": "omnia",
+            "lemma": "omnis"
+        },
+        {
+            "key": "delicta",
+            "lemma": "delinquo"
+        }
+    ],
+    "Colossians.2.14": [
+        {
+            "key": "delens",
+            "lemma": "delo"
+        },
+        {
+            "key": "quod",
+            "lemma": "qui"
+        },
+        {
+            "key": "adversus",
+            "lemma": "aduersus"
+        },
+        {
+            "key": "nos",
+            "lemma": "nos"
+        },
+        {
+            "key": "erat",
+            "lemma": "sum"
+        },
+        {
+            "key": "chirographum",
+            "lemma": "chirographus"
+        },
+        {
+            "key": "decreti",
+            "lemma": "decretum"
+        },
+        {
+            "key": "quod",
+            "lemma": "qui"
+        },
+        {
+            "key": "erat",
+            "lemma": "sum"
+        },
+        {
+            "key": "contrarium",
+            "lemma": "contrarius"
+        },
+        {
+            "key": "nobis",
+            "lemma": "nos"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "ipsum",
+            "lemma": "ipse"
+        },
+        {
+            "key": "tulit",
+            "lemma": "fero"
+        },
+        {
+            "key": "de",
+            "lemma": "de"
+        },
+        {
+            "key": "medio",
+            "lemma": "medius"
+        },
+        {
+            "key": "affigens",
+            "lemma": "affigo"
+        },
+        {
+            "key": "illud",
+            "lemma": "ille"
+        },
+        {
+            "key": "cruci",
+            "lemma": "crux"
+        }
+    ],
+    "Colossians.2.15": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "expolians",
+            "lemma": "expolio"
+        },
+        {
+            "key": "principatus",
+            "lemma": "principatus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "potestates",
+            "lemma": "potestas"
+        },
+        {
+            "key": "traduxit",
+            "lemma": "traduco"
+        },
+        {
+            "key": "confidenter",
+            "lemma": "confidenter"
+        },
+        {
+            "key": "palam",
+            "lemma": "palam"
+        },
+        {
+            "key": "triumphans",
+            "lemma": "triumpho"
+        },
+        {
+            "key": "illos",
+            "lemma": "ille"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "semetipso",
+            "lemma": "semetipsum"
+        }
+    ],
+    "Colossians.2.16": [
+        {
+            "key": "nemo",
+            "lemma": "nemo"
+        },
+        {
+            "key": "ergo",
+            "lemma": "ergo"
+        },
+        {
+            "key": "vos",
+            "lemma": "uos"
+        },
+        {
+            "key": "judicet",
+            "lemma": "judico"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "cibo",
+            "lemma": "cibus"
+        },
+        {
+            "key": "aut",
+            "lemma": "aut"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "potu",
+            "lemma": "potus"
+        },
+        {
+            "key": "aut",
+            "lemma": "aut"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "parte",
+            "lemma": "pars"
+        },
+        {
+            "key": "diei",
+            "lemma": "dies"
+        },
+        {
+            "key": "festi",
+            "lemma": "festus"
+        },
+        {
+            "key": "aut",
+            "lemma": "aut"
+        },
+        {
+            "key": "neomeni\u00e6",
+            "lemma": "neomeni\u00e6"
+        },
+        {
+            "key": "aut",
+            "lemma": "aut"
+        },
+        {
+            "key": "sabbatorum",
+            "lemma": "sabbatum"
+        }
+    ],
+    "Colossians.2.17": [
+        {
+            "key": "qu\u00e6",
+            "lemma": "qu\u00e6"
+        },
+        {
+            "key": "sunt",
+            "lemma": "sum"
+        },
+        {
+            "key": "umbra",
+            "lemma": "umbra"
+        },
+        {
+            "key": "futurorum",
+            "lemma": "futurus"
+        },
+        {
+            "key": "corpus",
+            "lemma": "corpus"
+        },
+        {
+            "key": "autem",
+            "lemma": "autem"
+        },
+        {
+            "key": "christi",
+            "lemma": "christus"
+        }
+    ],
+    "Colossians.2.18": [
+        {
+            "key": "nemo",
+            "lemma": "nemo"
+        },
+        {
+            "key": "vos",
+            "lemma": "uos"
+        },
+        {
+            "key": "seducat",
+            "lemma": "seduco"
+        },
+        {
+            "key": "volens",
+            "lemma": "uolo"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "humilitate",
+            "lemma": "humilitas"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "religione",
+            "lemma": "religio"
+        },
+        {
+            "key": "angelorum",
+            "lemma": "angelus"
+        },
+        {
+            "key": "qu\u00e6",
+            "lemma": "qu\u00e6"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "vidit",
+            "lemma": "uideo"
+        },
+        {
+            "key": "ambulans",
+            "lemma": "ambulo"
+        },
+        {
+            "key": "frustra",
+            "lemma": "frustra"
+        },
+        {
+            "key": "inflatus",
+            "lemma": "inflo"
+        },
+        {
+            "key": "sensu",
+            "lemma": "sensus"
+        },
+        {
+            "key": "carnis",
+            "lemma": "caro"
+        },
+        {
+            "key": "su\u00e6",
+            "lemma": "su\u00e6"
+        }
+    ],
+    "Colossians.2.19": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "tenens",
+            "lemma": "teneo"
+        },
+        {
+            "key": "caput",
+            "lemma": "caput"
+        },
+        {
+            "key": "ex",
+            "lemma": "ex"
+        },
+        {
+            "key": "quo",
+            "lemma": "qui"
+        },
+        {
+            "key": "totum",
+            "lemma": "totus"
+        },
+        {
+            "key": "corpus",
+            "lemma": "corpus"
+        },
+        {
+            "key": "per",
+            "lemma": "per"
+        },
+        {
+            "key": "nexus",
+            "lemma": "nexus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "conjunctiones",
+            "lemma": "conjunctio"
+        },
+        {
+            "key": "subministratum",
+            "lemma": "subministro"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "constructum",
+            "lemma": "construo"
+        },
+        {
+            "key": "crescit",
+            "lemma": "cresco"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "augmentum",
+            "lemma": "augmentum"
+        },
+        {
+            "key": "dei",
+            "lemma": "deus"
+        }
+    ],
+    "Colossians.2.20": [
+        {
+            "key": "si",
+            "lemma": "si"
+        },
+        {
+            "key": "ergo",
+            "lemma": "ergo"
+        },
+        {
+            "key": "mortui",
+            "lemma": "morior"
+        },
+        {
+            "key": "estis",
+            "lemma": "sum"
+        },
+        {
+            "key": "cum",
+            "lemma": "cum"
+        },
+        {
+            "key": "christo",
+            "lemma": "christus"
+        },
+        {
+            "key": "ab",
+            "lemma": "ab"
+        },
+        {
+            "key": "elementis",
+            "lemma": "elementum"
+        },
+        {
+            "key": "hujus",
+            "lemma": "hjc"
+        },
+        {
+            "key": "mundi",
+            "lemma": "mundus"
+        },
+        {
+            "key": "quid",
+            "lemma": "quis"
+        },
+        {
+            "key": "adhuc",
+            "lemma": "adhuc"
+        },
+        {
+            "key": "tamquam",
+            "lemma": "tamquam"
+        },
+        {
+            "key": "viventes",
+            "lemma": "uiuo"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "mundo",
+            "lemma": "mundus"
+        },
+        {
+            "key": "decernitis",
+            "lemma": "decerno"
+        }
+    ],
+    "Colossians.2.21": [
+        {
+            "key": "ne",
+            "lemma": "ne"
+        },
+        {
+            "key": "tetigeritis",
+            "lemma": "tetigeritis"
+        },
+        {
+            "key": "neque",
+            "lemma": "neque"
+        },
+        {
+            "key": "gustaveritis",
+            "lemma": "gusto"
+        },
+        {
+            "key": "neque",
+            "lemma": "neque"
+        },
+        {
+            "key": "contrectaveritis",
+            "lemma": "contrecto"
+        }
+    ],
+    "Colossians.2.22": [
+        {
+            "key": "qu\u00e6",
+            "lemma": "qu\u00e6"
+        },
+        {
+            "key": "sunt",
+            "lemma": "sum"
+        },
+        {
+            "key": "omnia",
+            "lemma": "omnis"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "interitum",
+            "lemma": "interitus"
+        },
+        {
+            "key": "ipso",
+            "lemma": "ipse"
+        },
+        {
+            "key": "usu",
+            "lemma": "usus"
+        },
+        {
+            "key": "secundum",
+            "lemma": "secundum"
+        },
+        {
+            "key": "pr\u00e6cepta",
+            "lemma": "pr\u00e6ceptum"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "doctrinas",
+            "lemma": "doctrina"
+        },
+        {
+            "key": "hominum",
+            "lemma": "homo"
+        }
+    ],
+    "Colossians.2.23": [
+        {
+            "key": "qu\u00e6",
+            "lemma": "qu\u00e6"
+        },
+        {
+            "key": "sunt",
+            "lemma": "sum"
+        },
+        {
+            "key": "rationem",
+            "lemma": "ratio"
+        },
+        {
+            "key": "quidem",
+            "lemma": "quidem"
+        },
+        {
+            "key": "habentia",
+            "lemma": "habeo"
+        },
+        {
+            "key": "sapienti\u00e6",
+            "lemma": "sapienti\u00e6"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "superstitione",
+            "lemma": "superstitio"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "humilitate",
+            "lemma": "humilitas"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "parcendum",
+            "lemma": "parco"
+        },
+        {
+            "key": "corpori",
+            "lemma": "corpus"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "honore",
+            "lemma": "honor"
+        },
+        {
+            "key": "aliquo",
+            "lemma": "aliquis"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "saturitatem",
+            "lemma": "saturitas"
+        },
+        {
+            "key": "carnis",
+            "lemma": "caro"
+        }
+    ],
+    "Colossians.3.1": [
+        {
+            "key": "igitur",
+            "lemma": "igitur"
+        },
+        {
+            "key": "si",
+            "lemma": "si"
+        },
+        {
+            "key": "consurrexistis",
+            "lemma": "consurrexo"
+        },
+        {
+            "key": "cum",
+            "lemma": "cum"
+        },
+        {
+            "key": "christo",
+            "lemma": "christus"
+        },
+        {
+            "key": "qu\u00e6",
+            "lemma": "qu\u00e6"
+        },
+        {
+            "key": "sursum",
+            "lemma": "sursum"
+        },
+        {
+            "key": "sunt",
+            "lemma": "sum"
+        },
+        {
+            "key": "qu\u00e6rite",
+            "lemma": "qu\u00e6ro"
+        },
+        {
+            "key": "ubi",
+            "lemma": "ubi"
+        },
+        {
+            "key": "christus",
+            "lemma": "christus"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "dextera",
+            "lemma": "dexter"
+        },
+        {
+            "key": "dei",
+            "lemma": "deus"
+        },
+        {
+            "key": "sedens",
+            "lemma": "sedeo"
+        }
+    ],
+    "Colossians.3.2": [
+        {
+            "key": "qu\u00e6",
+            "lemma": "qu\u00e6"
+        },
+        {
+            "key": "sursum",
+            "lemma": "sursum"
+        },
+        {
+            "key": "sunt",
+            "lemma": "sum"
+        },
+        {
+            "key": "sapite",
+            "lemma": "sapio"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "qu\u00e6",
+            "lemma": "qu\u00e6"
+        },
+        {
+            "key": "super",
+            "lemma": "super"
+        },
+        {
+            "key": "terram",
+            "lemma": "terra"
+        }
+    ],
+    "Colossians.3.3": [
+        {
+            "key": "mortui",
+            "lemma": "mortui"
+        },
+        {
+            "key": "enim",
+            "lemma": "enim"
+        },
+        {
+            "key": "estis",
+            "lemma": "sum"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "vita",
+            "lemma": "uita"
+        },
+        {
+            "key": "vestra",
+            "lemma": "uester"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "abscondita",
+            "lemma": "absconditus"
+        },
+        {
+            "key": "cum",
+            "lemma": "cum"
+        },
+        {
+            "key": "christo",
+            "lemma": "christus"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "deo",
+            "lemma": "deus"
+        }
+    ],
+    "Colossians.3.4": [
+        {
+            "key": "cum",
+            "lemma": "cum"
+        },
+        {
+            "key": "christus",
+            "lemma": "christus"
+        },
+        {
+            "key": "apparuerit",
+            "lemma": "appareo"
+        },
+        {
+            "key": "vita",
+            "lemma": "uita"
+        },
+        {
+            "key": "vestra",
+            "lemma": "uester"
+        },
+        {
+            "key": "tunc",
+            "lemma": "tunc"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "vos",
+            "lemma": "uos"
+        },
+        {
+            "key": "apparebitis",
+            "lemma": "apparebita"
+        },
+        {
+            "key": "cum",
+            "lemma": "cum"
+        },
+        {
+            "key": "ipso",
+            "lemma": "ipse"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "gloria",
+            "lemma": "gloria"
+        }
+    ],
+    "Colossians.3.5": [
+        {
+            "key": "mortificate",
+            "lemma": "mortificas"
+        },
+        {
+            "key": "ergo",
+            "lemma": "ergo"
+        },
+        {
+            "key": "membra",
+            "lemma": "membrum"
+        },
+        {
+            "key": "vestra",
+            "lemma": "uester"
+        },
+        {
+            "key": "qu\u00e6",
+            "lemma": "qu\u00e6"
+        },
+        {
+            "key": "sunt",
+            "lemma": "sum"
+        },
+        {
+            "key": "super",
+            "lemma": "super"
+        },
+        {
+            "key": "terram",
+            "lemma": "terra"
+        },
+        {
+            "key": "fornicationem",
+            "lemma": "fornicatio"
+        },
+        {
+            "key": "immunditiam",
+            "lemma": "immunditia"
+        },
+        {
+            "key": "libidinem",
+            "lemma": "libido"
+        },
+        {
+            "key": "concupiscentiam",
+            "lemma": "concupiscentia"
+        },
+        {
+            "key": "malam",
+            "lemma": "malus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "avaritiam",
+            "lemma": "auaritia"
+        },
+        {
+            "key": "qu\u00e6",
+            "lemma": "qu\u00e6"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "simulacrorum",
+            "lemma": "simulacrum"
+        },
+        {
+            "key": "servitus",
+            "lemma": "servitus"
+        }
+    ],
+    "Colossians.3.6": [
+        {
+            "key": "propter",
+            "lemma": "propter"
+        },
+        {
+            "key": "qu\u00e6",
+            "lemma": "qu\u00e6"
+        },
+        {
+            "key": "venit",
+            "lemma": "uenio"
+        },
+        {
+            "key": "ira",
+            "lemma": "ira"
+        },
+        {
+            "key": "dei",
+            "lemma": "deus"
+        },
+        {
+            "key": "super",
+            "lemma": "super"
+        },
+        {
+            "key": "filios",
+            "lemma": "filius"
+        },
+        {
+            "key": "incredulitatis",
+            "lemma": "incredulitas"
+        }
+    ],
+    "Colossians.3.7": [
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "quibus",
+            "lemma": "qui"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "vos",
+            "lemma": "uos"
+        },
+        {
+            "key": "ambulastis",
+            "lemma": "ambulo"
+        },
+        {
+            "key": "aliquando",
+            "lemma": "aliquando"
+        },
+        {
+            "key": "cum",
+            "lemma": "cum"
+        },
+        {
+            "key": "viveretis",
+            "lemma": "viveretis"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "illis",
+            "lemma": "ille"
+        }
+    ],
+    "Colossians.3.8": [
+        {
+            "key": "nunc",
+            "lemma": "nunc"
+        },
+        {
+            "key": "autem",
+            "lemma": "autem"
+        },
+        {
+            "key": "deponite",
+            "lemma": "deponio"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "vos",
+            "lemma": "uos"
+        },
+        {
+            "key": "omnia",
+            "lemma": "omnis"
+        },
+        {
+            "key": "iram",
+            "lemma": "ira"
+        },
+        {
+            "key": "indignationem",
+            "lemma": "indignatio"
+        },
+        {
+            "key": "malitiam",
+            "lemma": "malitia"
+        },
+        {
+            "key": "blasphemiam",
+            "lemma": "blasphemia"
+        },
+        {
+            "key": "turpem",
+            "lemma": "turpis"
+        },
+        {
+            "key": "sermonem",
+            "lemma": "sermo"
+        },
+        {
+            "key": "de",
+            "lemma": "de"
+        },
+        {
+            "key": "ore",
+            "lemma": "os"
+        },
+        {
+            "key": "vestro",
+            "lemma": "uester"
+        }
+    ],
+    "Colossians.3.9": [
+        {
+            "key": "nolite",
+            "lemma": "nolo"
+        },
+        {
+            "key": "mentiri",
+            "lemma": "mentior"
+        },
+        {
+            "key": "invicem",
+            "lemma": "inuicem"
+        },
+        {
+            "key": "expoliantes",
+            "lemma": "expolio"
+        },
+        {
+            "key": "vos",
+            "lemma": "uos"
+        },
+        {
+            "key": "veterem",
+            "lemma": "uetus"
+        },
+        {
+            "key": "hominem",
+            "lemma": "homo"
+        },
+        {
+            "key": "cum",
+            "lemma": "cum"
+        },
+        {
+            "key": "actibus",
+            "lemma": "actus"
+        },
+        {
+            "key": "suis",
+            "lemma": "suus"
+        }
+    ],
+    "Colossians.3.10": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "induentes",
+            "lemma": "induo"
+        },
+        {
+            "key": "novum",
+            "lemma": "nouus"
+        },
+        {
+            "key": "eum",
+            "lemma": "is"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "renovatur",
+            "lemma": "renouo"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "agnitionem",
+            "lemma": "agnitio"
+        },
+        {
+            "key": "secundum",
+            "lemma": "secundum"
+        },
+        {
+            "key": "imaginem",
+            "lemma": "imago"
+        },
+        {
+            "key": "ejus",
+            "lemma": "ejus"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "creavit",
+            "lemma": "creo"
+        },
+        {
+            "key": "illum",
+            "lemma": "ille"
+        }
+    ],
+    "Colossians.3.11": [
+        {
+            "key": "ubi",
+            "lemma": "ubi"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "gentilis",
+            "lemma": "gentilis"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "jud\u00e6us",
+            "lemma": "jud\u00e6us"
+        },
+        {
+            "key": "circumcisio",
+            "lemma": "circumcisio"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "pr\u00e6putium",
+            "lemma": "pr\u00e6putium"
+        },
+        {
+            "key": "barbarus",
+            "lemma": "barbarus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "scytha",
+            "lemma": "scytha"
+        },
+        {
+            "key": "servus",
+            "lemma": "seruus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "liber",
+            "lemma": "liber"
+        },
+        {
+            "key": "sed",
+            "lemma": "sed"
+        },
+        {
+            "key": "omnia",
+            "lemma": "omnis"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "omnibus",
+            "lemma": "omnis"
+        },
+        {
+            "key": "christus",
+            "lemma": "christus"
+        }
+    ],
+    "Colossians.3.12": [
+        {
+            "key": "induite",
+            "lemma": "induo"
+        },
+        {
+            "key": "vos",
+            "lemma": "uos"
+        },
+        {
+            "key": "ergo",
+            "lemma": "ergo"
+        },
+        {
+            "key": "sicut",
+            "lemma": "sicut"
+        },
+        {
+            "key": "electi",
+            "lemma": "eleco"
+        },
+        {
+            "key": "dei",
+            "lemma": "deus"
+        },
+        {
+            "key": "sancti",
+            "lemma": "sanctus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "dilecti",
+            "lemma": "dilectus"
+        },
+        {
+            "key": "viscera",
+            "lemma": "uiscera"
+        },
+        {
+            "key": "misericordi\u00e6",
+            "lemma": "misericordi\u00e6"
+        },
+        {
+            "key": "benignitatem",
+            "lemma": "benignitas"
+        },
+        {
+            "key": "humilitatem",
+            "lemma": "humilitas"
+        },
+        {
+            "key": "modestiam",
+            "lemma": "modestia"
+        },
+        {
+            "key": "patientiam",
+            "lemma": "patientia"
+        }
+    ],
+    "Colossians.3.13": [
+        {
+            "key": "supportantes",
+            "lemma": "supporto"
+        },
+        {
+            "key": "invicem",
+            "lemma": "inuicem"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "donantes",
+            "lemma": "dono"
+        },
+        {
+            "key": "vobismetipsis",
+            "lemma": "uobismetipsis"
+        },
+        {
+            "key": "si",
+            "lemma": "si"
+        },
+        {
+            "key": "quis",
+            "lemma": "quis"
+        },
+        {
+            "key": "adversus",
+            "lemma": "aduersus"
+        },
+        {
+            "key": "aliquem",
+            "lemma": "aliquis"
+        },
+        {
+            "key": "habet",
+            "lemma": "habeo"
+        },
+        {
+            "key": "querelam",
+            "lemma": "querela"
+        },
+        {
+            "key": "sicut",
+            "lemma": "sicut"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "dominus",
+            "lemma": "dominus"
+        },
+        {
+            "key": "donavit",
+            "lemma": "dono"
+        },
+        {
+            "key": "vobis",
+            "lemma": "uos"
+        },
+        {
+            "key": "ita",
+            "lemma": "ita"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "vos",
+            "lemma": "uos"
+        }
+    ],
+    "Colossians.3.14": [
+        {
+            "key": "super",
+            "lemma": "super"
+        },
+        {
+            "key": "omnia",
+            "lemma": "omnis"
+        },
+        {
+            "key": "autem",
+            "lemma": "autem"
+        },
+        {
+            "key": "h\u00e6c",
+            "lemma": "h\u00e6c"
+        },
+        {
+            "key": "caritatem",
+            "lemma": "caritas"
+        },
+        {
+            "key": "habete",
+            "lemma": "habeo"
+        },
+        {
+            "key": "quod",
+            "lemma": "qui"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "vinculum",
+            "lemma": "vinculum"
+        },
+        {
+            "key": "perfectionis",
+            "lemma": "perfectio"
+        }
+    ],
+    "Colossians.3.15": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "pax",
+            "lemma": "pax"
+        },
+        {
+            "key": "christi",
+            "lemma": "christus"
+        },
+        {
+            "key": "exsultet",
+            "lemma": "exsulto"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "cordibus",
+            "lemma": "cor"
+        },
+        {
+            "key": "vestris",
+            "lemma": "uester"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "qua",
+            "lemma": "qui"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "vocati",
+            "lemma": "uoco"
+        },
+        {
+            "key": "estis",
+            "lemma": "sum"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "uno",
+            "lemma": "unus"
+        },
+        {
+            "key": "corpore",
+            "lemma": "corpus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "grati",
+            "lemma": "gratus"
+        },
+        {
+            "key": "estote",
+            "lemma": "sum"
+        }
+    ],
+    "Colossians.3.16": [
+        {
+            "key": "verbum",
+            "lemma": "uerbum"
+        },
+        {
+            "key": "christi",
+            "lemma": "christus"
+        },
+        {
+            "key": "habitet",
+            "lemma": "habito"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "vobis",
+            "lemma": "uos"
+        },
+        {
+            "key": "abundanter",
+            "lemma": "abundanter"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "omni",
+            "lemma": "omnis"
+        },
+        {
+            "key": "sapientia",
+            "lemma": "sapientia"
+        },
+        {
+            "key": "docentes",
+            "lemma": "doceo"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "commonentes",
+            "lemma": "commono"
+        },
+        {
+            "key": "vosmetipsos",
+            "lemma": "uosmetipsos"
+        },
+        {
+            "key": "psalmis",
+            "lemma": "psalmus"
+        },
+        {
+            "key": "hymnis",
+            "lemma": "hymnus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "canticis",
+            "lemma": "canticus"
+        },
+        {
+            "key": "spiritualibus",
+            "lemma": "spiritualis"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "gratia",
+            "lemma": "gratia"
+        },
+        {
+            "key": "cantantes",
+            "lemma": "canto"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "cordibus",
+            "lemma": "cor"
+        },
+        {
+            "key": "vestris",
+            "lemma": "uester"
+        },
+        {
+            "key": "deo",
+            "lemma": "deus"
+        }
+    ],
+    "Colossians.3.17": [
+        {
+            "key": "omne",
+            "lemma": "omnis"
+        },
+        {
+            "key": "quodcumque",
+            "lemma": "quicumque"
+        },
+        {
+            "key": "facitis",
+            "lemma": "facio"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "verbo",
+            "lemma": "uerbum"
+        },
+        {
+            "key": "aut",
+            "lemma": "aut"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "opere",
+            "lemma": "opus"
+        },
+        {
+            "key": "omnia",
+            "lemma": "omnis"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "nomine",
+            "lemma": "nomen"
+        },
+        {
+            "key": "domini",
+            "lemma": "dominus"
+        },
+        {
+            "key": "jesu",
+            "lemma": "jesus"
+        },
+        {
+            "key": "christi",
+            "lemma": "christus"
+        },
+        {
+            "key": "gratias",
+            "lemma": "gratia"
+        },
+        {
+            "key": "agentes",
+            "lemma": "ago"
+        },
+        {
+            "key": "deo",
+            "lemma": "deus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "patri",
+            "lemma": "pater"
+        },
+        {
+            "key": "per",
+            "lemma": "per"
+        },
+        {
+            "key": "ipsum",
+            "lemma": "ipse"
+        }
+    ],
+    "Colossians.3.18": [
+        {
+            "key": "mulieres",
+            "lemma": "mulier"
+        },
+        {
+            "key": "subdit\u00e6",
+            "lemma": "subdit\u00e6"
+        },
+        {
+            "key": "estote",
+            "lemma": "sum"
+        },
+        {
+            "key": "viris",
+            "lemma": "uir"
+        },
+        {
+            "key": "sicut",
+            "lemma": "sicut"
+        },
+        {
+            "key": "oportet",
+            "lemma": "oportet"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "domino",
+            "lemma": "dominus"
+        }
+    ],
+    "Colossians.3.19": [
+        {
+            "key": "viri",
+            "lemma": "uir"
+        },
+        {
+            "key": "diligite",
+            "lemma": "diligo"
+        },
+        {
+            "key": "uxores",
+            "lemma": "uxor"
+        },
+        {
+            "key": "vestras",
+            "lemma": "uester"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "nolite",
+            "lemma": "nolo"
+        },
+        {
+            "key": "amari",
+            "lemma": "amo"
+        },
+        {
+            "key": "esse",
+            "lemma": "sum"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "illas",
+            "lemma": "ille"
+        }
+    ],
+    "Colossians.3.20": [
+        {
+            "key": "filii",
+            "lemma": "filius"
+        },
+        {
+            "key": "obedite",
+            "lemma": "obedio"
+        },
+        {
+            "key": "parentibus",
+            "lemma": "parens"
+        },
+        {
+            "key": "per",
+            "lemma": "per"
+        },
+        {
+            "key": "omnia",
+            "lemma": "omnis"
+        },
+        {
+            "key": "hoc",
+            "lemma": "hic"
+        },
+        {
+            "key": "enim",
+            "lemma": "enim"
+        },
+        {
+            "key": "placitum",
+            "lemma": "placeo"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "domino",
+            "lemma": "dominus"
+        }
+    ],
+    "Colossians.3.21": [
+        {
+            "key": "patres",
+            "lemma": "pater"
+        },
+        {
+            "key": "nolite",
+            "lemma": "nolo"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "indignationem",
+            "lemma": "indignatio"
+        },
+        {
+            "key": "provocare",
+            "lemma": "provoco"
+        },
+        {
+            "key": "filios",
+            "lemma": "filius"
+        },
+        {
+            "key": "vestros",
+            "lemma": "uester"
+        },
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "pusillo",
+            "lemma": "pusillus"
+        },
+        {
+            "key": "animo",
+            "lemma": "animus"
+        },
+        {
+            "key": "fiant",
+            "lemma": "fio"
+        }
+    ],
+    "Colossians.3.22": [
+        {
+            "key": "servi",
+            "lemma": "servus"
+        },
+        {
+            "key": "obedite",
+            "lemma": "obedio"
+        },
+        {
+            "key": "per",
+            "lemma": "per"
+        },
+        {
+            "key": "omnia",
+            "lemma": "omnis"
+        },
+        {
+            "key": "dominis",
+            "lemma": "dominus"
+        },
+        {
+            "key": "carnalibus",
+            "lemma": "carnalis"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "oculum",
+            "lemma": "oculus"
+        },
+        {
+            "key": "servientes",
+            "lemma": "seruio"
+        },
+        {
+            "key": "quasi",
+            "lemma": "quasi"
+        },
+        {
+            "key": "hominibus",
+            "lemma": "homo"
+        },
+        {
+            "key": "placentes",
+            "lemma": "placeo"
+        },
+        {
+            "key": "sed",
+            "lemma": "sed"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "simplicitate",
+            "lemma": "simplicitas"
+        },
+        {
+            "key": "cordis",
+            "lemma": "cor"
+        },
+        {
+            "key": "timentes",
+            "lemma": "timeo"
+        },
+        {
+            "key": "deum",
+            "lemma": "deus"
+        }
+    ],
+    "Colossians.3.23": [
+        {
+            "key": "quodcumque",
+            "lemma": "quodcumque"
+        },
+        {
+            "key": "facitis",
+            "lemma": "facio"
+        },
+        {
+            "key": "ex",
+            "lemma": "ex"
+        },
+        {
+            "key": "animo",
+            "lemma": "animus"
+        },
+        {
+            "key": "operamini",
+            "lemma": "opero"
+        },
+        {
+            "key": "sicut",
+            "lemma": "sicut"
+        },
+        {
+            "key": "domino",
+            "lemma": "dominus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "hominibus",
+            "lemma": "homo"
+        }
+    ],
+    "Colossians.3.24": [
+        {
+            "key": "scientes",
+            "lemma": "scio"
+        },
+        {
+            "key": "quod",
+            "lemma": "quod"
+        },
+        {
+            "key": "a",
+            "lemma": "ab"
+        },
+        {
+            "key": "domino",
+            "lemma": "dominus"
+        },
+        {
+            "key": "accipietis",
+            "lemma": "accipio"
+        },
+        {
+            "key": "retributionem",
+            "lemma": "retributio"
+        },
+        {
+            "key": "h\u00e6reditatis",
+            "lemma": "h\u00e6reditas"
+        },
+        {
+            "key": "domino",
+            "lemma": "dominus"
+        },
+        {
+            "key": "christo",
+            "lemma": "christus"
+        },
+        {
+            "key": "servite",
+            "lemma": "servo"
+        }
+    ],
+    "Colossians.3.25": [
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "enim",
+            "lemma": "enim"
+        },
+        {
+            "key": "injuriam",
+            "lemma": "injuria"
+        },
+        {
+            "key": "facit",
+            "lemma": "facio"
+        },
+        {
+            "key": "recipiet",
+            "lemma": "recipio"
+        },
+        {
+            "key": "id",
+            "lemma": "is"
+        },
+        {
+            "key": "quod",
+            "lemma": "qui"
+        },
+        {
+            "key": "inique",
+            "lemma": "inique"
+        },
+        {
+            "key": "gessit",
+            "lemma": "gero"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "personarum",
+            "lemma": "persona"
+        },
+        {
+            "key": "acceptio",
+            "lemma": "acceptio"
+        },
+        {
+            "key": "apud",
+            "lemma": "apud"
+        },
+        {
+            "key": "deum",
+            "lemma": "deus"
+        }
+    ],
+    "Colossians.4.1": [
+        {
+            "key": "domini",
+            "lemma": "dominus"
+        },
+        {
+            "key": "quod",
+            "lemma": "qui"
+        },
+        {
+            "key": "justum",
+            "lemma": "justus"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "\u00e6quum",
+            "lemma": "\u00e6quus"
+        },
+        {
+            "key": "servis",
+            "lemma": "seruus"
+        },
+        {
+            "key": "pr\u00e6state",
+            "lemma": "pr\u00e6stas"
+        },
+        {
+            "key": "scientes",
+            "lemma": "scio"
+        },
+        {
+            "key": "quod",
+            "lemma": "quod"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "vos",
+            "lemma": "uos"
+        },
+        {
+            "key": "dominum",
+            "lemma": "dominus"
+        },
+        {
+            "key": "habetis",
+            "lemma": "habeo"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "c\u00e6lo",
+            "lemma": "c\u00e6lum"
+        }
+    ],
+    "Colossians.4.2": [
+        {
+            "key": "orationi",
+            "lemma": "oratio"
+        },
+        {
+            "key": "instate",
+            "lemma": "insto"
+        },
+        {
+            "key": "vigilantes",
+            "lemma": "uigilo"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "ea",
+            "lemma": "is"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "gratiarum",
+            "lemma": "gratia"
+        },
+        {
+            "key": "actione",
+            "lemma": "actio"
+        }
+    ],
+    "Colossians.4.3": [
+        {
+            "key": "orantes",
+            "lemma": "oro"
+        },
+        {
+            "key": "simul",
+            "lemma": "simul"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "pro",
+            "lemma": "pro"
+        },
+        {
+            "key": "nobis",
+            "lemma": "nos"
+        },
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "deus",
+            "lemma": "deus"
+        },
+        {
+            "key": "aperiat",
+            "lemma": "aperio"
+        },
+        {
+            "key": "nobis",
+            "lemma": "nos"
+        },
+        {
+            "key": "ostium",
+            "lemma": "ostium"
+        },
+        {
+            "key": "sermonis",
+            "lemma": "sermo"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "loquendum",
+            "lemma": "loquo"
+        },
+        {
+            "key": "mysterium",
+            "lemma": "mysterium"
+        },
+        {
+            "key": "christi",
+            "lemma": "christus"
+        },
+        {
+            "key": "propter",
+            "lemma": "propter"
+        },
+        {
+            "key": "quod",
+            "lemma": "qui"
+        },
+        {
+            "key": "etiam",
+            "lemma": "etiam"
+        },
+        {
+            "key": "vinctus",
+            "lemma": "uincio"
+        },
+        {
+            "key": "sum",
+            "lemma": "sum"
+        }
+    ],
+    "Colossians.4.4": [
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "manifestem",
+            "lemma": "manifess"
+        },
+        {
+            "key": "illud",
+            "lemma": "ille"
+        },
+        {
+            "key": "ita",
+            "lemma": "ita"
+        },
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "oportet",
+            "lemma": "oportet"
+        },
+        {
+            "key": "me",
+            "lemma": "ego"
+        },
+        {
+            "key": "loqui",
+            "lemma": "loquor"
+        }
+    ],
+    "Colossians.4.5": [
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "sapientia",
+            "lemma": "sapientia"
+        },
+        {
+            "key": "ambulate",
+            "lemma": "ambulo"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "eos",
+            "lemma": "is"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "foris",
+            "lemma": "foris"
+        },
+        {
+            "key": "sunt",
+            "lemma": "sum"
+        },
+        {
+            "key": "tempus",
+            "lemma": "tempus"
+        },
+        {
+            "key": "redimentes",
+            "lemma": "redimo"
+        }
+    ],
+    "Colossians.4.6": [
+        {
+            "key": "sermo",
+            "lemma": "sermus"
+        },
+        {
+            "key": "vester",
+            "lemma": "uester"
+        },
+        {
+            "key": "semper",
+            "lemma": "semper"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "gratia",
+            "lemma": "gratia"
+        },
+        {
+            "key": "sale",
+            "lemma": "salis"
+        },
+        {
+            "key": "sit",
+            "lemma": "sum"
+        },
+        {
+            "key": "conditus",
+            "lemma": "condo"
+        },
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "sciatis",
+            "lemma": "scio"
+        },
+        {
+            "key": "quomodo",
+            "lemma": "quomodo"
+        },
+        {
+            "key": "oporteat",
+            "lemma": "oportet"
+        },
+        {
+            "key": "vos",
+            "lemma": "uos"
+        },
+        {
+            "key": "unicuique",
+            "lemma": "unusquisque"
+        },
+        {
+            "key": "respondere",
+            "lemma": "respondeo"
+        }
+    ],
+    "Colossians.4.7": [
+        {
+            "key": "qu\u00e6",
+            "lemma": "qu\u00e6"
+        },
+        {
+            "key": "circa",
+            "lemma": "circa"
+        },
+        {
+            "key": "me",
+            "lemma": "ego"
+        },
+        {
+            "key": "sunt",
+            "lemma": "sum"
+        },
+        {
+            "key": "omnia",
+            "lemma": "omnis"
+        },
+        {
+            "key": "vobis",
+            "lemma": "uos"
+        },
+        {
+            "key": "nota",
+            "lemma": "nosco"
+        },
+        {
+            "key": "faciet",
+            "lemma": "facio"
+        },
+        {
+            "key": "tychicus",
+            "lemma": "tychicus"
+        },
+        {
+            "key": "carissimus",
+            "lemma": "carus"
+        },
+        {
+            "key": "frater",
+            "lemma": "frater"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "fidelis",
+            "lemma": "fidelis"
+        },
+        {
+            "key": "minister",
+            "lemma": "minister"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "conservus",
+            "lemma": "conseruus"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "domino",
+            "lemma": "dominus"
+        }
+    ],
+    "Colossians.4.8": [
+        {
+            "key": "quem",
+            "lemma": "qui"
+        },
+        {
+            "key": "misi",
+            "lemma": "mitto"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "vos",
+            "lemma": "uos"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "hoc",
+            "lemma": "hic"
+        },
+        {
+            "key": "ipsum",
+            "lemma": "ipse"
+        },
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "cognoscat",
+            "lemma": "cognosco"
+        },
+        {
+            "key": "qu\u00e6",
+            "lemma": "qu\u00e6"
+        },
+        {
+            "key": "circa",
+            "lemma": "circa"
+        },
+        {
+            "key": "vos",
+            "lemma": "uos"
+        },
+        {
+            "key": "sunt",
+            "lemma": "sum"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "consoletur",
+            "lemma": "consolor"
+        },
+        {
+            "key": "corda",
+            "lemma": "cor"
+        },
+        {
+            "key": "vestra",
+            "lemma": "uester"
+        }
+    ],
+    "Colossians.4.9": [
+        {
+            "key": "cum",
+            "lemma": "cum"
+        },
+        {
+            "key": "onesimo",
+            "lemma": "onesimus"
+        },
+        {
+            "key": "carissimo",
+            "lemma": "carus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "fideli",
+            "lemma": "fidelis"
+        },
+        {
+            "key": "fratre",
+            "lemma": "frater"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "ex",
+            "lemma": "ex"
+        },
+        {
+            "key": "vobis",
+            "lemma": "uos"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "omnia",
+            "lemma": "omnis"
+        },
+        {
+            "key": "qu\u00e6",
+            "lemma": "qu\u00e6"
+        },
+        {
+            "key": "hic",
+            "lemma": "hic"
+        },
+        {
+            "key": "aguntur",
+            "lemma": "ago"
+        },
+        {
+            "key": "nota",
+            "lemma": "nosco"
+        },
+        {
+            "key": "facient",
+            "lemma": "facio"
+        },
+        {
+            "key": "vobis",
+            "lemma": "uos"
+        }
+    ],
+    "Colossians.4.10": [
+        {
+            "key": "salutat",
+            "lemma": "saluto"
+        },
+        {
+            "key": "vos",
+            "lemma": "uos"
+        },
+        {
+            "key": "aristarchus",
+            "lemma": "aristarchus"
+        },
+        {
+            "key": "concaptivus",
+            "lemma": "concaptiuus"
+        },
+        {
+            "key": "meus",
+            "lemma": "meus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "marcus",
+            "lemma": "marcus"
+        },
+        {
+            "key": "consobrinus",
+            "lemma": "consobrinus"
+        },
+        {
+            "key": "barnab\u00e6",
+            "lemma": "barnab\u00e6"
+        },
+        {
+            "key": "de",
+            "lemma": "de"
+        },
+        {
+            "key": "quo",
+            "lemma": "qui"
+        },
+        {
+            "key": "accepistis",
+            "lemma": "accipio"
+        },
+        {
+            "key": "mandata",
+            "lemma": "mandatum"
+        },
+        {
+            "key": "si",
+            "lemma": "si"
+        },
+        {
+            "key": "venerit",
+            "lemma": "uenio"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "vos",
+            "lemma": "uos"
+        },
+        {
+            "key": "excipite",
+            "lemma": "excipio"
+        },
+        {
+            "key": "illum",
+            "lemma": "ille"
+        }
+    ],
+    "Colossians.4.11": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "jesus",
+            "lemma": "jesus"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "dicitur",
+            "lemma": "dico"
+        },
+        {
+            "key": "justus",
+            "lemma": "justus"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "sunt",
+            "lemma": "sum"
+        },
+        {
+            "key": "ex",
+            "lemma": "ex"
+        },
+        {
+            "key": "circumcisione",
+            "lemma": "circumcisio"
+        },
+        {
+            "key": "hi",
+            "lemma": "hic"
+        },
+        {
+            "key": "soli",
+            "lemma": "solus"
+        },
+        {
+            "key": "sunt",
+            "lemma": "sum"
+        },
+        {
+            "key": "adjutores",
+            "lemma": "adjutor"
+        },
+        {
+            "key": "mei",
+            "lemma": "meus"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "regno",
+            "lemma": "regnum"
+        },
+        {
+            "key": "dei",
+            "lemma": "deus"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "mihi",
+            "lemma": "ego"
+        },
+        {
+            "key": "fuerunt",
+            "lemma": "sum"
+        },
+        {
+            "key": "solatio",
+            "lemma": "solatio"
+        }
+    ],
+    "Colossians.4.12": [
+        {
+            "key": "salutat",
+            "lemma": "saluto"
+        },
+        {
+            "key": "vos",
+            "lemma": "uos"
+        },
+        {
+            "key": "epaphras",
+            "lemma": "epaphras"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "ex",
+            "lemma": "ex"
+        },
+        {
+            "key": "vobis",
+            "lemma": "uos"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "servus",
+            "lemma": "seruus"
+        },
+        {
+            "key": "christi",
+            "lemma": "christus"
+        },
+        {
+            "key": "jesu",
+            "lemma": "jesus"
+        },
+        {
+            "key": "semper",
+            "lemma": "semper"
+        },
+        {
+            "key": "sollicitus",
+            "lemma": "sollicitus"
+        },
+        {
+            "key": "pro",
+            "lemma": "pro"
+        },
+        {
+            "key": "vobis",
+            "lemma": "uos"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "orationibus",
+            "lemma": "oratio"
+        },
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "stetis",
+            "lemma": "stetis"
+        },
+        {
+            "key": "perfecti",
+            "lemma": "perfectus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "pleni",
+            "lemma": "plenus"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "omni",
+            "lemma": "omnis"
+        },
+        {
+            "key": "voluntate",
+            "lemma": "uoluntas"
+        },
+        {
+            "key": "dei",
+            "lemma": "deus"
+        }
+    ],
+    "Colossians.4.13": [
+        {
+            "key": "testimonium",
+            "lemma": "testimonium"
+        },
+        {
+            "key": "enim",
+            "lemma": "enim"
+        },
+        {
+            "key": "illi",
+            "lemma": "ille"
+        },
+        {
+            "key": "perhibeo",
+            "lemma": "perhibeo"
+        },
+        {
+            "key": "quod",
+            "lemma": "qui"
+        },
+        {
+            "key": "habet",
+            "lemma": "habeo"
+        },
+        {
+            "key": "multum",
+            "lemma": "multus"
+        },
+        {
+            "key": "laborem",
+            "lemma": "labor"
+        },
+        {
+            "key": "pro",
+            "lemma": "pro"
+        },
+        {
+            "key": "vobis",
+            "lemma": "uos"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "pro",
+            "lemma": "pro"
+        },
+        {
+            "key": "iis",
+            "lemma": "is"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "sunt",
+            "lemma": "sum"
+        },
+        {
+            "key": "laodici\u00e6",
+            "lemma": "laodici\u00e6"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "hierapoli",
+            "lemma": "hierapolus"
+        }
+    ],
+    "Colossians.4.14": [
+        {
+            "key": "salutat",
+            "lemma": "saluto"
+        },
+        {
+            "key": "vos",
+            "lemma": "uos"
+        },
+        {
+            "key": "lucas",
+            "lemma": "lucas"
+        },
+        {
+            "key": "medicus",
+            "lemma": "medicus"
+        },
+        {
+            "key": "carissimus",
+            "lemma": "carus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "demas",
+            "lemma": "demas"
+        }
+    ],
+    "Colossians.4.15": [
+        {
+            "key": "salutate",
+            "lemma": "saluto"
+        },
+        {
+            "key": "fratres",
+            "lemma": "frater"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "sunt",
+            "lemma": "sum"
+        },
+        {
+            "key": "laodici\u00e6",
+            "lemma": "laodici\u00e6"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "nympham",
+            "lemma": "nympha"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "qu\u00e6",
+            "lemma": "qu\u00e6"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "domo",
+            "lemma": "domus"
+        },
+        {
+            "key": "ejus",
+            "lemma": "js"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "ecclesiam",
+            "lemma": "ecclesia"
+        }
+    ],
+    "Colossians.4.16": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "cum",
+            "lemma": "cum"
+        },
+        {
+            "key": "lecta",
+            "lemma": "lego"
+        },
+        {
+            "key": "fuerit",
+            "lemma": "sum"
+        },
+        {
+            "key": "apud",
+            "lemma": "apud"
+        },
+        {
+            "key": "vos",
+            "lemma": "uos"
+        },
+        {
+            "key": "epistola",
+            "lemma": "epistola"
+        },
+        {
+            "key": "h\u00e6c",
+            "lemma": "h\u00e6c"
+        },
+        {
+            "key": "facite",
+            "lemma": "facio"
+        },
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "laodicensium",
+            "lemma": "laodicenses"
+        },
+        {
+            "key": "ecclesia",
+            "lemma": "ecclesia"
+        },
+        {
+            "key": "legatur",
+            "lemma": "lego"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "eam",
+            "lemma": "is"
+        },
+        {
+            "key": "qu\u00e6",
+            "lemma": "qu\u00e6"
+        },
+        {
+            "key": "laodicensium",
+            "lemma": "laodicenses"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "vos",
+            "lemma": "uos"
+        },
+        {
+            "key": "legatis",
+            "lemma": "legatus"
+        }
+    ],
+    "Colossians.4.17": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "dicite",
+            "lemma": "dico"
+        },
+        {
+            "key": "archippo",
+            "lemma": "archippus"
+        },
+        {
+            "key": "vide",
+            "lemma": "uideo"
+        },
+        {
+            "key": "ministerium",
+            "lemma": "ministerium"
+        },
+        {
+            "key": "quod",
+            "lemma": "qui"
+        },
+        {
+            "key": "accepisti",
+            "lemma": "accipio"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "domino",
+            "lemma": "dominus"
+        },
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "illud",
+            "lemma": "ille"
+        },
+        {
+            "key": "impleas",
+            "lemma": "impleo"
+        }
+    ],
+    "Colossians.4.18": [
+        {
+            "key": "salutatio",
+            "lemma": "salutatio"
+        },
+        {
+            "key": "mea",
+            "lemma": "meus"
+        },
+        {
+            "key": "manu",
+            "lemma": "manus"
+        },
+        {
+            "key": "pauli",
+            "lemma": "paulus"
+        },
+        {
+            "key": "memores",
+            "lemma": "memores"
+        },
+        {
+            "key": "estote",
+            "lemma": "sum"
+        },
+        {
+            "key": "vinculorum",
+            "lemma": "uinculum"
+        },
+        {
+            "key": "meorum",
+            "lemma": "meus"
+        },
+        {
+            "key": "gratia",
+            "lemma": "gratia"
+        },
+        {
+            "key": "vobis",
+            "lemma": "uos"
+        },
+        {
+            "key": "cum",
+            "lemma": "cum"
+        },
+        {
+            "key": "amen",
+            "lemma": "amen"
+        }
+    ]
+}

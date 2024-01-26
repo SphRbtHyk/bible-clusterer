@@ -1,0 +1,3974 @@
+{
+    "Jonas.1.1": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "factum",
+            "lemma": "facio"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "verbum",
+            "lemma": "uerbum"
+        },
+        {
+            "key": "domini",
+            "lemma": "dominus"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "jonam",
+            "lemma": "jona"
+        },
+        {
+            "key": "filium",
+            "lemma": "filius"
+        },
+        {
+            "key": "amathi",
+            "lemma": "amathus"
+        },
+        {
+            "key": "dicens",
+            "lemma": "dico"
+        }
+    ],
+    "Jonas.1.2": [
+        {
+            "key": "surge",
+            "lemma": "surgo"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "vade",
+            "lemma": "uado"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "niniven",
+            "lemma": "niniven"
+        },
+        {
+            "key": "civitatem",
+            "lemma": "ciuitas"
+        },
+        {
+            "key": "grandem",
+            "lemma": "grandis"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "pr\u00e6dica",
+            "lemma": "pr\u00e6dica"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "ea",
+            "lemma": "is"
+        },
+        {
+            "key": "quia",
+            "lemma": "quia"
+        },
+        {
+            "key": "ascendit",
+            "lemma": "ascendo"
+        },
+        {
+            "key": "malitia",
+            "lemma": "malitia"
+        },
+        {
+            "key": "ejus",
+            "lemma": "js"
+        },
+        {
+            "key": "coram",
+            "lemma": "coram"
+        },
+        {
+            "key": "me",
+            "lemma": "ego"
+        }
+    ],
+    "Jonas.1.3": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "surrexit",
+            "lemma": "surgo"
+        },
+        {
+            "key": "jonas",
+            "lemma": "jonas"
+        },
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "fugeret",
+            "lemma": "fugio"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "tharsis",
+            "lemma": "tharsis"
+        },
+        {
+            "key": "a",
+            "lemma": "ab"
+        },
+        {
+            "key": "facie",
+            "lemma": "facies"
+        },
+        {
+            "key": "domini",
+            "lemma": "dominus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "descendit",
+            "lemma": "descendo"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "joppen",
+            "lemma": "joppen"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "invenit",
+            "lemma": "inuenio"
+        },
+        {
+            "key": "navem",
+            "lemma": "nauis"
+        },
+        {
+            "key": "euntem",
+            "lemma": "eo"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "tharsis",
+            "lemma": "tharsis"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "dedit",
+            "lemma": "do"
+        },
+        {
+            "key": "naulum",
+            "lemma": "naulus"
+        },
+        {
+            "key": "ejus",
+            "lemma": "js"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "descendit",
+            "lemma": "descendo"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "eam",
+            "lemma": "is"
+        },
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "iret",
+            "lemma": "eo"
+        },
+        {
+            "key": "cum",
+            "lemma": "cum"
+        },
+        {
+            "key": "eis",
+            "lemma": "is"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "tharsis",
+            "lemma": "tharsis"
+        },
+        {
+            "key": "a",
+            "lemma": "ab"
+        },
+        {
+            "key": "facie",
+            "lemma": "facies"
+        },
+        {
+            "key": "domini",
+            "lemma": "dominus"
+        }
+    ],
+    "Jonas.1.4": [
+        {
+            "key": "dominus",
+            "lemma": "dominus"
+        },
+        {
+            "key": "autem",
+            "lemma": "autem"
+        },
+        {
+            "key": "misit",
+            "lemma": "mitto"
+        },
+        {
+            "key": "ventum",
+            "lemma": "uentus"
+        },
+        {
+            "key": "magnum",
+            "lemma": "magnus"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "mare",
+            "lemma": "mare"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "facta",
+            "lemma": "facio"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "tempestas",
+            "lemma": "tempestas"
+        },
+        {
+            "key": "magna",
+            "lemma": "magnus"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "mari",
+            "lemma": "mare"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "navis",
+            "lemma": "nauis"
+        },
+        {
+            "key": "periclitabatur",
+            "lemma": "periclito"
+        },
+        {
+            "key": "conteri",
+            "lemma": "conteror"
+        }
+    ],
+    "Jonas.1.5": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "timuerunt",
+            "lemma": "timeo"
+        },
+        {
+            "key": "naut\u00e6",
+            "lemma": "naut\u00e6"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "clamaverunt",
+            "lemma": "clamo"
+        },
+        {
+            "key": "viri",
+            "lemma": "uir"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "deum",
+            "lemma": "deus"
+        },
+        {
+            "key": "suum",
+            "lemma": "suus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "miserunt",
+            "lemma": "mitto"
+        },
+        {
+            "key": "vasa",
+            "lemma": "uas"
+        },
+        {
+            "key": "qu\u00e6",
+            "lemma": "qu\u00e6"
+        },
+        {
+            "key": "erant",
+            "lemma": "sum"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "navi",
+            "lemma": "nauis"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "mare",
+            "lemma": "mare"
+        },
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "alleviaretur",
+            "lemma": "alleviaretur"
+        },
+        {
+            "key": "ab",
+            "lemma": "ab"
+        },
+        {
+            "key": "eis",
+            "lemma": "is"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "jonas",
+            "lemma": "jonas"
+        },
+        {
+            "key": "descendit",
+            "lemma": "descendo"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "interiora",
+            "lemma": "interior"
+        },
+        {
+            "key": "navis",
+            "lemma": "nauis"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "dormiebat",
+            "lemma": "dormio"
+        },
+        {
+            "key": "sopore",
+            "lemma": "sopor"
+        },
+        {
+            "key": "gravi",
+            "lemma": "grauis"
+        }
+    ],
+    "Jonas.1.6": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "accessit",
+            "lemma": "accedo"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "eum",
+            "lemma": "is"
+        },
+        {
+            "key": "gubernator",
+            "lemma": "gubernator"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "dixit",
+            "lemma": "dico"
+        },
+        {
+            "key": "ei",
+            "lemma": "is"
+        },
+        {
+            "key": "quid",
+            "lemma": "quis"
+        },
+        {
+            "key": "tu",
+            "lemma": "tu"
+        },
+        {
+            "key": "sopore",
+            "lemma": "sopor"
+        },
+        {
+            "key": "deprimeris",
+            "lemma": "deprimor"
+        },
+        {
+            "key": "surge",
+            "lemma": "surgo"
+        },
+        {
+            "key": "invoca",
+            "lemma": "inuoca"
+        },
+        {
+            "key": "deum",
+            "lemma": "deus"
+        },
+        {
+            "key": "tuum",
+            "lemma": "tuus"
+        },
+        {
+            "key": "si",
+            "lemma": "si"
+        },
+        {
+            "key": "forte",
+            "lemma": "forte"
+        },
+        {
+            "key": "recogitet",
+            "lemma": "recogito"
+        },
+        {
+            "key": "deus",
+            "lemma": "deus"
+        },
+        {
+            "key": "de",
+            "lemma": "de"
+        },
+        {
+            "key": "nobis",
+            "lemma": "nos"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "pereamus",
+            "lemma": "pereo"
+        }
+    ],
+    "Jonas.1.7": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "dixit",
+            "lemma": "dico"
+        },
+        {
+            "key": "vir",
+            "lemma": "uir"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "collegam",
+            "lemma": "collega"
+        },
+        {
+            "key": "suum",
+            "lemma": "suus"
+        },
+        {
+            "key": "venite",
+            "lemma": "veno"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "mittamus",
+            "lemma": "mitto"
+        },
+        {
+            "key": "sortes",
+            "lemma": "sors"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "sciamus",
+            "lemma": "scio"
+        },
+        {
+            "key": "quare",
+            "lemma": "quare"
+        },
+        {
+            "key": "hoc",
+            "lemma": "hic"
+        },
+        {
+            "key": "malum",
+            "lemma": "malus"
+        },
+        {
+            "key": "sit",
+            "lemma": "sum"
+        },
+        {
+            "key": "nobis",
+            "lemma": "nos"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "miserunt",
+            "lemma": "mitto"
+        },
+        {
+            "key": "sortes",
+            "lemma": "sors"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "cecidit",
+            "lemma": "cado"
+        },
+        {
+            "key": "sors",
+            "lemma": "sors"
+        },
+        {
+            "key": "super",
+            "lemma": "super"
+        },
+        {
+            "key": "jonam",
+            "lemma": "jona"
+        }
+    ],
+    "Jonas.1.8": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "dixerunt",
+            "lemma": "dico"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "eum",
+            "lemma": "is"
+        },
+        {
+            "key": "indica",
+            "lemma": "indica"
+        },
+        {
+            "key": "nobis",
+            "lemma": "nos"
+        },
+        {
+            "key": "cujus",
+            "lemma": "quj"
+        },
+        {
+            "key": "causa",
+            "lemma": "causa"
+        },
+        {
+            "key": "malum",
+            "lemma": "malum"
+        },
+        {
+            "key": "istud",
+            "lemma": "iste"
+        },
+        {
+            "key": "sit",
+            "lemma": "sum"
+        },
+        {
+            "key": "nobis",
+            "lemma": "nos"
+        },
+        {
+            "key": "quod",
+            "lemma": "qui"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "opus",
+            "lemma": "opus"
+        },
+        {
+            "key": "tuum",
+            "lemma": "tuus"
+        },
+        {
+            "key": "qu\u00e6",
+            "lemma": "qu\u00e6"
+        },
+        {
+            "key": "terra",
+            "lemma": "terra"
+        },
+        {
+            "key": "tua",
+            "lemma": "tuus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "quo",
+            "lemma": "quo"
+        },
+        {
+            "key": "vadis",
+            "lemma": "uado"
+        },
+        {
+            "key": "vel",
+            "lemma": "uel"
+        },
+        {
+            "key": "ex",
+            "lemma": "ex"
+        },
+        {
+            "key": "quo",
+            "lemma": "qui"
+        },
+        {
+            "key": "populo",
+            "lemma": "populus"
+        },
+        {
+            "key": "es",
+            "lemma": "sum"
+        },
+        {
+            "key": "tu",
+            "lemma": "tu"
+        }
+    ],
+    "Jonas.1.9": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "dixit",
+            "lemma": "dico"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "eos",
+            "lemma": "is"
+        },
+        {
+            "key": "hebr\u00e6us",
+            "lemma": "hebr\u00e6us"
+        },
+        {
+            "key": "ego",
+            "lemma": "ego"
+        },
+        {
+            "key": "sum",
+            "lemma": "sum"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "dominum",
+            "lemma": "dominus"
+        },
+        {
+            "key": "deum",
+            "lemma": "deus"
+        },
+        {
+            "key": "c\u00e6li",
+            "lemma": "c\u00e6li"
+        },
+        {
+            "key": "ego",
+            "lemma": "ego"
+        },
+        {
+            "key": "timeo",
+            "lemma": "timeo"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "fecit",
+            "lemma": "facio"
+        },
+        {
+            "key": "mare",
+            "lemma": "mare"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "aridam",
+            "lemma": "aridus"
+        }
+    ],
+    "Jonas.1.10": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "timuerunt",
+            "lemma": "timeo"
+        },
+        {
+            "key": "viri",
+            "lemma": "uir"
+        },
+        {
+            "key": "timore",
+            "lemma": "timor"
+        },
+        {
+            "key": "magno",
+            "lemma": "magnus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "dixerunt",
+            "lemma": "dico"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "eum",
+            "lemma": "is"
+        },
+        {
+            "key": "quid",
+            "lemma": "quis"
+        },
+        {
+            "key": "hoc",
+            "lemma": "hic"
+        },
+        {
+            "key": "fecisti",
+            "lemma": "facio"
+        },
+        {
+            "key": "cognoverunt",
+            "lemma": "cognosco"
+        },
+        {
+            "key": "enim",
+            "lemma": "enim"
+        },
+        {
+            "key": "viri",
+            "lemma": "uir"
+        },
+        {
+            "key": "quod",
+            "lemma": "quod"
+        },
+        {
+            "key": "a",
+            "lemma": "ab"
+        },
+        {
+            "key": "facie",
+            "lemma": "facies"
+        },
+        {
+            "key": "domini",
+            "lemma": "dominus"
+        },
+        {
+            "key": "fugeret",
+            "lemma": "fugeo"
+        },
+        {
+            "key": "quia",
+            "lemma": "quia"
+        },
+        {
+            "key": "indicaverat",
+            "lemma": "indicavo"
+        },
+        {
+            "key": "eis",
+            "lemma": "is"
+        }
+    ],
+    "Jonas.1.11": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "dixerunt",
+            "lemma": "dico"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "eum",
+            "lemma": "is"
+        },
+        {
+            "key": "quid",
+            "lemma": "quis"
+        },
+        {
+            "key": "faciemus",
+            "lemma": "facio"
+        },
+        {
+            "key": "tibi",
+            "lemma": "tu"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "cessabit",
+            "lemma": "cesso"
+        },
+        {
+            "key": "mare",
+            "lemma": "mare"
+        },
+        {
+            "key": "a",
+            "lemma": "ab"
+        },
+        {
+            "key": "nobis",
+            "lemma": "nos"
+        },
+        {
+            "key": "quia",
+            "lemma": "quia"
+        },
+        {
+            "key": "mare",
+            "lemma": "mare"
+        },
+        {
+            "key": "ibat",
+            "lemma": "eo"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "intumescebat",
+            "lemma": "intumescebat"
+        }
+    ],
+    "Jonas.1.12": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "dixit",
+            "lemma": "dico"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "eos",
+            "lemma": "is"
+        },
+        {
+            "key": "tollite",
+            "lemma": "tollo"
+        },
+        {
+            "key": "me",
+            "lemma": "ego"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "mittite",
+            "lemma": "mitto"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "mare",
+            "lemma": "mare"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "cessabit",
+            "lemma": "cesso"
+        },
+        {
+            "key": "mare",
+            "lemma": "mare"
+        },
+        {
+            "key": "a",
+            "lemma": "ab"
+        },
+        {
+            "key": "vobis",
+            "lemma": "uos"
+        },
+        {
+            "key": "scio",
+            "lemma": "scio"
+        },
+        {
+            "key": "enim",
+            "lemma": "enim"
+        },
+        {
+            "key": "ego",
+            "lemma": "ego"
+        },
+        {
+            "key": "quoniam",
+            "lemma": "quoniam"
+        },
+        {
+            "key": "propter",
+            "lemma": "propter"
+        },
+        {
+            "key": "me",
+            "lemma": "ego"
+        },
+        {
+            "key": "tempestas",
+            "lemma": "tempestas"
+        },
+        {
+            "key": "h\u00e6c",
+            "lemma": "h\u00e6c"
+        },
+        {
+            "key": "grandis",
+            "lemma": "grandis"
+        },
+        {
+            "key": "venit",
+            "lemma": "uenio"
+        },
+        {
+            "key": "super",
+            "lemma": "super"
+        },
+        {
+            "key": "vos",
+            "lemma": "uos"
+        }
+    ],
+    "Jonas.1.13": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "remigabant",
+            "lemma": "remigabant"
+        },
+        {
+            "key": "viri",
+            "lemma": "uir"
+        },
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "reverterentur",
+            "lemma": "reverto"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "aridam",
+            "lemma": "aridus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "valebant",
+            "lemma": "ualeo"
+        },
+        {
+            "key": "quia",
+            "lemma": "quia"
+        },
+        {
+            "key": "mare",
+            "lemma": "mare"
+        },
+        {
+            "key": "ibat",
+            "lemma": "eo"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "intumescebat",
+            "lemma": "intumescebat"
+        },
+        {
+            "key": "super",
+            "lemma": "super"
+        },
+        {
+            "key": "eos",
+            "lemma": "is"
+        }
+    ],
+    "Jonas.1.14": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "clamaverunt",
+            "lemma": "clamo"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "dominum",
+            "lemma": "dominus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "dixerunt",
+            "lemma": "dico"
+        },
+        {
+            "key": "qu\u00e6sumus",
+            "lemma": "qu\u00e6sumus"
+        },
+        {
+            "key": "domine",
+            "lemma": "dominus"
+        },
+        {
+            "key": "ne",
+            "lemma": "ne"
+        },
+        {
+            "key": "pereamus",
+            "lemma": "pereo"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "anima",
+            "lemma": "anima"
+        },
+        {
+            "key": "viri",
+            "lemma": "uir"
+        },
+        {
+            "key": "istius",
+            "lemma": "iste"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "ne",
+            "lemma": "ne"
+        },
+        {
+            "key": "des",
+            "lemma": "do"
+        },
+        {
+            "key": "super",
+            "lemma": "super"
+        },
+        {
+            "key": "nos",
+            "lemma": "nos"
+        },
+        {
+            "key": "sanguinem",
+            "lemma": "sanguis"
+        },
+        {
+            "key": "innocentem",
+            "lemma": "innocens"
+        },
+        {
+            "key": "quia",
+            "lemma": "quia"
+        },
+        {
+            "key": "tu",
+            "lemma": "tu"
+        },
+        {
+            "key": "domine",
+            "lemma": "dominus"
+        },
+        {
+            "key": "sicut",
+            "lemma": "sicut"
+        },
+        {
+            "key": "voluisti",
+            "lemma": "uolo"
+        },
+        {
+            "key": "fecisti",
+            "lemma": "facio"
+        }
+    ],
+    "Jonas.1.15": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "tulerunt",
+            "lemma": "fero"
+        },
+        {
+            "key": "jonam",
+            "lemma": "jona"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "miserunt",
+            "lemma": "mitto"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "mare",
+            "lemma": "mare"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "stetit",
+            "lemma": "sto"
+        },
+        {
+            "key": "mare",
+            "lemma": "mare"
+        },
+        {
+            "key": "a",
+            "lemma": "ab"
+        },
+        {
+            "key": "fervore",
+            "lemma": "fervos"
+        },
+        {
+            "key": "suo",
+            "lemma": "suus"
+        }
+    ],
+    "Jonas.1.16": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "timuerunt",
+            "lemma": "timeo"
+        },
+        {
+            "key": "viri",
+            "lemma": "uir"
+        },
+        {
+            "key": "timore",
+            "lemma": "timor"
+        },
+        {
+            "key": "magno",
+            "lemma": "magnus"
+        },
+        {
+            "key": "dominum",
+            "lemma": "dominus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "immolaverunt",
+            "lemma": "immolo"
+        },
+        {
+            "key": "hostias",
+            "lemma": "hostia"
+        },
+        {
+            "key": "domino",
+            "lemma": "dominus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "voverunt",
+            "lemma": "voverunt"
+        },
+        {
+            "key": "vota",
+            "lemma": "uotum"
+        }
+    ],
+    "Jonas.2.1": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "pr\u00e6paravit",
+            "lemma": "pr\u00e6paro"
+        },
+        {
+            "key": "dominus",
+            "lemma": "dominus"
+        },
+        {
+            "key": "piscem",
+            "lemma": "piscis"
+        },
+        {
+            "key": "grandem",
+            "lemma": "grandis"
+        },
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "deglutiret",
+            "lemma": "deglutio"
+        },
+        {
+            "key": "jonam",
+            "lemma": "jona"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "erat",
+            "lemma": "sum"
+        },
+        {
+            "key": "jonas",
+            "lemma": "jonas"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "ventre",
+            "lemma": "uenter"
+        },
+        {
+            "key": "piscis",
+            "lemma": "piscis"
+        },
+        {
+            "key": "tribus",
+            "lemma": "tres"
+        },
+        {
+            "key": "diebus",
+            "lemma": "dies"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "tribus",
+            "lemma": "tres"
+        },
+        {
+            "key": "noctibus",
+            "lemma": "nox"
+        }
+    ],
+    "Jonas.2.2": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "oravit",
+            "lemma": "oro"
+        },
+        {
+            "key": "jonas",
+            "lemma": "jonas"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "dominum",
+            "lemma": "dominus"
+        },
+        {
+            "key": "deum",
+            "lemma": "deus"
+        },
+        {
+            "key": "suum",
+            "lemma": "suus"
+        },
+        {
+            "key": "de",
+            "lemma": "de"
+        },
+        {
+            "key": "ventre",
+            "lemma": "uenter"
+        },
+        {
+            "key": "piscis",
+            "lemma": "piscis"
+        }
+    ],
+    "Jonas.2.3": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "dixit",
+            "lemma": "dico"
+        },
+        {
+            "key": "clamavi",
+            "lemma": "clamavi"
+        },
+        {
+            "key": "de",
+            "lemma": "de"
+        },
+        {
+            "key": "tribulatione",
+            "lemma": "tribulatio"
+        },
+        {
+            "key": "mea",
+            "lemma": "meus"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "dominum",
+            "lemma": "dominus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "exaudivit",
+            "lemma": "exaudio"
+        },
+        {
+            "key": "me",
+            "lemma": "ego"
+        },
+        {
+            "key": "de",
+            "lemma": "de"
+        },
+        {
+            "key": "ventre",
+            "lemma": "uenter"
+        },
+        {
+            "key": "inferi",
+            "lemma": "inferi"
+        },
+        {
+            "key": "clamavi",
+            "lemma": "clamo"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "exaudisti",
+            "lemma": "exaudi"
+        },
+        {
+            "key": "vocem",
+            "lemma": "uox"
+        },
+        {
+            "key": "meam",
+            "lemma": "meus"
+        }
+    ],
+    "Jonas.2.4": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "projecisti",
+            "lemma": "projeci"
+        },
+        {
+            "key": "me",
+            "lemma": "ego"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "profundum",
+            "lemma": "profundum"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "corde",
+            "lemma": "cor"
+        },
+        {
+            "key": "maris",
+            "lemma": "mas"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "flumen",
+            "lemma": "flumen"
+        },
+        {
+            "key": "circumdedit",
+            "lemma": "circumdo"
+        },
+        {
+            "key": "me",
+            "lemma": "ego"
+        },
+        {
+            "key": "omnes",
+            "lemma": "omnis"
+        },
+        {
+            "key": "gurgites",
+            "lemma": "gurgis"
+        },
+        {
+            "key": "tui",
+            "lemma": "tuus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "fluctus",
+            "lemma": "fluctus"
+        },
+        {
+            "key": "tui",
+            "lemma": "tuus"
+        },
+        {
+            "key": "super",
+            "lemma": "super"
+        },
+        {
+            "key": "me",
+            "lemma": "ego"
+        },
+        {
+            "key": "transierunt",
+            "lemma": "transeo"
+        }
+    ],
+    "Jonas.2.5": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "ego",
+            "lemma": "ego"
+        },
+        {
+            "key": "dixi",
+            "lemma": "dico"
+        },
+        {
+            "key": "abjectus",
+            "lemma": "abjectus"
+        },
+        {
+            "key": "sum",
+            "lemma": "sum"
+        },
+        {
+            "key": "a",
+            "lemma": "ab"
+        },
+        {
+            "key": "conspectu",
+            "lemma": "conspectus"
+        },
+        {
+            "key": "oculorum",
+            "lemma": "oculus"
+        },
+        {
+            "key": "tuorum",
+            "lemma": "tuus"
+        },
+        {
+            "key": "verumtamen",
+            "lemma": "uerumtamen"
+        },
+        {
+            "key": "rursus",
+            "lemma": "rursus"
+        },
+        {
+            "key": "videbo",
+            "lemma": "uideo"
+        },
+        {
+            "key": "templum",
+            "lemma": "templum"
+        },
+        {
+            "key": "sanctum",
+            "lemma": "sanctus"
+        },
+        {
+            "key": "tuum",
+            "lemma": "tuus"
+        }
+    ],
+    "Jonas.2.6": [
+        {
+            "key": "circumdederunt",
+            "lemma": "circumdedo"
+        },
+        {
+            "key": "me",
+            "lemma": "ego"
+        },
+        {
+            "key": "aqu\u00e6",
+            "lemma": "aqu\u00e6"
+        },
+        {
+            "key": "usque",
+            "lemma": "usque"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "animam",
+            "lemma": "anima"
+        },
+        {
+            "key": "abyssus",
+            "lemma": "abyssus"
+        },
+        {
+            "key": "vallavit",
+            "lemma": "uallo"
+        },
+        {
+            "key": "me",
+            "lemma": "ego"
+        },
+        {
+            "key": "pelagus",
+            "lemma": "pelagus"
+        },
+        {
+            "key": "operuit",
+            "lemma": "opereo"
+        },
+        {
+            "key": "caput",
+            "lemma": "caput"
+        },
+        {
+            "key": "meum",
+            "lemma": "meus"
+        }
+    ],
+    "Jonas.2.7": [
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "extrema",
+            "lemma": "exterior"
+        },
+        {
+            "key": "montium",
+            "lemma": "mons"
+        },
+        {
+            "key": "descendi",
+            "lemma": "descendo"
+        },
+        {
+            "key": "terr\u00e6",
+            "lemma": "terr\u00e6"
+        },
+        {
+            "key": "vectes",
+            "lemma": "uectes"
+        },
+        {
+            "key": "concluserunt",
+            "lemma": "conclusero"
+        },
+        {
+            "key": "me",
+            "lemma": "ego"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "\u00e6ternum",
+            "lemma": "\u00e6ternus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "sublevabis",
+            "lemma": "sublevo"
+        },
+        {
+            "key": "de",
+            "lemma": "de"
+        },
+        {
+            "key": "corruptione",
+            "lemma": "corruptio"
+        },
+        {
+            "key": "vitam",
+            "lemma": "uita"
+        },
+        {
+            "key": "meam",
+            "lemma": "meus"
+        },
+        {
+            "key": "domine",
+            "lemma": "dominus"
+        },
+        {
+            "key": "deus",
+            "lemma": "deus"
+        },
+        {
+            "key": "meus",
+            "lemma": "meus"
+        }
+    ],
+    "Jonas.2.8": [
+        {
+            "key": "cum",
+            "lemma": "cum"
+        },
+        {
+            "key": "angustiaretur",
+            "lemma": "angustio"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "me",
+            "lemma": "ego"
+        },
+        {
+            "key": "anima",
+            "lemma": "anima"
+        },
+        {
+            "key": "mea",
+            "lemma": "meus"
+        },
+        {
+            "key": "domini",
+            "lemma": "dominus"
+        },
+        {
+            "key": "recordatus",
+            "lemma": "recordor"
+        },
+        {
+            "key": "sum",
+            "lemma": "sum"
+        },
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "veniat",
+            "lemma": "uenio"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "te",
+            "lemma": "tu"
+        },
+        {
+            "key": "oratio",
+            "lemma": "oratio"
+        },
+        {
+            "key": "mea",
+            "lemma": "meus"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "templum",
+            "lemma": "templum"
+        },
+        {
+            "key": "sanctum",
+            "lemma": "sanctus"
+        },
+        {
+            "key": "tuum",
+            "lemma": "tuus"
+        }
+    ],
+    "Jonas.2.9": [
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "custodiunt",
+            "lemma": "custodio"
+        },
+        {
+            "key": "vanitates",
+            "lemma": "uanitas"
+        },
+        {
+            "key": "frustra",
+            "lemma": "frustra"
+        },
+        {
+            "key": "misericordiam",
+            "lemma": "misericordia"
+        },
+        {
+            "key": "suam",
+            "lemma": "suus"
+        },
+        {
+            "key": "derelinquunt",
+            "lemma": "derelinquunt"
+        }
+    ],
+    "Jonas.2.10": [
+        {
+            "key": "ego",
+            "lemma": "ego"
+        },
+        {
+            "key": "autem",
+            "lemma": "autem"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "voce",
+            "lemma": "uox"
+        },
+        {
+            "key": "laudis",
+            "lemma": "laus"
+        },
+        {
+            "key": "immolabo",
+            "lemma": "immolo"
+        },
+        {
+            "key": "tibi",
+            "lemma": "tu"
+        },
+        {
+            "key": "qu\u00e6cum",
+            "lemma": "qu\u00e6cum"
+        },
+        {
+            "key": "que",
+            "lemma": "que"
+        },
+        {
+            "key": "vovi",
+            "lemma": "vovi"
+        },
+        {
+            "key": "reddam",
+            "lemma": "reddo"
+        },
+        {
+            "key": "pro",
+            "lemma": "pro"
+        },
+        {
+            "key": "salute",
+            "lemma": "salus"
+        },
+        {
+            "key": "domino",
+            "lemma": "dominus"
+        }
+    ],
+    "Jonas.2.11": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "dixit",
+            "lemma": "dico"
+        },
+        {
+            "key": "dominus",
+            "lemma": "dominus"
+        },
+        {
+            "key": "pisci",
+            "lemma": "piscis"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "evomuit",
+            "lemma": "evomesco"
+        },
+        {
+            "key": "jonam",
+            "lemma": "jona"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "aridam",
+            "lemma": "aridus"
+        }
+    ],
+    "Jonas.3.1": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "factum",
+            "lemma": "facio"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "verbum",
+            "lemma": "uerbum"
+        },
+        {
+            "key": "domini",
+            "lemma": "dominus"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "jonam",
+            "lemma": "jona"
+        },
+        {
+            "key": "secundo",
+            "lemma": "secundus"
+        },
+        {
+            "key": "dicens",
+            "lemma": "dico"
+        }
+    ],
+    "Jonas.3.2": [
+        {
+            "key": "surge",
+            "lemma": "surgo"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "vade",
+            "lemma": "uado"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "niniven",
+            "lemma": "niniven"
+        },
+        {
+            "key": "civitatem",
+            "lemma": "ciuitas"
+        },
+        {
+            "key": "magnam",
+            "lemma": "magnus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "pr\u00e6dica",
+            "lemma": "pr\u00e6dico"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "ea",
+            "lemma": "is"
+        },
+        {
+            "key": "pr\u00e6dicationem",
+            "lemma": "pr\u00e6dicatio"
+        },
+        {
+            "key": "quam",
+            "lemma": "qui"
+        },
+        {
+            "key": "ego",
+            "lemma": "ego"
+        },
+        {
+            "key": "loquor",
+            "lemma": "loquor"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "te",
+            "lemma": "tu"
+        }
+    ],
+    "Jonas.3.3": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "surrexit",
+            "lemma": "surgo"
+        },
+        {
+            "key": "jonas",
+            "lemma": "jonas"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "abiit",
+            "lemma": "abeo"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "niniven",
+            "lemma": "niniven"
+        },
+        {
+            "key": "juxta",
+            "lemma": "juxta"
+        },
+        {
+            "key": "verbum",
+            "lemma": "uerbum"
+        },
+        {
+            "key": "domini",
+            "lemma": "dominus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "ninive",
+            "lemma": "niniue"
+        },
+        {
+            "key": "erat",
+            "lemma": "sum"
+        },
+        {
+            "key": "civitas",
+            "lemma": "ciuitas"
+        },
+        {
+            "key": "magna",
+            "lemma": "magnus"
+        },
+        {
+            "key": "itinere",
+            "lemma": "iter"
+        },
+        {
+            "key": "trium",
+            "lemma": "tres"
+        },
+        {
+            "key": "dierum",
+            "lemma": "dies"
+        }
+    ],
+    "Jonas.3.4": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "c\u0153pit",
+            "lemma": "c\u0153pio"
+        },
+        {
+            "key": "jonas",
+            "lemma": "jonas"
+        },
+        {
+            "key": "introire",
+            "lemma": "introeo"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "civitatem",
+            "lemma": "ciuitas"
+        },
+        {
+            "key": "itinere",
+            "lemma": "iter"
+        },
+        {
+            "key": "diei",
+            "lemma": "dies"
+        },
+        {
+            "key": "unius",
+            "lemma": "unus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "clamavit",
+            "lemma": "clamo"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "dixit",
+            "lemma": "dico"
+        },
+        {
+            "key": "adhuc",
+            "lemma": "adhuc"
+        },
+        {
+            "key": "quadraginta",
+            "lemma": "quadraginta"
+        },
+        {
+            "key": "dies",
+            "lemma": "dies"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "ninive",
+            "lemma": "niniue"
+        },
+        {
+            "key": "subvertetur",
+            "lemma": "subvertetur"
+        }
+    ],
+    "Jonas.3.5": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "crediderunt",
+            "lemma": "credo"
+        },
+        {
+            "key": "viri",
+            "lemma": "uir"
+        },
+        {
+            "key": "ninivit\u00e6",
+            "lemma": "ninivit\u00e6"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "deum",
+            "lemma": "deus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "pr\u00e6dicaverunt",
+            "lemma": "pr\u00e6dico"
+        },
+        {
+            "key": "jejunium",
+            "lemma": "jejunium"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "vestiti",
+            "lemma": "uestio"
+        },
+        {
+            "key": "sunt",
+            "lemma": "sum"
+        },
+        {
+            "key": "saccis",
+            "lemma": "saccus"
+        },
+        {
+            "key": "a",
+            "lemma": "ad"
+        },
+        {
+            "key": "majore",
+            "lemma": "major"
+        },
+        {
+            "key": "usque",
+            "lemma": "usque"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "minorem",
+            "lemma": "paruus"
+        }
+    ],
+    "Jonas.3.6": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "pervenit",
+            "lemma": "peruenio"
+        },
+        {
+            "key": "verbum",
+            "lemma": "uerbum"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "regem",
+            "lemma": "rex"
+        },
+        {
+            "key": "ninive",
+            "lemma": "niniue"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "surrexit",
+            "lemma": "surgo"
+        },
+        {
+            "key": "de",
+            "lemma": "de"
+        },
+        {
+            "key": "solio",
+            "lemma": "solium"
+        },
+        {
+            "key": "suo",
+            "lemma": "suus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "abjecit",
+            "lemma": "abjcio"
+        },
+        {
+            "key": "vestimentum",
+            "lemma": "uestimentum"
+        },
+        {
+            "key": "suum",
+            "lemma": "suus"
+        },
+        {
+            "key": "a",
+            "lemma": "ab"
+        },
+        {
+            "key": "se",
+            "lemma": "sui"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "indutus",
+            "lemma": "induo"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "sacco",
+            "lemma": "saccus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "sedit",
+            "lemma": "sedeo"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "cinere",
+            "lemma": "cinis"
+        }
+    ],
+    "Jonas.3.7": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "clamavit",
+            "lemma": "clamo"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "dixit",
+            "lemma": "dico"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "ninive",
+            "lemma": "niniue"
+        },
+        {
+            "key": "ex",
+            "lemma": "ex"
+        },
+        {
+            "key": "ore",
+            "lemma": "os"
+        },
+        {
+            "key": "regis",
+            "lemma": "rex"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "principum",
+            "lemma": "princeps"
+        },
+        {
+            "key": "ejus",
+            "lemma": "js"
+        },
+        {
+            "key": "dicens",
+            "lemma": "dico"
+        },
+        {
+            "key": "homines",
+            "lemma": "homo"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "jumenta",
+            "lemma": "jumentum"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "boves",
+            "lemma": "bos"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "pecora",
+            "lemma": "pecus"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "gustent",
+            "lemma": "gusto"
+        },
+        {
+            "key": "quidquam",
+            "lemma": "quidquam"
+        },
+        {
+            "key": "nec",
+            "lemma": "nec"
+        },
+        {
+            "key": "pascantur",
+            "lemma": "pasco"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "aquam",
+            "lemma": "aqua"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "bibant",
+            "lemma": "bibo"
+        }
+    ],
+    "Jonas.3.8": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "operiantur",
+            "lemma": "operior"
+        },
+        {
+            "key": "saccis",
+            "lemma": "saccus"
+        },
+        {
+            "key": "homines",
+            "lemma": "homo"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "jumenta",
+            "lemma": "jumentum"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "clament",
+            "lemma": "clamo"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "dominum",
+            "lemma": "dominus"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "fortitudine",
+            "lemma": "fortitudo"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "convertatur",
+            "lemma": "convertor"
+        },
+        {
+            "key": "vir",
+            "lemma": "uir"
+        },
+        {
+            "key": "a",
+            "lemma": "ab"
+        },
+        {
+            "key": "via",
+            "lemma": "uia"
+        },
+        {
+            "key": "sua",
+            "lemma": "suus"
+        },
+        {
+            "key": "mala",
+            "lemma": "malus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "ab",
+            "lemma": "ab"
+        },
+        {
+            "key": "iniquitate",
+            "lemma": "iniquitas"
+        },
+        {
+            "key": "qu\u00e6",
+            "lemma": "qu\u00e6"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "manibus",
+            "lemma": "manus"
+        },
+        {
+            "key": "eorum",
+            "lemma": "is"
+        }
+    ],
+    "Jonas.3.9": [
+        {
+            "key": "quis",
+            "lemma": "quis"
+        },
+        {
+            "key": "scit",
+            "lemma": "scio"
+        },
+        {
+            "key": "si",
+            "lemma": "si"
+        },
+        {
+            "key": "convertatur",
+            "lemma": "converto"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "ignoscat",
+            "lemma": "ignosco"
+        },
+        {
+            "key": "deus",
+            "lemma": "deus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "revertatur",
+            "lemma": "reuorto"
+        },
+        {
+            "key": "a",
+            "lemma": "ab"
+        },
+        {
+            "key": "furore",
+            "lemma": "furor"
+        },
+        {
+            "key": "ir\u00e6",
+            "lemma": "ir\u00e6"
+        },
+        {
+            "key": "su\u00e6",
+            "lemma": "su\u00e6"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "peribimus",
+            "lemma": "peribimus"
+        }
+    ],
+    "Jonas.3.10": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "vidit",
+            "lemma": "uideo"
+        },
+        {
+            "key": "deus",
+            "lemma": "deus"
+        },
+        {
+            "key": "opera",
+            "lemma": "opus"
+        },
+        {
+            "key": "eorum",
+            "lemma": "is"
+        },
+        {
+            "key": "quia",
+            "lemma": "quia"
+        },
+        {
+            "key": "conversi",
+            "lemma": "conuerto"
+        },
+        {
+            "key": "sunt",
+            "lemma": "sum"
+        },
+        {
+            "key": "de",
+            "lemma": "de"
+        },
+        {
+            "key": "via",
+            "lemma": "uia"
+        },
+        {
+            "key": "sua",
+            "lemma": "suus"
+        },
+        {
+            "key": "mala",
+            "lemma": "malus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "misertus",
+            "lemma": "miseror"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "deus",
+            "lemma": "deus"
+        },
+        {
+            "key": "super",
+            "lemma": "super"
+        },
+        {
+            "key": "malitiam",
+            "lemma": "malitia"
+        },
+        {
+            "key": "quam",
+            "lemma": "qui"
+        },
+        {
+            "key": "locutus",
+            "lemma": "loquor"
+        },
+        {
+            "key": "fuerat",
+            "lemma": "sum"
+        },
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "faceret",
+            "lemma": "facio"
+        },
+        {
+            "key": "eis",
+            "lemma": "is"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "fecit",
+            "lemma": "facio"
+        }
+    ],
+    "Jonas.4.1": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "afflictus",
+            "lemma": "afflictus"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "jonas",
+            "lemma": "jonas"
+        },
+        {
+            "key": "afflictione",
+            "lemma": "afflictio"
+        },
+        {
+            "key": "magna",
+            "lemma": "magnus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "iratus",
+            "lemma": "irascor"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        }
+    ],
+    "Jonas.4.2": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "oravit",
+            "lemma": "oro"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "dominum",
+            "lemma": "dominus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "dixit",
+            "lemma": "dico"
+        },
+        {
+            "key": "obsecro",
+            "lemma": "obsecro"
+        },
+        {
+            "key": "domine",
+            "lemma": "dominus"
+        },
+        {
+            "key": "numquid",
+            "lemma": "numquid"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "hoc",
+            "lemma": "hic"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "verbum",
+            "lemma": "uerbum"
+        },
+        {
+            "key": "meum",
+            "lemma": "meus"
+        },
+        {
+            "key": "cum",
+            "lemma": "cum"
+        },
+        {
+            "key": "adhuc",
+            "lemma": "adhuc"
+        },
+        {
+            "key": "essem",
+            "lemma": "sum"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "terra",
+            "lemma": "terra"
+        },
+        {
+            "key": "mea",
+            "lemma": "meus"
+        },
+        {
+            "key": "propter",
+            "lemma": "propter"
+        },
+        {
+            "key": "hoc",
+            "lemma": "hic"
+        },
+        {
+            "key": "pr\u00e6occupavi",
+            "lemma": "pr\u00e6occupo"
+        },
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "fugerem",
+            "lemma": "fugeo"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "tharsis",
+            "lemma": "tharsis"
+        },
+        {
+            "key": "scio",
+            "lemma": "scio"
+        },
+        {
+            "key": "enim",
+            "lemma": "enim"
+        },
+        {
+            "key": "quia",
+            "lemma": "quia"
+        },
+        {
+            "key": "tu",
+            "lemma": "tu"
+        },
+        {
+            "key": "deus",
+            "lemma": "deus"
+        },
+        {
+            "key": "clemens",
+            "lemma": "clemens"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "misericors",
+            "lemma": "misericors"
+        },
+        {
+            "key": "es",
+            "lemma": "sum"
+        },
+        {
+            "key": "patiens",
+            "lemma": "patiens"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "mult\u00e6",
+            "lemma": "mult\u00e6"
+        },
+        {
+            "key": "miserationis",
+            "lemma": "miseratio"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "ignoscens",
+            "lemma": "ignosco"
+        },
+        {
+            "key": "super",
+            "lemma": "super"
+        },
+        {
+            "key": "malitia",
+            "lemma": "malitia"
+        }
+    ],
+    "Jonas.4.3": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "nunc",
+            "lemma": "nunc"
+        },
+        {
+            "key": "domine",
+            "lemma": "dominus"
+        },
+        {
+            "key": "tolle",
+            "lemma": "tollo"
+        },
+        {
+            "key": "qu\u00e6so",
+            "lemma": "qu\u00e6so"
+        },
+        {
+            "key": "animam",
+            "lemma": "anima"
+        },
+        {
+            "key": "meam",
+            "lemma": "meus"
+        },
+        {
+            "key": "a",
+            "lemma": "ab"
+        },
+        {
+            "key": "me",
+            "lemma": "ego"
+        },
+        {
+            "key": "quia",
+            "lemma": "quia"
+        },
+        {
+            "key": "melior",
+            "lemma": "bonus"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "mihi",
+            "lemma": "ego"
+        },
+        {
+            "key": "mors",
+            "lemma": "mors"
+        },
+        {
+            "key": "quam",
+            "lemma": "quam"
+        },
+        {
+            "key": "vita",
+            "lemma": "uita"
+        }
+    ],
+    "Jonas.4.4": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "dixit",
+            "lemma": "dico"
+        },
+        {
+            "key": "dominus",
+            "lemma": "dominus"
+        },
+        {
+            "key": "putasne",
+            "lemma": "putasne"
+        },
+        {
+            "key": "bene",
+            "lemma": "bene"
+        },
+        {
+            "key": "irasceris",
+            "lemma": "irascor"
+        },
+        {
+            "key": "tu",
+            "lemma": "tu"
+        }
+    ],
+    "Jonas.4.5": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "egressus",
+            "lemma": "egredior"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "jonas",
+            "lemma": "jonas"
+        },
+        {
+            "key": "de",
+            "lemma": "de"
+        },
+        {
+            "key": "civitate",
+            "lemma": "ciuitas"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "sedit",
+            "lemma": "sedeo"
+        },
+        {
+            "key": "contra",
+            "lemma": "contra"
+        },
+        {
+            "key": "orientem",
+            "lemma": "oriens"
+        },
+        {
+            "key": "civitatis",
+            "lemma": "ciuitas"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "fecit",
+            "lemma": "facio"
+        },
+        {
+            "key": "sibimet",
+            "lemma": "sibimet"
+        },
+        {
+            "key": "umbraculum",
+            "lemma": "umbraculum"
+        },
+        {
+            "key": "ibi",
+            "lemma": "ibi"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "sedebat",
+            "lemma": "sedeo"
+        },
+        {
+            "key": "subter",
+            "lemma": "subter"
+        },
+        {
+            "key": "illud",
+            "lemma": "ille"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "umbra",
+            "lemma": "umbra"
+        },
+        {
+            "key": "donec",
+            "lemma": "donec"
+        },
+        {
+            "key": "videret",
+            "lemma": "uideo"
+        },
+        {
+            "key": "quid",
+            "lemma": "quis"
+        },
+        {
+            "key": "accideret",
+            "lemma": "accido"
+        },
+        {
+            "key": "civitati",
+            "lemma": "ciuitas"
+        }
+    ],
+    "Jonas.4.6": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "pr\u00e6paravit",
+            "lemma": "pr\u00e6paro"
+        },
+        {
+            "key": "dominus",
+            "lemma": "dominus"
+        },
+        {
+            "key": "deus",
+            "lemma": "deus"
+        },
+        {
+            "key": "hederam",
+            "lemma": "hedera"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "ascendit",
+            "lemma": "ascendo"
+        },
+        {
+            "key": "super",
+            "lemma": "super"
+        },
+        {
+            "key": "caput",
+            "lemma": "caput"
+        },
+        {
+            "key": "jon\u00e6",
+            "lemma": "jon\u00e6"
+        },
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "esset",
+            "lemma": "sum"
+        },
+        {
+            "key": "umbra",
+            "lemma": "umbra"
+        },
+        {
+            "key": "super",
+            "lemma": "super"
+        },
+        {
+            "key": "caput",
+            "lemma": "caput"
+        },
+        {
+            "key": "ejus",
+            "lemma": "js"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "protegeret",
+            "lemma": "protegeo"
+        },
+        {
+            "key": "eum",
+            "lemma": "is"
+        },
+        {
+            "key": "laboraverat",
+            "lemma": "laboraverat"
+        },
+        {
+            "key": "enim",
+            "lemma": "enim"
+        },
+        {
+            "key": "):",
+            "lemma": "):"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "l\u00e6tatus",
+            "lemma": "l\u00e6tor"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "jonas",
+            "lemma": "jonas"
+        },
+        {
+            "key": "super",
+            "lemma": "super"
+        },
+        {
+            "key": "hedera",
+            "lemma": "hedera"
+        },
+        {
+            "key": "l\u00e6titia",
+            "lemma": "l\u00e6titia"
+        },
+        {
+            "key": "magna",
+            "lemma": "magnus"
+        }
+    ],
+    "Jonas.4.7": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "paravit",
+            "lemma": "paro"
+        },
+        {
+            "key": "deus",
+            "lemma": "deus"
+        },
+        {
+            "key": "vermen",
+            "lemma": "uermen"
+        },
+        {
+            "key": "ascensu",
+            "lemma": "ascensus"
+        },
+        {
+            "key": "diluculi",
+            "lemma": "diluculus"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "crastinum",
+            "lemma": "crastinus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "percussit",
+            "lemma": "percutio"
+        },
+        {
+            "key": "hederam",
+            "lemma": "hedera"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "exaruit",
+            "lemma": "exareo"
+        }
+    ],
+    "Jonas.4.8": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "cum",
+            "lemma": "cum"
+        },
+        {
+            "key": "ortus",
+            "lemma": "orior"
+        },
+        {
+            "key": "fuisset",
+            "lemma": "sum"
+        },
+        {
+            "key": "sol",
+            "lemma": "sol"
+        },
+        {
+            "key": "pr\u00e6cepit",
+            "lemma": "pr\u00e6cipio"
+        },
+        {
+            "key": "dominus",
+            "lemma": "dominus"
+        },
+        {
+            "key": "vento",
+            "lemma": "uentus"
+        },
+        {
+            "key": "calido",
+            "lemma": "calidus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "urenti",
+            "lemma": "uro"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "percussit",
+            "lemma": "percutio"
+        },
+        {
+            "key": "sol",
+            "lemma": "sol"
+        },
+        {
+            "key": "super",
+            "lemma": "super"
+        },
+        {
+            "key": "caput",
+            "lemma": "caput"
+        },
+        {
+            "key": "jon\u00e6",
+            "lemma": "jon\u00e6"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "\u00e6stuabat",
+            "lemma": "\u00e6stuo"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "petivit",
+            "lemma": "petisco"
+        },
+        {
+            "key": "anim\u00e6",
+            "lemma": "anim\u00e6"
+        },
+        {
+            "key": "su\u00e6",
+            "lemma": "su\u00e6"
+        },
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "moreretur",
+            "lemma": "morior"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "dixit",
+            "lemma": "dico"
+        },
+        {
+            "key": "melius",
+            "lemma": "melius"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "mihi",
+            "lemma": "ego"
+        },
+        {
+            "key": "mori",
+            "lemma": "morior"
+        },
+        {
+            "key": "quam",
+            "lemma": "quam"
+        },
+        {
+            "key": "vivere",
+            "lemma": "uiuo"
+        }
+    ],
+    "Jonas.4.9": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "dixit",
+            "lemma": "dico"
+        },
+        {
+            "key": "dominus",
+            "lemma": "dominus"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "jonam",
+            "lemma": "jona"
+        },
+        {
+            "key": "putasne",
+            "lemma": "putasne"
+        },
+        {
+            "key": "bene",
+            "lemma": "bene"
+        },
+        {
+            "key": "irasceris",
+            "lemma": "irascor"
+        },
+        {
+            "key": "tu",
+            "lemma": "tu"
+        },
+        {
+            "key": "super",
+            "lemma": "super"
+        },
+        {
+            "key": "hedera",
+            "lemma": "hedera"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "dixit",
+            "lemma": "dico"
+        },
+        {
+            "key": "bene",
+            "lemma": "bene"
+        },
+        {
+            "key": "irascor",
+            "lemma": "irascor"
+        },
+        {
+            "key": "ego",
+            "lemma": "ego"
+        },
+        {
+            "key": "usque",
+            "lemma": "usque"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "mortem",
+            "lemma": "mors"
+        }
+    ],
+    "Jonas.4.10": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "dixit",
+            "lemma": "dico"
+        },
+        {
+            "key": "dominus",
+            "lemma": "dominus"
+        },
+        {
+            "key": "tu",
+            "lemma": "tu"
+        },
+        {
+            "key": "doles",
+            "lemma": "doles"
+        },
+        {
+            "key": "super",
+            "lemma": "super"
+        },
+        {
+            "key": "hederam",
+            "lemma": "hedera"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "qua",
+            "lemma": "qui"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "laborasti",
+            "lemma": "laboro"
+        },
+        {
+            "key": "neque",
+            "lemma": "neque"
+        },
+        {
+            "key": "fecisti",
+            "lemma": "facio"
+        },
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "cresceret",
+            "lemma": "cresco"
+        },
+        {
+            "key": "qu\u00e6",
+            "lemma": "qu\u00e6"
+        },
+        {
+            "key": "sub",
+            "lemma": "sub"
+        },
+        {
+            "key": "una",
+            "lemma": "unus"
+        },
+        {
+            "key": "nocte",
+            "lemma": "nox"
+        },
+        {
+            "key": "nata",
+            "lemma": "nascor"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "sub",
+            "lemma": "sub"
+        },
+        {
+            "key": "una",
+            "lemma": "unus"
+        },
+        {
+            "key": "nocte",
+            "lemma": "nox"
+        },
+        {
+            "key": "periit",
+            "lemma": "pereo"
+        }
+    ],
+    "Jonas.4.11": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "ego",
+            "lemma": "ego"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "parcam",
+            "lemma": "parco"
+        },
+        {
+            "key": "ninive",
+            "lemma": "niniue"
+        },
+        {
+            "key": "civitati",
+            "lemma": "ciuitas"
+        },
+        {
+            "key": "magn\u00e6",
+            "lemma": "magn\u00e6"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "qua",
+            "lemma": "qui"
+        },
+        {
+            "key": "sunt",
+            "lemma": "sum"
+        },
+        {
+            "key": "plus",
+            "lemma": "multus"
+        },
+        {
+            "key": "quam",
+            "lemma": "quam"
+        },
+        {
+            "key": "centum",
+            "lemma": "centum"
+        },
+        {
+            "key": "viginti",
+            "lemma": "uiginti"
+        },
+        {
+            "key": "millia",
+            "lemma": "mille"
+        },
+        {
+            "key": "hominum",
+            "lemma": "homo"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "nesciunt",
+            "lemma": "nescio"
+        },
+        {
+            "key": "quid",
+            "lemma": "quis"
+        },
+        {
+            "key": "sit",
+            "lemma": "sum"
+        },
+        {
+            "key": "inter",
+            "lemma": "inter"
+        },
+        {
+            "key": "dexteram",
+            "lemma": "dext(e)ra"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "sinistram",
+            "lemma": "sinistra"
+        },
+        {
+            "key": "suam",
+            "lemma": "suus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "jumenta",
+            "lemma": "jumentum"
+        },
+        {
+            "key": "multa",
+            "lemma": "multus"
+        }
+    ]
+}

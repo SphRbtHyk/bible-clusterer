@@ -1,0 +1,7472 @@
+{
+    "Ruth.1.1": [
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "diebus",
+            "lemma": "dies"
+        },
+        {
+            "key": "unius",
+            "lemma": "unus"
+        },
+        {
+            "key": "judicis",
+            "lemma": "judicus"
+        },
+        {
+            "key": "quando",
+            "lemma": "quando"
+        },
+        {
+            "key": "judices",
+            "lemma": "judex"
+        },
+        {
+            "key": "pr\u00e6erant",
+            "lemma": "pr\u00e6ero"
+        },
+        {
+            "key": "facta",
+            "lemma": "facio"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "fames",
+            "lemma": "fames"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "terra",
+            "lemma": "terra"
+        },
+        {
+            "key": "abiit",
+            "lemma": "abiit"
+        },
+        {
+            "key": "que",
+            "lemma": "que"
+        },
+        {
+            "key": "homo",
+            "lemma": "homo"
+        },
+        {
+            "key": "de",
+            "lemma": "de"
+        },
+        {
+            "key": "bethlehem",
+            "lemma": "bethlehem"
+        },
+        {
+            "key": "juda",
+            "lemma": "juda"
+        },
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "peregrinaretur",
+            "lemma": "peregrinor"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "regione",
+            "lemma": "regio"
+        },
+        {
+            "key": "moabitide",
+            "lemma": "moabitide"
+        },
+        {
+            "key": "cum",
+            "lemma": "cum"
+        },
+        {
+            "key": "uxore",
+            "lemma": "uxor"
+        },
+        {
+            "key": "sua",
+            "lemma": "suus"
+        },
+        {
+            "key": "ac",
+            "lemma": "atque"
+        },
+        {
+            "key": "duobus",
+            "lemma": "duo"
+        },
+        {
+            "key": "liberis",
+            "lemma": "liberi"
+        }
+    ],
+    "Ruth.1.2": [
+        {
+            "key": "ipse",
+            "lemma": "ipse"
+        },
+        {
+            "key": "vocabatur",
+            "lemma": "uoco"
+        },
+        {
+            "key": "elimelech",
+            "lemma": "elimelech"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "uxor",
+            "lemma": "uxor"
+        },
+        {
+            "key": "ejus",
+            "lemma": "js"
+        },
+        {
+            "key": "no\u00ebmi",
+            "lemma": "no\u00ebmi"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "duo",
+            "lemma": "duo"
+        },
+        {
+            "key": "filii",
+            "lemma": "filius"
+        },
+        {
+            "key": "alter",
+            "lemma": "alter"
+        },
+        {
+            "key": "mahalon",
+            "lemma": "mahalon"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "alter",
+            "lemma": "alter"
+        },
+        {
+            "key": "chelion",
+            "lemma": "chelion"
+        },
+        {
+            "key": "ephrath\u00e6i",
+            "lemma": "ephrath\u00e6i"
+        },
+        {
+            "key": "de",
+            "lemma": "de"
+        },
+        {
+            "key": "bethlehem",
+            "lemma": "bethlehem"
+        },
+        {
+            "key": "juda",
+            "lemma": "juda"
+        },
+        {
+            "key": "ingressi",
+            "lemma": "ingressi"
+        },
+        {
+            "key": "que",
+            "lemma": "que"
+        },
+        {
+            "key": "regionem",
+            "lemma": "regio"
+        },
+        {
+            "key": "moabitidem",
+            "lemma": "moabitidem"
+        },
+        {
+            "key": "morabantur",
+            "lemma": "moro"
+        },
+        {
+            "key": "ibi",
+            "lemma": "ibi"
+        }
+    ],
+    "Ruth.1.3": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "mortuus",
+            "lemma": "morior"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "elimelech",
+            "lemma": "elimelech"
+        },
+        {
+            "key": "maritus",
+            "lemma": "maritus"
+        },
+        {
+            "key": "no\u00ebmi",
+            "lemma": "no\u00ebmi"
+        },
+        {
+            "key": "remansit",
+            "lemma": "remaneo"
+        },
+        {
+            "key": "que",
+            "lemma": "que"
+        },
+        {
+            "key": "ipsa",
+            "lemma": "ipse"
+        },
+        {
+            "key": "cum",
+            "lemma": "cum"
+        },
+        {
+            "key": "filiis",
+            "lemma": "filius"
+        }
+    ],
+    "Ruth.1.4": [
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "acceperunt",
+            "lemma": "accipio"
+        },
+        {
+            "key": "uxores",
+            "lemma": "uxor"
+        },
+        {
+            "key": "moabitidas",
+            "lemma": "moabitidas"
+        },
+        {
+            "key": "quarum",
+            "lemma": "qui"
+        },
+        {
+            "key": "una",
+            "lemma": "unus"
+        },
+        {
+            "key": "vocabatur",
+            "lemma": "uoco"
+        },
+        {
+            "key": "orpha",
+            "lemma": "orpha"
+        },
+        {
+            "key": "altera",
+            "lemma": "alter"
+        },
+        {
+            "key": "vero",
+            "lemma": "uero"
+        },
+        {
+            "key": "ruth",
+            "lemma": "ruth"
+        },
+        {
+            "key": "manserunt",
+            "lemma": "manserunt"
+        },
+        {
+            "key": "que",
+            "lemma": "que"
+        },
+        {
+            "key": "ibi",
+            "lemma": "ibi"
+        },
+        {
+            "key": "decem",
+            "lemma": "decem"
+        },
+        {
+            "key": "annis",
+            "lemma": "annus"
+        }
+    ],
+    "Ruth.1.5": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "ambo",
+            "lemma": "ambo"
+        },
+        {
+            "key": "mortui",
+            "lemma": "morior"
+        },
+        {
+            "key": "sunt",
+            "lemma": "sum"
+        },
+        {
+            "key": "mahalon",
+            "lemma": "mahalon"
+        },
+        {
+            "key": "videlicet",
+            "lemma": "uidelicet"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "chelion",
+            "lemma": "chelion"
+        },
+        {
+            "key": "remansit",
+            "lemma": "remaneo"
+        },
+        {
+            "key": "que",
+            "lemma": "que"
+        },
+        {
+            "key": "mulier",
+            "lemma": "mulier"
+        },
+        {
+            "key": "orbata",
+            "lemma": "orbo"
+        },
+        {
+            "key": "duobus",
+            "lemma": "duo"
+        },
+        {
+            "key": "liberis",
+            "lemma": "liberi"
+        },
+        {
+            "key": "ac",
+            "lemma": "atque"
+        },
+        {
+            "key": "marito",
+            "lemma": "maritus"
+        }
+    ],
+    "Ruth.1.6": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "surrexit",
+            "lemma": "surgo"
+        },
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "patriam",
+            "lemma": "patria"
+        },
+        {
+            "key": "pergeret",
+            "lemma": "pergo"
+        },
+        {
+            "key": "cum",
+            "lemma": "cum"
+        },
+        {
+            "key": "utraque",
+            "lemma": "uterque"
+        },
+        {
+            "key": "nuru",
+            "lemma": "nuru"
+        },
+        {
+            "key": "sua",
+            "lemma": "suus"
+        },
+        {
+            "key": "de",
+            "lemma": "de"
+        },
+        {
+            "key": "regione",
+            "lemma": "regio"
+        },
+        {
+            "key": "moabitide",
+            "lemma": "moabitide"
+        },
+        {
+            "key": "audierat",
+            "lemma": "audio"
+        },
+        {
+            "key": "enim",
+            "lemma": "enim"
+        },
+        {
+            "key": "quod",
+            "lemma": "quod"
+        },
+        {
+            "key": "respexisset",
+            "lemma": "respexo"
+        },
+        {
+            "key": "dominus",
+            "lemma": "dominus"
+        },
+        {
+            "key": "populum",
+            "lemma": "populus"
+        },
+        {
+            "key": "suum",
+            "lemma": "suus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "dedisset",
+            "lemma": "do"
+        },
+        {
+            "key": "eis",
+            "lemma": "is"
+        },
+        {
+            "key": "escas",
+            "lemma": "esca"
+        }
+    ],
+    "Ruth.1.7": [
+        {
+            "key": "egressa",
+            "lemma": "egressa"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "itaque",
+            "lemma": "itaque"
+        },
+        {
+            "key": "de",
+            "lemma": "de"
+        },
+        {
+            "key": "loco",
+            "lemma": "locus"
+        },
+        {
+            "key": "peregrinationis",
+            "lemma": "peregrinatio"
+        },
+        {
+            "key": "su\u00e6",
+            "lemma": "su\u00e6"
+        },
+        {
+            "key": "cum",
+            "lemma": "cum"
+        },
+        {
+            "key": "utraque",
+            "lemma": "uterque"
+        },
+        {
+            "key": "nuru",
+            "lemma": "nuru"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "jam",
+            "lemma": "jam"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "via",
+            "lemma": "uia"
+        },
+        {
+            "key": "revertendi",
+            "lemma": "revertendi"
+        },
+        {
+            "key": "posita",
+            "lemma": "pono"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "terram",
+            "lemma": "terra"
+        },
+        {
+            "key": "juda",
+            "lemma": "juda"
+        }
+    ],
+    "Ruth.1.8": [
+        {
+            "key": "dixit",
+            "lemma": "dico"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "eas",
+            "lemma": "is"
+        },
+        {
+            "key": "ite",
+            "lemma": "ito"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "domum",
+            "lemma": "domus"
+        },
+        {
+            "key": "matris",
+            "lemma": "mater"
+        },
+        {
+            "key": "vestr\u00e6",
+            "lemma": "uestr\u00e6"
+        },
+        {
+            "key": "faciat",
+            "lemma": "facio"
+        },
+        {
+            "key": "vobis",
+            "lemma": "uos"
+        },
+        {
+            "key": "cum",
+            "lemma": "cum"
+        },
+        {
+            "key": "dominus",
+            "lemma": "dominus"
+        },
+        {
+            "key": "misericordiam",
+            "lemma": "misericordia"
+        },
+        {
+            "key": "sicut",
+            "lemma": "sicut"
+        },
+        {
+            "key": "fecistis",
+            "lemma": "facio"
+        },
+        {
+            "key": "cum",
+            "lemma": "cum"
+        },
+        {
+            "key": "mortuis",
+            "lemma": "morior"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "me",
+            "lemma": "ego"
+        },
+        {
+            "key": "cum",
+            "lemma": "cum"
+        }
+    ],
+    "Ruth.1.9": [
+        {
+            "key": "det",
+            "lemma": "det"
+        },
+        {
+            "key": "vobis",
+            "lemma": "uos"
+        },
+        {
+            "key": "invenire",
+            "lemma": "inuenio"
+        },
+        {
+            "key": "requiem",
+            "lemma": "requies"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "domibus",
+            "lemma": "domus"
+        },
+        {
+            "key": "virorum",
+            "lemma": "uir"
+        },
+        {
+            "key": "quos",
+            "lemma": "qui"
+        },
+        {
+            "key": "sortitur\u00e6",
+            "lemma": "sortitur\u00e6"
+        },
+        {
+            "key": "estis",
+            "lemma": "sum"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "osculata",
+            "lemma": "osculata"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "eas",
+            "lemma": "is"
+        },
+        {
+            "key": "qu\u00e6",
+            "lemma": "qu\u00e6"
+        },
+        {
+            "key": "elevata",
+            "lemma": "elevo"
+        },
+        {
+            "key": "voce",
+            "lemma": "uox"
+        },
+        {
+            "key": "flere",
+            "lemma": "fleo"
+        },
+        {
+            "key": "c\u0153perunt",
+            "lemma": "c\u0153pi"
+        }
+    ],
+    "Ruth.1.10": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "dicere",
+            "lemma": "dico"
+        },
+        {
+            "key": "tecum",
+            "lemma": "tecus"
+        },
+        {
+            "key": "pergemus",
+            "lemma": "pergo"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "populum",
+            "lemma": "populus"
+        },
+        {
+            "key": "tuum",
+            "lemma": "tuus"
+        }
+    ],
+    "Ruth.1.11": [
+        {
+            "key": "quibus",
+            "lemma": "qui"
+        },
+        {
+            "key": "illa",
+            "lemma": "ille"
+        },
+        {
+            "key": "respondit",
+            "lemma": "respondeo"
+        },
+        {
+            "key": "revertimini",
+            "lemma": "revertimini"
+        },
+        {
+            "key": "fili\u00e6",
+            "lemma": "fili\u00e6"
+        },
+        {
+            "key": "me\u00e6",
+            "lemma": "me\u00e6"
+        },
+        {
+            "key": "cur",
+            "lemma": "cur"
+        },
+        {
+            "key": "venitis",
+            "lemma": "venitis"
+        },
+        {
+            "key": "me",
+            "lemma": "ego"
+        },
+        {
+            "key": "cum",
+            "lemma": "cum"
+        },
+        {
+            "key": "num",
+            "lemma": "num"
+        },
+        {
+            "key": "ultra",
+            "lemma": "ultra"
+        },
+        {
+            "key": "habeo",
+            "lemma": "habeo"
+        },
+        {
+            "key": "filios",
+            "lemma": "filius"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "utero",
+            "lemma": "uterus"
+        },
+        {
+            "key": "meo",
+            "lemma": "meus"
+        },
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "viros",
+            "lemma": "uir"
+        },
+        {
+            "key": "ex",
+            "lemma": "ex"
+        },
+        {
+            "key": "me",
+            "lemma": "ego"
+        },
+        {
+            "key": "sperare",
+            "lemma": "spero"
+        },
+        {
+            "key": "possitis",
+            "lemma": "possitis"
+        }
+    ],
+    "Ruth.1.12": [
+        {
+            "key": "revertimini",
+            "lemma": "revertimini"
+        },
+        {
+            "key": "fili\u00e6",
+            "lemma": "fili\u00e6"
+        },
+        {
+            "key": "me\u00e6",
+            "lemma": "me\u00e6"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "abite",
+            "lemma": "abo"
+        },
+        {
+            "key": "jam",
+            "lemma": "jam"
+        },
+        {
+            "key": "enim",
+            "lemma": "enim"
+        },
+        {
+            "key": "senectute",
+            "lemma": "senectute"
+        },
+        {
+            "key": "confecta",
+            "lemma": "confecio"
+        },
+        {
+            "key": "sum",
+            "lemma": "sum"
+        },
+        {
+            "key": "nec",
+            "lemma": "nec"
+        },
+        {
+            "key": "apta",
+            "lemma": "aptus"
+        },
+        {
+            "key": "vinculo",
+            "lemma": "uinculum"
+        },
+        {
+            "key": "conjugali",
+            "lemma": "conjugalis"
+        },
+        {
+            "key": "etiamsi",
+            "lemma": "etiamsi"
+        },
+        {
+            "key": "possem",
+            "lemma": "possum"
+        },
+        {
+            "key": "hac",
+            "lemma": "hic"
+        },
+        {
+            "key": "nocte",
+            "lemma": "nox"
+        },
+        {
+            "key": "concipere",
+            "lemma": "concipio"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "parere",
+            "lemma": "pario"
+        },
+        {
+            "key": "filios",
+            "lemma": "filius"
+        }
+    ],
+    "Ruth.1.13": [
+        {
+            "key": "si",
+            "lemma": "si"
+        },
+        {
+            "key": "eos",
+            "lemma": "is"
+        },
+        {
+            "key": "expectare",
+            "lemma": "exspecto"
+        },
+        {
+            "key": "velitis",
+            "lemma": "uolito"
+        },
+        {
+            "key": "donec",
+            "lemma": "donec"
+        },
+        {
+            "key": "crescant",
+            "lemma": "cresco"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "annos",
+            "lemma": "annus"
+        },
+        {
+            "key": "pubertatis",
+            "lemma": "pubertas"
+        },
+        {
+            "key": "impleant",
+            "lemma": "impleo"
+        },
+        {
+            "key": "ante",
+            "lemma": "ante"
+        },
+        {
+            "key": "eritis",
+            "lemma": "sum"
+        },
+        {
+            "key": "vetul\u00e6",
+            "lemma": "uetul\u00e6"
+        },
+        {
+            "key": "quam",
+            "lemma": "quam"
+        },
+        {
+            "key": "nubatis",
+            "lemma": "nubo"
+        },
+        {
+            "key": "nolite",
+            "lemma": "nolo"
+        },
+        {
+            "key": "qu\u00e6so",
+            "lemma": "qu\u00e6so"
+        },
+        {
+            "key": "fili\u00e6",
+            "lemma": "fili\u00e6"
+        },
+        {
+            "key": "me\u00e6",
+            "lemma": "me\u00e6"
+        },
+        {
+            "key": "quia",
+            "lemma": "quia"
+        },
+        {
+            "key": "vestra",
+            "lemma": "uester"
+        },
+        {
+            "key": "angustia",
+            "lemma": "angustia"
+        },
+        {
+            "key": "magis",
+            "lemma": "magis"
+        },
+        {
+            "key": "me",
+            "lemma": "ego"
+        },
+        {
+            "key": "premit",
+            "lemma": "premit"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "egressa",
+            "lemma": "egredior"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "manus",
+            "lemma": "manus"
+        },
+        {
+            "key": "domini",
+            "lemma": "dominus"
+        },
+        {
+            "key": "contra",
+            "lemma": "contra"
+        },
+        {
+            "key": "me",
+            "lemma": "ego"
+        }
+    ],
+    "Ruth.1.14": [
+        {
+            "key": "elevata",
+            "lemma": "elevata"
+        },
+        {
+            "key": "igitur",
+            "lemma": "igitur"
+        },
+        {
+            "key": "voce",
+            "lemma": "uox"
+        },
+        {
+            "key": "rursum",
+            "lemma": "rursus"
+        },
+        {
+            "key": "flere",
+            "lemma": "fleo"
+        },
+        {
+            "key": "c\u0153perunt",
+            "lemma": "c\u0153pi"
+        },
+        {
+            "key": "orpha",
+            "lemma": "orpha"
+        },
+        {
+            "key": "osculata",
+            "lemma": "osculata"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "socrum",
+            "lemma": "socrus"
+        },
+        {
+            "key": "ac",
+            "lemma": "atque"
+        },
+        {
+            "key": "reversa",
+            "lemma": "reuerto"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "ruth",
+            "lemma": "ruth"
+        },
+        {
+            "key": "adh\u00e6sit",
+            "lemma": "adh\u00e6geo"
+        },
+        {
+            "key": "socrui",
+            "lemma": "socrus"
+        },
+        {
+            "key": "su\u00e6",
+            "lemma": "su\u00e6"
+        }
+    ],
+    "Ruth.1.15": [
+        {
+            "key": "cui",
+            "lemma": "qui"
+        },
+        {
+            "key": "dixit",
+            "lemma": "dico"
+        },
+        {
+            "key": "no\u00ebmi",
+            "lemma": "no\u00ebmi"
+        },
+        {
+            "key": "en",
+            "lemma": "en"
+        },
+        {
+            "key": "reversa",
+            "lemma": "reuerto"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "cognata",
+            "lemma": "cognatus"
+        },
+        {
+            "key": "tua",
+            "lemma": "tuus"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "populum",
+            "lemma": "populus"
+        },
+        {
+            "key": "suum",
+            "lemma": "suus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "deos",
+            "lemma": "deus"
+        },
+        {
+            "key": "suos",
+            "lemma": "suus"
+        },
+        {
+            "key": "vade",
+            "lemma": "uado"
+        },
+        {
+            "key": "cum",
+            "lemma": "cum"
+        },
+        {
+            "key": "ea",
+            "lemma": "is"
+        }
+    ],
+    "Ruth.1.16": [
+        {
+            "key": "qu\u00e6",
+            "lemma": "qu\u00e6"
+        },
+        {
+            "key": "respondit",
+            "lemma": "respondeo"
+        },
+        {
+            "key": "ne",
+            "lemma": "ne"
+        },
+        {
+            "key": "adverseris",
+            "lemma": "adverso"
+        },
+        {
+            "key": "mihi",
+            "lemma": "ego"
+        },
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "relinquam",
+            "lemma": "relinquo"
+        },
+        {
+            "key": "te",
+            "lemma": "tu"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "abeam",
+            "lemma": "abeo"
+        },
+        {
+            "key": "quocumque",
+            "lemma": "quicumque"
+        },
+        {
+            "key": "enim",
+            "lemma": "enim"
+        },
+        {
+            "key": "perrexeris",
+            "lemma": "perrexeris"
+        },
+        {
+            "key": "pergam",
+            "lemma": "pergo"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "ubi",
+            "lemma": "ubi"
+        },
+        {
+            "key": "morata",
+            "lemma": "moro"
+        },
+        {
+            "key": "fueris",
+            "lemma": "sum"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "ego",
+            "lemma": "ego"
+        },
+        {
+            "key": "pariter",
+            "lemma": "pariter"
+        },
+        {
+            "key": "morabor",
+            "lemma": "moror"
+        },
+        {
+            "key": "populus",
+            "lemma": "populus"
+        },
+        {
+            "key": "tuus",
+            "lemma": "tuus"
+        },
+        {
+            "key": "populus",
+            "lemma": "populus"
+        },
+        {
+            "key": "meus",
+            "lemma": "meus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "deus",
+            "lemma": "deus"
+        },
+        {
+            "key": "tuus",
+            "lemma": "tuus"
+        },
+        {
+            "key": "deus",
+            "lemma": "deus"
+        },
+        {
+            "key": "meus",
+            "lemma": "meus"
+        }
+    ],
+    "Ruth.1.17": [
+        {
+            "key": "qu\u00e6",
+            "lemma": "qu\u00e6"
+        },
+        {
+            "key": "te",
+            "lemma": "tu"
+        },
+        {
+            "key": "terra",
+            "lemma": "terra"
+        },
+        {
+            "key": "morientem",
+            "lemma": "moriens"
+        },
+        {
+            "key": "susceperit",
+            "lemma": "suscipio"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "ea",
+            "lemma": "is"
+        },
+        {
+            "key": "moriar",
+            "lemma": "morior"
+        },
+        {
+            "key": "ibi",
+            "lemma": "ibi"
+        },
+        {
+            "key": "que",
+            "lemma": "que"
+        },
+        {
+            "key": "locum",
+            "lemma": "locus"
+        },
+        {
+            "key": "accipiam",
+            "lemma": "accipio"
+        },
+        {
+            "key": "sepultur\u00e6",
+            "lemma": "sepultur\u00e6"
+        },
+        {
+            "key": "h\u00e6c",
+            "lemma": "h\u00e6c"
+        },
+        {
+            "key": "mihi",
+            "lemma": "ego"
+        },
+        {
+            "key": "faciat",
+            "lemma": "facio"
+        },
+        {
+            "key": "dominus",
+            "lemma": "dominus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "h\u00e6c",
+            "lemma": "h\u00e6c"
+        },
+        {
+            "key": "addat",
+            "lemma": "addo"
+        },
+        {
+            "key": "si",
+            "lemma": "si"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "sola",
+            "lemma": "solus"
+        },
+        {
+            "key": "mors",
+            "lemma": "mors"
+        },
+        {
+            "key": "me",
+            "lemma": "ego"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "te",
+            "lemma": "tu"
+        },
+        {
+            "key": "separaverit",
+            "lemma": "separo"
+        }
+    ],
+    "Ruth.1.18": [
+        {
+            "key": "videns",
+            "lemma": "uidens"
+        },
+        {
+            "key": "ergo",
+            "lemma": "ergo"
+        },
+        {
+            "key": "no\u00ebmi",
+            "lemma": "no\u00ebmi"
+        },
+        {
+            "key": "quod",
+            "lemma": "qui"
+        },
+        {
+            "key": "obstinato",
+            "lemma": "obstino"
+        },
+        {
+            "key": "animo",
+            "lemma": "animus"
+        },
+        {
+            "key": "ruth",
+            "lemma": "ruth"
+        },
+        {
+            "key": "decrevisset",
+            "lemma": "decreveo"
+        },
+        {
+            "key": "secum",
+            "lemma": "sui"
+        },
+        {
+            "key": "pergere",
+            "lemma": "pergo"
+        },
+        {
+            "key": "adversari",
+            "lemma": "adversor"
+        },
+        {
+            "key": "noluit",
+            "lemma": "nolo"
+        },
+        {
+            "key": "nec",
+            "lemma": "nec"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "suos",
+            "lemma": "suus"
+        },
+        {
+            "key": "ultra",
+            "lemma": "ultra"
+        },
+        {
+            "key": "reditum",
+            "lemma": "reditus"
+        },
+        {
+            "key": "persuadere",
+            "lemma": "persuadeo"
+        }
+    ],
+    "Ruth.1.19": [
+        {
+            "key": "profect\u00e6",
+            "lemma": "profect\u00e6"
+        },
+        {
+            "key": "que",
+            "lemma": "que"
+        },
+        {
+            "key": "sunt",
+            "lemma": "sum"
+        },
+        {
+            "key": "simul",
+            "lemma": "simul"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "venerunt",
+            "lemma": "uenio"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "bethlehem",
+            "lemma": "bethlehem"
+        },
+        {
+            "key": "quibus",
+            "lemma": "qui"
+        },
+        {
+            "key": "urbem",
+            "lemma": "urbs"
+        },
+        {
+            "key": "ingressis",
+            "lemma": "ingressis"
+        },
+        {
+            "key": "velox",
+            "lemma": "uelox"
+        },
+        {
+            "key": "apud",
+            "lemma": "apud"
+        },
+        {
+            "key": "cunctos",
+            "lemma": "cunctus"
+        },
+        {
+            "key": "fama",
+            "lemma": "fama"
+        },
+        {
+            "key": "percrebruit",
+            "lemma": "percrebmro"
+        },
+        {
+            "key": "dicebant",
+            "lemma": "dico"
+        },
+        {
+            "key": "que",
+            "lemma": "que"
+        },
+        {
+            "key": "mulieres",
+            "lemma": "mulier"
+        },
+        {
+            "key": "h\u00e6c",
+            "lemma": "h\u00e6c"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "illa",
+            "lemma": "ille"
+        },
+        {
+            "key": "no\u00ebmi",
+            "lemma": "no\u00ebmi"
+        }
+    ],
+    "Ruth.1.20": [
+        {
+            "key": "quibus",
+            "lemma": "qui"
+        },
+        {
+            "key": "ait",
+            "lemma": "aio"
+        },
+        {
+            "key": "ne",
+            "lemma": "ne"
+        },
+        {
+            "key": "vocetis",
+            "lemma": "vocetis"
+        },
+        {
+            "key": "me",
+            "lemma": "ego"
+        },
+        {
+            "key": "no\u00ebmi",
+            "lemma": "no\u00ebmi"
+        },
+        {
+            "key": "id",
+            "lemma": "is"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "pulchram",
+            "lemma": "pulchram"
+        },
+        {
+            "key": "sed",
+            "lemma": "sed"
+        },
+        {
+            "key": "vocate",
+            "lemma": "uoco"
+        },
+        {
+            "key": "me",
+            "lemma": "ego"
+        },
+        {
+            "key": "mara",
+            "lemma": "mara"
+        },
+        {
+            "key": "id",
+            "lemma": "is"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "amaram",
+            "lemma": "amarus"
+        },
+        {
+            "key": "quia",
+            "lemma": "quia"
+        },
+        {
+            "key": "amaritudine",
+            "lemma": "amaritudo"
+        },
+        {
+            "key": "valde",
+            "lemma": "ualde"
+        },
+        {
+            "key": "replevit",
+            "lemma": "repleo"
+        },
+        {
+            "key": "me",
+            "lemma": "ego"
+        },
+        {
+            "key": "omnipotens",
+            "lemma": "omnipotens"
+        }
+    ],
+    "Ruth.1.21": [
+        {
+            "key": "egressa",
+            "lemma": "egressa"
+        },
+        {
+            "key": "sum",
+            "lemma": "sum"
+        },
+        {
+            "key": "plena",
+            "lemma": "plenus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "vacuam",
+            "lemma": "uacuus"
+        },
+        {
+            "key": "reduxit",
+            "lemma": "reduco"
+        },
+        {
+            "key": "me",
+            "lemma": "ego"
+        },
+        {
+            "key": "dominus",
+            "lemma": "dominus"
+        },
+        {
+            "key": "cur",
+            "lemma": "cur"
+        },
+        {
+            "key": "ergo",
+            "lemma": "ergo"
+        },
+        {
+            "key": "vocatis",
+            "lemma": "uoco"
+        },
+        {
+            "key": "me",
+            "lemma": "ego"
+        },
+        {
+            "key": "no\u00ebmi",
+            "lemma": "no\u00ebmi"
+        },
+        {
+            "key": "quam",
+            "lemma": "qui"
+        },
+        {
+            "key": "dominus",
+            "lemma": "dominus"
+        },
+        {
+            "key": "humiliavit",
+            "lemma": "humilio"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "afflixit",
+            "lemma": "affligo"
+        },
+        {
+            "key": "omnipotens",
+            "lemma": "omnipotens"
+        }
+    ],
+    "Ruth.1.22": [
+        {
+            "key": "venit",
+            "lemma": "uenio"
+        },
+        {
+            "key": "ergo",
+            "lemma": "ergo"
+        },
+        {
+            "key": "no\u00ebmi",
+            "lemma": "no\u00ebmi"
+        },
+        {
+            "key": "cum",
+            "lemma": "cum"
+        },
+        {
+            "key": "ruth",
+            "lemma": "ruth"
+        },
+        {
+            "key": "moabitide",
+            "lemma": "moabitide"
+        },
+        {
+            "key": "nuru",
+            "lemma": "nuru"
+        },
+        {
+            "key": "sua",
+            "lemma": "suus"
+        },
+        {
+            "key": "de",
+            "lemma": "de"
+        },
+        {
+            "key": "terra",
+            "lemma": "terra"
+        },
+        {
+            "key": "peregrinationis",
+            "lemma": "peregrinatio"
+        },
+        {
+            "key": "su\u00e6",
+            "lemma": "su\u00e6"
+        },
+        {
+            "key": "ac",
+            "lemma": "atque"
+        },
+        {
+            "key": "reversa",
+            "lemma": "reuerto"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "bethlehem",
+            "lemma": "bethlehem"
+        },
+        {
+            "key": "quando",
+            "lemma": "quando"
+        },
+        {
+            "key": "primum",
+            "lemma": "primus"
+        },
+        {
+            "key": "hordea",
+            "lemma": "hordea"
+        },
+        {
+            "key": "metebantur",
+            "lemma": "meto"
+        }
+    ],
+    "Ruth.2.1": [
+        {
+            "key": "erat",
+            "lemma": "sum"
+        },
+        {
+            "key": "autem",
+            "lemma": "autem"
+        },
+        {
+            "key": "viro",
+            "lemma": "uir"
+        },
+        {
+            "key": "elimelech",
+            "lemma": "elimelech"
+        },
+        {
+            "key": "consanguineus",
+            "lemma": "consanguineus"
+        },
+        {
+            "key": "homo",
+            "lemma": "homo"
+        },
+        {
+            "key": "potens",
+            "lemma": "possum"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "magnarum",
+            "lemma": "magnus"
+        },
+        {
+            "key": "opum",
+            "lemma": "opus"
+        },
+        {
+            "key": "nomine",
+            "lemma": "nomen"
+        },
+        {
+            "key": "booz",
+            "lemma": "booz"
+        }
+    ],
+    "Ruth.2.2": [
+        {
+            "key": "dixit",
+            "lemma": "dixit"
+        },
+        {
+            "key": "que",
+            "lemma": "que"
+        },
+        {
+            "key": "ruth",
+            "lemma": "ruth"
+        },
+        {
+            "key": "moabitis",
+            "lemma": "moabitis"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "socrum",
+            "lemma": "socrus"
+        },
+        {
+            "key": "suam",
+            "lemma": "suus"
+        },
+        {
+            "key": "si",
+            "lemma": "si"
+        },
+        {
+            "key": "jubes",
+            "lemma": "jubeo"
+        },
+        {
+            "key": "vadam",
+            "lemma": "uado"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "agrum",
+            "lemma": "ager"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "colligam",
+            "lemma": "colligo"
+        },
+        {
+            "key": "spicas",
+            "lemma": "spica"
+        },
+        {
+            "key": "qu\u00e6",
+            "lemma": "qu\u00e6"
+        },
+        {
+            "key": "fugerint",
+            "lemma": "fugerint"
+        },
+        {
+            "key": "manus",
+            "lemma": "manus"
+        },
+        {
+            "key": "metentium",
+            "lemma": "meto"
+        },
+        {
+            "key": "ubicumque",
+            "lemma": "ubicumque"
+        },
+        {
+            "key": "clementis",
+            "lemma": "clemens"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "me",
+            "lemma": "ego"
+        },
+        {
+            "key": "patrisfamilias",
+            "lemma": "patrisfamilias"
+        },
+        {
+            "key": "reperero",
+            "lemma": "reperero"
+        },
+        {
+            "key": "gratiam",
+            "lemma": "gratia"
+        },
+        {
+            "key": "cui",
+            "lemma": "qui"
+        },
+        {
+            "key": "illa",
+            "lemma": "ille"
+        },
+        {
+            "key": "respondit",
+            "lemma": "respondeo"
+        },
+        {
+            "key": "vade",
+            "lemma": "vade"
+        },
+        {
+            "key": "filia",
+            "lemma": "filia"
+        },
+        {
+            "key": "mea",
+            "lemma": "meus"
+        }
+    ],
+    "Ruth.2.3": [
+        {
+            "key": "abiit",
+            "lemma": "abiit"
+        },
+        {
+            "key": "itaque",
+            "lemma": "itaque"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "colligebat",
+            "lemma": "colligo"
+        },
+        {
+            "key": "spicas",
+            "lemma": "spica"
+        },
+        {
+            "key": "post",
+            "lemma": "post"
+        },
+        {
+            "key": "terga",
+            "lemma": "tergum"
+        },
+        {
+            "key": "metentium",
+            "lemma": "meto"
+        },
+        {
+            "key": "accidit",
+            "lemma": "accido"
+        },
+        {
+            "key": "autem",
+            "lemma": "autem"
+        },
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "ager",
+            "lemma": "ager"
+        },
+        {
+            "key": "ille",
+            "lemma": "ille"
+        },
+        {
+            "key": "haberet",
+            "lemma": "habeo"
+        },
+        {
+            "key": "dominum",
+            "lemma": "dominus"
+        },
+        {
+            "key": "nomine",
+            "lemma": "nomen"
+        },
+        {
+            "key": "booz",
+            "lemma": "booz"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "erat",
+            "lemma": "sum"
+        },
+        {
+            "key": "de",
+            "lemma": "de"
+        },
+        {
+            "key": "cognatione",
+            "lemma": "cognatio"
+        },
+        {
+            "key": "elimelech",
+            "lemma": "elimelech"
+        }
+    ],
+    "Ruth.2.4": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "ecce",
+            "lemma": "ecce"
+        },
+        {
+            "key": "ipse",
+            "lemma": "ipse"
+        },
+        {
+            "key": "veniebat",
+            "lemma": "uenio"
+        },
+        {
+            "key": "de",
+            "lemma": "de"
+        },
+        {
+            "key": "bethlehem",
+            "lemma": "bethlehem"
+        },
+        {
+            "key": "dixit",
+            "lemma": "dico"
+        },
+        {
+            "key": "que",
+            "lemma": "que"
+        },
+        {
+            "key": "messoribus",
+            "lemma": "messor"
+        },
+        {
+            "key": "dominus",
+            "lemma": "dominus"
+        },
+        {
+            "key": "vobis",
+            "lemma": "uos"
+        },
+        {
+            "key": "cum",
+            "lemma": "cum"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "responderunt",
+            "lemma": "respondeo"
+        },
+        {
+            "key": "ei",
+            "lemma": "is"
+        },
+        {
+            "key": "benedicat",
+            "lemma": "benedicat"
+        },
+        {
+            "key": "tibi",
+            "lemma": "tu"
+        },
+        {
+            "key": "dominus",
+            "lemma": "dominus"
+        }
+    ],
+    "Ruth.2.5": [
+        {
+            "key": "dixit",
+            "lemma": "dixit"
+        },
+        {
+            "key": "que",
+            "lemma": "que"
+        },
+        {
+            "key": "booz",
+            "lemma": "booz"
+        },
+        {
+            "key": "juveni",
+            "lemma": "juuenio"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "messoribus",
+            "lemma": "messor"
+        },
+        {
+            "key": "pr\u00e6erat",
+            "lemma": "pr\u00e6sum"
+        },
+        {
+            "key": "cujus",
+            "lemma": "quj"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "h\u00e6c",
+            "lemma": "h\u00e6c"
+        },
+        {
+            "key": "puella",
+            "lemma": "puella"
+        }
+    ],
+    "Ruth.2.6": [
+        {
+            "key": "cui",
+            "lemma": "qui"
+        },
+        {
+            "key": "respondit",
+            "lemma": "respondeo"
+        },
+        {
+            "key": "h\u00e6c",
+            "lemma": "h\u00e6c"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "moabitis",
+            "lemma": "moabitis"
+        },
+        {
+            "key": "qu\u00e6",
+            "lemma": "qu\u00e6"
+        },
+        {
+            "key": "venit",
+            "lemma": "uenio"
+        },
+        {
+            "key": "cum",
+            "lemma": "cum"
+        },
+        {
+            "key": "no\u00ebmi",
+            "lemma": "no\u00ebmi"
+        },
+        {
+            "key": "de",
+            "lemma": "de"
+        },
+        {
+            "key": "regione",
+            "lemma": "regio"
+        },
+        {
+            "key": "moabitide",
+            "lemma": "moabitide"
+        }
+    ],
+    "Ruth.2.7": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "rogavit",
+            "lemma": "rogo"
+        },
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "spicas",
+            "lemma": "spica"
+        },
+        {
+            "key": "colligeret",
+            "lemma": "colligo"
+        },
+        {
+            "key": "remanentes",
+            "lemma": "remaneo"
+        },
+        {
+            "key": "sequens",
+            "lemma": "sequor"
+        },
+        {
+            "key": "messorum",
+            "lemma": "messum"
+        },
+        {
+            "key": "vestigia",
+            "lemma": "uestigium"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "de",
+            "lemma": "de"
+        },
+        {
+            "key": "mane",
+            "lemma": "mane"
+        },
+        {
+            "key": "usque",
+            "lemma": "usque"
+        },
+        {
+            "key": "nunc",
+            "lemma": "nunc"
+        },
+        {
+            "key": "stat",
+            "lemma": "sto"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "agro",
+            "lemma": "ager"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "ne",
+            "lemma": "ne"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "momentum",
+            "lemma": "momentum"
+        },
+        {
+            "key": "quidem",
+            "lemma": "quidem"
+        },
+        {
+            "key": "domum",
+            "lemma": "domus"
+        },
+        {
+            "key": "reversa",
+            "lemma": "reversa"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        }
+    ],
+    "Ruth.2.8": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "ait",
+            "lemma": "aio"
+        },
+        {
+            "key": "booz",
+            "lemma": "booz"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "ruth",
+            "lemma": "ruth"
+        },
+        {
+            "key": "audi",
+            "lemma": "audio"
+        },
+        {
+            "key": "filia",
+            "lemma": "filia"
+        },
+        {
+            "key": "ne",
+            "lemma": "ne"
+        },
+        {
+            "key": "vadas",
+            "lemma": "vado"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "alterum",
+            "lemma": "alter"
+        },
+        {
+            "key": "agrum",
+            "lemma": "ager"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "colligendum",
+            "lemma": "colligo"
+        },
+        {
+            "key": "nec",
+            "lemma": "neque"
+        },
+        {
+            "key": "recedas",
+            "lemma": "recedo"
+        },
+        {
+            "key": "ab",
+            "lemma": "ab"
+        },
+        {
+            "key": "hoc",
+            "lemma": "hic"
+        },
+        {
+            "key": "loco",
+            "lemma": "locus"
+        },
+        {
+            "key": "sed",
+            "lemma": "sed"
+        },
+        {
+            "key": "jungere",
+            "lemma": "jungo"
+        },
+        {
+            "key": "puellis",
+            "lemma": "puella"
+        },
+        {
+            "key": "meis",
+            "lemma": "meus"
+        }
+    ],
+    "Ruth.2.9": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "ubi",
+            "lemma": "ubi"
+        },
+        {
+            "key": "messuerint",
+            "lemma": "messuo"
+        },
+        {
+            "key": "sequere",
+            "lemma": "sequor"
+        },
+        {
+            "key": "mandavi",
+            "lemma": "mandavi"
+        },
+        {
+            "key": "enim",
+            "lemma": "enim"
+        },
+        {
+            "key": "pueris",
+            "lemma": "puer"
+        },
+        {
+            "key": "meis",
+            "lemma": "meus"
+        },
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "nemo",
+            "lemma": "nemo"
+        },
+        {
+            "key": "molestus",
+            "lemma": "molestus"
+        },
+        {
+            "key": "sit",
+            "lemma": "sum"
+        },
+        {
+            "key": "tibi",
+            "lemma": "tu"
+        },
+        {
+            "key": "sed",
+            "lemma": "sed"
+        },
+        {
+            "key": "etiam",
+            "lemma": "etiam"
+        },
+        {
+            "key": "si",
+            "lemma": "si"
+        },
+        {
+            "key": "sitieris",
+            "lemma": "sitio"
+        },
+        {
+            "key": "vade",
+            "lemma": "uado"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "sarcinulas",
+            "lemma": "sarcinula"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "bibe",
+            "lemma": "bibo"
+        },
+        {
+            "key": "aquas",
+            "lemma": "aqua"
+        },
+        {
+            "key": "de",
+            "lemma": "de"
+        },
+        {
+            "key": "quibus",
+            "lemma": "qui"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "pueri",
+            "lemma": "puerus"
+        },
+        {
+            "key": "bibunt",
+            "lemma": "bibo"
+        }
+    ],
+    "Ruth.2.10": [
+        {
+            "key": "qu\u00e6",
+            "lemma": "qu\u00e6"
+        },
+        {
+            "key": "cadens",
+            "lemma": "cado"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "faciem",
+            "lemma": "facies"
+        },
+        {
+            "key": "suam",
+            "lemma": "suus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "adorans",
+            "lemma": "adoro"
+        },
+        {
+            "key": "super",
+            "lemma": "super"
+        },
+        {
+            "key": "terram",
+            "lemma": "terra"
+        },
+        {
+            "key": "dixit",
+            "lemma": "dico"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "eum",
+            "lemma": "is"
+        },
+        {
+            "key": "unde",
+            "lemma": "unde"
+        },
+        {
+            "key": "mihi",
+            "lemma": "ego"
+        },
+        {
+            "key": "hoc",
+            "lemma": "hic"
+        },
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "invenirem",
+            "lemma": "invenio"
+        },
+        {
+            "key": "gratiam",
+            "lemma": "gratia"
+        },
+        {
+            "key": "ante",
+            "lemma": "ante"
+        },
+        {
+            "key": "oculos",
+            "lemma": "oculus"
+        },
+        {
+            "key": "tuos",
+            "lemma": "tuus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "nosse",
+            "lemma": "nosco"
+        },
+        {
+            "key": "me",
+            "lemma": "ego"
+        },
+        {
+            "key": "dignareris",
+            "lemma": "dignareris"
+        },
+        {
+            "key": "peregrinam",
+            "lemma": "peregrinus"
+        },
+        {
+            "key": "mulierem",
+            "lemma": "mulier"
+        }
+    ],
+    "Ruth.2.11": [
+        {
+            "key": "cui",
+            "lemma": "qui"
+        },
+        {
+            "key": "ille",
+            "lemma": "ille"
+        },
+        {
+            "key": "respondit",
+            "lemma": "respondeo"
+        },
+        {
+            "key": "nuntiata",
+            "lemma": "nuntio"
+        },
+        {
+            "key": "sunt",
+            "lemma": "sum"
+        },
+        {
+            "key": "mihi",
+            "lemma": "ego"
+        },
+        {
+            "key": "omnia",
+            "lemma": "omnis"
+        },
+        {
+            "key": "qu\u00e6",
+            "lemma": "qu\u00e6"
+        },
+        {
+            "key": "feceris",
+            "lemma": "facio"
+        },
+        {
+            "key": "socrui",
+            "lemma": "socrus"
+        },
+        {
+            "key": "tu\u00e6",
+            "lemma": "tu\u00e6"
+        },
+        {
+            "key": "post",
+            "lemma": "post"
+        },
+        {
+            "key": "mortem",
+            "lemma": "mors"
+        },
+        {
+            "key": "viri",
+            "lemma": "uir"
+        },
+        {
+            "key": "tui",
+            "lemma": "tuus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "quod",
+            "lemma": "quod"
+        },
+        {
+            "key": "reliqueris",
+            "lemma": "reliqueris"
+        },
+        {
+            "key": "parentes",
+            "lemma": "parens"
+        },
+        {
+            "key": "tuos",
+            "lemma": "tuus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "terram",
+            "lemma": "terra"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "qua",
+            "lemma": "qui"
+        },
+        {
+            "key": "nata",
+            "lemma": "nascor"
+        },
+        {
+            "key": "es",
+            "lemma": "sum"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "veneris",
+            "lemma": "uenio"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "populum",
+            "lemma": "populus"
+        },
+        {
+            "key": "quem",
+            "lemma": "qui"
+        },
+        {
+            "key": "antea",
+            "lemma": "antea"
+        },
+        {
+            "key": "nesciebas",
+            "lemma": "nescio"
+        }
+    ],
+    "Ruth.2.12": [
+        {
+            "key": "reddat",
+            "lemma": "reddo"
+        },
+        {
+            "key": "tibi",
+            "lemma": "tu"
+        },
+        {
+            "key": "dominus",
+            "lemma": "dominus"
+        },
+        {
+            "key": "pro",
+            "lemma": "pro"
+        },
+        {
+            "key": "opere",
+            "lemma": "opus"
+        },
+        {
+            "key": "tuo",
+            "lemma": "tuus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "plenam",
+            "lemma": "plenus"
+        },
+        {
+            "key": "mercedem",
+            "lemma": "merces"
+        },
+        {
+            "key": "recipias",
+            "lemma": "recipio"
+        },
+        {
+            "key": "a",
+            "lemma": "ab"
+        },
+        {
+            "key": "domino",
+            "lemma": "dominus"
+        },
+        {
+            "key": "deo",
+            "lemma": "deus"
+        },
+        {
+            "key": "isra\u00ebl",
+            "lemma": "isra\u00ebl"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "quem",
+            "lemma": "qui"
+        },
+        {
+            "key": "venisti",
+            "lemma": "uenio"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "sub",
+            "lemma": "sub"
+        },
+        {
+            "key": "cujus",
+            "lemma": "cujus"
+        },
+        {
+            "key": "confugisti",
+            "lemma": "confugisti"
+        },
+        {
+            "key": "alas",
+            "lemma": "ala"
+        }
+    ],
+    "Ruth.2.13": [
+        {
+            "key": "qu\u00e6",
+            "lemma": "qu\u00e6"
+        },
+        {
+            "key": "ait",
+            "lemma": "aio"
+        },
+        {
+            "key": "inveni",
+            "lemma": "inveni"
+        },
+        {
+            "key": "gratiam",
+            "lemma": "gratia"
+        },
+        {
+            "key": "apud",
+            "lemma": "apud"
+        },
+        {
+            "key": "oculos",
+            "lemma": "oculus"
+        },
+        {
+            "key": "tuos",
+            "lemma": "tuus"
+        },
+        {
+            "key": "domine",
+            "lemma": "dominus"
+        },
+        {
+            "key": "mi",
+            "lemma": "meus"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "consolatus",
+            "lemma": "consolor"
+        },
+        {
+            "key": "es",
+            "lemma": "sum"
+        },
+        {
+            "key": "me",
+            "lemma": "ego"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "locutus",
+            "lemma": "loquor"
+        },
+        {
+            "key": "es",
+            "lemma": "sum"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "cor",
+            "lemma": "cor"
+        },
+        {
+            "key": "ancill\u00e6",
+            "lemma": "ancill\u00e6"
+        },
+        {
+            "key": "tu\u00e6",
+            "lemma": "tu\u00e6"
+        },
+        {
+            "key": "qu\u00e6",
+            "lemma": "qu\u00e6"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "sum",
+            "lemma": "sum"
+        },
+        {
+            "key": "similis",
+            "lemma": "similis"
+        },
+        {
+            "key": "unius",
+            "lemma": "unus"
+        },
+        {
+            "key": "puellarum",
+            "lemma": "puella"
+        },
+        {
+            "key": "tuarum",
+            "lemma": "tuus"
+        }
+    ],
+    "Ruth.2.14": [
+        {
+            "key": "dixit",
+            "lemma": "dixit"
+        },
+        {
+            "key": "que",
+            "lemma": "que"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "eam",
+            "lemma": "is"
+        },
+        {
+            "key": "booz",
+            "lemma": "booz"
+        },
+        {
+            "key": "quando",
+            "lemma": "quando"
+        },
+        {
+            "key": "hora",
+            "lemma": "hora"
+        },
+        {
+            "key": "vescendi",
+            "lemma": "uesco"
+        },
+        {
+            "key": "fuerit",
+            "lemma": "sum"
+        },
+        {
+            "key": "veni",
+            "lemma": "uenio"
+        },
+        {
+            "key": "huc",
+            "lemma": "huc"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "comede",
+            "lemma": "comedo"
+        },
+        {
+            "key": "panem",
+            "lemma": "panis"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "intinge",
+            "lemma": "intinge"
+        },
+        {
+            "key": "buccellam",
+            "lemma": "buccella"
+        },
+        {
+            "key": "tuam",
+            "lemma": "tuus"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "aceto",
+            "lemma": "acetum"
+        },
+        {
+            "key": "sedit",
+            "lemma": "sedit"
+        },
+        {
+            "key": "itaque",
+            "lemma": "itaque"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "messorum",
+            "lemma": "messic"
+        },
+        {
+            "key": "latus",
+            "lemma": "latus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "congessit",
+            "lemma": "congestto"
+        },
+        {
+            "key": "polentam",
+            "lemma": "polenta"
+        },
+        {
+            "key": "sibi",
+            "lemma": "sui"
+        },
+        {
+            "key": "comedit",
+            "lemma": "comedo"
+        },
+        {
+            "key": "que",
+            "lemma": "que"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "saturata",
+            "lemma": "saturo"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "tulit",
+            "lemma": "fero"
+        },
+        {
+            "key": "reliquias",
+            "lemma": "reliquiae"
+        }
+    ],
+    "Ruth.2.15": [
+        {
+            "key": "atque",
+            "lemma": "atque"
+        },
+        {
+            "key": "inde",
+            "lemma": "inde"
+        },
+        {
+            "key": "surrexit",
+            "lemma": "surgo"
+        },
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "spicas",
+            "lemma": "spica"
+        },
+        {
+            "key": "ex",
+            "lemma": "ex"
+        },
+        {
+            "key": "more",
+            "lemma": "mos"
+        },
+        {
+            "key": "colligeret",
+            "lemma": "colligo"
+        },
+        {
+            "key": "pr\u00e6cepit",
+            "lemma": "pr\u00e6cepit"
+        },
+        {
+            "key": "autem",
+            "lemma": "autem"
+        },
+        {
+            "key": "booz",
+            "lemma": "booz"
+        },
+        {
+            "key": "pueris",
+            "lemma": "puer"
+        },
+        {
+            "key": "suis",
+            "lemma": "suus"
+        },
+        {
+            "key": "dicens",
+            "lemma": "dico"
+        },
+        {
+            "key": "etiamsi",
+            "lemma": "etiamsi"
+        },
+        {
+            "key": "vobis",
+            "lemma": "uos"
+        },
+        {
+            "key": "cum",
+            "lemma": "cum"
+        },
+        {
+            "key": "metere",
+            "lemma": "meto"
+        },
+        {
+            "key": "voluerit",
+            "lemma": "uolo"
+        },
+        {
+            "key": "ne",
+            "lemma": "ne"
+        },
+        {
+            "key": "prohibeatis",
+            "lemma": "prohibeo"
+        },
+        {
+            "key": "eam",
+            "lemma": "is"
+        }
+    ],
+    "Ruth.2.16": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "de",
+            "lemma": "de"
+        },
+        {
+            "key": "vestris",
+            "lemma": "uester"
+        },
+        {
+            "key": "quoque",
+            "lemma": "quoque"
+        },
+        {
+            "key": "manipulis",
+            "lemma": "manipula"
+        },
+        {
+            "key": "projicite",
+            "lemma": "projico"
+        },
+        {
+            "key": "de",
+            "lemma": "de"
+        },
+        {
+            "key": "industria",
+            "lemma": "industria"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "remanere",
+            "lemma": "remaneo"
+        },
+        {
+            "key": "permittite",
+            "lemma": "permitto"
+        },
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "absque",
+            "lemma": "absque"
+        },
+        {
+            "key": "rubore",
+            "lemma": "rubor"
+        },
+        {
+            "key": "colligat",
+            "lemma": "colligo"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "colligentem",
+            "lemma": "colligo"
+        },
+        {
+            "key": "nemo",
+            "lemma": "nemo"
+        },
+        {
+            "key": "corripiat",
+            "lemma": "corripio"
+        }
+    ],
+    "Ruth.2.17": [
+        {
+            "key": "collegit",
+            "lemma": "collegit"
+        },
+        {
+            "key": "ergo",
+            "lemma": "ergo"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "agro",
+            "lemma": "ager"
+        },
+        {
+            "key": "usque",
+            "lemma": "usque"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "vesperam",
+            "lemma": "uespera"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "qu\u00e6",
+            "lemma": "qu\u00e6"
+        },
+        {
+            "key": "collegerat",
+            "lemma": "collegerat"
+        },
+        {
+            "key": "virga",
+            "lemma": "uirga"
+        },
+        {
+            "key": "c\u00e6dens",
+            "lemma": "c\u00e6do"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "excutiens",
+            "lemma": "excutio"
+        },
+        {
+            "key": "invenit",
+            "lemma": "inuenio"
+        },
+        {
+            "key": "hordei",
+            "lemma": "hordeum"
+        },
+        {
+            "key": "quasi",
+            "lemma": "quasi"
+        },
+        {
+            "key": "ephi",
+            "lemma": "ephus"
+        },
+        {
+            "key": "mensuram",
+            "lemma": "mensura"
+        },
+        {
+            "key": "id",
+            "lemma": "is"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "tres",
+            "lemma": "tres"
+        },
+        {
+            "key": "modios",
+            "lemma": "modius"
+        }
+    ],
+    "Ruth.2.18": [
+        {
+            "key": "quos",
+            "lemma": "qui"
+        },
+        {
+            "key": "portans",
+            "lemma": "porto"
+        },
+        {
+            "key": "reversa",
+            "lemma": "reuerto"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "civitatem",
+            "lemma": "ciuitas"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "ostendit",
+            "lemma": "ostendo"
+        },
+        {
+            "key": "socrui",
+            "lemma": "socrus"
+        },
+        {
+            "key": "su\u00e6",
+            "lemma": "su\u00e6"
+        },
+        {
+            "key": "insuper",
+            "lemma": "insuper"
+        },
+        {
+            "key": "protulit",
+            "lemma": "profero"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "dedit",
+            "lemma": "do"
+        },
+        {
+            "key": "ei",
+            "lemma": "is"
+        },
+        {
+            "key": "de",
+            "lemma": "de"
+        },
+        {
+            "key": "reliquiis",
+            "lemma": "reliquium"
+        },
+        {
+            "key": "cibi",
+            "lemma": "cibus"
+        },
+        {
+            "key": "sui",
+            "lemma": "suus"
+        },
+        {
+            "key": "quo",
+            "lemma": "qui"
+        },
+        {
+            "key": "saturata",
+            "lemma": "saturo"
+        },
+        {
+            "key": "fuerat",
+            "lemma": "sum"
+        }
+    ],
+    "Ruth.2.19": [
+        {
+            "key": "dixit",
+            "lemma": "dixit"
+        },
+        {
+            "key": "que",
+            "lemma": "que"
+        },
+        {
+            "key": "ei",
+            "lemma": "is"
+        },
+        {
+            "key": "socrus",
+            "lemma": "socrus"
+        },
+        {
+            "key": "sua",
+            "lemma": "suus"
+        },
+        {
+            "key": "ubi",
+            "lemma": "ubi"
+        },
+        {
+            "key": "hodie",
+            "lemma": "hodie"
+        },
+        {
+            "key": "collegisti",
+            "lemma": "collego"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "ubi",
+            "lemma": "ubi"
+        },
+        {
+            "key": "fecisti",
+            "lemma": "facio"
+        },
+        {
+            "key": "opus",
+            "lemma": "opus"
+        },
+        {
+            "key": "sit",
+            "lemma": "sum"
+        },
+        {
+            "key": "benedictus",
+            "lemma": "benedictus"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "misertus",
+            "lemma": "misereor"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "tui",
+            "lemma": "tuus"
+        },
+        {
+            "key": "indicavit",
+            "lemma": "indicavit"
+        },
+        {
+            "key": "que",
+            "lemma": "que"
+        },
+        {
+            "key": "ei",
+            "lemma": "is"
+        },
+        {
+            "key": "apud",
+            "lemma": "apud"
+        },
+        {
+            "key": "quem",
+            "lemma": "qui"
+        },
+        {
+            "key": "fuisset",
+            "lemma": "sum"
+        },
+        {
+            "key": "operata",
+            "lemma": "operor"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "nomen",
+            "lemma": "nomen"
+        },
+        {
+            "key": "dixit",
+            "lemma": "dico"
+        },
+        {
+            "key": "viri",
+            "lemma": "uir"
+        },
+        {
+            "key": "quod",
+            "lemma": "quod"
+        },
+        {
+            "key": "booz",
+            "lemma": "booz"
+        },
+        {
+            "key": "vocaretur",
+            "lemma": "uoco"
+        }
+    ],
+    "Ruth.2.20": [
+        {
+            "key": "cui",
+            "lemma": "qui"
+        },
+        {
+            "key": "respondit",
+            "lemma": "respondeo"
+        },
+        {
+            "key": "no\u00ebmi",
+            "lemma": "no\u00ebmi"
+        },
+        {
+            "key": "benedictus",
+            "lemma": "benedictus"
+        },
+        {
+            "key": "sit",
+            "lemma": "sum"
+        },
+        {
+            "key": "a",
+            "lemma": "ab"
+        },
+        {
+            "key": "domino",
+            "lemma": "dominus"
+        },
+        {
+            "key": "quoniam",
+            "lemma": "quoniam"
+        },
+        {
+            "key": "eamdem",
+            "lemma": "idem"
+        },
+        {
+            "key": "gratiam",
+            "lemma": "gratia"
+        },
+        {
+            "key": "quam",
+            "lemma": "qui"
+        },
+        {
+            "key": "pr\u00e6buerat",
+            "lemma": "pr\u00e6buo"
+        },
+        {
+            "key": "vivis",
+            "lemma": "uiuo"
+        },
+        {
+            "key": "servavit",
+            "lemma": "servasco"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "mortuis",
+            "lemma": "morior"
+        },
+        {
+            "key": "rursum",
+            "lemma": "rursus"
+        },
+        {
+            "key": "que",
+            "lemma": "que"
+        },
+        {
+            "key": "ait",
+            "lemma": "aio"
+        },
+        {
+            "key": "propinquus",
+            "lemma": "propinquus"
+        },
+        {
+            "key": "noster",
+            "lemma": "noster"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "homo",
+            "lemma": "homo"
+        }
+    ],
+    "Ruth.2.21": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "ait",
+            "lemma": "aio"
+        },
+        {
+            "key": "ruth",
+            "lemma": "ruth"
+        },
+        {
+            "key": "hoc",
+            "lemma": "hic"
+        },
+        {
+            "key": "quoque",
+            "lemma": "quoque"
+        },
+        {
+            "key": "inquit",
+            "lemma": "inquam"
+        },
+        {
+            "key": "pr\u00e6cepit",
+            "lemma": "pr\u00e6cepio"
+        },
+        {
+            "key": "mihi",
+            "lemma": "ego"
+        },
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "tamdiu",
+            "lemma": "tamdiu"
+        },
+        {
+            "key": "messoribus",
+            "lemma": "messor"
+        },
+        {
+            "key": "ejus",
+            "lemma": "js"
+        },
+        {
+            "key": "jungerer",
+            "lemma": "jungerer"
+        },
+        {
+            "key": "donec",
+            "lemma": "donec"
+        },
+        {
+            "key": "omnes",
+            "lemma": "omnis"
+        },
+        {
+            "key": "segetes",
+            "lemma": "seges"
+        },
+        {
+            "key": "meterentur",
+            "lemma": "metero"
+        }
+    ],
+    "Ruth.2.22": [
+        {
+            "key": "cui",
+            "lemma": "qui"
+        },
+        {
+            "key": "dixit",
+            "lemma": "dico"
+        },
+        {
+            "key": "socrus",
+            "lemma": "socrus"
+        },
+        {
+            "key": "melius",
+            "lemma": "melius"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "filia",
+            "lemma": "filia"
+        },
+        {
+            "key": "mea",
+            "lemma": "meus"
+        },
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "cum",
+            "lemma": "cum"
+        },
+        {
+            "key": "puellis",
+            "lemma": "puella"
+        },
+        {
+            "key": "ejus",
+            "lemma": "ejus"
+        },
+        {
+            "key": "exeas",
+            "lemma": "exeo"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "metendum",
+            "lemma": "meto"
+        },
+        {
+            "key": "ne",
+            "lemma": "ne"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "alieno",
+            "lemma": "alienus"
+        },
+        {
+            "key": "agro",
+            "lemma": "ager"
+        },
+        {
+            "key": "quispiam",
+            "lemma": "quispiam"
+        },
+        {
+            "key": "resistat",
+            "lemma": "resisto"
+        },
+        {
+            "key": "tibi",
+            "lemma": "tu"
+        }
+    ],
+    "Ruth.2.23": [
+        {
+            "key": "juncta",
+            "lemma": "jungo"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "itaque",
+            "lemma": "itaque"
+        },
+        {
+            "key": "puellis",
+            "lemma": "puella"
+        },
+        {
+            "key": "booz",
+            "lemma": "booz"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "tamdiu",
+            "lemma": "tamdiu"
+        },
+        {
+            "key": "cum",
+            "lemma": "cum"
+        },
+        {
+            "key": "eis",
+            "lemma": "is"
+        },
+        {
+            "key": "messuit",
+            "lemma": "messuo"
+        },
+        {
+            "key": "donec",
+            "lemma": "donec"
+        },
+        {
+            "key": "hordea",
+            "lemma": "hordea"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "triticum",
+            "lemma": "triticum"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "horreis",
+            "lemma": "horreum"
+        },
+        {
+            "key": "conderentur",
+            "lemma": "conderentur"
+        }
+    ],
+    "Ruth.3.1": [
+        {
+            "key": "postquam",
+            "lemma": "postquam"
+        },
+        {
+            "key": "autem",
+            "lemma": "autem"
+        },
+        {
+            "key": "reversa",
+            "lemma": "reuerto"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "socrum",
+            "lemma": "socrus"
+        },
+        {
+            "key": "suam",
+            "lemma": "suus"
+        },
+        {
+            "key": "audivit",
+            "lemma": "audio"
+        },
+        {
+            "key": "ab",
+            "lemma": "ab"
+        },
+        {
+            "key": "ea",
+            "lemma": "is"
+        },
+        {
+            "key": "filia",
+            "lemma": "filia"
+        },
+        {
+            "key": "mea",
+            "lemma": "meus"
+        },
+        {
+            "key": "qu\u00e6ram",
+            "lemma": "qu\u00e6rus"
+        },
+        {
+            "key": "tibi",
+            "lemma": "tu"
+        },
+        {
+            "key": "requiem",
+            "lemma": "requies"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "providebo",
+            "lemma": "provideo"
+        },
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "bene",
+            "lemma": "bene"
+        },
+        {
+            "key": "sit",
+            "lemma": "sum"
+        },
+        {
+            "key": "tibi",
+            "lemma": "tu"
+        }
+    ],
+    "Ruth.3.2": [
+        {
+            "key": "booz",
+            "lemma": "booz"
+        },
+        {
+            "key": "iste",
+            "lemma": "iste"
+        },
+        {
+            "key": "cujus",
+            "lemma": "cujus"
+        },
+        {
+            "key": "puellis",
+            "lemma": "puella"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "agro",
+            "lemma": "ager"
+        },
+        {
+            "key": "juncta",
+            "lemma": "jungo"
+        },
+        {
+            "key": "es",
+            "lemma": "sum"
+        },
+        {
+            "key": "propinquus",
+            "lemma": "propinquus"
+        },
+        {
+            "key": "noster",
+            "lemma": "noster"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "hac",
+            "lemma": "hic"
+        },
+        {
+            "key": "nocte",
+            "lemma": "nox"
+        },
+        {
+            "key": "aream",
+            "lemma": "area"
+        },
+        {
+            "key": "hordei",
+            "lemma": "hordeum"
+        },
+        {
+            "key": "ventilat",
+            "lemma": "uentilo"
+        }
+    ],
+    "Ruth.3.3": [
+        {
+            "key": "lavare",
+            "lemma": "lavare"
+        },
+        {
+            "key": "igitur",
+            "lemma": "igitur"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "ungere",
+            "lemma": "ungio"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "induere",
+            "lemma": "induo"
+        },
+        {
+            "key": "cultioribus",
+            "lemma": "cultioris"
+        },
+        {
+            "key": "vestimentis",
+            "lemma": "uestimentum"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "descende",
+            "lemma": "descendo"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "aream",
+            "lemma": "area"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "te",
+            "lemma": "tu"
+        },
+        {
+            "key": "videat",
+            "lemma": "uideo"
+        },
+        {
+            "key": "homo",
+            "lemma": "homo"
+        },
+        {
+            "key": "donec",
+            "lemma": "donec"
+        },
+        {
+            "key": "esum",
+            "lemma": "esus"
+        },
+        {
+            "key": "potum",
+            "lemma": "potus"
+        },
+        {
+            "key": "que",
+            "lemma": "que"
+        },
+        {
+            "key": "finierit",
+            "lemma": "finio"
+        }
+    ],
+    "Ruth.3.4": [
+        {
+            "key": "quando",
+            "lemma": "quando"
+        },
+        {
+            "key": "autem",
+            "lemma": "autem"
+        },
+        {
+            "key": "ierit",
+            "lemma": "io"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "dormiendum",
+            "lemma": "dormio"
+        },
+        {
+            "key": "nota",
+            "lemma": "nosco"
+        },
+        {
+            "key": "locum",
+            "lemma": "locus"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "quo",
+            "lemma": "qui"
+        },
+        {
+            "key": "dormiat",
+            "lemma": "dormio"
+        },
+        {
+            "key": "venies",
+            "lemma": "uenio"
+        },
+        {
+            "key": "que",
+            "lemma": "que"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "discooperies",
+            "lemma": "discooperio"
+        },
+        {
+            "key": "pallium",
+            "lemma": "pallium"
+        },
+        {
+            "key": "quo",
+            "lemma": "qui"
+        },
+        {
+            "key": "operitur",
+            "lemma": "opero"
+        },
+        {
+            "key": "a",
+            "lemma": "a"
+        },
+        {
+            "key": "parte",
+            "lemma": "pars"
+        },
+        {
+            "key": "pedum",
+            "lemma": "pes"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "projicies",
+            "lemma": "projicio"
+        },
+        {
+            "key": "te",
+            "lemma": "tu"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "ibi",
+            "lemma": "ibi"
+        },
+        {
+            "key": "jacebis",
+            "lemma": "jaceo"
+        },
+        {
+            "key": "ipse",
+            "lemma": "ipse"
+        },
+        {
+            "key": "autem",
+            "lemma": "autem"
+        },
+        {
+            "key": "dicet",
+            "lemma": "dico"
+        },
+        {
+            "key": "quid",
+            "lemma": "quis"
+        },
+        {
+            "key": "agere",
+            "lemma": "ago"
+        },
+        {
+            "key": "debeas",
+            "lemma": "debeo"
+        }
+    ],
+    "Ruth.3.5": [
+        {
+            "key": "qu\u00e6",
+            "lemma": "qu\u00e6"
+        },
+        {
+            "key": "respondit",
+            "lemma": "respondeo"
+        },
+        {
+            "key": "quidquid",
+            "lemma": "quidquid"
+        },
+        {
+            "key": "pr\u00e6ceperis",
+            "lemma": "pr\u00e6cepeo"
+        },
+        {
+            "key": "faciam",
+            "lemma": "facio"
+        }
+    ],
+    "Ruth.3.6": [
+        {
+            "key": "descendit",
+            "lemma": "descendit"
+        },
+        {
+            "key": "que",
+            "lemma": "que"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "aream",
+            "lemma": "area"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "fecit",
+            "lemma": "facio"
+        },
+        {
+            "key": "omnia",
+            "lemma": "omnis"
+        },
+        {
+            "key": "qu\u00e6",
+            "lemma": "qu\u00e6"
+        },
+        {
+            "key": "sibi",
+            "lemma": "se"
+        },
+        {
+            "key": "imperaverat",
+            "lemma": "impero"
+        },
+        {
+            "key": "socrus",
+            "lemma": "socrus"
+        }
+    ],
+    "Ruth.3.7": [
+        {
+            "key": "cumque",
+            "lemma": "cumque"
+        },
+        {
+            "key": "comedisset",
+            "lemma": "comedeo"
+        },
+        {
+            "key": "booz",
+            "lemma": "booz"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "bibisset",
+            "lemma": "bibisset"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "factus",
+            "lemma": "facio"
+        },
+        {
+            "key": "esset",
+            "lemma": "sum"
+        },
+        {
+            "key": "hilarior",
+            "lemma": "hilarus"
+        },
+        {
+            "key": "isset",
+            "lemma": "isset"
+        },
+        {
+            "key": "que",
+            "lemma": "que"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "dormiendum",
+            "lemma": "dormio"
+        },
+        {
+            "key": "juxta",
+            "lemma": "juxta"
+        },
+        {
+            "key": "acervum",
+            "lemma": "aceruus"
+        },
+        {
+            "key": "manipulorum",
+            "lemma": "manipulus"
+        },
+        {
+            "key": "venit",
+            "lemma": "uenio"
+        },
+        {
+            "key": "abscondite",
+            "lemma": "abscondo"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "discooperto",
+            "lemma": "discooperto"
+        },
+        {
+            "key": "pallio",
+            "lemma": "pallium"
+        },
+        {
+            "key": "a",
+            "lemma": "ad"
+        },
+        {
+            "key": "pedibus",
+            "lemma": "pes"
+        },
+        {
+            "key": "ejus",
+            "lemma": "js"
+        },
+        {
+            "key": "se",
+            "lemma": "sui"
+        },
+        {
+            "key": "projecit",
+            "lemma": "projcio"
+        }
+    ],
+    "Ruth.3.8": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "ecce",
+            "lemma": "ecce"
+        },
+        {
+            "key": "nocte",
+            "lemma": "nox"
+        },
+        {
+            "key": "jam",
+            "lemma": "jam"
+        },
+        {
+            "key": "media",
+            "lemma": "medius"
+        },
+        {
+            "key": "expavit",
+            "lemma": "expo"
+        },
+        {
+            "key": "homo",
+            "lemma": "homo"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "conturbatus",
+            "lemma": "conturbo"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "vidit",
+            "lemma": "uideo"
+        },
+        {
+            "key": "que",
+            "lemma": "que"
+        },
+        {
+            "key": "mulierem",
+            "lemma": "mulier"
+        },
+        {
+            "key": "jacentem",
+            "lemma": "jaceo"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "pedes",
+            "lemma": "pes"
+        },
+        {
+            "key": "suos",
+            "lemma": "suus"
+        }
+    ],
+    "Ruth.3.9": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "ait",
+            "lemma": "aio"
+        },
+        {
+            "key": "illi",
+            "lemma": "ille"
+        },
+        {
+            "key": "qu\u00e6",
+            "lemma": "qu\u00e6"
+        },
+        {
+            "key": "es",
+            "lemma": "sum"
+        },
+        {
+            "key": "illa",
+            "lemma": "ille"
+        },
+        {
+            "key": "que",
+            "lemma": "qui"
+        },
+        {
+            "key": "respondit",
+            "lemma": "respondeo"
+        },
+        {
+            "key": "ego",
+            "lemma": "ego"
+        },
+        {
+            "key": "sum",
+            "lemma": "sum"
+        },
+        {
+            "key": "ruth",
+            "lemma": "ruth"
+        },
+        {
+            "key": "ancilla",
+            "lemma": "ancilla"
+        },
+        {
+            "key": "tua",
+            "lemma": "tuus"
+        },
+        {
+            "key": "expande",
+            "lemma": "expando"
+        },
+        {
+            "key": "pallium",
+            "lemma": "pallium"
+        },
+        {
+            "key": "tuum",
+            "lemma": "tuus"
+        },
+        {
+            "key": "super",
+            "lemma": "super"
+        },
+        {
+            "key": "famulam",
+            "lemma": "famula"
+        },
+        {
+            "key": "tuam",
+            "lemma": "tuus"
+        },
+        {
+            "key": "quia",
+            "lemma": "quia"
+        },
+        {
+            "key": "propinquus",
+            "lemma": "propinquus"
+        },
+        {
+            "key": "es",
+            "lemma": "sum"
+        }
+    ],
+    "Ruth.3.10": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "ille",
+            "lemma": "ille"
+        },
+        {
+            "key": "benedicta",
+            "lemma": "benedicta"
+        },
+        {
+            "key": "inquit",
+            "lemma": "inquam"
+        },
+        {
+            "key": "es",
+            "lemma": "sum"
+        },
+        {
+            "key": "a",
+            "lemma": "ab"
+        },
+        {
+            "key": "domino",
+            "lemma": "dominus"
+        },
+        {
+            "key": "filia",
+            "lemma": "filia"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "priorem",
+            "lemma": "prior"
+        },
+        {
+            "key": "misericordiam",
+            "lemma": "misericordia"
+        },
+        {
+            "key": "posteriore",
+            "lemma": "posteris"
+        },
+        {
+            "key": "superasti",
+            "lemma": "superasti"
+        },
+        {
+            "key": "quia",
+            "lemma": "quia"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "secuta",
+            "lemma": "sequor"
+        },
+        {
+            "key": "juvenes",
+            "lemma": "juvenis"
+        },
+        {
+            "key": "pauperes",
+            "lemma": "pauper"
+        },
+        {
+            "key": "sive",
+            "lemma": "siue"
+        },
+        {
+            "key": "divites",
+            "lemma": "diues"
+        }
+    ],
+    "Ruth.3.11": [
+        {
+            "key": "noli",
+            "lemma": "nolo"
+        },
+        {
+            "key": "ergo",
+            "lemma": "ergo"
+        },
+        {
+            "key": "metuere",
+            "lemma": "metuo"
+        },
+        {
+            "key": "sed",
+            "lemma": "sed"
+        },
+        {
+            "key": "quidquid",
+            "lemma": "quisquis"
+        },
+        {
+            "key": "dixeris",
+            "lemma": "dico"
+        },
+        {
+            "key": "mihi",
+            "lemma": "ego"
+        },
+        {
+            "key": "faciam",
+            "lemma": "facio"
+        },
+        {
+            "key": "tibi",
+            "lemma": "tu"
+        },
+        {
+            "key": "scit",
+            "lemma": "scio"
+        },
+        {
+            "key": "enim",
+            "lemma": "enim"
+        },
+        {
+            "key": "omnis",
+            "lemma": "omnis"
+        },
+        {
+            "key": "populus",
+            "lemma": "populus"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "habitat",
+            "lemma": "habito"
+        },
+        {
+            "key": "intra",
+            "lemma": "intra"
+        },
+        {
+            "key": "portas",
+            "lemma": "porta"
+        },
+        {
+            "key": "urbis",
+            "lemma": "urbs"
+        },
+        {
+            "key": "me\u00e6",
+            "lemma": "me\u00e6"
+        },
+        {
+            "key": "mulierem",
+            "lemma": "mulier"
+        },
+        {
+            "key": "te",
+            "lemma": "tu"
+        },
+        {
+            "key": "esse",
+            "lemma": "sum"
+        },
+        {
+            "key": "virtutis",
+            "lemma": "uirtus"
+        }
+    ],
+    "Ruth.3.12": [
+        {
+            "key": "nec",
+            "lemma": "neque"
+        },
+        {
+            "key": "abnuo",
+            "lemma": "abnuo"
+        },
+        {
+            "key": "me",
+            "lemma": "ego"
+        },
+        {
+            "key": "propinquum",
+            "lemma": "propinquus"
+        },
+        {
+            "key": "sed",
+            "lemma": "sed"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "alius",
+            "lemma": "alius"
+        },
+        {
+            "key": "me",
+            "lemma": "ego"
+        },
+        {
+            "key": "propinquior",
+            "lemma": "propinquus"
+        }
+    ],
+    "Ruth.3.13": [
+        {
+            "key": "quiesce",
+            "lemma": "quiesce"
+        },
+        {
+            "key": "hac",
+            "lemma": "hic"
+        },
+        {
+            "key": "nocte",
+            "lemma": "nox"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "facto",
+            "lemma": "facio"
+        },
+        {
+            "key": "mane",
+            "lemma": "mane"
+        },
+        {
+            "key": "si",
+            "lemma": "si"
+        },
+        {
+            "key": "te",
+            "lemma": "tu"
+        },
+        {
+            "key": "voluerit",
+            "lemma": "uolo"
+        },
+        {
+            "key": "propinquitatis",
+            "lemma": "propinquitas"
+        },
+        {
+            "key": "jure",
+            "lemma": "jus"
+        },
+        {
+            "key": "retinere",
+            "lemma": "retineo"
+        },
+        {
+            "key": "bene",
+            "lemma": "bene"
+        },
+        {
+            "key": "res",
+            "lemma": "res"
+        },
+        {
+            "key": "acta",
+            "lemma": "ago"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "sin",
+            "lemma": "sin"
+        },
+        {
+            "key": "autem",
+            "lemma": "autem"
+        },
+        {
+            "key": "ille",
+            "lemma": "ille"
+        },
+        {
+            "key": "noluerit",
+            "lemma": "nolo"
+        },
+        {
+            "key": "ego",
+            "lemma": "ego"
+        },
+        {
+            "key": "te",
+            "lemma": "tu"
+        },
+        {
+            "key": "absque",
+            "lemma": "absque"
+        },
+        {
+            "key": "ulla",
+            "lemma": "ullus"
+        },
+        {
+            "key": "dubitatione",
+            "lemma": "dubitatio"
+        },
+        {
+            "key": "suscipiam",
+            "lemma": "suscipio"
+        },
+        {
+            "key": "vivit",
+            "lemma": "uiuo"
+        },
+        {
+            "key": "dominus",
+            "lemma": "dominus"
+        },
+        {
+            "key": "dormi",
+            "lemma": "dormi"
+        },
+        {
+            "key": "usque",
+            "lemma": "usque"
+        },
+        {
+            "key": "mane",
+            "lemma": "mane"
+        }
+    ],
+    "Ruth.3.14": [
+        {
+            "key": "dormivit",
+            "lemma": "dormivit"
+        },
+        {
+            "key": "itaque",
+            "lemma": "itaque"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "pedes",
+            "lemma": "pes"
+        },
+        {
+            "key": "ejus",
+            "lemma": "js"
+        },
+        {
+            "key": "usque",
+            "lemma": "usque"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "noctis",
+            "lemma": "nox"
+        },
+        {
+            "key": "abscessum",
+            "lemma": "abscessus"
+        },
+        {
+            "key": "surrexit",
+            "lemma": "surrexit"
+        },
+        {
+            "key": "itaque",
+            "lemma": "itaque"
+        },
+        {
+            "key": "antequam",
+            "lemma": "antequam"
+        },
+        {
+            "key": "homines",
+            "lemma": "homo"
+        },
+        {
+            "key": "se",
+            "lemma": "sui"
+        },
+        {
+            "key": "cognoscerent",
+            "lemma": "cognosco"
+        },
+        {
+            "key": "mutuo",
+            "lemma": "mutuo"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "dixit",
+            "lemma": "dico"
+        },
+        {
+            "key": "booz",
+            "lemma": "booz"
+        },
+        {
+            "key": "cave",
+            "lemma": "caueo"
+        },
+        {
+            "key": "ne",
+            "lemma": "ne"
+        },
+        {
+            "key": "quis",
+            "lemma": "quis"
+        },
+        {
+            "key": "noverit",
+            "lemma": "nosco"
+        },
+        {
+            "key": "quod",
+            "lemma": "quod"
+        },
+        {
+            "key": "huc",
+            "lemma": "huc"
+        },
+        {
+            "key": "veneris",
+            "lemma": "uenio"
+        }
+    ],
+    "Ruth.3.15": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "rursum",
+            "lemma": "rursus"
+        },
+        {
+            "key": "expande",
+            "lemma": "expande"
+        },
+        {
+            "key": "inquit",
+            "lemma": "inquam"
+        },
+        {
+            "key": "pallium",
+            "lemma": "pallium"
+        },
+        {
+            "key": "tuum",
+            "lemma": "tuus"
+        },
+        {
+            "key": "quo",
+            "lemma": "qui"
+        },
+        {
+            "key": "operiris",
+            "lemma": "operiris"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "tene",
+            "lemma": "teneo"
+        },
+        {
+            "key": "utraque",
+            "lemma": "uterque"
+        },
+        {
+            "key": "manu",
+            "lemma": "manus"
+        },
+        {
+            "key": "qua",
+            "lemma": "qui"
+        },
+        {
+            "key": "extendente",
+            "lemma": "extendo"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "tenente",
+            "lemma": "teneo"
+        },
+        {
+            "key": "mensus",
+            "lemma": "metior"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "sex",
+            "lemma": "sex"
+        },
+        {
+            "key": "modios",
+            "lemma": "modius"
+        },
+        {
+            "key": "hordei",
+            "lemma": "hordeum"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "posuit",
+            "lemma": "pono"
+        },
+        {
+            "key": "super",
+            "lemma": "super"
+        },
+        {
+            "key": "eam",
+            "lemma": "is"
+        },
+        {
+            "key": "qu\u00e6",
+            "lemma": "qu\u00e6"
+        },
+        {
+            "key": "portans",
+            "lemma": "porto"
+        },
+        {
+            "key": "ingressa",
+            "lemma": "ingressa"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "civitatem",
+            "lemma": "ciuitas"
+        }
+    ],
+    "Ruth.3.16": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "venit",
+            "lemma": "uenio"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "socrum",
+            "lemma": "socrus"
+        },
+        {
+            "key": "suam",
+            "lemma": "suus"
+        },
+        {
+            "key": "qu\u00e6",
+            "lemma": "qu\u00e6"
+        },
+        {
+            "key": "dixit",
+            "lemma": "dico"
+        },
+        {
+            "key": "ei",
+            "lemma": "is"
+        },
+        {
+            "key": "quid",
+            "lemma": "quis"
+        },
+        {
+            "key": "egisti",
+            "lemma": "ago"
+        },
+        {
+            "key": "filia",
+            "lemma": "filia"
+        },
+        {
+            "key": "narravit",
+            "lemma": "narravit"
+        },
+        {
+            "key": "que",
+            "lemma": "que"
+        },
+        {
+            "key": "ei",
+            "lemma": "is"
+        },
+        {
+            "key": "omnia",
+            "lemma": "omnis"
+        },
+        {
+            "key": "qu\u00e6",
+            "lemma": "qu\u00e6"
+        },
+        {
+            "key": "sibi",
+            "lemma": "sui"
+        },
+        {
+            "key": "fecisset",
+            "lemma": "facio"
+        },
+        {
+            "key": "homo",
+            "lemma": "homo"
+        }
+    ],
+    "Ruth.3.17": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "ait",
+            "lemma": "aio"
+        },
+        {
+            "key": "ecce",
+            "lemma": "ecce"
+        },
+        {
+            "key": "sex",
+            "lemma": "sex"
+        },
+        {
+            "key": "modios",
+            "lemma": "modius"
+        },
+        {
+            "key": "hordei",
+            "lemma": "hordeum"
+        },
+        {
+            "key": "dedit",
+            "lemma": "do"
+        },
+        {
+            "key": "mihi",
+            "lemma": "ego"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "ait",
+            "lemma": "aio"
+        },
+        {
+            "key": "nolo",
+            "lemma": "nolo"
+        },
+        {
+            "key": "vacuam",
+            "lemma": "uacuus"
+        },
+        {
+            "key": "te",
+            "lemma": "tu"
+        },
+        {
+            "key": "reverti",
+            "lemma": "reuertor"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "socrum",
+            "lemma": "socrus"
+        },
+        {
+            "key": "tuam",
+            "lemma": "tuus"
+        }
+    ],
+    "Ruth.3.18": [
+        {
+            "key": "dixit",
+            "lemma": "dixit"
+        },
+        {
+            "key": "que",
+            "lemma": "que"
+        },
+        {
+            "key": "no\u00ebmi",
+            "lemma": "no\u00ebmi"
+        },
+        {
+            "key": "expecta",
+            "lemma": "expecta"
+        },
+        {
+            "key": "filia",
+            "lemma": "filia"
+        },
+        {
+            "key": "donec",
+            "lemma": "donec"
+        },
+        {
+            "key": "videamus",
+            "lemma": "uideo"
+        },
+        {
+            "key": "quem",
+            "lemma": "qui"
+        },
+        {
+            "key": "res",
+            "lemma": "res"
+        },
+        {
+            "key": "exitum",
+            "lemma": "exitus"
+        },
+        {
+            "key": "habeat",
+            "lemma": "habeo"
+        },
+        {
+            "key": "neque",
+            "lemma": "neque"
+        },
+        {
+            "key": "enim",
+            "lemma": "enim"
+        },
+        {
+            "key": "cessabit",
+            "lemma": "cesso"
+        },
+        {
+            "key": "homo",
+            "lemma": "homo"
+        },
+        {
+            "key": "nisi",
+            "lemma": "nisi"
+        },
+        {
+            "key": "compleverit",
+            "lemma": "complevo"
+        },
+        {
+            "key": "quod",
+            "lemma": "qui"
+        },
+        {
+            "key": "locutus",
+            "lemma": "loquor"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        }
+    ],
+    "Ruth.4.1": [
+        {
+            "key": "ascendit",
+            "lemma": "ascendo"
+        },
+        {
+            "key": "ergo",
+            "lemma": "ergo"
+        },
+        {
+            "key": "booz",
+            "lemma": "booz"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "portam",
+            "lemma": "porta"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "sedit",
+            "lemma": "sedeo"
+        },
+        {
+            "key": "ibi",
+            "lemma": "ibi"
+        },
+        {
+            "key": "cumque",
+            "lemma": "cumque"
+        },
+        {
+            "key": "vidisset",
+            "lemma": "uideo"
+        },
+        {
+            "key": "propinquum",
+            "lemma": "propinquus"
+        },
+        {
+            "key": "pr\u00e6terire",
+            "lemma": "pr\u00e6terio"
+        },
+        {
+            "key": "de",
+            "lemma": "de"
+        },
+        {
+            "key": "quo",
+            "lemma": "qui"
+        },
+        {
+            "key": "prius",
+            "lemma": "prius"
+        },
+        {
+            "key": "sermo",
+            "lemma": "sermo"
+        },
+        {
+            "key": "habitus",
+            "lemma": "habitus"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "dixit",
+            "lemma": "dico"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "eum",
+            "lemma": "is"
+        },
+        {
+            "key": "declina",
+            "lemma": "declina"
+        },
+        {
+            "key": "paulisper",
+            "lemma": "paul(l)isper"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "sede",
+            "lemma": "sedeo"
+        },
+        {
+            "key": "hic",
+            "lemma": "hic"
+        },
+        {
+            "key": "vocans",
+            "lemma": "uoco"
+        },
+        {
+            "key": "eum",
+            "lemma": "is"
+        },
+        {
+            "key": "nomine",
+            "lemma": "nomen"
+        },
+        {
+            "key": "suo",
+            "lemma": "suus"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "divertit",
+            "lemma": "diverto"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "sedit",
+            "lemma": "sedeo"
+        }
+    ],
+    "Ruth.4.2": [
+        {
+            "key": "tollens",
+            "lemma": "tollens"
+        },
+        {
+            "key": "autem",
+            "lemma": "autem"
+        },
+        {
+            "key": "booz",
+            "lemma": "booz"
+        },
+        {
+            "key": "decem",
+            "lemma": "decem"
+        },
+        {
+            "key": "viros",
+            "lemma": "uir"
+        },
+        {
+            "key": "de",
+            "lemma": "de"
+        },
+        {
+            "key": "senioribus",
+            "lemma": "senex"
+        },
+        {
+            "key": "civitatis",
+            "lemma": "ciuitas"
+        },
+        {
+            "key": "dixit",
+            "lemma": "dico"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "eos",
+            "lemma": "is"
+        },
+        {
+            "key": "sedete",
+            "lemma": "sedeo"
+        },
+        {
+            "key": "hic",
+            "lemma": "hic"
+        }
+    ],
+    "Ruth.4.3": [
+        {
+            "key": "quibus",
+            "lemma": "qui"
+        },
+        {
+            "key": "sedentibus",
+            "lemma": "sedeo"
+        },
+        {
+            "key": "locutus",
+            "lemma": "loquor"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "propinquum",
+            "lemma": "propinquus"
+        },
+        {
+            "key": "partem",
+            "lemma": "pars"
+        },
+        {
+            "key": "agri",
+            "lemma": "ager"
+        },
+        {
+            "key": "fratris",
+            "lemma": "frater"
+        },
+        {
+            "key": "nostri",
+            "lemma": "noster"
+        },
+        {
+            "key": "elimelech",
+            "lemma": "elimelech"
+        },
+        {
+            "key": "vendet",
+            "lemma": "uendo"
+        },
+        {
+            "key": "no\u00ebmi",
+            "lemma": "no\u00ebmi"
+        },
+        {
+            "key": "qu\u00e6",
+            "lemma": "qu\u00e6"
+        },
+        {
+            "key": "reversa",
+            "lemma": "reuerto"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "de",
+            "lemma": "de"
+        },
+        {
+            "key": "regione",
+            "lemma": "regio"
+        },
+        {
+            "key": "moabitide",
+            "lemma": "moabitide"
+        }
+    ],
+    "Ruth.4.4": [
+        {
+            "key": "quod",
+            "lemma": "qui"
+        },
+        {
+            "key": "audire",
+            "lemma": "audio"
+        },
+        {
+            "key": "te",
+            "lemma": "tu"
+        },
+        {
+            "key": "volui",
+            "lemma": "uolo"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "tibi",
+            "lemma": "tu"
+        },
+        {
+            "key": "dicere",
+            "lemma": "dico"
+        },
+        {
+            "key": "coram",
+            "lemma": "coram"
+        },
+        {
+            "key": "cunctis",
+            "lemma": "cunctus"
+        },
+        {
+            "key": "sedentibus",
+            "lemma": "sedeo"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "majoribus",
+            "lemma": "major"
+        },
+        {
+            "key": "natu",
+            "lemma": "natus"
+        },
+        {
+            "key": "de",
+            "lemma": "de"
+        },
+        {
+            "key": "populo",
+            "lemma": "populus"
+        },
+        {
+            "key": "meo",
+            "lemma": "meus"
+        },
+        {
+            "key": "si",
+            "lemma": "si"
+        },
+        {
+            "key": "vis",
+            "lemma": "uolo"
+        },
+        {
+            "key": "possidere",
+            "lemma": "possideo"
+        },
+        {
+            "key": "jure",
+            "lemma": "jus"
+        },
+        {
+            "key": "propinquitatis",
+            "lemma": "propinquitas"
+        },
+        {
+            "key": "eme",
+            "lemma": "emo"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "posside",
+            "lemma": "possido"
+        },
+        {
+            "key": "sin",
+            "lemma": "sin"
+        },
+        {
+            "key": "autem",
+            "lemma": "autem"
+        },
+        {
+            "key": "displicet",
+            "lemma": "displiceo"
+        },
+        {
+            "key": "tibi",
+            "lemma": "tu"
+        },
+        {
+            "key": "hoc",
+            "lemma": "hic"
+        },
+        {
+            "key": "ipsum",
+            "lemma": "ipse"
+        },
+        {
+            "key": "indica",
+            "lemma": "indico"
+        },
+        {
+            "key": "mihi",
+            "lemma": "ego"
+        },
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "sciam",
+            "lemma": "scio"
+        },
+        {
+            "key": "quid",
+            "lemma": "quis"
+        },
+        {
+            "key": "facere",
+            "lemma": "facio"
+        },
+        {
+            "key": "debeam",
+            "lemma": "debeo"
+        },
+        {
+            "key": "nullus",
+            "lemma": "nullus"
+        },
+        {
+            "key": "enim",
+            "lemma": "enim"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "propinquus",
+            "lemma": "propinquus"
+        },
+        {
+            "key": "excepto",
+            "lemma": "excepto"
+        },
+        {
+            "key": "te",
+            "lemma": "tu"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "prior",
+            "lemma": "prior"
+        },
+        {
+            "key": "es",
+            "lemma": "sum"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "me",
+            "lemma": "ego"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "secundus",
+            "lemma": "secundus"
+        },
+        {
+            "key": "sum",
+            "lemma": "sum"
+        },
+        {
+            "key": "at",
+            "lemma": "at"
+        },
+        {
+            "key": "ille",
+            "lemma": "ille"
+        },
+        {
+            "key": "respondit",
+            "lemma": "respondeo"
+        },
+        {
+            "key": "ego",
+            "lemma": "ego"
+        },
+        {
+            "key": "agrum",
+            "lemma": "ager"
+        },
+        {
+            "key": "emam",
+            "lemma": "emo"
+        }
+    ],
+    "Ruth.4.5": [
+        {
+            "key": "cui",
+            "lemma": "qui"
+        },
+        {
+            "key": "dixit",
+            "lemma": "dico"
+        },
+        {
+            "key": "booz",
+            "lemma": "booz"
+        },
+        {
+            "key": "quando",
+            "lemma": "quando"
+        },
+        {
+            "key": "emeris",
+            "lemma": "emerio"
+        },
+        {
+            "key": "agrum",
+            "lemma": "ager"
+        },
+        {
+            "key": "de",
+            "lemma": "de"
+        },
+        {
+            "key": "manu",
+            "lemma": "manus"
+        },
+        {
+            "key": "mulieris",
+            "lemma": "mulier"
+        },
+        {
+            "key": "ruth",
+            "lemma": "ruth"
+        },
+        {
+            "key": "quoque",
+            "lemma": "quoque"
+        },
+        {
+            "key": "moabitidem",
+            "lemma": "moabitidem"
+        },
+        {
+            "key": "qu\u00e6",
+            "lemma": "qu\u00e6"
+        },
+        {
+            "key": "uxor",
+            "lemma": "uxor"
+        },
+        {
+            "key": "defuncti",
+            "lemma": "defungo"
+        },
+        {
+            "key": "fuit",
+            "lemma": "sum"
+        },
+        {
+            "key": "debes",
+            "lemma": "debeo"
+        },
+        {
+            "key": "accipere",
+            "lemma": "accipio"
+        },
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "suscites",
+            "lemma": "suscito"
+        },
+        {
+            "key": "nomen",
+            "lemma": "nomen"
+        },
+        {
+            "key": "propinqui",
+            "lemma": "propinquus"
+        },
+        {
+            "key": "tui",
+            "lemma": "tuus"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "h\u00e6reditate",
+            "lemma": "h\u00e6reditas"
+        },
+        {
+            "key": "sua",
+            "lemma": "suus"
+        }
+    ],
+    "Ruth.4.6": [
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "respondit",
+            "lemma": "respondeo"
+        },
+        {
+            "key": "cedo",
+            "lemma": "cedo"
+        },
+        {
+            "key": "juri",
+            "lemma": "iuri"
+        },
+        {
+            "key": "propinquitatis",
+            "lemma": "propinquitas"
+        },
+        {
+            "key": "neque",
+            "lemma": "neque"
+        },
+        {
+            "key": "enim",
+            "lemma": "enim"
+        },
+        {
+            "key": "posteritatem",
+            "lemma": "posteritas"
+        },
+        {
+            "key": "famili\u00e6",
+            "lemma": "famili\u00e6"
+        },
+        {
+            "key": "me\u00e6",
+            "lemma": "me\u00e6"
+        },
+        {
+            "key": "delere",
+            "lemma": "delo"
+        },
+        {
+            "key": "debeo",
+            "lemma": "debeo"
+        },
+        {
+            "key": "tu",
+            "lemma": "tu"
+        },
+        {
+            "key": "meo",
+            "lemma": "meus"
+        },
+        {
+            "key": "utere",
+            "lemma": "uteo"
+        },
+        {
+            "key": "privilegio",
+            "lemma": "privilegium"
+        },
+        {
+            "key": "quo",
+            "lemma": "quo"
+        },
+        {
+            "key": "me",
+            "lemma": "ego"
+        },
+        {
+            "key": "libenter",
+            "lemma": "libenter"
+        },
+        {
+            "key": "carere",
+            "lemma": "careo"
+        },
+        {
+            "key": "profiteor",
+            "lemma": "profiteor"
+        }
+    ],
+    "Ruth.4.7": [
+        {
+            "key": "hic",
+            "lemma": "hic"
+        },
+        {
+            "key": "autem",
+            "lemma": "autem"
+        },
+        {
+            "key": "erat",
+            "lemma": "sum"
+        },
+        {
+            "key": "mos",
+            "lemma": "mos"
+        },
+        {
+            "key": "antiquitus",
+            "lemma": "antiquitus"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "isra\u00ebl",
+            "lemma": "isra\u00ebl"
+        },
+        {
+            "key": "inter",
+            "lemma": "inter"
+        },
+        {
+            "key": "propinquos",
+            "lemma": "propinquus"
+        },
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "siquando",
+            "lemma": "siquo"
+        },
+        {
+            "key": "alter",
+            "lemma": "alter"
+        },
+        {
+            "key": "alteri",
+            "lemma": "alter"
+        },
+        {
+            "key": "suo",
+            "lemma": "suus"
+        },
+        {
+            "key": "juri",
+            "lemma": "iuri"
+        },
+        {
+            "key": "cedebat",
+            "lemma": "cedo"
+        },
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "esset",
+            "lemma": "sum"
+        },
+        {
+            "key": "firma",
+            "lemma": "firmus"
+        },
+        {
+            "key": "concessio",
+            "lemma": "concessio"
+        },
+        {
+            "key": "solvebat",
+            "lemma": "solveo"
+        },
+        {
+            "key": "homo",
+            "lemma": "homo"
+        },
+        {
+            "key": "calceamentum",
+            "lemma": "calceamentum"
+        },
+        {
+            "key": "suum",
+            "lemma": "suus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "dabat",
+            "lemma": "do"
+        },
+        {
+            "key": "proximo",
+            "lemma": "proximus"
+        },
+        {
+            "key": "suo",
+            "lemma": "suus"
+        },
+        {
+            "key": "hoc",
+            "lemma": "hic"
+        },
+        {
+            "key": "erat",
+            "lemma": "sum"
+        },
+        {
+            "key": "testimonium",
+            "lemma": "testimonium"
+        },
+        {
+            "key": "cessionis",
+            "lemma": "cessio"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "isra\u00ebl",
+            "lemma": "isra\u00ebl"
+        }
+    ],
+    "Ruth.4.8": [
+        {
+            "key": "dixit",
+            "lemma": "dico"
+        },
+        {
+            "key": "ergo",
+            "lemma": "ergo"
+        },
+        {
+            "key": "propinquo",
+            "lemma": "propinquus"
+        },
+        {
+            "key": "suo",
+            "lemma": "suus"
+        },
+        {
+            "key": "booz",
+            "lemma": "booz"
+        },
+        {
+            "key": "tolle",
+            "lemma": "tollo"
+        },
+        {
+            "key": "calceamentum",
+            "lemma": "calceamentum"
+        },
+        {
+            "key": "tuum",
+            "lemma": "tuus"
+        },
+        {
+            "key": "quod",
+            "lemma": "qui"
+        },
+        {
+            "key": "statim",
+            "lemma": "statim"
+        },
+        {
+            "key": "solvit",
+            "lemma": "soluo"
+        },
+        {
+            "key": "de",
+            "lemma": "de"
+        },
+        {
+            "key": "pede",
+            "lemma": "pes"
+        },
+        {
+            "key": "suo",
+            "lemma": "suus"
+        }
+    ],
+    "Ruth.4.9": [
+        {
+            "key": "at",
+            "lemma": "at"
+        },
+        {
+            "key": "ille",
+            "lemma": "ille"
+        },
+        {
+            "key": "majoribus",
+            "lemma": "major"
+        },
+        {
+            "key": "natu",
+            "lemma": "natus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "universo",
+            "lemma": "uniuersus"
+        },
+        {
+            "key": "populo",
+            "lemma": "populus"
+        },
+        {
+            "key": "testes",
+            "lemma": "testes"
+        },
+        {
+            "key": "vos",
+            "lemma": "uos"
+        },
+        {
+            "key": "inquit",
+            "lemma": "inquam"
+        },
+        {
+            "key": "estis",
+            "lemma": "sum"
+        },
+        {
+            "key": "hodie",
+            "lemma": "hodie"
+        },
+        {
+            "key": "quod",
+            "lemma": "qui"
+        },
+        {
+            "key": "possederim",
+            "lemma": "possederim"
+        },
+        {
+            "key": "omnis",
+            "lemma": "omnis"
+        },
+        {
+            "key": "qu\u00e6",
+            "lemma": "qu\u00e6"
+        },
+        {
+            "key": "fuerunt",
+            "lemma": "sum"
+        },
+        {
+            "key": "elimelech",
+            "lemma": "elimelech"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "chelion",
+            "lemma": "chelion"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "mahalon",
+            "lemma": "mahalon"
+        },
+        {
+            "key": "tradente",
+            "lemma": "trado"
+        },
+        {
+            "key": "no\u00ebmi",
+            "lemma": "no\u00ebmi"
+        }
+    ],
+    "Ruth.4.10": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "ruth",
+            "lemma": "ruth"
+        },
+        {
+            "key": "moabitidem",
+            "lemma": "moabitidem"
+        },
+        {
+            "key": "uxorem",
+            "lemma": "uxor"
+        },
+        {
+            "key": "mahalon",
+            "lemma": "mahalon"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "conjugium",
+            "lemma": "conjugium"
+        },
+        {
+            "key": "sumpserim",
+            "lemma": "sumpserim"
+        },
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "suscitem",
+            "lemma": "suscito"
+        },
+        {
+            "key": "nomen",
+            "lemma": "nomen"
+        },
+        {
+            "key": "defuncti",
+            "lemma": "defuncti"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "h\u00e6reditate",
+            "lemma": "h\u00e6reditas"
+        },
+        {
+            "key": "sua",
+            "lemma": "suus"
+        },
+        {
+            "key": "ne",
+            "lemma": "ne"
+        },
+        {
+            "key": "vocabulum",
+            "lemma": "uocabulum"
+        },
+        {
+            "key": "ejus",
+            "lemma": "js"
+        },
+        {
+            "key": "de",
+            "lemma": "de"
+        },
+        {
+            "key": "familia",
+            "lemma": "familia"
+        },
+        {
+            "key": "sua",
+            "lemma": "suus"
+        },
+        {
+            "key": "ac",
+            "lemma": "atque"
+        },
+        {
+            "key": "fratribus",
+            "lemma": "frater"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "populo",
+            "lemma": "populus"
+        },
+        {
+            "key": "deleatur",
+            "lemma": "deleatur"
+        },
+        {
+            "key": "vos",
+            "lemma": "uos"
+        },
+        {
+            "key": "inquam",
+            "lemma": "inquam"
+        },
+        {
+            "key": "hujus",
+            "lemma": "hjc"
+        },
+        {
+            "key": "rei",
+            "lemma": "res"
+        },
+        {
+            "key": "testes",
+            "lemma": "testis"
+        },
+        {
+            "key": "estis",
+            "lemma": "sum"
+        }
+    ],
+    "Ruth.4.11": [
+        {
+            "key": "respondit",
+            "lemma": "respondeo"
+        },
+        {
+            "key": "omnis",
+            "lemma": "omnis"
+        },
+        {
+            "key": "populus",
+            "lemma": "populus"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "erat",
+            "lemma": "sum"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "porta",
+            "lemma": "porta"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "majores",
+            "lemma": "major"
+        },
+        {
+            "key": "natu",
+            "lemma": "natu"
+        },
+        {
+            "key": "nos",
+            "lemma": "nos"
+        },
+        {
+            "key": "testes",
+            "lemma": "testis"
+        },
+        {
+            "key": "sumus",
+            "lemma": "sum"
+        },
+        {
+            "key": "faciat",
+            "lemma": "facio"
+        },
+        {
+            "key": "dominus",
+            "lemma": "dominus"
+        },
+        {
+            "key": "hanc",
+            "lemma": "hic"
+        },
+        {
+            "key": "mulierem",
+            "lemma": "mulier"
+        },
+        {
+            "key": "qu\u00e6",
+            "lemma": "qu\u00e6"
+        },
+        {
+            "key": "ingreditur",
+            "lemma": "ingredor"
+        },
+        {
+            "key": "domum",
+            "lemma": "domus"
+        },
+        {
+            "key": "tuam",
+            "lemma": "tuus"
+        },
+        {
+            "key": "sicut",
+            "lemma": "sicut"
+        },
+        {
+            "key": "rachel",
+            "lemma": "rachel"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "liam",
+            "lemma": "lia"
+        },
+        {
+            "key": "qu\u00e6",
+            "lemma": "qu\u00e6"
+        },
+        {
+            "key": "\u00e6dificaverunt",
+            "lemma": "\u00e6difico"
+        },
+        {
+            "key": "domum",
+            "lemma": "domus"
+        },
+        {
+            "key": "isra\u00ebl",
+            "lemma": "isra\u00ebl"
+        },
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "sit",
+            "lemma": "sum"
+        },
+        {
+            "key": "exemplum",
+            "lemma": "exemplum"
+        },
+        {
+            "key": "virtutis",
+            "lemma": "uirtus"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "ephratha",
+            "lemma": "ephratha"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "habeat",
+            "lemma": "habeo"
+        },
+        {
+            "key": "celebre",
+            "lemma": "celebris"
+        },
+        {
+            "key": "nomen",
+            "lemma": "nomen"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "bethlehem",
+            "lemma": "bethlehem"
+        }
+    ],
+    "Ruth.4.12": [
+        {
+            "key": "fiat",
+            "lemma": "fio"
+        },
+        {
+            "key": "que",
+            "lemma": "que"
+        },
+        {
+            "key": "domus",
+            "lemma": "domus"
+        },
+        {
+            "key": "tua",
+            "lemma": "tuus"
+        },
+        {
+            "key": "sicut",
+            "lemma": "sicut"
+        },
+        {
+            "key": "domus",
+            "lemma": "domus"
+        },
+        {
+            "key": "phares",
+            "lemma": "phares"
+        },
+        {
+            "key": "quem",
+            "lemma": "qui"
+        },
+        {
+            "key": "thamar",
+            "lemma": "thamar"
+        },
+        {
+            "key": "peperit",
+            "lemma": "pario"
+        },
+        {
+            "key": "jud\u00e6",
+            "lemma": "jud\u00e6"
+        },
+        {
+            "key": "de",
+            "lemma": "de"
+        },
+        {
+            "key": "semine",
+            "lemma": "semen"
+        },
+        {
+            "key": "quod",
+            "lemma": "quod"
+        },
+        {
+            "key": "tibi",
+            "lemma": "tu"
+        },
+        {
+            "key": "dederit",
+            "lemma": "do"
+        },
+        {
+            "key": "dominus",
+            "lemma": "dominus"
+        },
+        {
+            "key": "ex",
+            "lemma": "ex"
+        },
+        {
+            "key": "hac",
+            "lemma": "hic"
+        },
+        {
+            "key": "puella",
+            "lemma": "puella"
+        }
+    ],
+    "Ruth.4.13": [
+        {
+            "key": "tulit",
+            "lemma": "tulit"
+        },
+        {
+            "key": "itaque",
+            "lemma": "ita"
+        },
+        {
+            "key": "booz",
+            "lemma": "booz"
+        },
+        {
+            "key": "ruth",
+            "lemma": "ruth"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "accepit",
+            "lemma": "accipio"
+        },
+        {
+            "key": "uxorem",
+            "lemma": "uxor"
+        },
+        {
+            "key": "ingressus",
+            "lemma": "ingredior"
+        },
+        {
+            "key": "que",
+            "lemma": "que"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "eam",
+            "lemma": "is"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "dedit",
+            "lemma": "do"
+        },
+        {
+            "key": "illi",
+            "lemma": "ille"
+        },
+        {
+            "key": "dominus",
+            "lemma": "dominus"
+        },
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "conciperet",
+            "lemma": "concipo"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "pareret",
+            "lemma": "pario"
+        },
+        {
+            "key": "filium",
+            "lemma": "filius"
+        }
+    ],
+    "Ruth.4.14": [
+        {
+            "key": "dixerunt",
+            "lemma": "dixerunt"
+        },
+        {
+            "key": "que",
+            "lemma": "que"
+        },
+        {
+            "key": "mulieres",
+            "lemma": "mulier"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "no\u00ebmi",
+            "lemma": "no\u00ebmi"
+        },
+        {
+            "key": "benedictus",
+            "lemma": "benedictus"
+        },
+        {
+            "key": "dominus",
+            "lemma": "dominus"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "passus",
+            "lemma": "patior"
+        },
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "deficeret",
+            "lemma": "deficio"
+        },
+        {
+            "key": "successor",
+            "lemma": "successor"
+        },
+        {
+            "key": "famili\u00e6",
+            "lemma": "famili\u00e6"
+        },
+        {
+            "key": "tu\u00e6",
+            "lemma": "tu\u00e6"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "vocaretur",
+            "lemma": "uoco"
+        },
+        {
+            "key": "nomen",
+            "lemma": "nomen"
+        },
+        {
+            "key": "ejus",
+            "lemma": "js"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "isra\u00ebl",
+            "lemma": "isra\u00ebl"
+        }
+    ],
+    "Ruth.4.15": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "habeas",
+            "lemma": "habeo"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "consoletur",
+            "lemma": "consolor"
+        },
+        {
+            "key": "animam",
+            "lemma": "anima"
+        },
+        {
+            "key": "tuam",
+            "lemma": "tuus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "enutriat",
+            "lemma": "enutrio"
+        },
+        {
+            "key": "senectutem",
+            "lemma": "senectus"
+        },
+        {
+            "key": "de",
+            "lemma": "de"
+        },
+        {
+            "key": "nuru",
+            "lemma": "nuru"
+        },
+        {
+            "key": "enim",
+            "lemma": "enim"
+        },
+        {
+            "key": "tua",
+            "lemma": "tuus"
+        },
+        {
+            "key": "natus",
+            "lemma": "nascor"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "qu\u00e6",
+            "lemma": "qu\u00e6"
+        },
+        {
+            "key": "te",
+            "lemma": "tu"
+        },
+        {
+            "key": "diligit",
+            "lemma": "diligo"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "multo",
+            "lemma": "multus"
+        },
+        {
+            "key": "tibi",
+            "lemma": "tu"
+        },
+        {
+            "key": "melior",
+            "lemma": "bonus"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "quam",
+            "lemma": "quam"
+        },
+        {
+            "key": "si",
+            "lemma": "si"
+        },
+        {
+            "key": "septem",
+            "lemma": "septem"
+        },
+        {
+            "key": "haberes",
+            "lemma": "habeo"
+        },
+        {
+            "key": "filios",
+            "lemma": "filius"
+        }
+    ],
+    "Ruth.4.16": [
+        {
+            "key": "susceptum",
+            "lemma": "susceptus"
+        },
+        {
+            "key": "que",
+            "lemma": "que"
+        },
+        {
+            "key": "no\u00ebmi",
+            "lemma": "no\u00ebmi"
+        },
+        {
+            "key": "puerum",
+            "lemma": "puer"
+        },
+        {
+            "key": "posuit",
+            "lemma": "pono"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "sinu",
+            "lemma": "sinus"
+        },
+        {
+            "key": "suo",
+            "lemma": "suus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "nutricis",
+            "lemma": "nutrix"
+        },
+        {
+            "key": "ac",
+            "lemma": "atque"
+        },
+        {
+            "key": "gerul\u00e6",
+            "lemma": "gerul\u00e6s"
+        },
+        {
+            "key": "fungebatur",
+            "lemma": "fungor"
+        },
+        {
+            "key": "officio",
+            "lemma": "officium"
+        }
+    ],
+    "Ruth.4.17": [
+        {
+            "key": "vicin\u00e6",
+            "lemma": "uicin\u00e6"
+        },
+        {
+            "key": "autem",
+            "lemma": "autem"
+        },
+        {
+            "key": "mulieris",
+            "lemma": "mulier"
+        },
+        {
+            "key": "congratulantes",
+            "lemma": "congratulo"
+        },
+        {
+            "key": "ei",
+            "lemma": "is"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "dicentes",
+            "lemma": "dico"
+        },
+        {
+            "key": "natus",
+            "lemma": "natus"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "filius",
+            "lemma": "filius"
+        },
+        {
+            "key": "no\u00ebmi",
+            "lemma": "no\u00ebmi"
+        },
+        {
+            "key": "vocaverunt",
+            "lemma": "uoco"
+        },
+        {
+            "key": "nomen",
+            "lemma": "nomen"
+        },
+        {
+            "key": "ejus",
+            "lemma": "js"
+        },
+        {
+            "key": "obed",
+            "lemma": "obed"
+        },
+        {
+            "key": "hic",
+            "lemma": "hic"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "pater",
+            "lemma": "pater"
+        },
+        {
+            "key": "isai",
+            "lemma": "isai"
+        },
+        {
+            "key": "patris",
+            "lemma": "pater"
+        },
+        {
+            "key": "david",
+            "lemma": "dauid"
+        }
+    ],
+    "Ruth.4.18": [
+        {
+            "key": "h\u00e6",
+            "lemma": "h\u00e6"
+        },
+        {
+            "key": "sunt",
+            "lemma": "sum"
+        },
+        {
+            "key": "generationes",
+            "lemma": "generatio"
+        },
+        {
+            "key": "phares",
+            "lemma": "phares"
+        },
+        {
+            "key": "phares",
+            "lemma": "phares"
+        },
+        {
+            "key": "genuit",
+            "lemma": "gigno"
+        },
+        {
+            "key": "esron",
+            "lemma": "esron"
+        }
+    ],
+    "Ruth.4.19": [
+        {
+            "key": "esron",
+            "lemma": "esron"
+        },
+        {
+            "key": "genuit",
+            "lemma": "gigno"
+        },
+        {
+            "key": "aram",
+            "lemma": "ara"
+        },
+        {
+            "key": "aram",
+            "lemma": "aram"
+        },
+        {
+            "key": "genuit",
+            "lemma": "gigno"
+        },
+        {
+            "key": "aminadab",
+            "lemma": "aminadab"
+        }
+    ],
+    "Ruth.4.20": [
+        {
+            "key": "aminadab",
+            "lemma": "aminadab"
+        },
+        {
+            "key": "genuit",
+            "lemma": "gigno"
+        },
+        {
+            "key": "nahasson",
+            "lemma": "nahasson"
+        },
+        {
+            "key": "nahasson",
+            "lemma": "nahasson"
+        },
+        {
+            "key": "genuit",
+            "lemma": "gigno"
+        },
+        {
+            "key": "salmon",
+            "lemma": "salmon"
+        }
+    ],
+    "Ruth.4.21": [
+        {
+            "key": "salmon",
+            "lemma": "salmon"
+        },
+        {
+            "key": "genuit",
+            "lemma": "gigno"
+        },
+        {
+            "key": "booz",
+            "lemma": "booz"
+        },
+        {
+            "key": "booz",
+            "lemma": "booz"
+        },
+        {
+            "key": "genuit",
+            "lemma": "gigno"
+        },
+        {
+            "key": "obed",
+            "lemma": "obed"
+        }
+    ],
+    "Ruth.4.22": [
+        {
+            "key": "obed",
+            "lemma": "obed"
+        },
+        {
+            "key": "genuit",
+            "lemma": "gigno"
+        },
+        {
+            "key": "isai",
+            "lemma": "isai"
+        },
+        {
+            "key": "isai",
+            "lemma": "isai"
+        },
+        {
+            "key": "genuit",
+            "lemma": "gigno"
+        },
+        {
+            "key": "david",
+            "lemma": "dauid"
+        }
+    ]
+}

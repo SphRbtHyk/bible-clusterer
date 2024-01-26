@@ -1,0 +1,8840 @@
+{
+    "Galatians.1.1": [
+        {
+            "key": "paulus",
+            "lemma": "paulus"
+        },
+        {
+            "key": "apostolus",
+            "lemma": "apostolus"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "ab",
+            "lemma": "ab"
+        },
+        {
+            "key": "hominibus",
+            "lemma": "homo"
+        },
+        {
+            "key": "neque",
+            "lemma": "neque"
+        },
+        {
+            "key": "per",
+            "lemma": "per"
+        },
+        {
+            "key": "hominem",
+            "lemma": "homo"
+        },
+        {
+            "key": "sed",
+            "lemma": "sed"
+        },
+        {
+            "key": "per",
+            "lemma": "per"
+        },
+        {
+            "key": "jesum",
+            "lemma": "jesus"
+        },
+        {
+            "key": "christum",
+            "lemma": "christus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "deum",
+            "lemma": "deus"
+        },
+        {
+            "key": "patrem",
+            "lemma": "pater"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "suscitavit",
+            "lemma": "suscito"
+        },
+        {
+            "key": "eum",
+            "lemma": "is"
+        },
+        {
+            "key": "a",
+            "lemma": "ab"
+        },
+        {
+            "key": "mortuis",
+            "lemma": "morior"
+        }
+    ],
+    "Galatians.1.2": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "me",
+            "lemma": "ego"
+        },
+        {
+            "key": "cum",
+            "lemma": "cum"
+        },
+        {
+            "key": "sunt",
+            "lemma": "sum"
+        },
+        {
+            "key": "omnes",
+            "lemma": "omnis"
+        },
+        {
+            "key": "fratres",
+            "lemma": "frater"
+        },
+        {
+            "key": "ecclesiis",
+            "lemma": "ecclesia"
+        },
+        {
+            "key": "galati\u00e6",
+            "lemma": "galati\u00e6"
+        }
+    ],
+    "Galatians.1.3": [
+        {
+            "key": "gratia",
+            "lemma": "gratia"
+        },
+        {
+            "key": "vobis",
+            "lemma": "uos"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "pax",
+            "lemma": "pax"
+        },
+        {
+            "key": "a",
+            "lemma": "ab"
+        },
+        {
+            "key": "deo",
+            "lemma": "deus"
+        },
+        {
+            "key": "patre",
+            "lemma": "pater"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "domino",
+            "lemma": "dominus"
+        },
+        {
+            "key": "nostro",
+            "lemma": "noster"
+        },
+        {
+            "key": "jesu",
+            "lemma": "jesus"
+        },
+        {
+            "key": "christo",
+            "lemma": "christus"
+        }
+    ],
+    "Galatians.1.4": [
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "dedit",
+            "lemma": "do"
+        },
+        {
+            "key": "semetipsum",
+            "lemma": "semetipsum"
+        },
+        {
+            "key": "pro",
+            "lemma": "pro"
+        },
+        {
+            "key": "peccatis",
+            "lemma": "peccatum"
+        },
+        {
+            "key": "nostris",
+            "lemma": "noster"
+        },
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "eriperet",
+            "lemma": "eripio"
+        },
+        {
+            "key": "nos",
+            "lemma": "nos"
+        },
+        {
+            "key": "de",
+            "lemma": "de"
+        },
+        {
+            "key": "pr\u00e6senti",
+            "lemma": "pr\u00e6sum"
+        },
+        {
+            "key": "s\u00e6culo",
+            "lemma": "s\u00e6culum"
+        },
+        {
+            "key": "nequam",
+            "lemma": "nequam"
+        },
+        {
+            "key": "secundum",
+            "lemma": "secundum"
+        },
+        {
+            "key": "voluntatem",
+            "lemma": "uoluntas"
+        },
+        {
+            "key": "dei",
+            "lemma": "deus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "patris",
+            "lemma": "pater"
+        },
+        {
+            "key": "nostri",
+            "lemma": "noster"
+        }
+    ],
+    "Galatians.1.5": [
+        {
+            "key": "cui",
+            "lemma": "qui"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "gloria",
+            "lemma": "gloria"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "s\u00e6cula",
+            "lemma": "s\u00e6culum"
+        },
+        {
+            "key": "s\u00e6culorum",
+            "lemma": "s\u00e6culum"
+        },
+        {
+            "key": "amen",
+            "lemma": "amen"
+        }
+    ],
+    "Galatians.1.6": [
+        {
+            "key": "miror",
+            "lemma": "miror"
+        },
+        {
+            "key": "quod",
+            "lemma": "quod"
+        },
+        {
+            "key": "sic",
+            "lemma": "sic"
+        },
+        {
+            "key": "tam",
+            "lemma": "tam"
+        },
+        {
+            "key": "cito",
+            "lemma": "cito"
+        },
+        {
+            "key": "transferimini",
+            "lemma": "transfero"
+        },
+        {
+            "key": "ab",
+            "lemma": "ab"
+        },
+        {
+            "key": "eo",
+            "lemma": "is"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "vos",
+            "lemma": "uos"
+        },
+        {
+            "key": "vocavit",
+            "lemma": "uoco"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "gratiam",
+            "lemma": "gratia"
+        },
+        {
+            "key": "christi",
+            "lemma": "christus"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "aliud",
+            "lemma": "alius"
+        },
+        {
+            "key": "evangelium",
+            "lemma": "evangelium"
+        }
+    ],
+    "Galatians.1.7": [
+        {
+            "key": "quod",
+            "lemma": "qui"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "aliud",
+            "lemma": "alius"
+        },
+        {
+            "key": "nisi",
+            "lemma": "nisi"
+        },
+        {
+            "key": "sunt",
+            "lemma": "sum"
+        },
+        {
+            "key": "aliqui",
+            "lemma": "aliquis"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "vos",
+            "lemma": "uos"
+        },
+        {
+            "key": "conturbant",
+            "lemma": "conturbo"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "volunt",
+            "lemma": "uolo"
+        },
+        {
+            "key": "convertere",
+            "lemma": "converto"
+        },
+        {
+            "key": "evangelium",
+            "lemma": "evangelium"
+        },
+        {
+            "key": "christi",
+            "lemma": "christus"
+        }
+    ],
+    "Galatians.1.8": [
+        {
+            "key": "sed",
+            "lemma": "sed"
+        },
+        {
+            "key": "licet",
+            "lemma": "licet"
+        },
+        {
+            "key": "nos",
+            "lemma": "nos"
+        },
+        {
+            "key": "aut",
+            "lemma": "aut"
+        },
+        {
+            "key": "angelus",
+            "lemma": "angelus"
+        },
+        {
+            "key": "de",
+            "lemma": "de"
+        },
+        {
+            "key": "c\u00e6lo",
+            "lemma": "c\u00e6lo"
+        },
+        {
+            "key": "evangelizet",
+            "lemma": "euangelizo"
+        },
+        {
+            "key": "vobis",
+            "lemma": "uos"
+        },
+        {
+            "key": "pr\u00e6terquam",
+            "lemma": "pr\u00e6terquam"
+        },
+        {
+            "key": "quod",
+            "lemma": "qui"
+        },
+        {
+            "key": "evangelizavimus",
+            "lemma": "evangelizavimus"
+        },
+        {
+            "key": "vobis",
+            "lemma": "uos"
+        },
+        {
+            "key": "anathema",
+            "lemma": "anathema"
+        },
+        {
+            "key": "sit",
+            "lemma": "sum"
+        }
+    ],
+    "Galatians.1.9": [
+        {
+            "key": "sicut",
+            "lemma": "sicut"
+        },
+        {
+            "key": "pr\u00e6diximus",
+            "lemma": "pr\u00e6dixeo"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "nunc",
+            "lemma": "nunc"
+        },
+        {
+            "key": "iterum",
+            "lemma": "iterum"
+        },
+        {
+            "key": "dico",
+            "lemma": "dico"
+        },
+        {
+            "key": "si",
+            "lemma": "si"
+        },
+        {
+            "key": "quis",
+            "lemma": "quis"
+        },
+        {
+            "key": "vobis",
+            "lemma": "uos"
+        },
+        {
+            "key": "evangelizaverit",
+            "lemma": "euangelizo"
+        },
+        {
+            "key": "pr\u00e6ter",
+            "lemma": "pr\u00e6ter"
+        },
+        {
+            "key": "id",
+            "lemma": "is"
+        },
+        {
+            "key": "quod",
+            "lemma": "qui"
+        },
+        {
+            "key": "accepistis",
+            "lemma": "accipio"
+        },
+        {
+            "key": "anathema",
+            "lemma": "anathema"
+        },
+        {
+            "key": "sit",
+            "lemma": "sum"
+        }
+    ],
+    "Galatians.1.10": [
+        {
+            "key": "modo",
+            "lemma": "modo"
+        },
+        {
+            "key": "enim",
+            "lemma": "enim"
+        },
+        {
+            "key": "hominibus",
+            "lemma": "homo"
+        },
+        {
+            "key": "suadeo",
+            "lemma": "suadeo"
+        },
+        {
+            "key": "an",
+            "lemma": "an"
+        },
+        {
+            "key": "deo",
+            "lemma": "deus"
+        },
+        {
+            "key": "an",
+            "lemma": "an"
+        },
+        {
+            "key": "qu\u00e6ro",
+            "lemma": "qu\u00e6ro"
+        },
+        {
+            "key": "hominibus",
+            "lemma": "homo"
+        },
+        {
+            "key": "placere",
+            "lemma": "placeo"
+        },
+        {
+            "key": "si",
+            "lemma": "si"
+        },
+        {
+            "key": "adhuc",
+            "lemma": "adhuc"
+        },
+        {
+            "key": "hominibus",
+            "lemma": "homo"
+        },
+        {
+            "key": "placerem",
+            "lemma": "placeo"
+        },
+        {
+            "key": "christi",
+            "lemma": "christus"
+        },
+        {
+            "key": "servus",
+            "lemma": "seruus"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "essem",
+            "lemma": "sum"
+        }
+    ],
+    "Galatians.1.11": [
+        {
+            "key": "notum",
+            "lemma": "notus"
+        },
+        {
+            "key": "enim",
+            "lemma": "enim"
+        },
+        {
+            "key": "vobis",
+            "lemma": "uos"
+        },
+        {
+            "key": "facio",
+            "lemma": "facio"
+        },
+        {
+            "key": "fratres",
+            "lemma": "frater"
+        },
+        {
+            "key": "evangelium",
+            "lemma": "evangelium"
+        },
+        {
+            "key": "quod",
+            "lemma": "qui"
+        },
+        {
+            "key": "evangelizatum",
+            "lemma": "evangelizo"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "a",
+            "lemma": "ab"
+        },
+        {
+            "key": "me",
+            "lemma": "ego"
+        },
+        {
+            "key": "quia",
+            "lemma": "quia"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "secundum",
+            "lemma": "secundum"
+        },
+        {
+            "key": "hominem",
+            "lemma": "homo"
+        }
+    ],
+    "Galatians.1.12": [
+        {
+            "key": "neque",
+            "lemma": "neque"
+        },
+        {
+            "key": "enim",
+            "lemma": "enim"
+        },
+        {
+            "key": "ego",
+            "lemma": "ego"
+        },
+        {
+            "key": "ab",
+            "lemma": "ab"
+        },
+        {
+            "key": "homine",
+            "lemma": "homo"
+        },
+        {
+            "key": "accepi",
+            "lemma": "accipio"
+        },
+        {
+            "key": "illud",
+            "lemma": "ille"
+        },
+        {
+            "key": "neque",
+            "lemma": "neque"
+        },
+        {
+            "key": "didici",
+            "lemma": "disco"
+        },
+        {
+            "key": "sed",
+            "lemma": "sed"
+        },
+        {
+            "key": "per",
+            "lemma": "per"
+        },
+        {
+            "key": "revelationem",
+            "lemma": "reuelatio"
+        },
+        {
+            "key": "jesu",
+            "lemma": "jesus"
+        },
+        {
+            "key": "christi",
+            "lemma": "christus"
+        }
+    ],
+    "Galatians.1.13": [
+        {
+            "key": "audistis",
+            "lemma": "audio"
+        },
+        {
+            "key": "enim",
+            "lemma": "enim"
+        },
+        {
+            "key": "conversationem",
+            "lemma": "conuersatio"
+        },
+        {
+            "key": "meam",
+            "lemma": "meus"
+        },
+        {
+            "key": "aliquando",
+            "lemma": "aliquando"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "judaismo",
+            "lemma": "judaismus"
+        },
+        {
+            "key": "quoniam",
+            "lemma": "quoniam"
+        },
+        {
+            "key": "supra",
+            "lemma": "supra"
+        },
+        {
+            "key": "modum",
+            "lemma": "modus"
+        },
+        {
+            "key": "persequebar",
+            "lemma": "persequor"
+        },
+        {
+            "key": "ecclesiam",
+            "lemma": "ecclesia"
+        },
+        {
+            "key": "dei",
+            "lemma": "deus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "expugnabam",
+            "lemma": "expugno"
+        },
+        {
+            "key": "illam",
+            "lemma": "ille"
+        }
+    ],
+    "Galatians.1.14": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "proficiebam",
+            "lemma": "proficio"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "judaismo",
+            "lemma": "judaismus"
+        },
+        {
+            "key": "supra",
+            "lemma": "supra"
+        },
+        {
+            "key": "multos",
+            "lemma": "multus"
+        },
+        {
+            "key": "co\u00e6taneos",
+            "lemma": "co\u00e6taneus"
+        },
+        {
+            "key": "meos",
+            "lemma": "meus"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "genere",
+            "lemma": "genus"
+        },
+        {
+            "key": "meo",
+            "lemma": "meus"
+        },
+        {
+            "key": "abundantius",
+            "lemma": "abundanter"
+        },
+        {
+            "key": "\u00e6mulator",
+            "lemma": "\u00e6mulator"
+        },
+        {
+            "key": "existens",
+            "lemma": "exsisto"
+        },
+        {
+            "key": "paternarum",
+            "lemma": "paternus"
+        },
+        {
+            "key": "mearum",
+            "lemma": "meus"
+        },
+        {
+            "key": "traditionum",
+            "lemma": "traditio"
+        }
+    ],
+    "Galatians.1.15": [
+        {
+            "key": "cum",
+            "lemma": "cum"
+        },
+        {
+            "key": "autem",
+            "lemma": "autem"
+        },
+        {
+            "key": "placuit",
+            "lemma": "placeo"
+        },
+        {
+            "key": "ei",
+            "lemma": "is"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "me",
+            "lemma": "ego"
+        },
+        {
+            "key": "segregavit",
+            "lemma": "segrego"
+        },
+        {
+            "key": "ex",
+            "lemma": "ex"
+        },
+        {
+            "key": "utero",
+            "lemma": "uterus"
+        },
+        {
+            "key": "matris",
+            "lemma": "mater"
+        },
+        {
+            "key": "me\u00e6",
+            "lemma": "me\u00e6"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "vocavit",
+            "lemma": "uoco"
+        },
+        {
+            "key": "per",
+            "lemma": "per"
+        },
+        {
+            "key": "gratiam",
+            "lemma": "gratia"
+        },
+        {
+            "key": "suam",
+            "lemma": "suus"
+        }
+    ],
+    "Galatians.1.16": [
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "revelaret",
+            "lemma": "revelo"
+        },
+        {
+            "key": "filium",
+            "lemma": "filius"
+        },
+        {
+            "key": "suum",
+            "lemma": "suus"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "me",
+            "lemma": "ego"
+        },
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "evangelizarem",
+            "lemma": "evangelizarem"
+        },
+        {
+            "key": "illum",
+            "lemma": "ille"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "gentibus",
+            "lemma": "gens"
+        },
+        {
+            "key": "continuo",
+            "lemma": "continuo"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "acquievi",
+            "lemma": "acquiesco"
+        },
+        {
+            "key": "carni",
+            "lemma": "caro"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "sanguini",
+            "lemma": "sanguis"
+        }
+    ],
+    "Galatians.1.17": [
+        {
+            "key": "neque",
+            "lemma": "neque"
+        },
+        {
+            "key": "veni",
+            "lemma": "uenio"
+        },
+        {
+            "key": "jerosolymam",
+            "lemma": "jerosolyma"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "antecessores",
+            "lemma": "antecessor"
+        },
+        {
+            "key": "meos",
+            "lemma": "meus"
+        },
+        {
+            "key": "apostolos",
+            "lemma": "apostolus"
+        },
+        {
+            "key": "sed",
+            "lemma": "sed"
+        },
+        {
+            "key": "abii",
+            "lemma": "abeo"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "arabiam",
+            "lemma": "arabia"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "iterum",
+            "lemma": "iterum"
+        },
+        {
+            "key": "reversus",
+            "lemma": "reuertor"
+        },
+        {
+            "key": "sum",
+            "lemma": "sum"
+        },
+        {
+            "key": "damascum",
+            "lemma": "damascus"
+        }
+    ],
+    "Galatians.1.18": [
+        {
+            "key": "deinde",
+            "lemma": "deinde"
+        },
+        {
+            "key": "post",
+            "lemma": "post"
+        },
+        {
+            "key": "annos",
+            "lemma": "annus"
+        },
+        {
+            "key": "tres",
+            "lemma": "tres"
+        },
+        {
+            "key": "veni",
+            "lemma": "uenio"
+        },
+        {
+            "key": "jerosolymam",
+            "lemma": "jerosolyma"
+        },
+        {
+            "key": "videre",
+            "lemma": "uideo"
+        },
+        {
+            "key": "petrum",
+            "lemma": "petrus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "mansi",
+            "lemma": "mando"
+        },
+        {
+            "key": "apud",
+            "lemma": "apud"
+        },
+        {
+            "key": "eum",
+            "lemma": "is"
+        },
+        {
+            "key": "diebus",
+            "lemma": "dies"
+        },
+        {
+            "key": "quindecim",
+            "lemma": "quindecim"
+        }
+    ],
+    "Galatians.1.19": [
+        {
+            "key": "alium",
+            "lemma": "alius"
+        },
+        {
+            "key": "autem",
+            "lemma": "autem"
+        },
+        {
+            "key": "apostolorum",
+            "lemma": "apostoli"
+        },
+        {
+            "key": "vidi",
+            "lemma": "uideo"
+        },
+        {
+            "key": "neminem",
+            "lemma": "nemo"
+        },
+        {
+            "key": "nisi",
+            "lemma": "nisi"
+        },
+        {
+            "key": "jacobum",
+            "lemma": "jacobus"
+        },
+        {
+            "key": "fratrem",
+            "lemma": "frater"
+        },
+        {
+            "key": "domini",
+            "lemma": "dominus"
+        }
+    ],
+    "Galatians.1.20": [
+        {
+            "key": "qu\u00e6",
+            "lemma": "qu\u00e6"
+        },
+        {
+            "key": "autem",
+            "lemma": "autem"
+        },
+        {
+            "key": "scribo",
+            "lemma": "scribo"
+        },
+        {
+            "key": "vobis",
+            "lemma": "uos"
+        },
+        {
+            "key": "ecce",
+            "lemma": "ecce"
+        },
+        {
+            "key": "coram",
+            "lemma": "coram"
+        },
+        {
+            "key": "deo",
+            "lemma": "deus"
+        },
+        {
+            "key": "quia",
+            "lemma": "quia"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "mentior",
+            "lemma": "mentior"
+        }
+    ],
+    "Galatians.1.21": [
+        {
+            "key": "deinde",
+            "lemma": "deinde"
+        },
+        {
+            "key": "veni",
+            "lemma": "uenio"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "partes",
+            "lemma": "pars"
+        },
+        {
+            "key": "syri\u00e6",
+            "lemma": "syri\u00e6"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "cilici\u00e6",
+            "lemma": "cilici\u00e6"
+        }
+    ],
+    "Galatians.1.22": [
+        {
+            "key": "eram",
+            "lemma": "eram"
+        },
+        {
+            "key": "autem",
+            "lemma": "autem"
+        },
+        {
+            "key": "ignotus",
+            "lemma": "ignotus"
+        },
+        {
+            "key": "facie",
+            "lemma": "facies"
+        },
+        {
+            "key": "ecclesiis",
+            "lemma": "ecclesia"
+        },
+        {
+            "key": "jud\u00e6\u00e6",
+            "lemma": "jud\u00e6\u00e6"
+        },
+        {
+            "key": "qu\u00e6",
+            "lemma": "qu\u00e6"
+        },
+        {
+            "key": "erant",
+            "lemma": "sum"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "christo",
+            "lemma": "christus"
+        }
+    ],
+    "Galatians.1.23": [
+        {
+            "key": "tantum",
+            "lemma": "tantum"
+        },
+        {
+            "key": "autem",
+            "lemma": "autem"
+        },
+        {
+            "key": "auditum",
+            "lemma": "auditus"
+        },
+        {
+            "key": "habebant",
+            "lemma": "habeo"
+        },
+        {
+            "key": "quoniam",
+            "lemma": "quoniam"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "persequebatur",
+            "lemma": "persequor"
+        },
+        {
+            "key": "nos",
+            "lemma": "nos"
+        },
+        {
+            "key": "aliquando",
+            "lemma": "aliquando"
+        },
+        {
+            "key": "nunc",
+            "lemma": "nunc"
+        },
+        {
+            "key": "evangelizat",
+            "lemma": "evangelizo"
+        },
+        {
+            "key": "fidem",
+            "lemma": "fides"
+        },
+        {
+            "key": "quam",
+            "lemma": "qui"
+        },
+        {
+            "key": "aliquando",
+            "lemma": "aliquando"
+        },
+        {
+            "key": "expugnabat",
+            "lemma": "expugno"
+        }
+    ],
+    "Galatians.1.24": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "me",
+            "lemma": "ego"
+        },
+        {
+            "key": "clarificabant",
+            "lemma": "clarifico"
+        },
+        {
+            "key": "deum",
+            "lemma": "deus"
+        }
+    ],
+    "Galatians.2.1": [
+        {
+            "key": "deinde",
+            "lemma": "deinde"
+        },
+        {
+            "key": "post",
+            "lemma": "post"
+        },
+        {
+            "key": "annos",
+            "lemma": "annus"
+        },
+        {
+            "key": "quatuordecim",
+            "lemma": "quattuordecim"
+        },
+        {
+            "key": "iterum",
+            "lemma": "iterum"
+        },
+        {
+            "key": "ascendi",
+            "lemma": "ascendo"
+        },
+        {
+            "key": "jerosolymam",
+            "lemma": "jerosolyma"
+        },
+        {
+            "key": "cum",
+            "lemma": "cum"
+        },
+        {
+            "key": "barnaba",
+            "lemma": "barnabas"
+        },
+        {
+            "key": "assumpto",
+            "lemma": "assumpto"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "tito",
+            "lemma": "titus"
+        }
+    ],
+    "Galatians.2.2": [
+        {
+            "key": "ascendi",
+            "lemma": "ascendus"
+        },
+        {
+            "key": "autem",
+            "lemma": "autem"
+        },
+        {
+            "key": "secundum",
+            "lemma": "secundum"
+        },
+        {
+            "key": "revelationem",
+            "lemma": "reuelatio"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "contuli",
+            "lemma": "confero"
+        },
+        {
+            "key": "cum",
+            "lemma": "cum"
+        },
+        {
+            "key": "illis",
+            "lemma": "ille"
+        },
+        {
+            "key": "evangelium",
+            "lemma": "evangelium"
+        },
+        {
+            "key": "quod",
+            "lemma": "qui"
+        },
+        {
+            "key": "pr\u00e6dico",
+            "lemma": "pr\u00e6dico"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "gentibus",
+            "lemma": "gens"
+        },
+        {
+            "key": "seorsum",
+            "lemma": "s(e)orsum"
+        },
+        {
+            "key": "autem",
+            "lemma": "autem"
+        },
+        {
+            "key": "iis",
+            "lemma": "is"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "videbantur",
+            "lemma": "uideo"
+        },
+        {
+            "key": "aliquid",
+            "lemma": "aliquis"
+        },
+        {
+            "key": "esse",
+            "lemma": "sum"
+        },
+        {
+            "key": "ne",
+            "lemma": "ne"
+        },
+        {
+            "key": "forte",
+            "lemma": "forte"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "vacuum",
+            "lemma": "uacuus"
+        },
+        {
+            "key": "currerem",
+            "lemma": "curro"
+        },
+        {
+            "key": "aut",
+            "lemma": "aut"
+        },
+        {
+            "key": "cucurrissem",
+            "lemma": "cucurrissem"
+        }
+    ],
+    "Galatians.2.3": [
+        {
+            "key": "sed",
+            "lemma": "sed"
+        },
+        {
+            "key": "neque",
+            "lemma": "neque"
+        },
+        {
+            "key": "titus",
+            "lemma": "titus"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "me",
+            "lemma": "ego"
+        },
+        {
+            "key": "cum",
+            "lemma": "cum"
+        },
+        {
+            "key": "erat",
+            "lemma": "sum"
+        },
+        {
+            "key": "cum",
+            "lemma": "cum"
+        },
+        {
+            "key": "esset",
+            "lemma": "sum"
+        },
+        {
+            "key": "gentilis",
+            "lemma": "gentilis"
+        },
+        {
+            "key": "compulsus",
+            "lemma": "compulsus"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "circumcidi",
+            "lemma": "circumcido"
+        }
+    ],
+    "Galatians.2.4": [
+        {
+            "key": "sed",
+            "lemma": "sed"
+        },
+        {
+            "key": "propter",
+            "lemma": "propter"
+        },
+        {
+            "key": "subintroductos",
+            "lemma": "subintroduco"
+        },
+        {
+            "key": "falsos",
+            "lemma": "falsus"
+        },
+        {
+            "key": "fratres",
+            "lemma": "frater"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "subintroierunt",
+            "lemma": "subintroeo"
+        },
+        {
+            "key": "explorare",
+            "lemma": "exploro"
+        },
+        {
+            "key": "libertatem",
+            "lemma": "libertas"
+        },
+        {
+            "key": "nostram",
+            "lemma": "noster"
+        },
+        {
+            "key": "quam",
+            "lemma": "qui"
+        },
+        {
+            "key": "habemus",
+            "lemma": "habeo"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "christo",
+            "lemma": "christus"
+        },
+        {
+            "key": "jesu",
+            "lemma": "jesus"
+        },
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "nos",
+            "lemma": "nos"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "servitutem",
+            "lemma": "seruitus"
+        },
+        {
+            "key": "redigerent",
+            "lemma": "redigo"
+        }
+    ],
+    "Galatians.2.5": [
+        {
+            "key": "quibus",
+            "lemma": "qui"
+        },
+        {
+            "key": "neque",
+            "lemma": "neque"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "horam",
+            "lemma": "hora"
+        },
+        {
+            "key": "cessimus",
+            "lemma": "cedo"
+        },
+        {
+            "key": "subjectione",
+            "lemma": "subjectio"
+        },
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "veritas",
+            "lemma": "ueritas"
+        },
+        {
+            "key": "evangelii",
+            "lemma": "evangelium"
+        },
+        {
+            "key": "permaneat",
+            "lemma": "permaneo"
+        },
+        {
+            "key": "apud",
+            "lemma": "apud"
+        },
+        {
+            "key": "vos",
+            "lemma": "uos"
+        }
+    ],
+    "Galatians.2.6": [
+        {
+            "key": "ab",
+            "lemma": "ab"
+        },
+        {
+            "key": "iis",
+            "lemma": "is"
+        },
+        {
+            "key": "autem",
+            "lemma": "autem"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "videbantur",
+            "lemma": "uideo"
+        },
+        {
+            "key": "esse",
+            "lemma": "sum"
+        },
+        {
+            "key": "aliquid",
+            "lemma": "aliquis"
+        },
+        {
+            "key": "quales",
+            "lemma": "qualis"
+        },
+        {
+            "key": "aliquando",
+            "lemma": "aliquando"
+        },
+        {
+            "key": "fuerint",
+            "lemma": "sum"
+        },
+        {
+            "key": "nihil",
+            "lemma": "nihil"
+        },
+        {
+            "key": "mea",
+            "lemma": "meus"
+        },
+        {
+            "key": "interest",
+            "lemma": "intersum"
+        },
+        {
+            "key": "deus",
+            "lemma": "deus"
+        },
+        {
+            "key": "personam",
+            "lemma": "persona"
+        },
+        {
+            "key": "hominis",
+            "lemma": "homo"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "accipit",
+            "lemma": "accipio"
+        },
+        {
+            "key": "):",
+            "lemma": "):"
+        },
+        {
+            "key": "mihi",
+            "lemma": "ego"
+        },
+        {
+            "key": "enim",
+            "lemma": "enim"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "videbantur",
+            "lemma": "uideo"
+        },
+        {
+            "key": "esse",
+            "lemma": "sum"
+        },
+        {
+            "key": "aliquid",
+            "lemma": "aliquis"
+        },
+        {
+            "key": "nihil",
+            "lemma": "nihil"
+        },
+        {
+            "key": "contulerunt",
+            "lemma": "confero"
+        }
+    ],
+    "Galatians.2.7": [
+        {
+            "key": "sed",
+            "lemma": "sed"
+        },
+        {
+            "key": "e",
+            "lemma": "ex"
+        },
+        {
+            "key": "contra",
+            "lemma": "contra"
+        },
+        {
+            "key": "cum",
+            "lemma": "cum"
+        },
+        {
+            "key": "vidissent",
+            "lemma": "uideo"
+        },
+        {
+            "key": "quod",
+            "lemma": "qui"
+        },
+        {
+            "key": "creditum",
+            "lemma": "credo"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "mihi",
+            "lemma": "ego"
+        },
+        {
+            "key": "evangelium",
+            "lemma": "evangelium"
+        },
+        {
+            "key": "pr\u00e6putii",
+            "lemma": "pr\u00e6putium"
+        },
+        {
+            "key": "sicut",
+            "lemma": "sicut"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "petro",
+            "lemma": "petrus"
+        },
+        {
+            "key": "circumcisionis",
+            "lemma": "circumcisio"
+        }
+    ],
+    "Galatians.2.8": [
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "enim",
+            "lemma": "enim"
+        },
+        {
+            "key": "operatus",
+            "lemma": "operor"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "petro",
+            "lemma": "petrus"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "apostolatum",
+            "lemma": "apostolatus"
+        },
+        {
+            "key": "circumcisionis",
+            "lemma": "circumcisio"
+        },
+        {
+            "key": "operatus",
+            "lemma": "operor"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "mihi",
+            "lemma": "ego"
+        },
+        {
+            "key": "inter",
+            "lemma": "inter"
+        },
+        {
+            "key": "gentes",
+            "lemma": "gens"
+        },
+        {
+            "key": "):",
+            "lemma": "):"
+        }
+    ],
+    "Galatians.2.9": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "cum",
+            "lemma": "cum"
+        },
+        {
+            "key": "cognovissent",
+            "lemma": "cognosco"
+        },
+        {
+            "key": "gratiam",
+            "lemma": "gratia"
+        },
+        {
+            "key": "qu\u00e6",
+            "lemma": "qu\u00e6"
+        },
+        {
+            "key": "data",
+            "lemma": "do"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "mihi",
+            "lemma": "ego"
+        },
+        {
+            "key": "jacobus",
+            "lemma": "jacobus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "cephas",
+            "lemma": "cephas"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "joannes",
+            "lemma": "joannes"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "videbantur",
+            "lemma": "uideo"
+        },
+        {
+            "key": "column\u00e6",
+            "lemma": "column\u00e6"
+        },
+        {
+            "key": "esse",
+            "lemma": "sum"
+        },
+        {
+            "key": "dextras",
+            "lemma": "dextras"
+        },
+        {
+            "key": "dederunt",
+            "lemma": "do"
+        },
+        {
+            "key": "mihi",
+            "lemma": "ego"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "barnab\u00e6",
+            "lemma": "barnab\u00e6"
+        },
+        {
+            "key": "societatis",
+            "lemma": "societas"
+        },
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "nos",
+            "lemma": "nos"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "gentes",
+            "lemma": "gens"
+        },
+        {
+            "key": "ipsi",
+            "lemma": "ipse"
+        },
+        {
+            "key": "autem",
+            "lemma": "autem"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "circumcisionem",
+            "lemma": "circumcisio"
+        }
+    ],
+    "Galatians.2.10": [
+        {
+            "key": "tantum",
+            "lemma": "tantum"
+        },
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "pauperum",
+            "lemma": "pauper"
+        },
+        {
+            "key": "memores",
+            "lemma": "memor"
+        },
+        {
+            "key": "essemus",
+            "lemma": "sum"
+        },
+        {
+            "key": "quod",
+            "lemma": "quod"
+        },
+        {
+            "key": "etiam",
+            "lemma": "etiam"
+        },
+        {
+            "key": "sollicitus",
+            "lemma": "sollicitus"
+        },
+        {
+            "key": "fui",
+            "lemma": "sum"
+        },
+        {
+            "key": "hoc",
+            "lemma": "hic"
+        },
+        {
+            "key": "ipsum",
+            "lemma": "ipse"
+        },
+        {
+            "key": "facere",
+            "lemma": "facio"
+        }
+    ],
+    "Galatians.2.11": [
+        {
+            "key": "cum",
+            "lemma": "cum"
+        },
+        {
+            "key": "autem",
+            "lemma": "autem"
+        },
+        {
+            "key": "venisset",
+            "lemma": "uenio"
+        },
+        {
+            "key": "cephas",
+            "lemma": "cephas"
+        },
+        {
+            "key": "antiochiam",
+            "lemma": "antiochea"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "faciem",
+            "lemma": "facies"
+        },
+        {
+            "key": "ei",
+            "lemma": "is"
+        },
+        {
+            "key": "restiti",
+            "lemma": "resto"
+        },
+        {
+            "key": "quia",
+            "lemma": "quia"
+        },
+        {
+            "key": "reprehensibilis",
+            "lemma": "reprehensibilis"
+        },
+        {
+            "key": "erat",
+            "lemma": "sum"
+        }
+    ],
+    "Galatians.2.12": [
+        {
+            "key": "prius",
+            "lemma": "prius"
+        },
+        {
+            "key": "enim",
+            "lemma": "enim"
+        },
+        {
+            "key": "quam",
+            "lemma": "quam"
+        },
+        {
+            "key": "venirent",
+            "lemma": "uenio"
+        },
+        {
+            "key": "quidam",
+            "lemma": "quidam"
+        },
+        {
+            "key": "a",
+            "lemma": "ab"
+        },
+        {
+            "key": "jacobo",
+            "lemma": "jacob"
+        },
+        {
+            "key": "cum",
+            "lemma": "cum"
+        },
+        {
+            "key": "gentibus",
+            "lemma": "gens"
+        },
+        {
+            "key": "edebat",
+            "lemma": "edo"
+        },
+        {
+            "key": "cum",
+            "lemma": "cum"
+        },
+        {
+            "key": "autem",
+            "lemma": "autem"
+        },
+        {
+            "key": "venissent",
+            "lemma": "uenio"
+        },
+        {
+            "key": "subtrahebat",
+            "lemma": "subtraho"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "segregabat",
+            "lemma": "segrego"
+        },
+        {
+            "key": "se",
+            "lemma": "sui"
+        },
+        {
+            "key": "timens",
+            "lemma": "timeo"
+        },
+        {
+            "key": "eos",
+            "lemma": "is"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "ex",
+            "lemma": "ex"
+        },
+        {
+            "key": "circumcisione",
+            "lemma": "circumcisio"
+        },
+        {
+            "key": "erant",
+            "lemma": "sum"
+        }
+    ],
+    "Galatians.2.13": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "simulationi",
+            "lemma": "simulatio"
+        },
+        {
+            "key": "ejus",
+            "lemma": "js"
+        },
+        {
+            "key": "consenserunt",
+            "lemma": "consentio"
+        },
+        {
+            "key": "ceteri",
+            "lemma": "ceterus"
+        },
+        {
+            "key": "jud\u00e6i",
+            "lemma": "jud\u00e6i"
+        },
+        {
+            "key": "ita",
+            "lemma": "ita"
+        },
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "barnabas",
+            "lemma": "barnabas"
+        },
+        {
+            "key": "duceretur",
+            "lemma": "duco"
+        },
+        {
+            "key": "ab",
+            "lemma": "ab"
+        },
+        {
+            "key": "eis",
+            "lemma": "is"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "illam",
+            "lemma": "ille"
+        },
+        {
+            "key": "simulationem",
+            "lemma": "simulatio"
+        }
+    ],
+    "Galatians.2.14": [
+        {
+            "key": "sed",
+            "lemma": "sed"
+        },
+        {
+            "key": "cum",
+            "lemma": "cum"
+        },
+        {
+            "key": "vidissem",
+            "lemma": "uideo"
+        },
+        {
+            "key": "quod",
+            "lemma": "quod"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "recte",
+            "lemma": "recte"
+        },
+        {
+            "key": "ambularent",
+            "lemma": "ambulo"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "veritatem",
+            "lemma": "ueritas"
+        },
+        {
+            "key": "evangelii",
+            "lemma": "evangelium"
+        },
+        {
+            "key": "dixi",
+            "lemma": "dico"
+        },
+        {
+            "key": "ceph\u00e6",
+            "lemma": "ceph\u00e6"
+        },
+        {
+            "key": "coram",
+            "lemma": "coram"
+        },
+        {
+            "key": "omnibus",
+            "lemma": "omnis"
+        },
+        {
+            "key": "si",
+            "lemma": "si"
+        },
+        {
+            "key": "tu",
+            "lemma": "tu"
+        },
+        {
+            "key": "cum",
+            "lemma": "cum"
+        },
+        {
+            "key": "jud\u00e6us",
+            "lemma": "jud\u00e6us"
+        },
+        {
+            "key": "sis",
+            "lemma": "sum"
+        },
+        {
+            "key": "gentiliter",
+            "lemma": "gentiliter"
+        },
+        {
+            "key": "vivis",
+            "lemma": "uiuo"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "judaice",
+            "lemma": "judaicus"
+        },
+        {
+            "key": "quomodo",
+            "lemma": "quomodo"
+        },
+        {
+            "key": "gentes",
+            "lemma": "gens"
+        },
+        {
+            "key": "cogis",
+            "lemma": "cogo"
+        },
+        {
+            "key": "judaizare",
+            "lemma": "judaizo"
+        }
+    ],
+    "Galatians.2.15": [
+        {
+            "key": "nos",
+            "lemma": "nos"
+        },
+        {
+            "key": "natura",
+            "lemma": "natura"
+        },
+        {
+            "key": "jud\u00e6i",
+            "lemma": "jud\u00e6i"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "ex",
+            "lemma": "ex"
+        },
+        {
+            "key": "gentibus",
+            "lemma": "gens"
+        },
+        {
+            "key": "peccatores",
+            "lemma": "peccator"
+        }
+    ],
+    "Galatians.2.16": [
+        {
+            "key": "scientes",
+            "lemma": "scio"
+        },
+        {
+            "key": "autem",
+            "lemma": "autem"
+        },
+        {
+            "key": "quod",
+            "lemma": "qui"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "justificatur",
+            "lemma": "justificao"
+        },
+        {
+            "key": "homo",
+            "lemma": "homo"
+        },
+        {
+            "key": "ex",
+            "lemma": "ex"
+        },
+        {
+            "key": "operibus",
+            "lemma": "opus"
+        },
+        {
+            "key": "legis",
+            "lemma": "lex"
+        },
+        {
+            "key": "nisi",
+            "lemma": "nisi"
+        },
+        {
+            "key": "per",
+            "lemma": "per"
+        },
+        {
+            "key": "fidem",
+            "lemma": "fides"
+        },
+        {
+            "key": "jesu",
+            "lemma": "jesus"
+        },
+        {
+            "key": "christi",
+            "lemma": "christus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "nos",
+            "lemma": "nos"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "christo",
+            "lemma": "christus"
+        },
+        {
+            "key": "jesu",
+            "lemma": "jesus"
+        },
+        {
+            "key": "credimus",
+            "lemma": "credo"
+        },
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "justificemur",
+            "lemma": "justifico"
+        },
+        {
+            "key": "ex",
+            "lemma": "ex"
+        },
+        {
+            "key": "fide",
+            "lemma": "fides"
+        },
+        {
+            "key": "christi",
+            "lemma": "christus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "ex",
+            "lemma": "ex"
+        },
+        {
+            "key": "operibus",
+            "lemma": "opus"
+        },
+        {
+            "key": "legis",
+            "lemma": "lex"
+        },
+        {
+            "key": "propter",
+            "lemma": "propter"
+        },
+        {
+            "key": "quod",
+            "lemma": "qui"
+        },
+        {
+            "key": "ex",
+            "lemma": "ex"
+        },
+        {
+            "key": "operibus",
+            "lemma": "opus"
+        },
+        {
+            "key": "legis",
+            "lemma": "lex"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "justificabitur",
+            "lemma": "justifico"
+        },
+        {
+            "key": "omnis",
+            "lemma": "omnis"
+        },
+        {
+            "key": "caro",
+            "lemma": "caro"
+        }
+    ],
+    "Galatians.2.17": [
+        {
+            "key": "quod",
+            "lemma": "quod"
+        },
+        {
+            "key": "si",
+            "lemma": "si"
+        },
+        {
+            "key": "qu\u00e6rentes",
+            "lemma": "qu\u00e6ro"
+        },
+        {
+            "key": "justificari",
+            "lemma": "justifico"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "christo",
+            "lemma": "christus"
+        },
+        {
+            "key": "inventi",
+            "lemma": "inventi"
+        },
+        {
+            "key": "sumus",
+            "lemma": "sum"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "ipsi",
+            "lemma": "ipse"
+        },
+        {
+            "key": "peccatores",
+            "lemma": "peccator"
+        },
+        {
+            "key": "numquid",
+            "lemma": "numquid"
+        },
+        {
+            "key": "christus",
+            "lemma": "christus"
+        },
+        {
+            "key": "peccati",
+            "lemma": "peccatum"
+        },
+        {
+            "key": "minister",
+            "lemma": "minister"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "absit",
+            "lemma": "absum"
+        }
+    ],
+    "Galatians.2.18": [
+        {
+            "key": "si",
+            "lemma": "si"
+        },
+        {
+            "key": "enim",
+            "lemma": "enim"
+        },
+        {
+            "key": "qu\u00e6",
+            "lemma": "qu\u00e6"
+        },
+        {
+            "key": "destruxi",
+            "lemma": "destruo"
+        },
+        {
+            "key": "iterum",
+            "lemma": "iterum"
+        },
+        {
+            "key": "h\u00e6c",
+            "lemma": "h\u00e6c"
+        },
+        {
+            "key": "\u00e6difico",
+            "lemma": "\u00e6difico"
+        },
+        {
+            "key": "pr\u00e6varicatorem",
+            "lemma": "pr\u00e6varicatorem"
+        },
+        {
+            "key": "me",
+            "lemma": "ego"
+        },
+        {
+            "key": "constituo",
+            "lemma": "constituo"
+        }
+    ],
+    "Galatians.2.19": [
+        {
+            "key": "ego",
+            "lemma": "ego"
+        },
+        {
+            "key": "enim",
+            "lemma": "enim"
+        },
+        {
+            "key": "per",
+            "lemma": "per"
+        },
+        {
+            "key": "legem",
+            "lemma": "lex"
+        },
+        {
+            "key": "legi",
+            "lemma": "lego"
+        },
+        {
+            "key": "mortuus",
+            "lemma": "morior"
+        },
+        {
+            "key": "sum",
+            "lemma": "sum"
+        },
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "deo",
+            "lemma": "deus"
+        },
+        {
+            "key": "vivam",
+            "lemma": "uiuo"
+        },
+        {
+            "key": "christo",
+            "lemma": "christus"
+        },
+        {
+            "key": "confixus",
+            "lemma": "configo"
+        },
+        {
+            "key": "sum",
+            "lemma": "sum"
+        },
+        {
+            "key": "cruci",
+            "lemma": "crux"
+        }
+    ],
+    "Galatians.2.20": [
+        {
+            "key": "vivo",
+            "lemma": "vivo"
+        },
+        {
+            "key": "autem",
+            "lemma": "autem"
+        },
+        {
+            "key": "jam",
+            "lemma": "jam"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "ego",
+            "lemma": "ego"
+        },
+        {
+            "key": "vivit",
+            "lemma": "uiuo"
+        },
+        {
+            "key": "vero",
+            "lemma": "uero"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "me",
+            "lemma": "ego"
+        },
+        {
+            "key": "christus",
+            "lemma": "christus"
+        },
+        {
+            "key": "quod",
+            "lemma": "quod"
+        },
+        {
+            "key": "autem",
+            "lemma": "autem"
+        },
+        {
+            "key": "nunc",
+            "lemma": "nunc"
+        },
+        {
+            "key": "vivo",
+            "lemma": "uiuo"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "carne",
+            "lemma": "caro"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "fide",
+            "lemma": "fides"
+        },
+        {
+            "key": "vivo",
+            "lemma": "uiuo"
+        },
+        {
+            "key": "filii",
+            "lemma": "filius"
+        },
+        {
+            "key": "dei",
+            "lemma": "deus"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "dilexit",
+            "lemma": "diligo"
+        },
+        {
+            "key": "me",
+            "lemma": "ego"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "tradidit",
+            "lemma": "trado"
+        },
+        {
+            "key": "semetipsum",
+            "lemma": "semetipsum"
+        },
+        {
+            "key": "pro",
+            "lemma": "pro"
+        },
+        {
+            "key": "me",
+            "lemma": "ego"
+        }
+    ],
+    "Galatians.2.21": [
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "abjicio",
+            "lemma": "abjicio"
+        },
+        {
+            "key": "gratiam",
+            "lemma": "gratia"
+        },
+        {
+            "key": "dei",
+            "lemma": "deus"
+        },
+        {
+            "key": "si",
+            "lemma": "si"
+        },
+        {
+            "key": "enim",
+            "lemma": "enim"
+        },
+        {
+            "key": "per",
+            "lemma": "per"
+        },
+        {
+            "key": "legem",
+            "lemma": "lex"
+        },
+        {
+            "key": "justitia",
+            "lemma": "justitia"
+        },
+        {
+            "key": "ergo",
+            "lemma": "ergo"
+        },
+        {
+            "key": "gratis",
+            "lemma": "gratis"
+        },
+        {
+            "key": "christus",
+            "lemma": "christus"
+        },
+        {
+            "key": "mortuus",
+            "lemma": "morior"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        }
+    ],
+    "Galatians.3.1": [
+        {
+            "key": "o",
+            "lemma": "o"
+        },
+        {
+            "key": "insensati",
+            "lemma": "insensatus"
+        },
+        {
+            "key": "galat\u00e6",
+            "lemma": "galat\u00e6"
+        },
+        {
+            "key": "quis",
+            "lemma": "quis"
+        },
+        {
+            "key": "vos",
+            "lemma": "uos"
+        },
+        {
+            "key": "fascinavit",
+            "lemma": "fascino"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "obedire",
+            "lemma": "obedio"
+        },
+        {
+            "key": "veritati",
+            "lemma": "ueritas"
+        },
+        {
+            "key": "ante",
+            "lemma": "ante"
+        },
+        {
+            "key": "quorum",
+            "lemma": "qui"
+        },
+        {
+            "key": "oculos",
+            "lemma": "oculus"
+        },
+        {
+            "key": "jesus",
+            "lemma": "jesus"
+        },
+        {
+            "key": "christus",
+            "lemma": "christus"
+        },
+        {
+            "key": "pr\u00e6scriptus",
+            "lemma": "pr\u00e6scriptus"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "vobis",
+            "lemma": "uos"
+        },
+        {
+            "key": "crucifixus",
+            "lemma": "crucifigo"
+        }
+    ],
+    "Galatians.3.2": [
+        {
+            "key": "hoc",
+            "lemma": "hic"
+        },
+        {
+            "key": "solum",
+            "lemma": "solum"
+        },
+        {
+            "key": "a",
+            "lemma": "ab"
+        },
+        {
+            "key": "vobis",
+            "lemma": "uos"
+        },
+        {
+            "key": "volo",
+            "lemma": "uolo"
+        },
+        {
+            "key": "discere",
+            "lemma": "disco"
+        },
+        {
+            "key": "ex",
+            "lemma": "ex"
+        },
+        {
+            "key": "operibus",
+            "lemma": "opus"
+        },
+        {
+            "key": "legis",
+            "lemma": "lex"
+        },
+        {
+            "key": "spiritum",
+            "lemma": "spiritus"
+        },
+        {
+            "key": "accepistis",
+            "lemma": "accipio"
+        },
+        {
+            "key": "an",
+            "lemma": "an"
+        },
+        {
+            "key": "ex",
+            "lemma": "ex"
+        },
+        {
+            "key": "auditu",
+            "lemma": "auditus"
+        },
+        {
+            "key": "fidei",
+            "lemma": "fides"
+        }
+    ],
+    "Galatians.3.3": [
+        {
+            "key": "sic",
+            "lemma": "sic"
+        },
+        {
+            "key": "stulti",
+            "lemma": "stultus"
+        },
+        {
+            "key": "estis",
+            "lemma": "sum"
+        },
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "cum",
+            "lemma": "cum"
+        },
+        {
+            "key": "spiritu",
+            "lemma": "spiritus"
+        },
+        {
+            "key": "c\u0153peritis",
+            "lemma": "c\u0153peritis"
+        },
+        {
+            "key": "nunc",
+            "lemma": "nunc"
+        },
+        {
+            "key": "carne",
+            "lemma": "caro"
+        },
+        {
+            "key": "consummemini",
+            "lemma": "consummemini"
+        }
+    ],
+    "Galatians.3.4": [
+        {
+            "key": "tanta",
+            "lemma": "tantus"
+        },
+        {
+            "key": "passi",
+            "lemma": "patior"
+        },
+        {
+            "key": "estis",
+            "lemma": "sum"
+        },
+        {
+            "key": "sine",
+            "lemma": "sine"
+        },
+        {
+            "key": "causa",
+            "lemma": "causa"
+        },
+        {
+            "key": "si",
+            "lemma": "si"
+        },
+        {
+            "key": "tamen",
+            "lemma": "tamen"
+        },
+        {
+            "key": "sine",
+            "lemma": "sine"
+        },
+        {
+            "key": "causa",
+            "lemma": "causa"
+        }
+    ],
+    "Galatians.3.5": [
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "ergo",
+            "lemma": "ergo"
+        },
+        {
+            "key": "tribuit",
+            "lemma": "tribuo"
+        },
+        {
+            "key": "vobis",
+            "lemma": "uos"
+        },
+        {
+            "key": "spiritum",
+            "lemma": "spiritus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "operatur",
+            "lemma": "operor"
+        },
+        {
+            "key": "virtutes",
+            "lemma": "uirtus"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "vobis",
+            "lemma": "uos"
+        },
+        {
+            "key": "ex",
+            "lemma": "ex"
+        },
+        {
+            "key": "operibus",
+            "lemma": "opus"
+        },
+        {
+            "key": "legis",
+            "lemma": "lex"
+        },
+        {
+            "key": "an",
+            "lemma": "an"
+        },
+        {
+            "key": "ex",
+            "lemma": "ex"
+        },
+        {
+            "key": "auditu",
+            "lemma": "auditus"
+        },
+        {
+            "key": "fidei",
+            "lemma": "fides"
+        }
+    ],
+    "Galatians.3.6": [
+        {
+            "key": "sicut",
+            "lemma": "sicut"
+        },
+        {
+            "key": "scriptum",
+            "lemma": "scribo"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "abraham",
+            "lemma": "abraham"
+        },
+        {
+            "key": "credidit",
+            "lemma": "credo"
+        },
+        {
+            "key": "deo",
+            "lemma": "deus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "reputatum",
+            "lemma": "reputo"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "illi",
+            "lemma": "ille"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "justitiam",
+            "lemma": "justitia"
+        }
+    ],
+    "Galatians.3.7": [
+        {
+            "key": "cognoscite",
+            "lemma": "cognosco"
+        },
+        {
+            "key": "ergo",
+            "lemma": "ergo"
+        },
+        {
+            "key": "quia",
+            "lemma": "quia"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "ex",
+            "lemma": "ex"
+        },
+        {
+            "key": "fide",
+            "lemma": "fides"
+        },
+        {
+            "key": "sunt",
+            "lemma": "sum"
+        },
+        {
+            "key": "ii",
+            "lemma": "ii"
+        },
+        {
+            "key": "sunt",
+            "lemma": "sum"
+        },
+        {
+            "key": "filii",
+            "lemma": "filius"
+        },
+        {
+            "key": "abrah\u00e6",
+            "lemma": "abrah\u00e6"
+        }
+    ],
+    "Galatians.3.8": [
+        {
+            "key": "providens",
+            "lemma": "providens"
+        },
+        {
+            "key": "autem",
+            "lemma": "autem"
+        },
+        {
+            "key": "scriptura",
+            "lemma": "scriptura"
+        },
+        {
+            "key": "quia",
+            "lemma": "quia"
+        },
+        {
+            "key": "ex",
+            "lemma": "ex"
+        },
+        {
+            "key": "fide",
+            "lemma": "fides"
+        },
+        {
+            "key": "justificat",
+            "lemma": "justifico"
+        },
+        {
+            "key": "gentes",
+            "lemma": "gens"
+        },
+        {
+            "key": "deus",
+            "lemma": "deus"
+        },
+        {
+            "key": "pr\u00e6nuntiavit",
+            "lemma": "pr\u00e6nuntiasco"
+        },
+        {
+            "key": "abrah\u00e6",
+            "lemma": "abrah\u00e6"
+        },
+        {
+            "key": "quia",
+            "lemma": "quia"
+        },
+        {
+            "key": "benedicentur",
+            "lemma": "benedico"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "te",
+            "lemma": "tu"
+        },
+        {
+            "key": "omnes",
+            "lemma": "omnis"
+        },
+        {
+            "key": "gentes",
+            "lemma": "gens"
+        }
+    ],
+    "Galatians.3.9": [
+        {
+            "key": "igitur",
+            "lemma": "igitur"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "ex",
+            "lemma": "ex"
+        },
+        {
+            "key": "fide",
+            "lemma": "fides"
+        },
+        {
+            "key": "sunt",
+            "lemma": "sum"
+        },
+        {
+            "key": "benedicentur",
+            "lemma": "benedico"
+        },
+        {
+            "key": "cum",
+            "lemma": "cum"
+        },
+        {
+            "key": "fideli",
+            "lemma": "fidelis"
+        },
+        {
+            "key": "abraham",
+            "lemma": "abraham"
+        }
+    ],
+    "Galatians.3.10": [
+        {
+            "key": "quicumque",
+            "lemma": "quicumque"
+        },
+        {
+            "key": "enim",
+            "lemma": "enim"
+        },
+        {
+            "key": "ex",
+            "lemma": "ex"
+        },
+        {
+            "key": "operibus",
+            "lemma": "opus"
+        },
+        {
+            "key": "legis",
+            "lemma": "lex"
+        },
+        {
+            "key": "sunt",
+            "lemma": "sum"
+        },
+        {
+            "key": "sub",
+            "lemma": "sub"
+        },
+        {
+            "key": "maledicto",
+            "lemma": "maledictum"
+        },
+        {
+            "key": "sunt",
+            "lemma": "sum"
+        },
+        {
+            "key": "scriptum",
+            "lemma": "scriptum"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "enim",
+            "lemma": "enim"
+        },
+        {
+            "key": "maledictus",
+            "lemma": "maledictus"
+        },
+        {
+            "key": "omnis",
+            "lemma": "omnis"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "permanserit",
+            "lemma": "permaneo"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "omnibus",
+            "lemma": "omnis"
+        },
+        {
+            "key": "qu\u00e6",
+            "lemma": "qu\u00e6"
+        },
+        {
+            "key": "scripta",
+            "lemma": "scribo"
+        },
+        {
+            "key": "sunt",
+            "lemma": "sum"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "libro",
+            "lemma": "liber"
+        },
+        {
+            "key": "legis",
+            "lemma": "lex"
+        },
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "faciat",
+            "lemma": "facio"
+        },
+        {
+            "key": "ea",
+            "lemma": "is"
+        }
+    ],
+    "Galatians.3.11": [
+        {
+            "key": "quoniam",
+            "lemma": "quoniam"
+        },
+        {
+            "key": "autem",
+            "lemma": "autem"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "lege",
+            "lemma": "lex"
+        },
+        {
+            "key": "nemo",
+            "lemma": "nemo"
+        },
+        {
+            "key": "justificatur",
+            "lemma": "justificao"
+        },
+        {
+            "key": "apud",
+            "lemma": "apud"
+        },
+        {
+            "key": "deum",
+            "lemma": "deus"
+        },
+        {
+            "key": "manifestum",
+            "lemma": "manifestus"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "quia",
+            "lemma": "quia"
+        },
+        {
+            "key": "justus",
+            "lemma": "justus"
+        },
+        {
+            "key": "ex",
+            "lemma": "ex"
+        },
+        {
+            "key": "fide",
+            "lemma": "fides"
+        },
+        {
+            "key": "vivit",
+            "lemma": "uiuo"
+        }
+    ],
+    "Galatians.3.12": [
+        {
+            "key": "lex",
+            "lemma": "lex"
+        },
+        {
+            "key": "autem",
+            "lemma": "autem"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "ex",
+            "lemma": "ex"
+        },
+        {
+            "key": "fide",
+            "lemma": "fides"
+        },
+        {
+            "key": "sed",
+            "lemma": "sed"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "fecerit",
+            "lemma": "facio"
+        },
+        {
+            "key": "ea",
+            "lemma": "is"
+        },
+        {
+            "key": "vivet",
+            "lemma": "uiuo"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "illis",
+            "lemma": "ille"
+        }
+    ],
+    "Galatians.3.13": [
+        {
+            "key": "christus",
+            "lemma": "christus"
+        },
+        {
+            "key": "nos",
+            "lemma": "nos"
+        },
+        {
+            "key": "redemit",
+            "lemma": "redemo"
+        },
+        {
+            "key": "de",
+            "lemma": "de"
+        },
+        {
+            "key": "maledicto",
+            "lemma": "maledictum"
+        },
+        {
+            "key": "legis",
+            "lemma": "lex"
+        },
+        {
+            "key": "factus",
+            "lemma": "facio"
+        },
+        {
+            "key": "pro",
+            "lemma": "pro"
+        },
+        {
+            "key": "nobis",
+            "lemma": "nos"
+        },
+        {
+            "key": "maledictum",
+            "lemma": "maledico"
+        },
+        {
+            "key": "quia",
+            "lemma": "quia"
+        },
+        {
+            "key": "scriptum",
+            "lemma": "scribo"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "maledictus",
+            "lemma": "maledico"
+        },
+        {
+            "key": "omnis",
+            "lemma": "omnis"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "pendet",
+            "lemma": "pendeo"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "ligno",
+            "lemma": "lignum"
+        }
+    ],
+    "Galatians.3.14": [
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "gentibus",
+            "lemma": "gens"
+        },
+        {
+            "key": "benedictio",
+            "lemma": "benedictio"
+        },
+        {
+            "key": "abrah\u00e6",
+            "lemma": "abrah\u00e6"
+        },
+        {
+            "key": "fieret",
+            "lemma": "fio"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "christo",
+            "lemma": "christus"
+        },
+        {
+            "key": "jesu",
+            "lemma": "jesus"
+        },
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "pollicitationem",
+            "lemma": "pollicitatio"
+        },
+        {
+            "key": "spiritus",
+            "lemma": "spiritus"
+        },
+        {
+            "key": "accipiamus",
+            "lemma": "accipio"
+        },
+        {
+            "key": "per",
+            "lemma": "per"
+        },
+        {
+            "key": "fidem",
+            "lemma": "fides"
+        }
+    ],
+    "Galatians.3.15": [
+        {
+            "key": "fratres",
+            "lemma": "fratres"
+        },
+        {
+            "key": "secundum",
+            "lemma": "secundum"
+        },
+        {
+            "key": "hominem",
+            "lemma": "homo"
+        },
+        {
+            "key": "dico",
+            "lemma": "dico"
+        },
+        {
+            "key": "tamen",
+            "lemma": "tamen"
+        },
+        {
+            "key": "hominis",
+            "lemma": "homo"
+        },
+        {
+            "key": "confirmatum",
+            "lemma": "confirmo"
+        },
+        {
+            "key": "testamentum",
+            "lemma": "testamentum"
+        },
+        {
+            "key": "nemo",
+            "lemma": "nemo"
+        },
+        {
+            "key": "spernit",
+            "lemma": "sperno"
+        },
+        {
+            "key": "aut",
+            "lemma": "aut"
+        },
+        {
+            "key": "superordinat",
+            "lemma": "superordino"
+        }
+    ],
+    "Galatians.3.16": [
+        {
+            "key": "abrah\u00e6",
+            "lemma": "abrah\u00e6"
+        },
+        {
+            "key": "dict\u00e6",
+            "lemma": "dict\u00e6b"
+        },
+        {
+            "key": "sunt",
+            "lemma": "sum"
+        },
+        {
+            "key": "promissiones",
+            "lemma": "promissio"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "semini",
+            "lemma": "semen"
+        },
+        {
+            "key": "ejus",
+            "lemma": "js"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "dicit",
+            "lemma": "dico"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "seminibus",
+            "lemma": "semen"
+        },
+        {
+            "key": "quasi",
+            "lemma": "quasi"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "multis",
+            "lemma": "multus"
+        },
+        {
+            "key": "sed",
+            "lemma": "sed"
+        },
+        {
+            "key": "quasi",
+            "lemma": "quasi"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "uno",
+            "lemma": "unus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "semini",
+            "lemma": "semen"
+        },
+        {
+            "key": "tuo",
+            "lemma": "tuus"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "christus",
+            "lemma": "christus"
+        }
+    ],
+    "Galatians.3.17": [
+        {
+            "key": "hoc",
+            "lemma": "hic"
+        },
+        {
+            "key": "autem",
+            "lemma": "autem"
+        },
+        {
+            "key": "dico",
+            "lemma": "dico"
+        },
+        {
+            "key": "testamentum",
+            "lemma": "testamentum"
+        },
+        {
+            "key": "confirmatum",
+            "lemma": "confirmo"
+        },
+        {
+            "key": "a",
+            "lemma": "a"
+        },
+        {
+            "key": "deo",
+            "lemma": "deus"
+        },
+        {
+            "key": "qu\u00e6",
+            "lemma": "qu\u00e6"
+        },
+        {
+            "key": "post",
+            "lemma": "post"
+        },
+        {
+            "key": "quadringentos",
+            "lemma": "quadringenti"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "triginta",
+            "lemma": "triginta"
+        },
+        {
+            "key": "annos",
+            "lemma": "annus"
+        },
+        {
+            "key": "facta",
+            "lemma": "facio"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "lex",
+            "lemma": "lex"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "irritum",
+            "lemma": "irritus"
+        },
+        {
+            "key": "facit",
+            "lemma": "facio"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "evacuandam",
+            "lemma": "evacuandam"
+        },
+        {
+            "key": "promissionem",
+            "lemma": "promissio"
+        }
+    ],
+    "Galatians.3.18": [
+        {
+            "key": "nam",
+            "lemma": "nam"
+        },
+        {
+            "key": "si",
+            "lemma": "si"
+        },
+        {
+            "key": "ex",
+            "lemma": "ex"
+        },
+        {
+            "key": "lege",
+            "lemma": "lex"
+        },
+        {
+            "key": "h\u00e6reditas",
+            "lemma": "h\u00e6reditas"
+        },
+        {
+            "key": "jam",
+            "lemma": "jam"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "ex",
+            "lemma": "ex"
+        },
+        {
+            "key": "promissione",
+            "lemma": "promissio"
+        },
+        {
+            "key": "abrah\u00e6",
+            "lemma": "abrah\u00e6"
+        },
+        {
+            "key": "autem",
+            "lemma": "autem"
+        },
+        {
+            "key": "per",
+            "lemma": "per"
+        },
+        {
+            "key": "repromissionem",
+            "lemma": "repromissio"
+        },
+        {
+            "key": "donavit",
+            "lemma": "dono"
+        },
+        {
+            "key": "deus",
+            "lemma": "deus"
+        }
+    ],
+    "Galatians.3.19": [
+        {
+            "key": "quid",
+            "lemma": "quid"
+        },
+        {
+            "key": "igitur",
+            "lemma": "igitur"
+        },
+        {
+            "key": "lex",
+            "lemma": "lex"
+        },
+        {
+            "key": "propter",
+            "lemma": "propter"
+        },
+        {
+            "key": "transgressiones",
+            "lemma": "transgressio"
+        },
+        {
+            "key": "posita",
+            "lemma": "pono"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "donec",
+            "lemma": "donec"
+        },
+        {
+            "key": "veniret",
+            "lemma": "uenio"
+        },
+        {
+            "key": "semen",
+            "lemma": "semen"
+        },
+        {
+            "key": "cui",
+            "lemma": "qui"
+        },
+        {
+            "key": "promiserat",
+            "lemma": "promitto"
+        },
+        {
+            "key": "ordinata",
+            "lemma": "ordino"
+        },
+        {
+            "key": "per",
+            "lemma": "per"
+        },
+        {
+            "key": "angelos",
+            "lemma": "angelus"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "manu",
+            "lemma": "manus"
+        },
+        {
+            "key": "mediatoris",
+            "lemma": "mediator"
+        }
+    ],
+    "Galatians.3.20": [
+        {
+            "key": "mediator",
+            "lemma": "mediator"
+        },
+        {
+            "key": "autem",
+            "lemma": "autem"
+        },
+        {
+            "key": "unius",
+            "lemma": "unus"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "deus",
+            "lemma": "deus"
+        },
+        {
+            "key": "autem",
+            "lemma": "autem"
+        },
+        {
+            "key": "unus",
+            "lemma": "unus"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        }
+    ],
+    "Galatians.3.21": [
+        {
+            "key": "lex",
+            "lemma": "lex"
+        },
+        {
+            "key": "ergo",
+            "lemma": "ergo"
+        },
+        {
+            "key": "adversus",
+            "lemma": "aduersus"
+        },
+        {
+            "key": "promissa",
+            "lemma": "promissum"
+        },
+        {
+            "key": "dei",
+            "lemma": "deus"
+        },
+        {
+            "key": "absit",
+            "lemma": "absum"
+        },
+        {
+            "key": "si",
+            "lemma": "si"
+        },
+        {
+            "key": "enim",
+            "lemma": "enim"
+        },
+        {
+            "key": "data",
+            "lemma": "do"
+        },
+        {
+            "key": "esset",
+            "lemma": "sum"
+        },
+        {
+            "key": "lex",
+            "lemma": "lex"
+        },
+        {
+            "key": "qu\u00e6",
+            "lemma": "qu\u00e6"
+        },
+        {
+            "key": "posset",
+            "lemma": "possum"
+        },
+        {
+            "key": "vivificare",
+            "lemma": "uivifico"
+        },
+        {
+            "key": "vere",
+            "lemma": "uere"
+        },
+        {
+            "key": "ex",
+            "lemma": "ex"
+        },
+        {
+            "key": "lege",
+            "lemma": "lex"
+        },
+        {
+            "key": "esset",
+            "lemma": "sum"
+        },
+        {
+            "key": "justitia",
+            "lemma": "justitia"
+        }
+    ],
+    "Galatians.3.22": [
+        {
+            "key": "sed",
+            "lemma": "sed"
+        },
+        {
+            "key": "conclusit",
+            "lemma": "concludo"
+        },
+        {
+            "key": "scriptura",
+            "lemma": "scriptura"
+        },
+        {
+            "key": "omnia",
+            "lemma": "omnis"
+        },
+        {
+            "key": "sub",
+            "lemma": "sub"
+        },
+        {
+            "key": "peccato",
+            "lemma": "peccatum"
+        },
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "promissio",
+            "lemma": "promissio"
+        },
+        {
+            "key": "ex",
+            "lemma": "ex"
+        },
+        {
+            "key": "fide",
+            "lemma": "fides"
+        },
+        {
+            "key": "jesu",
+            "lemma": "jesus"
+        },
+        {
+            "key": "christi",
+            "lemma": "christus"
+        },
+        {
+            "key": "daretur",
+            "lemma": "do"
+        },
+        {
+            "key": "credentibus",
+            "lemma": "credo"
+        }
+    ],
+    "Galatians.3.23": [
+        {
+            "key": "prius",
+            "lemma": "prius"
+        },
+        {
+            "key": "autem",
+            "lemma": "autem"
+        },
+        {
+            "key": "quam",
+            "lemma": "quam"
+        },
+        {
+            "key": "veniret",
+            "lemma": "uenio"
+        },
+        {
+            "key": "fides",
+            "lemma": "fides"
+        },
+        {
+            "key": "sub",
+            "lemma": "sub"
+        },
+        {
+            "key": "lege",
+            "lemma": "lex"
+        },
+        {
+            "key": "custodiebamur",
+            "lemma": "custodio"
+        },
+        {
+            "key": "conclusi",
+            "lemma": "concludo"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "eam",
+            "lemma": "is"
+        },
+        {
+            "key": "fidem",
+            "lemma": "fides"
+        },
+        {
+            "key": "qu\u00e6",
+            "lemma": "qu\u00e6"
+        },
+        {
+            "key": "revelanda",
+            "lemma": "revelanda"
+        },
+        {
+            "key": "erat",
+            "lemma": "sum"
+        }
+    ],
+    "Galatians.3.24": [
+        {
+            "key": "itaque",
+            "lemma": "itaque"
+        },
+        {
+            "key": "lex",
+            "lemma": "lex"
+        },
+        {
+            "key": "p\u00e6dagogus",
+            "lemma": "p\u00e6dagogus"
+        },
+        {
+            "key": "noster",
+            "lemma": "noster"
+        },
+        {
+            "key": "fuit",
+            "lemma": "sum"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "christo",
+            "lemma": "christus"
+        },
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "ex",
+            "lemma": "ex"
+        },
+        {
+            "key": "fide",
+            "lemma": "fides"
+        },
+        {
+            "key": "justificemur",
+            "lemma": "justifico"
+        }
+    ],
+    "Galatians.3.25": [
+        {
+            "key": "at",
+            "lemma": "at"
+        },
+        {
+            "key": "ubi",
+            "lemma": "ubi"
+        },
+        {
+            "key": "venit",
+            "lemma": "uenio"
+        },
+        {
+            "key": "fides",
+            "lemma": "fides"
+        },
+        {
+            "key": "jam",
+            "lemma": "jam"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "sumus",
+            "lemma": "sum"
+        },
+        {
+            "key": "sub",
+            "lemma": "sub"
+        },
+        {
+            "key": "p\u00e6dagogo",
+            "lemma": "p\u00e6dagogus"
+        }
+    ],
+    "Galatians.3.26": [
+        {
+            "key": "omnes",
+            "lemma": "omnis"
+        },
+        {
+            "key": "enim",
+            "lemma": "enim"
+        },
+        {
+            "key": "filii",
+            "lemma": "filius"
+        },
+        {
+            "key": "dei",
+            "lemma": "deus"
+        },
+        {
+            "key": "estis",
+            "lemma": "sum"
+        },
+        {
+            "key": "per",
+            "lemma": "per"
+        },
+        {
+            "key": "fidem",
+            "lemma": "fides"
+        },
+        {
+            "key": "qu\u00e6",
+            "lemma": "qu\u00e6"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "christo",
+            "lemma": "christus"
+        },
+        {
+            "key": "jesu",
+            "lemma": "jesus"
+        }
+    ],
+    "Galatians.3.27": [
+        {
+            "key": "quicumque",
+            "lemma": "quicumque"
+        },
+        {
+            "key": "enim",
+            "lemma": "enim"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "christo",
+            "lemma": "christus"
+        },
+        {
+            "key": "baptizati",
+            "lemma": "baptizo"
+        },
+        {
+            "key": "estis",
+            "lemma": "sum"
+        },
+        {
+            "key": "christum",
+            "lemma": "christus"
+        },
+        {
+            "key": "induistis",
+            "lemma": "induo"
+        }
+    ],
+    "Galatians.3.28": [
+        {
+            "key": "non",
+            "lemma": "nonnullus"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "jud\u00e6us",
+            "lemma": "jud\u00e6us"
+        },
+        {
+            "key": "neque",
+            "lemma": "neque"
+        },
+        {
+            "key": "gr\u00e6cus",
+            "lemma": "gr\u00e6cus"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "servus",
+            "lemma": "seruus"
+        },
+        {
+            "key": "neque",
+            "lemma": "neque"
+        },
+        {
+            "key": "liber",
+            "lemma": "liber"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "masculus",
+            "lemma": "masculus"
+        },
+        {
+            "key": "neque",
+            "lemma": "neque"
+        },
+        {
+            "key": "femina",
+            "lemma": "femina"
+        },
+        {
+            "key": "omnes",
+            "lemma": "omnis"
+        },
+        {
+            "key": "enim",
+            "lemma": "enim"
+        },
+        {
+            "key": "vos",
+            "lemma": "uos"
+        },
+        {
+            "key": "unum",
+            "lemma": "unus"
+        },
+        {
+            "key": "estis",
+            "lemma": "sum"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "christo",
+            "lemma": "christus"
+        },
+        {
+            "key": "jesu",
+            "lemma": "jesus"
+        }
+    ],
+    "Galatians.3.29": [
+        {
+            "key": "si",
+            "lemma": "si"
+        },
+        {
+            "key": "autem",
+            "lemma": "autem"
+        },
+        {
+            "key": "vos",
+            "lemma": "uos"
+        },
+        {
+            "key": "christi",
+            "lemma": "christus"
+        },
+        {
+            "key": "ergo",
+            "lemma": "ergo"
+        },
+        {
+            "key": "semen",
+            "lemma": "semen"
+        },
+        {
+            "key": "abrah\u00e6",
+            "lemma": "abrah\u00e6"
+        },
+        {
+            "key": "estis",
+            "lemma": "sum"
+        },
+        {
+            "key": "secundum",
+            "lemma": "secundum"
+        },
+        {
+            "key": "promissionem",
+            "lemma": "promissio"
+        },
+        {
+            "key": "h\u00e6redes",
+            "lemma": "h\u00e6res"
+        }
+    ],
+    "Galatians.4.1": [
+        {
+            "key": "dico",
+            "lemma": "dico"
+        },
+        {
+            "key": "autem",
+            "lemma": "autem"
+        },
+        {
+            "key": "quanto",
+            "lemma": "quantus"
+        },
+        {
+            "key": "tempore",
+            "lemma": "tempus"
+        },
+        {
+            "key": "h\u00e6res",
+            "lemma": "h\u00e6r"
+        },
+        {
+            "key": "parvulus",
+            "lemma": "paruulus"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "nihil",
+            "lemma": "nihil"
+        },
+        {
+            "key": "differt",
+            "lemma": "differo"
+        },
+        {
+            "key": "a",
+            "lemma": "ab"
+        },
+        {
+            "key": "servo",
+            "lemma": "seruus"
+        },
+        {
+            "key": "cum",
+            "lemma": "cum"
+        },
+        {
+            "key": "sit",
+            "lemma": "sum"
+        },
+        {
+            "key": "dominus",
+            "lemma": "dominus"
+        },
+        {
+            "key": "omnium",
+            "lemma": "omnis"
+        }
+    ],
+    "Galatians.4.2": [
+        {
+            "key": "sed",
+            "lemma": "sed"
+        },
+        {
+            "key": "sub",
+            "lemma": "sub"
+        },
+        {
+            "key": "tutoribus",
+            "lemma": "tutor"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "actoribus",
+            "lemma": "actor"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "usque",
+            "lemma": "usque"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "pr\u00e6finitum",
+            "lemma": "pr\u00e6finitus"
+        },
+        {
+            "key": "tempus",
+            "lemma": "tempus"
+        },
+        {
+            "key": "a",
+            "lemma": "ab"
+        },
+        {
+            "key": "patre",
+            "lemma": "pater"
+        }
+    ],
+    "Galatians.4.3": [
+        {
+            "key": "ita",
+            "lemma": "ita"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "nos",
+            "lemma": "nos"
+        },
+        {
+            "key": "cum",
+            "lemma": "cum"
+        },
+        {
+            "key": "essemus",
+            "lemma": "sum"
+        },
+        {
+            "key": "parvuli",
+            "lemma": "paruulus"
+        },
+        {
+            "key": "sub",
+            "lemma": "sub"
+        },
+        {
+            "key": "elementis",
+            "lemma": "elementum"
+        },
+        {
+            "key": "mundi",
+            "lemma": "mundus"
+        },
+        {
+            "key": "eramus",
+            "lemma": "sum"
+        },
+        {
+            "key": "servientes",
+            "lemma": "seruio"
+        }
+    ],
+    "Galatians.4.4": [
+        {
+            "key": "at",
+            "lemma": "at"
+        },
+        {
+            "key": "ubi",
+            "lemma": "ubi"
+        },
+        {
+            "key": "venit",
+            "lemma": "uenio"
+        },
+        {
+            "key": "plenitudo",
+            "lemma": "plenitudo"
+        },
+        {
+            "key": "temporis",
+            "lemma": "tempus"
+        },
+        {
+            "key": "misit",
+            "lemma": "mitto"
+        },
+        {
+            "key": "deus",
+            "lemma": "deus"
+        },
+        {
+            "key": "filium",
+            "lemma": "filius"
+        },
+        {
+            "key": "suum",
+            "lemma": "suus"
+        },
+        {
+            "key": "factum",
+            "lemma": "facio"
+        },
+        {
+            "key": "ex",
+            "lemma": "ex"
+        },
+        {
+            "key": "muliere",
+            "lemma": "mulier"
+        },
+        {
+            "key": "factum",
+            "lemma": "facio"
+        },
+        {
+            "key": "sub",
+            "lemma": "sub"
+        },
+        {
+            "key": "lege",
+            "lemma": "lex"
+        }
+    ],
+    "Galatians.4.5": [
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "eos",
+            "lemma": "is"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "sub",
+            "lemma": "sub"
+        },
+        {
+            "key": "lege",
+            "lemma": "lex"
+        },
+        {
+            "key": "erant",
+            "lemma": "sum"
+        },
+        {
+            "key": "redimeret",
+            "lemma": "redimo"
+        },
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "adoptionem",
+            "lemma": "adoptio"
+        },
+        {
+            "key": "filiorum",
+            "lemma": "filius"
+        },
+        {
+            "key": "reciperemus",
+            "lemma": "recipio"
+        }
+    ],
+    "Galatians.4.6": [
+        {
+            "key": "quoniam",
+            "lemma": "quoniam"
+        },
+        {
+            "key": "autem",
+            "lemma": "autem"
+        },
+        {
+            "key": "estis",
+            "lemma": "sum"
+        },
+        {
+            "key": "filii",
+            "lemma": "filius"
+        },
+        {
+            "key": "misit",
+            "lemma": "mitto"
+        },
+        {
+            "key": "deus",
+            "lemma": "deus"
+        },
+        {
+            "key": "spiritum",
+            "lemma": "spiritus"
+        },
+        {
+            "key": "filii",
+            "lemma": "filius"
+        },
+        {
+            "key": "sui",
+            "lemma": "suus"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "corda",
+            "lemma": "cor"
+        },
+        {
+            "key": "vestra",
+            "lemma": "uester"
+        },
+        {
+            "key": "clamantem",
+            "lemma": "clamo"
+        },
+        {
+            "key": "abba",
+            "lemma": "abba"
+        },
+        {
+            "key": "pater",
+            "lemma": "pater"
+        }
+    ],
+    "Galatians.4.7": [
+        {
+            "key": "itaque",
+            "lemma": "itaque"
+        },
+        {
+            "key": "jam",
+            "lemma": "jam"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "servus",
+            "lemma": "seruus"
+        },
+        {
+            "key": "sed",
+            "lemma": "sed"
+        },
+        {
+            "key": "filius",
+            "lemma": "filius"
+        },
+        {
+            "key": "quod",
+            "lemma": "quod"
+        },
+        {
+            "key": "si",
+            "lemma": "si"
+        },
+        {
+            "key": "filius",
+            "lemma": "filius"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "h\u00e6res",
+            "lemma": "h\u00e6r"
+        },
+        {
+            "key": "per",
+            "lemma": "per"
+        },
+        {
+            "key": "deum",
+            "lemma": "deus"
+        }
+    ],
+    "Galatians.4.8": [
+        {
+            "key": "sed",
+            "lemma": "sed"
+        },
+        {
+            "key": "tunc",
+            "lemma": "tunc"
+        },
+        {
+            "key": "quidem",
+            "lemma": "quidem"
+        },
+        {
+            "key": "ignorantes",
+            "lemma": "ignoro"
+        },
+        {
+            "key": "deum",
+            "lemma": "deus"
+        },
+        {
+            "key": "iis",
+            "lemma": "is"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "natura",
+            "lemma": "natura"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "sunt",
+            "lemma": "sum"
+        },
+        {
+            "key": "dii",
+            "lemma": "deus"
+        },
+        {
+            "key": "serviebatis",
+            "lemma": "serviebatis"
+        }
+    ],
+    "Galatians.4.9": [
+        {
+            "key": "nunc",
+            "lemma": "nunc"
+        },
+        {
+            "key": "autem",
+            "lemma": "autem"
+        },
+        {
+            "key": "cum",
+            "lemma": "cum"
+        },
+        {
+            "key": "cognoveritis",
+            "lemma": "cognosco"
+        },
+        {
+            "key": "deum",
+            "lemma": "deus"
+        },
+        {
+            "key": "immo",
+            "lemma": "immo"
+        },
+        {
+            "key": "cogniti",
+            "lemma": "cognosco"
+        },
+        {
+            "key": "sitis",
+            "lemma": "sum"
+        },
+        {
+            "key": "a",
+            "lemma": "ab"
+        },
+        {
+            "key": "deo",
+            "lemma": "deus"
+        },
+        {
+            "key": "quomodo",
+            "lemma": "quomodo"
+        },
+        {
+            "key": "convertimini",
+            "lemma": "conuerto"
+        },
+        {
+            "key": "iterum",
+            "lemma": "iterum"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "infirma",
+            "lemma": "infirmus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "egena",
+            "lemma": "egenus"
+        },
+        {
+            "key": "elementa",
+            "lemma": "elementum"
+        },
+        {
+            "key": "quibus",
+            "lemma": "qui"
+        },
+        {
+            "key": "denuo",
+            "lemma": "denuo"
+        },
+        {
+            "key": "servire",
+            "lemma": "seruio"
+        },
+        {
+            "key": "vultis",
+            "lemma": "uolo"
+        }
+    ],
+    "Galatians.4.10": [
+        {
+            "key": "dies",
+            "lemma": "dies"
+        },
+        {
+            "key": "observatis",
+            "lemma": "observatis"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "menses",
+            "lemma": "mensis"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "tempora",
+            "lemma": "tempus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "annos",
+            "lemma": "annus"
+        }
+    ],
+    "Galatians.4.11": [
+        {
+            "key": "timeo",
+            "lemma": "timeo"
+        },
+        {
+            "key": "vos",
+            "lemma": "uos"
+        },
+        {
+            "key": "ne",
+            "lemma": "ne"
+        },
+        {
+            "key": "forte",
+            "lemma": "forte"
+        },
+        {
+            "key": "sine",
+            "lemma": "sine"
+        },
+        {
+            "key": "causa",
+            "lemma": "causa"
+        },
+        {
+            "key": "laboraverim",
+            "lemma": "laboro"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "vobis",
+            "lemma": "uos"
+        }
+    ],
+    "Galatians.4.12": [
+        {
+            "key": "estote",
+            "lemma": "estote"
+        },
+        {
+            "key": "sicut",
+            "lemma": "sicut"
+        },
+        {
+            "key": "ego",
+            "lemma": "ego"
+        },
+        {
+            "key": "quia",
+            "lemma": "quia"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "ego",
+            "lemma": "ego"
+        },
+        {
+            "key": "sicut",
+            "lemma": "sicut"
+        },
+        {
+            "key": "vos",
+            "lemma": "uos"
+        },
+        {
+            "key": "fratres",
+            "lemma": "frater"
+        },
+        {
+            "key": "obsecro",
+            "lemma": "obsecro"
+        },
+        {
+            "key": "vos",
+            "lemma": "uos"
+        },
+        {
+            "key": "nihil",
+            "lemma": "nihil"
+        },
+        {
+            "key": "me",
+            "lemma": "ego"
+        },
+        {
+            "key": "l\u00e6sistis",
+            "lemma": "l\u00e6so"
+        }
+    ],
+    "Galatians.4.13": [
+        {
+            "key": "scitis",
+            "lemma": "scio"
+        },
+        {
+            "key": "autem",
+            "lemma": "autem"
+        },
+        {
+            "key": "quia",
+            "lemma": "quia"
+        },
+        {
+            "key": "per",
+            "lemma": "per"
+        },
+        {
+            "key": "infirmitatem",
+            "lemma": "infirmitas"
+        },
+        {
+            "key": "carnis",
+            "lemma": "caro"
+        },
+        {
+            "key": "evangelizavi",
+            "lemma": "euangelizo"
+        },
+        {
+            "key": "vobis",
+            "lemma": "uos"
+        },
+        {
+            "key": "jampridem",
+            "lemma": "jampridem"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "tentationem",
+            "lemma": "tentatio"
+        },
+        {
+            "key": "vestram",
+            "lemma": "uester"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "carne",
+            "lemma": "caro"
+        },
+        {
+            "key": "mea",
+            "lemma": "meus"
+        }
+    ],
+    "Galatians.4.14": [
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "sprevistis",
+            "lemma": "sprevistis"
+        },
+        {
+            "key": "neque",
+            "lemma": "neque"
+        },
+        {
+            "key": "respuistis",
+            "lemma": "respuistis"
+        },
+        {
+            "key": "sed",
+            "lemma": "sed"
+        },
+        {
+            "key": "sicut",
+            "lemma": "sicut"
+        },
+        {
+            "key": "angelum",
+            "lemma": "angelus"
+        },
+        {
+            "key": "dei",
+            "lemma": "deus"
+        },
+        {
+            "key": "excepistis",
+            "lemma": "excipio"
+        },
+        {
+            "key": "me",
+            "lemma": "ego"
+        },
+        {
+            "key": "sicut",
+            "lemma": "sicut"
+        },
+        {
+            "key": "christum",
+            "lemma": "christus"
+        },
+        {
+            "key": "jesum",
+            "lemma": "jesus"
+        }
+    ],
+    "Galatians.4.15": [
+        {
+            "key": "ubi",
+            "lemma": "ubi"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "ergo",
+            "lemma": "ergo"
+        },
+        {
+            "key": "beatitudo",
+            "lemma": "beatitudo"
+        },
+        {
+            "key": "vestra",
+            "lemma": "uester"
+        },
+        {
+            "key": "testimonium",
+            "lemma": "testimonium"
+        },
+        {
+            "key": "enim",
+            "lemma": "enim"
+        },
+        {
+            "key": "perhibeo",
+            "lemma": "perhibeo"
+        },
+        {
+            "key": "vobis",
+            "lemma": "uos"
+        },
+        {
+            "key": "quia",
+            "lemma": "quia"
+        },
+        {
+            "key": "si",
+            "lemma": "si"
+        },
+        {
+            "key": "fieri",
+            "lemma": "fio"
+        },
+        {
+            "key": "posset",
+            "lemma": "possum"
+        },
+        {
+            "key": "oculos",
+            "lemma": "oculus"
+        },
+        {
+            "key": "vestros",
+            "lemma": "uester"
+        },
+        {
+            "key": "eruissetis",
+            "lemma": "eruissetis"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "dedissetis",
+            "lemma": "do"
+        },
+        {
+            "key": "mihi",
+            "lemma": "ego"
+        }
+    ],
+    "Galatians.4.16": [
+        {
+            "key": "ergo",
+            "lemma": "ergo"
+        },
+        {
+            "key": "inimicus",
+            "lemma": "inimicus"
+        },
+        {
+            "key": "vobis",
+            "lemma": "uos"
+        },
+        {
+            "key": "factus",
+            "lemma": "facio"
+        },
+        {
+            "key": "sum",
+            "lemma": "sum"
+        },
+        {
+            "key": "verum",
+            "lemma": "uerus"
+        },
+        {
+            "key": "dicens",
+            "lemma": "dico"
+        },
+        {
+            "key": "vobis",
+            "lemma": "uos"
+        }
+    ],
+    "Galatians.4.17": [
+        {
+            "key": "\u00e6mulantur",
+            "lemma": "\u00e6mulantur"
+        },
+        {
+            "key": "vos",
+            "lemma": "uos"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "bene",
+            "lemma": "bene"
+        },
+        {
+            "key": "sed",
+            "lemma": "sed"
+        },
+        {
+            "key": "excludere",
+            "lemma": "excludo"
+        },
+        {
+            "key": "vos",
+            "lemma": "uos"
+        },
+        {
+            "key": "volunt",
+            "lemma": "uolo"
+        },
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "illos",
+            "lemma": "ille"
+        },
+        {
+            "key": "\u00e6mulemini",
+            "lemma": "\u00e6mulor"
+        }
+    ],
+    "Galatians.4.18": [
+        {
+            "key": "bonum",
+            "lemma": "bonus"
+        },
+        {
+            "key": "autem",
+            "lemma": "autem"
+        },
+        {
+            "key": "\u00e6mulamini",
+            "lemma": "\u00e6mulaor"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "bono",
+            "lemma": "bonum"
+        },
+        {
+            "key": "semper",
+            "lemma": "semper"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "tantum",
+            "lemma": "tantum"
+        },
+        {
+            "key": "cum",
+            "lemma": "cum"
+        },
+        {
+            "key": "pr\u00e6sens",
+            "lemma": "pr\u00e6sens"
+        },
+        {
+            "key": "sum",
+            "lemma": "sum"
+        },
+        {
+            "key": "apud",
+            "lemma": "apud"
+        },
+        {
+            "key": "vos",
+            "lemma": "uos"
+        }
+    ],
+    "Galatians.4.19": [
+        {
+            "key": "filioli",
+            "lemma": "filiolus"
+        },
+        {
+            "key": "mei",
+            "lemma": "meus"
+        },
+        {
+            "key": "quos",
+            "lemma": "qui"
+        },
+        {
+            "key": "iterum",
+            "lemma": "iterum"
+        },
+        {
+            "key": "parturio",
+            "lemma": "parturio"
+        },
+        {
+            "key": "donec",
+            "lemma": "donec"
+        },
+        {
+            "key": "formetur",
+            "lemma": "formo"
+        },
+        {
+            "key": "christus",
+            "lemma": "christus"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "vobis",
+            "lemma": "uos"
+        }
+    ],
+    "Galatians.4.20": [
+        {
+            "key": "vellem",
+            "lemma": "uolo"
+        },
+        {
+            "key": "autem",
+            "lemma": "autem"
+        },
+        {
+            "key": "esse",
+            "lemma": "sum"
+        },
+        {
+            "key": "apud",
+            "lemma": "apud"
+        },
+        {
+            "key": "vos",
+            "lemma": "uos"
+        },
+        {
+            "key": "modo",
+            "lemma": "modus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "mutare",
+            "lemma": "muto"
+        },
+        {
+            "key": "vocem",
+            "lemma": "uox"
+        },
+        {
+            "key": "meam",
+            "lemma": "meus"
+        },
+        {
+            "key": "quoniam",
+            "lemma": "quoniam"
+        },
+        {
+            "key": "confundor",
+            "lemma": "confundo"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "vobis",
+            "lemma": "uos"
+        }
+    ],
+    "Galatians.4.21": [
+        {
+            "key": "dicite",
+            "lemma": "dico"
+        },
+        {
+            "key": "mihi",
+            "lemma": "ego"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "sub",
+            "lemma": "sub"
+        },
+        {
+            "key": "lege",
+            "lemma": "lex"
+        },
+        {
+            "key": "vultis",
+            "lemma": "uolo"
+        },
+        {
+            "key": "esse",
+            "lemma": "sum"
+        },
+        {
+            "key": "legem",
+            "lemma": "lex"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "legistis",
+            "lemma": "lego"
+        }
+    ],
+    "Galatians.4.22": [
+        {
+            "key": "scriptum",
+            "lemma": "scriptum"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "enim",
+            "lemma": "enim"
+        },
+        {
+            "key": "quoniam",
+            "lemma": "quoniam"
+        },
+        {
+            "key": "abraham",
+            "lemma": "abraham"
+        },
+        {
+            "key": "duos",
+            "lemma": "duo"
+        },
+        {
+            "key": "filios",
+            "lemma": "filius"
+        },
+        {
+            "key": "habuit",
+            "lemma": "habeo"
+        },
+        {
+            "key": "unum",
+            "lemma": "unus"
+        },
+        {
+            "key": "de",
+            "lemma": "de"
+        },
+        {
+            "key": "ancilla",
+            "lemma": "ancilla"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "unum",
+            "lemma": "unus"
+        },
+        {
+            "key": "de",
+            "lemma": "de"
+        },
+        {
+            "key": "libera",
+            "lemma": "liber"
+        }
+    ],
+    "Galatians.4.23": [
+        {
+            "key": "sed",
+            "lemma": "sed"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "de",
+            "lemma": "de"
+        },
+        {
+            "key": "ancilla",
+            "lemma": "ancilla"
+        },
+        {
+            "key": "secundum",
+            "lemma": "secundum"
+        },
+        {
+            "key": "carnem",
+            "lemma": "caro"
+        },
+        {
+            "key": "natus",
+            "lemma": "nascor"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "autem",
+            "lemma": "autem"
+        },
+        {
+            "key": "de",
+            "lemma": "de"
+        },
+        {
+            "key": "libera",
+            "lemma": "liber"
+        },
+        {
+            "key": "per",
+            "lemma": "per"
+        },
+        {
+            "key": "repromissionem",
+            "lemma": "repromissio"
+        }
+    ],
+    "Galatians.4.24": [
+        {
+            "key": "qu\u00e6",
+            "lemma": "qu\u00e6"
+        },
+        {
+            "key": "sunt",
+            "lemma": "sum"
+        },
+        {
+            "key": "per",
+            "lemma": "per"
+        },
+        {
+            "key": "allegoriam",
+            "lemma": "allegoria"
+        },
+        {
+            "key": "dicta",
+            "lemma": "dico"
+        },
+        {
+            "key": "h\u00e6c",
+            "lemma": "h\u00e6c"
+        },
+        {
+            "key": "enim",
+            "lemma": "enim"
+        },
+        {
+            "key": "sunt",
+            "lemma": "sum"
+        },
+        {
+            "key": "duo",
+            "lemma": "duo"
+        },
+        {
+            "key": "testamenta",
+            "lemma": "testamentum"
+        },
+        {
+            "key": "unum",
+            "lemma": "unus"
+        },
+        {
+            "key": "quidem",
+            "lemma": "quidem"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "monte",
+            "lemma": "mons"
+        },
+        {
+            "key": "sina",
+            "lemma": "sina"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "servitutem",
+            "lemma": "seruitus"
+        },
+        {
+            "key": "generans",
+            "lemma": "genero"
+        },
+        {
+            "key": "qu\u00e6",
+            "lemma": "qu\u00e6"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "agar",
+            "lemma": "agar"
+        }
+    ],
+    "Galatians.4.25": [
+        {
+            "key": "sina",
+            "lemma": "sina"
+        },
+        {
+            "key": "enim",
+            "lemma": "enim"
+        },
+        {
+            "key": "mons",
+            "lemma": "mons"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "arabia",
+            "lemma": "arabia"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "conjunctus",
+            "lemma": "conjuncio"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "ei",
+            "lemma": "is"
+        },
+        {
+            "key": "qu\u00e6",
+            "lemma": "qu\u00e6"
+        },
+        {
+            "key": "nunc",
+            "lemma": "nunc"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "jerusalem",
+            "lemma": "jerusale"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "servit",
+            "lemma": "seruio"
+        },
+        {
+            "key": "cum",
+            "lemma": "cum"
+        },
+        {
+            "key": "filiis",
+            "lemma": "filius"
+        },
+        {
+            "key": "suis",
+            "lemma": "suus"
+        }
+    ],
+    "Galatians.4.26": [
+        {
+            "key": "illa",
+            "lemma": "ille"
+        },
+        {
+            "key": "autem",
+            "lemma": "autem"
+        },
+        {
+            "key": "qu\u00e6",
+            "lemma": "qu\u00e6"
+        },
+        {
+            "key": "sursum",
+            "lemma": "sursum"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "jerusalem",
+            "lemma": "jerusale"
+        },
+        {
+            "key": "libera",
+            "lemma": "liber"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "qu\u00e6",
+            "lemma": "qu\u00e6"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "mater",
+            "lemma": "mater"
+        },
+        {
+            "key": "nostra",
+            "lemma": "noster"
+        }
+    ],
+    "Galatians.4.27": [
+        {
+            "key": "scriptum",
+            "lemma": "scriptum"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "enim",
+            "lemma": "enim"
+        },
+        {
+            "key": "l\u00e6tare",
+            "lemma": "l\u00e6tare"
+        },
+        {
+            "key": "sterilis",
+            "lemma": "sterilis"
+        },
+        {
+            "key": "qu\u00e6",
+            "lemma": "qu\u00e6"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "paris",
+            "lemma": "pario"
+        },
+        {
+            "key": "erumpe",
+            "lemma": "erumpo"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "clama",
+            "lemma": "clama"
+        },
+        {
+            "key": "qu\u00e6",
+            "lemma": "qu\u00e6"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "parturis",
+            "lemma": "parturis"
+        },
+        {
+            "key": "quia",
+            "lemma": "quia"
+        },
+        {
+            "key": "multi",
+            "lemma": "multus"
+        },
+        {
+            "key": "filii",
+            "lemma": "filius"
+        },
+        {
+            "key": "desert\u00e6",
+            "lemma": "desert\u00e6"
+        },
+        {
+            "key": "magis",
+            "lemma": "magis"
+        },
+        {
+            "key": "quam",
+            "lemma": "quam"
+        },
+        {
+            "key": "ejus",
+            "lemma": "ejus"
+        },
+        {
+            "key": "qu\u00e6",
+            "lemma": "qu\u00e6"
+        },
+        {
+            "key": "habet",
+            "lemma": "habeo"
+        },
+        {
+            "key": "virum",
+            "lemma": "uir"
+        }
+    ],
+    "Galatians.4.28": [
+        {
+            "key": "nos",
+            "lemma": "nos"
+        },
+        {
+            "key": "autem",
+            "lemma": "autem"
+        },
+        {
+            "key": "fratres",
+            "lemma": "frater"
+        },
+        {
+            "key": "secundum",
+            "lemma": "secundum"
+        },
+        {
+            "key": "isaac",
+            "lemma": "isaac"
+        },
+        {
+            "key": "promissionis",
+            "lemma": "promissio"
+        },
+        {
+            "key": "filii",
+            "lemma": "filius"
+        },
+        {
+            "key": "sumus",
+            "lemma": "sum"
+        }
+    ],
+    "Galatians.4.29": [
+        {
+            "key": "sed",
+            "lemma": "sed"
+        },
+        {
+            "key": "quomodo",
+            "lemma": "quomodo"
+        },
+        {
+            "key": "tunc",
+            "lemma": "tunc"
+        },
+        {
+            "key": "is",
+            "lemma": "is"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "secundum",
+            "lemma": "secundum"
+        },
+        {
+            "key": "carnem",
+            "lemma": "caro"
+        },
+        {
+            "key": "natus",
+            "lemma": "nascor"
+        },
+        {
+            "key": "fuerat",
+            "lemma": "sum"
+        },
+        {
+            "key": "persequebatur",
+            "lemma": "persequor"
+        },
+        {
+            "key": "eum",
+            "lemma": "is"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "secundum",
+            "lemma": "secundum"
+        },
+        {
+            "key": "spiritum",
+            "lemma": "spiritus"
+        },
+        {
+            "key": "ita",
+            "lemma": "ita"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "nunc",
+            "lemma": "nunc"
+        }
+    ],
+    "Galatians.4.30": [
+        {
+            "key": "sed",
+            "lemma": "sed"
+        },
+        {
+            "key": "quid",
+            "lemma": "quis"
+        },
+        {
+            "key": "dicit",
+            "lemma": "dico"
+        },
+        {
+            "key": "scriptura",
+            "lemma": "scriptura"
+        },
+        {
+            "key": "ejice",
+            "lemma": "ejicus"
+        },
+        {
+            "key": "ancillam",
+            "lemma": "ancilla"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "filium",
+            "lemma": "filius"
+        },
+        {
+            "key": "ejus",
+            "lemma": "ejus"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "enim",
+            "lemma": "enim"
+        },
+        {
+            "key": "h\u00e6res",
+            "lemma": "h\u00e6r"
+        },
+        {
+            "key": "erit",
+            "lemma": "sum"
+        },
+        {
+            "key": "filius",
+            "lemma": "filius"
+        },
+        {
+            "key": "ancill\u00e6",
+            "lemma": "ancill\u00e6"
+        },
+        {
+            "key": "cum",
+            "lemma": "cum"
+        },
+        {
+            "key": "filio",
+            "lemma": "filius"
+        },
+        {
+            "key": "liber\u00e6",
+            "lemma": "liber\u00e6"
+        }
+    ],
+    "Galatians.4.31": [
+        {
+            "key": "itaque",
+            "lemma": "itaque"
+        },
+        {
+            "key": "fratres",
+            "lemma": "frater"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "sumus",
+            "lemma": "sum"
+        },
+        {
+            "key": "ancill\u00e6",
+            "lemma": "ancill\u00e6"
+        },
+        {
+            "key": "filii",
+            "lemma": "filius"
+        },
+        {
+            "key": "sed",
+            "lemma": "sed"
+        },
+        {
+            "key": "liber\u00e6",
+            "lemma": "liber\u00e6"
+        },
+        {
+            "key": "qua",
+            "lemma": "qui"
+        },
+        {
+            "key": "libertate",
+            "lemma": "libertas"
+        },
+        {
+            "key": "christus",
+            "lemma": "christus"
+        },
+        {
+            "key": "nos",
+            "lemma": "nos"
+        },
+        {
+            "key": "liberavit",
+            "lemma": "libero"
+        }
+    ],
+    "Galatians.5.1": [
+        {
+            "key": "state",
+            "lemma": "state"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "nolite",
+            "lemma": "nolo"
+        },
+        {
+            "key": "iterum",
+            "lemma": "iterum"
+        },
+        {
+            "key": "jugo",
+            "lemma": "jugo"
+        },
+        {
+            "key": "servitutis",
+            "lemma": "seruitus"
+        },
+        {
+            "key": "contineri",
+            "lemma": "contineo"
+        }
+    ],
+    "Galatians.5.2": [
+        {
+            "key": "ecce",
+            "lemma": "ecce"
+        },
+        {
+            "key": "ego",
+            "lemma": "ego"
+        },
+        {
+            "key": "paulus",
+            "lemma": "paulus"
+        },
+        {
+            "key": "dico",
+            "lemma": "dico"
+        },
+        {
+            "key": "vobis",
+            "lemma": "uos"
+        },
+        {
+            "key": "quoniam",
+            "lemma": "quoniam"
+        },
+        {
+            "key": "si",
+            "lemma": "si"
+        },
+        {
+            "key": "circumcidamini",
+            "lemma": "circumcido"
+        },
+        {
+            "key": "christus",
+            "lemma": "christus"
+        },
+        {
+            "key": "vobis",
+            "lemma": "uos"
+        },
+        {
+            "key": "nihil",
+            "lemma": "nihil"
+        },
+        {
+            "key": "proderit",
+            "lemma": "prosum"
+        }
+    ],
+    "Galatians.5.3": [
+        {
+            "key": "testificor",
+            "lemma": "testificor"
+        },
+        {
+            "key": "autem",
+            "lemma": "autem"
+        },
+        {
+            "key": "rursus",
+            "lemma": "rursus"
+        },
+        {
+            "key": "omni",
+            "lemma": "omnis"
+        },
+        {
+            "key": "homini",
+            "lemma": "homo"
+        },
+        {
+            "key": "circumcidenti",
+            "lemma": "circumcido"
+        },
+        {
+            "key": "se",
+            "lemma": "sui"
+        },
+        {
+            "key": "quoniam",
+            "lemma": "quoniam"
+        },
+        {
+            "key": "debitor",
+            "lemma": "debitor"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "univers\u00e6",
+            "lemma": "uniuers\u00e6"
+        },
+        {
+            "key": "legis",
+            "lemma": "lex"
+        },
+        {
+            "key": "faciend\u00e6",
+            "lemma": "faciend\u00e6"
+        }
+    ],
+    "Galatians.5.4": [
+        {
+            "key": "evacuati",
+            "lemma": "evacuo"
+        },
+        {
+            "key": "estis",
+            "lemma": "sum"
+        },
+        {
+            "key": "a",
+            "lemma": "ab"
+        },
+        {
+            "key": "christo",
+            "lemma": "christus"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "lege",
+            "lemma": "lex"
+        },
+        {
+            "key": "justificamini",
+            "lemma": "justifico"
+        },
+        {
+            "key": "a",
+            "lemma": "ab"
+        },
+        {
+            "key": "gratia",
+            "lemma": "gratia"
+        },
+        {
+            "key": "excidistis",
+            "lemma": "excido"
+        }
+    ],
+    "Galatians.5.5": [
+        {
+            "key": "nos",
+            "lemma": "nos"
+        },
+        {
+            "key": "enim",
+            "lemma": "enim"
+        },
+        {
+            "key": "spiritu",
+            "lemma": "spiritus"
+        },
+        {
+            "key": "ex",
+            "lemma": "ex"
+        },
+        {
+            "key": "fide",
+            "lemma": "fides"
+        },
+        {
+            "key": "spem",
+            "lemma": "spes"
+        },
+        {
+            "key": "justiti\u00e6",
+            "lemma": "justiti\u00e6"
+        },
+        {
+            "key": "exspectamus",
+            "lemma": "exspecto"
+        }
+    ],
+    "Galatians.5.6": [
+        {
+            "key": "nam",
+            "lemma": "nam"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "christo",
+            "lemma": "christus"
+        },
+        {
+            "key": "jesu",
+            "lemma": "jesus"
+        },
+        {
+            "key": "neque",
+            "lemma": "ne que"
+        },
+        {
+            "key": "circumcisio",
+            "lemma": "circumcisio"
+        },
+        {
+            "key": "aliquid",
+            "lemma": "aliquis"
+        },
+        {
+            "key": "valet",
+            "lemma": "ualeo"
+        },
+        {
+            "key": "neque",
+            "lemma": "neque"
+        },
+        {
+            "key": "pr\u00e6putium",
+            "lemma": "pr\u00e6putium"
+        },
+        {
+            "key": "sed",
+            "lemma": "sed"
+        },
+        {
+            "key": "fides",
+            "lemma": "fides"
+        },
+        {
+            "key": "qu\u00e6",
+            "lemma": "qu\u00e6"
+        },
+        {
+            "key": "per",
+            "lemma": "per"
+        },
+        {
+            "key": "caritatem",
+            "lemma": "caritas"
+        },
+        {
+            "key": "operatur",
+            "lemma": "operor"
+        }
+    ],
+    "Galatians.5.7": [
+        {
+            "key": "currebatis",
+            "lemma": "currebatis"
+        },
+        {
+            "key": "bene",
+            "lemma": "bene"
+        },
+        {
+            "key": "quis",
+            "lemma": "quis"
+        },
+        {
+            "key": "vos",
+            "lemma": "uos"
+        },
+        {
+            "key": "impedivit",
+            "lemma": "impedio"
+        },
+        {
+            "key": "veritati",
+            "lemma": "ueritas"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "obedire",
+            "lemma": "obedio"
+        }
+    ],
+    "Galatians.5.8": [
+        {
+            "key": "persuasio",
+            "lemma": "persuasio"
+        },
+        {
+            "key": "h\u00e6c",
+            "lemma": "h\u00e6c"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "ex",
+            "lemma": "ex"
+        },
+        {
+            "key": "eo",
+            "lemma": "is"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "vocat",
+            "lemma": "uoco"
+        },
+        {
+            "key": "vos",
+            "lemma": "uos"
+        }
+    ],
+    "Galatians.5.9": [
+        {
+            "key": "modicum",
+            "lemma": "modicus"
+        },
+        {
+            "key": "fermentum",
+            "lemma": "fermentum"
+        },
+        {
+            "key": "totam",
+            "lemma": "totus"
+        },
+        {
+            "key": "massam",
+            "lemma": "massa"
+        },
+        {
+            "key": "corrumpit",
+            "lemma": "corrumpo"
+        }
+    ],
+    "Galatians.5.10": [
+        {
+            "key": "ego",
+            "lemma": "ego"
+        },
+        {
+            "key": "confido",
+            "lemma": "confido"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "vobis",
+            "lemma": "uos"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "domino",
+            "lemma": "dominus"
+        },
+        {
+            "key": "quod",
+            "lemma": "quod"
+        },
+        {
+            "key": "nihil",
+            "lemma": "nihil"
+        },
+        {
+            "key": "aliud",
+            "lemma": "alius"
+        },
+        {
+            "key": "sapietis",
+            "lemma": "sapio"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "autem",
+            "lemma": "autem"
+        },
+        {
+            "key": "conturbat",
+            "lemma": "conturbo"
+        },
+        {
+            "key": "vos",
+            "lemma": "uos"
+        },
+        {
+            "key": "portabit",
+            "lemma": "porto"
+        },
+        {
+            "key": "judicium",
+            "lemma": "judicium"
+        },
+        {
+            "key": "quicumque",
+            "lemma": "quicumque"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "ille",
+            "lemma": "ille"
+        }
+    ],
+    "Galatians.5.11": [
+        {
+            "key": "ego",
+            "lemma": "ego"
+        },
+        {
+            "key": "autem",
+            "lemma": "autem"
+        },
+        {
+            "key": "fratres",
+            "lemma": "frater"
+        },
+        {
+            "key": "si",
+            "lemma": "si"
+        },
+        {
+            "key": "circumcisionem",
+            "lemma": "circumcisio"
+        },
+        {
+            "key": "adhuc",
+            "lemma": "adhuc"
+        },
+        {
+            "key": "pr\u00e6dico",
+            "lemma": "pr\u00e6dico"
+        },
+        {
+            "key": "quid",
+            "lemma": "quis"
+        },
+        {
+            "key": "adhuc",
+            "lemma": "adhuc"
+        },
+        {
+            "key": "persecutionem",
+            "lemma": "persecutio"
+        },
+        {
+            "key": "patior",
+            "lemma": "patior"
+        },
+        {
+            "key": "ergo",
+            "lemma": "ergo"
+        },
+        {
+            "key": "evacuatum",
+            "lemma": "evacuo"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "scandalum",
+            "lemma": "scandalum"
+        },
+        {
+            "key": "crucis",
+            "lemma": "crux"
+        }
+    ],
+    "Galatians.5.12": [
+        {
+            "key": "utinam",
+            "lemma": "utinam"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "abscindantur",
+            "lemma": "abscindo"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "vos",
+            "lemma": "uos"
+        },
+        {
+            "key": "conturbant",
+            "lemma": "conturbo"
+        }
+    ],
+    "Galatians.5.13": [
+        {
+            "key": "vos",
+            "lemma": "uos"
+        },
+        {
+            "key": "enim",
+            "lemma": "enim"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "libertatem",
+            "lemma": "libertas"
+        },
+        {
+            "key": "vocati",
+            "lemma": "uoco"
+        },
+        {
+            "key": "estis",
+            "lemma": "sum"
+        },
+        {
+            "key": "fratres",
+            "lemma": "frater"
+        },
+        {
+            "key": "tantum",
+            "lemma": "tantum"
+        },
+        {
+            "key": "ne",
+            "lemma": "ne"
+        },
+        {
+            "key": "libertatem",
+            "lemma": "libertas"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "occasionem",
+            "lemma": "occasio"
+        },
+        {
+            "key": "detis",
+            "lemma": "do"
+        },
+        {
+            "key": "carnis",
+            "lemma": "caro"
+        },
+        {
+            "key": "sed",
+            "lemma": "sed"
+        },
+        {
+            "key": "per",
+            "lemma": "per"
+        },
+        {
+            "key": "caritatem",
+            "lemma": "caritas"
+        },
+        {
+            "key": "spiritus",
+            "lemma": "spiritus"
+        },
+        {
+            "key": "servite",
+            "lemma": "servo"
+        },
+        {
+            "key": "invicem",
+            "lemma": "inuicem"
+        }
+    ],
+    "Galatians.5.14": [
+        {
+            "key": "omnis",
+            "lemma": "omnis"
+        },
+        {
+            "key": "enim",
+            "lemma": "enim"
+        },
+        {
+            "key": "lex",
+            "lemma": "lex"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "uno",
+            "lemma": "unus"
+        },
+        {
+            "key": "sermone",
+            "lemma": "sermo"
+        },
+        {
+            "key": "impletur",
+            "lemma": "impleo"
+        },
+        {
+            "key": "diliges",
+            "lemma": "diliges"
+        },
+        {
+            "key": "proximum",
+            "lemma": "proximus"
+        },
+        {
+            "key": "tuum",
+            "lemma": "tuus"
+        },
+        {
+            "key": "sicut",
+            "lemma": "sicut"
+        },
+        {
+            "key": "teipsum",
+            "lemma": "teipsus"
+        }
+    ],
+    "Galatians.5.15": [
+        {
+            "key": "quod",
+            "lemma": "quod"
+        },
+        {
+            "key": "si",
+            "lemma": "si"
+        },
+        {
+            "key": "invicem",
+            "lemma": "inuicem"
+        },
+        {
+            "key": "mordetis",
+            "lemma": "mordeo"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "comeditis",
+            "lemma": "comedo"
+        },
+        {
+            "key": "videte",
+            "lemma": "uideo"
+        },
+        {
+            "key": "ne",
+            "lemma": "ne"
+        },
+        {
+            "key": "ab",
+            "lemma": "ab"
+        },
+        {
+            "key": "invicem",
+            "lemma": "inuicem"
+        },
+        {
+            "key": "consumamini",
+            "lemma": "consumo"
+        }
+    ],
+    "Galatians.5.16": [
+        {
+            "key": "dico",
+            "lemma": "dico"
+        },
+        {
+            "key": "autem",
+            "lemma": "autem"
+        },
+        {
+            "key": "spiritu",
+            "lemma": "spiritus"
+        },
+        {
+            "key": "ambulate",
+            "lemma": "ambulo"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "desideria",
+            "lemma": "desiderium"
+        },
+        {
+            "key": "carnis",
+            "lemma": "caro"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "perficietis",
+            "lemma": "perficio"
+        }
+    ],
+    "Galatians.5.17": [
+        {
+            "key": "caro",
+            "lemma": "caro"
+        },
+        {
+            "key": "enim",
+            "lemma": "enim"
+        },
+        {
+            "key": "concupiscit",
+            "lemma": "concupisco"
+        },
+        {
+            "key": "adversus",
+            "lemma": "aduersus"
+        },
+        {
+            "key": "spiritum",
+            "lemma": "spiritus"
+        },
+        {
+            "key": "spiritus",
+            "lemma": "spiritus"
+        },
+        {
+            "key": "autem",
+            "lemma": "autem"
+        },
+        {
+            "key": "adversus",
+            "lemma": "aduersus"
+        },
+        {
+            "key": "carnem",
+            "lemma": "caro"
+        },
+        {
+            "key": "h\u00e6c",
+            "lemma": "h\u00e6c"
+        },
+        {
+            "key": "enim",
+            "lemma": "enim"
+        },
+        {
+            "key": "sibi",
+            "lemma": "sui"
+        },
+        {
+            "key": "invicem",
+            "lemma": "inuicem"
+        },
+        {
+            "key": "adversantur",
+            "lemma": "adversor"
+        },
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "qu\u00e6cum",
+            "lemma": "qu\u00e6cum"
+        },
+        {
+            "key": "que",
+            "lemma": "que"
+        },
+        {
+            "key": "vultis",
+            "lemma": "uolo"
+        },
+        {
+            "key": "illa",
+            "lemma": "ille"
+        },
+        {
+            "key": "faciatis",
+            "lemma": "facio"
+        }
+    ],
+    "Galatians.5.18": [
+        {
+            "key": "quod",
+            "lemma": "quod"
+        },
+        {
+            "key": "si",
+            "lemma": "si"
+        },
+        {
+            "key": "spiritu",
+            "lemma": "spiritus"
+        },
+        {
+            "key": "ducimini",
+            "lemma": "duco"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "estis",
+            "lemma": "sum"
+        },
+        {
+            "key": "sub",
+            "lemma": "sub"
+        },
+        {
+            "key": "lege",
+            "lemma": "lex"
+        }
+    ],
+    "Galatians.5.19": [
+        {
+            "key": "manifesta",
+            "lemma": "manifesta"
+        },
+        {
+            "key": "sunt",
+            "lemma": "sum"
+        },
+        {
+            "key": "autem",
+            "lemma": "autem"
+        },
+        {
+            "key": "opera",
+            "lemma": "opus"
+        },
+        {
+            "key": "carnis",
+            "lemma": "caro"
+        },
+        {
+            "key": "qu\u00e6",
+            "lemma": "qu\u00e6"
+        },
+        {
+            "key": "sunt",
+            "lemma": "sum"
+        },
+        {
+            "key": "fornicatio",
+            "lemma": "fornicatio"
+        },
+        {
+            "key": "immunditia",
+            "lemma": "immunditia"
+        },
+        {
+            "key": "impudicitia",
+            "lemma": "impudicitia"
+        },
+        {
+            "key": "luxuria",
+            "lemma": "luxuria"
+        }
+    ],
+    "Galatians.5.20": [
+        {
+            "key": "idolorum",
+            "lemma": "idolum"
+        },
+        {
+            "key": "servitus",
+            "lemma": "servitus"
+        },
+        {
+            "key": "veneficia",
+            "lemma": "ueneficium"
+        },
+        {
+            "key": "inimiciti\u00e6",
+            "lemma": "inimici\u00e6"
+        },
+        {
+            "key": "contentiones",
+            "lemma": "contentio"
+        },
+        {
+            "key": "\u00e6mulationes",
+            "lemma": "\u00e6mulatio"
+        },
+        {
+            "key": "ir\u00e6",
+            "lemma": "ir\u00e6"
+        },
+        {
+            "key": "rix\u00e6",
+            "lemma": "rix\u00e6"
+        },
+        {
+            "key": "dissensiones",
+            "lemma": "dissensio"
+        },
+        {
+            "key": "sect\u00e6",
+            "lemma": "sect\u00e6"
+        }
+    ],
+    "Galatians.5.21": [
+        {
+            "key": "invidi\u00e6",
+            "lemma": "inuidi\u00e6"
+        },
+        {
+            "key": "homicidia",
+            "lemma": "homicidium"
+        },
+        {
+            "key": "ebrietates",
+            "lemma": "ebrietas"
+        },
+        {
+            "key": "comessationes",
+            "lemma": "comessatio"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "his",
+            "lemma": "hic"
+        },
+        {
+            "key": "similia",
+            "lemma": "similis"
+        },
+        {
+            "key": "qu\u00e6",
+            "lemma": "qu\u00e6"
+        },
+        {
+            "key": "pr\u00e6dico",
+            "lemma": "pr\u00e6dico"
+        },
+        {
+            "key": "vobis",
+            "lemma": "uos"
+        },
+        {
+            "key": "sicut",
+            "lemma": "sicut"
+        },
+        {
+            "key": "pr\u00e6dixi",
+            "lemma": "pr\u00e6dico"
+        },
+        {
+            "key": "quoniam",
+            "lemma": "quoniam"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "talia",
+            "lemma": "talis"
+        },
+        {
+            "key": "agunt",
+            "lemma": "ago"
+        },
+        {
+            "key": "regnum",
+            "lemma": "regnum"
+        },
+        {
+            "key": "dei",
+            "lemma": "deus"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "consequentur",
+            "lemma": "consequor"
+        }
+    ],
+    "Galatians.5.22": [
+        {
+            "key": "fructus",
+            "lemma": "fructus"
+        },
+        {
+            "key": "autem",
+            "lemma": "autem"
+        },
+        {
+            "key": "spiritus",
+            "lemma": "spiritus"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "caritas",
+            "lemma": "caritas"
+        },
+        {
+            "key": "gaudium",
+            "lemma": "gaudium"
+        },
+        {
+            "key": "pax",
+            "lemma": "pax"
+        },
+        {
+            "key": "patientia",
+            "lemma": "patientia"
+        },
+        {
+            "key": "benignitas",
+            "lemma": "benignitas"
+        },
+        {
+            "key": "bonitas",
+            "lemma": "bonitas"
+        },
+        {
+            "key": "longanimitas",
+            "lemma": "longanimitas"
+        }
+    ],
+    "Galatians.5.23": [
+        {
+            "key": "mansuetudo",
+            "lemma": "mansuetudo"
+        },
+        {
+            "key": "fides",
+            "lemma": "fides"
+        },
+        {
+            "key": "modestia",
+            "lemma": "modestia"
+        },
+        {
+            "key": "continentia",
+            "lemma": "continentia"
+        },
+        {
+            "key": "castitas",
+            "lemma": "castitas"
+        },
+        {
+            "key": "adversus",
+            "lemma": "aduersus"
+        },
+        {
+            "key": "hujusmodi",
+            "lemma": "hujusmodi"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "lex",
+            "lemma": "lex"
+        }
+    ],
+    "Galatians.5.24": [
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "autem",
+            "lemma": "autem"
+        },
+        {
+            "key": "sunt",
+            "lemma": "sum"
+        },
+        {
+            "key": "christi",
+            "lemma": "christus"
+        },
+        {
+            "key": "carnem",
+            "lemma": "caro"
+        },
+        {
+            "key": "suam",
+            "lemma": "suus"
+        },
+        {
+            "key": "crucifixerunt",
+            "lemma": "crucifigo"
+        },
+        {
+            "key": "cum",
+            "lemma": "cum"
+        },
+        {
+            "key": "vitiis",
+            "lemma": "uitium"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "concupiscentiis",
+            "lemma": "concupiscentia"
+        }
+    ],
+    "Galatians.5.25": [
+        {
+            "key": "si",
+            "lemma": "si"
+        },
+        {
+            "key": "spiritu",
+            "lemma": "spiritus"
+        },
+        {
+            "key": "vivimus",
+            "lemma": "uiuo"
+        },
+        {
+            "key": "spiritu",
+            "lemma": "spiritus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "ambulemus",
+            "lemma": "ambulo"
+        }
+    ],
+    "Galatians.5.26": [
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "efficiamur",
+            "lemma": "efficio"
+        },
+        {
+            "key": "inanis",
+            "lemma": "inanis"
+        },
+        {
+            "key": "glori\u00e6",
+            "lemma": "glori\u00e6"
+        },
+        {
+            "key": "cupidi",
+            "lemma": "cupidus"
+        },
+        {
+            "key": "invicem",
+            "lemma": "inuicem"
+        },
+        {
+            "key": "provocantes",
+            "lemma": "provocor"
+        },
+        {
+            "key": "invicem",
+            "lemma": "inuicem"
+        },
+        {
+            "key": "invidentes",
+            "lemma": "invido"
+        }
+    ],
+    "Galatians.6.1": [
+        {
+            "key": "fratres",
+            "lemma": "fratres"
+        },
+        {
+            "key": "etsi",
+            "lemma": "etsi"
+        },
+        {
+            "key": "pr\u00e6occupatus",
+            "lemma": "pr\u00e6occupatus"
+        },
+        {
+            "key": "fuerit",
+            "lemma": "sum"
+        },
+        {
+            "key": "homo",
+            "lemma": "homo"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "aliquo",
+            "lemma": "aliqui"
+        },
+        {
+            "key": "delicto",
+            "lemma": "delictum"
+        },
+        {
+            "key": "vos",
+            "lemma": "uos"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "spirituales",
+            "lemma": "spiritualis"
+        },
+        {
+            "key": "estis",
+            "lemma": "sum"
+        },
+        {
+            "key": "hujusmodi",
+            "lemma": "hujusmodi"
+        },
+        {
+            "key": "instruite",
+            "lemma": "instruio"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "spiritu",
+            "lemma": "spiritus"
+        },
+        {
+            "key": "lenitatis",
+            "lemma": "lenitas"
+        },
+        {
+            "key": "considerans",
+            "lemma": "considero"
+        },
+        {
+            "key": "teipsum",
+            "lemma": "teipsus"
+        },
+        {
+            "key": "ne",
+            "lemma": "ne"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "tu",
+            "lemma": "tu"
+        },
+        {
+            "key": "tenteris",
+            "lemma": "tenterum"
+        }
+    ],
+    "Galatians.6.2": [
+        {
+            "key": "alter",
+            "lemma": "alter"
+        },
+        {
+            "key": "alterius",
+            "lemma": "alter"
+        },
+        {
+            "key": "onera",
+            "lemma": "onus"
+        },
+        {
+            "key": "portate",
+            "lemma": "porto"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "sic",
+            "lemma": "sic"
+        },
+        {
+            "key": "adimplebitis",
+            "lemma": "adimpleo"
+        },
+        {
+            "key": "legem",
+            "lemma": "lex"
+        },
+        {
+            "key": "christi",
+            "lemma": "christus"
+        }
+    ],
+    "Galatians.6.3": [
+        {
+            "key": "nam",
+            "lemma": "nam"
+        },
+        {
+            "key": "si",
+            "lemma": "si"
+        },
+        {
+            "key": "quis",
+            "lemma": "quis"
+        },
+        {
+            "key": "existimat",
+            "lemma": "existimo"
+        },
+        {
+            "key": "se",
+            "lemma": "se"
+        },
+        {
+            "key": "aliquid",
+            "lemma": "aliquis"
+        },
+        {
+            "key": "esse",
+            "lemma": "sum"
+        },
+        {
+            "key": "cum",
+            "lemma": "cum"
+        },
+        {
+            "key": "nihil",
+            "lemma": "nihil"
+        },
+        {
+            "key": "sit",
+            "lemma": "sum"
+        },
+        {
+            "key": "ipse",
+            "lemma": "ipse"
+        },
+        {
+            "key": "se",
+            "lemma": "sui"
+        },
+        {
+            "key": "seducit",
+            "lemma": "seduco"
+        }
+    ],
+    "Galatians.6.4": [
+        {
+            "key": "opus",
+            "lemma": "opus"
+        },
+        {
+            "key": "autem",
+            "lemma": "autem"
+        },
+        {
+            "key": "suum",
+            "lemma": "suus"
+        },
+        {
+            "key": "probet",
+            "lemma": "probo"
+        },
+        {
+            "key": "unusquisque",
+            "lemma": "unusquisque"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "sic",
+            "lemma": "sic"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "semetipso",
+            "lemma": "semetipsum"
+        },
+        {
+            "key": "tantum",
+            "lemma": "tantum"
+        },
+        {
+            "key": "gloriam",
+            "lemma": "gloria"
+        },
+        {
+            "key": "habebit",
+            "lemma": "habeo"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "altero",
+            "lemma": "alter"
+        }
+    ],
+    "Galatians.6.5": [
+        {
+            "key": "unusquisque",
+            "lemma": "unusquisque"
+        },
+        {
+            "key": "enim",
+            "lemma": "enim"
+        },
+        {
+            "key": "onus",
+            "lemma": "onus"
+        },
+        {
+            "key": "suum",
+            "lemma": "suus"
+        },
+        {
+            "key": "portabit",
+            "lemma": "porto"
+        }
+    ],
+    "Galatians.6.6": [
+        {
+            "key": "communicet",
+            "lemma": "communicet"
+        },
+        {
+            "key": "autem",
+            "lemma": "autem"
+        },
+        {
+            "key": "is",
+            "lemma": "is"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "catechizatur",
+            "lemma": "catechizor"
+        },
+        {
+            "key": "verbo",
+            "lemma": "uerbum"
+        },
+        {
+            "key": "ei",
+            "lemma": "is"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "se",
+            "lemma": "sui"
+        },
+        {
+            "key": "catechizat",
+            "lemma": "catechizo"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "omnibus",
+            "lemma": "omnis"
+        },
+        {
+            "key": "bonis",
+            "lemma": "bonum"
+        }
+    ],
+    "Galatians.6.7": [
+        {
+            "key": "nolite",
+            "lemma": "nolo"
+        },
+        {
+            "key": "errare",
+            "lemma": "erro"
+        },
+        {
+            "key": "deus",
+            "lemma": "deus"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "irridetur",
+            "lemma": "irrido"
+        }
+    ],
+    "Galatians.6.8": [
+        {
+            "key": "qu\u00e6",
+            "lemma": "qu\u00e6"
+        },
+        {
+            "key": "enim",
+            "lemma": "enim"
+        },
+        {
+            "key": "seminaverit",
+            "lemma": "semino"
+        },
+        {
+            "key": "homo",
+            "lemma": "homo"
+        },
+        {
+            "key": "h\u00e6c",
+            "lemma": "h\u00e6c"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "metet",
+            "lemma": "meto"
+        },
+        {
+            "key": "quoniam",
+            "lemma": "quoniam"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "seminat",
+            "lemma": "semino"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "carne",
+            "lemma": "caro"
+        },
+        {
+            "key": "sua",
+            "lemma": "suus"
+        },
+        {
+            "key": "de",
+            "lemma": "de"
+        },
+        {
+            "key": "carne",
+            "lemma": "caro"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "metet",
+            "lemma": "meto"
+        },
+        {
+            "key": "corruptionem",
+            "lemma": "corruptio"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "autem",
+            "lemma": "autem"
+        },
+        {
+            "key": "seminat",
+            "lemma": "semino"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "spiritu",
+            "lemma": "spiritus"
+        },
+        {
+            "key": "de",
+            "lemma": "de"
+        },
+        {
+            "key": "spiritu",
+            "lemma": "spiritus"
+        },
+        {
+            "key": "metet",
+            "lemma": "meto"
+        },
+        {
+            "key": "vitam",
+            "lemma": "uita"
+        },
+        {
+            "key": "\u00e6ternam",
+            "lemma": "\u00e6ternus"
+        }
+    ],
+    "Galatians.6.9": [
+        {
+            "key": "bonum",
+            "lemma": "bonum"
+        },
+        {
+            "key": "autem",
+            "lemma": "autem"
+        },
+        {
+            "key": "facientes",
+            "lemma": "facio"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "deficiamus",
+            "lemma": "deficio"
+        },
+        {
+            "key": "tempore",
+            "lemma": "tempus"
+        },
+        {
+            "key": "enim",
+            "lemma": "enim"
+        },
+        {
+            "key": "suo",
+            "lemma": "suus"
+        },
+        {
+            "key": "metemus",
+            "lemma": "meto"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "deficientes",
+            "lemma": "deficio"
+        }
+    ],
+    "Galatians.6.10": [
+        {
+            "key": "ergo",
+            "lemma": "ergo"
+        },
+        {
+            "key": "dum",
+            "lemma": "dum"
+        },
+        {
+            "key": "tempus",
+            "lemma": "tempus"
+        },
+        {
+            "key": "habemus",
+            "lemma": "habeo"
+        },
+        {
+            "key": "operemur",
+            "lemma": "operor"
+        },
+        {
+            "key": "bonum",
+            "lemma": "bonus"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "omnes",
+            "lemma": "omnis"
+        },
+        {
+            "key": "maxime",
+            "lemma": "magis"
+        },
+        {
+            "key": "autem",
+            "lemma": "autem"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "domesticos",
+            "lemma": "domestici"
+        },
+        {
+            "key": "fidei",
+            "lemma": "fides"
+        }
+    ],
+    "Galatians.6.11": [
+        {
+            "key": "videte",
+            "lemma": "uidete"
+        },
+        {
+            "key": "qualibus",
+            "lemma": "quali"
+        },
+        {
+            "key": "litteris",
+            "lemma": "littera"
+        },
+        {
+            "key": "scripsi",
+            "lemma": "scribo"
+        },
+        {
+            "key": "vobis",
+            "lemma": "uos"
+        },
+        {
+            "key": "mea",
+            "lemma": "meus"
+        },
+        {
+            "key": "manu",
+            "lemma": "manus"
+        }
+    ],
+    "Galatians.6.12": [
+        {
+            "key": "quicumque",
+            "lemma": "quicumque"
+        },
+        {
+            "key": "enim",
+            "lemma": "enim"
+        },
+        {
+            "key": "volunt",
+            "lemma": "uolo"
+        },
+        {
+            "key": "placere",
+            "lemma": "placeo"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "carne",
+            "lemma": "caro"
+        },
+        {
+            "key": "hi",
+            "lemma": "hic"
+        },
+        {
+            "key": "cogunt",
+            "lemma": "cogo"
+        },
+        {
+            "key": "vos",
+            "lemma": "uos"
+        },
+        {
+            "key": "circumcidi",
+            "lemma": "circumcido"
+        },
+        {
+            "key": "tantum",
+            "lemma": "tantum"
+        },
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "crucis",
+            "lemma": "crux"
+        },
+        {
+            "key": "christi",
+            "lemma": "christus"
+        },
+        {
+            "key": "persecutionem",
+            "lemma": "persecutio"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "patiantur",
+            "lemma": "patior"
+        }
+    ],
+    "Galatians.6.13": [
+        {
+            "key": "neque",
+            "lemma": "neque"
+        },
+        {
+            "key": "enim",
+            "lemma": "enim"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "circumciduntur",
+            "lemma": "circumcido"
+        },
+        {
+            "key": "legem",
+            "lemma": "lex"
+        },
+        {
+            "key": "custodiunt",
+            "lemma": "custodio"
+        },
+        {
+            "key": "sed",
+            "lemma": "sed"
+        },
+        {
+            "key": "volunt",
+            "lemma": "uolo"
+        },
+        {
+            "key": "vos",
+            "lemma": "uos"
+        },
+        {
+            "key": "circumcidi",
+            "lemma": "circumcido"
+        },
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "carne",
+            "lemma": "caro"
+        },
+        {
+            "key": "vestra",
+            "lemma": "uester"
+        },
+        {
+            "key": "glorientur",
+            "lemma": "glorio"
+        }
+    ],
+    "Galatians.6.14": [
+        {
+            "key": "mihi",
+            "lemma": "ego"
+        },
+        {
+            "key": "autem",
+            "lemma": "autem"
+        },
+        {
+            "key": "absit",
+            "lemma": "absum"
+        },
+        {
+            "key": "gloriari",
+            "lemma": "glorior"
+        },
+        {
+            "key": "nisi",
+            "lemma": "nisi"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "cruce",
+            "lemma": "crux"
+        },
+        {
+            "key": "domini",
+            "lemma": "dominus"
+        },
+        {
+            "key": "nostri",
+            "lemma": "noster"
+        },
+        {
+            "key": "jesu",
+            "lemma": "jesus"
+        },
+        {
+            "key": "christi",
+            "lemma": "christus"
+        },
+        {
+            "key": "per",
+            "lemma": "per"
+        },
+        {
+            "key": "quem",
+            "lemma": "qui"
+        },
+        {
+            "key": "mihi",
+            "lemma": "ego"
+        },
+        {
+            "key": "mundus",
+            "lemma": "mundus"
+        },
+        {
+            "key": "crucifixus",
+            "lemma": "crucifigo"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "ego",
+            "lemma": "ego"
+        },
+        {
+            "key": "mundo",
+            "lemma": "mundus"
+        }
+    ],
+    "Galatians.6.15": [
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "christo",
+            "lemma": "christus"
+        },
+        {
+            "key": "enim",
+            "lemma": "enim"
+        },
+        {
+            "key": "jesu",
+            "lemma": "jesus"
+        },
+        {
+            "key": "neque",
+            "lemma": "ne que"
+        },
+        {
+            "key": "circumcisio",
+            "lemma": "circumcisio"
+        },
+        {
+            "key": "aliquid",
+            "lemma": "aliquis"
+        },
+        {
+            "key": "valet",
+            "lemma": "ualeo"
+        },
+        {
+            "key": "neque",
+            "lemma": "neque"
+        },
+        {
+            "key": "pr\u00e6putium",
+            "lemma": "pr\u00e6putium"
+        },
+        {
+            "key": "sed",
+            "lemma": "sed"
+        },
+        {
+            "key": "nova",
+            "lemma": "nouus"
+        },
+        {
+            "key": "creatura",
+            "lemma": "creatura"
+        }
+    ],
+    "Galatians.6.16": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "quicumque",
+            "lemma": "quicumque"
+        },
+        {
+            "key": "hanc",
+            "lemma": "hic"
+        },
+        {
+            "key": "regulam",
+            "lemma": "regula"
+        },
+        {
+            "key": "secuti",
+            "lemma": "sequor"
+        },
+        {
+            "key": "fuerint",
+            "lemma": "sum"
+        },
+        {
+            "key": "pax",
+            "lemma": "pax"
+        },
+        {
+            "key": "super",
+            "lemma": "super"
+        },
+        {
+            "key": "illos",
+            "lemma": "ille"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "misericordia",
+            "lemma": "misericordia"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "super",
+            "lemma": "super"
+        },
+        {
+            "key": "isra\u00ebl",
+            "lemma": "isra\u00ebl"
+        },
+        {
+            "key": "dei",
+            "lemma": "deus"
+        }
+    ],
+    "Galatians.6.17": [
+        {
+            "key": "de",
+            "lemma": "de"
+        },
+        {
+            "key": "cetero",
+            "lemma": "ceterus"
+        },
+        {
+            "key": "nemo",
+            "lemma": "nemo"
+        },
+        {
+            "key": "mihi",
+            "lemma": "ego"
+        },
+        {
+            "key": "molestus",
+            "lemma": "molestus"
+        },
+        {
+            "key": "sit",
+            "lemma": "sum"
+        },
+        {
+            "key": "ego",
+            "lemma": "ego"
+        },
+        {
+            "key": "enim",
+            "lemma": "enim"
+        },
+        {
+            "key": "stigmata",
+            "lemma": "stigma"
+        },
+        {
+            "key": "domini",
+            "lemma": "dominus"
+        },
+        {
+            "key": "jesu",
+            "lemma": "jesus"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "corpore",
+            "lemma": "corpus"
+        },
+        {
+            "key": "meo",
+            "lemma": "meus"
+        },
+        {
+            "key": "porto",
+            "lemma": "portus"
+        }
+    ],
+    "Galatians.6.18": [
+        {
+            "key": "gratia",
+            "lemma": "gratia"
+        },
+        {
+            "key": "domini",
+            "lemma": "dominus"
+        },
+        {
+            "key": "nostri",
+            "lemma": "noster"
+        },
+        {
+            "key": "jesu",
+            "lemma": "jesus"
+        },
+        {
+            "key": "christi",
+            "lemma": "christus"
+        },
+        {
+            "key": "cum",
+            "lemma": "cum"
+        },
+        {
+            "key": "spiritu",
+            "lemma": "spiritus"
+        },
+        {
+            "key": "vestro",
+            "lemma": "uester"
+        },
+        {
+            "key": "fratres",
+            "lemma": "frater"
+        },
+        {
+            "key": "amen",
+            "lemma": "amen"
+        }
+    ]
+}

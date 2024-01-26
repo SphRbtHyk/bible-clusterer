@@ -1,0 +1,3282 @@
+{
+    "Aggeus.1.1": [
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "anno",
+            "lemma": "annus"
+        },
+        {
+            "key": "secundo",
+            "lemma": "secundus"
+        },
+        {
+            "key": "darii",
+            "lemma": "darius"
+        },
+        {
+            "key": "regis",
+            "lemma": "rex"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "mense",
+            "lemma": "mensis"
+        },
+        {
+            "key": "sexto",
+            "lemma": "sextus"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "die",
+            "lemma": "dies"
+        },
+        {
+            "key": "una",
+            "lemma": "unus"
+        },
+        {
+            "key": "mensis",
+            "lemma": "mensis"
+        },
+        {
+            "key": "factum",
+            "lemma": "facio"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "verbum",
+            "lemma": "uerbum"
+        },
+        {
+            "key": "domini",
+            "lemma": "dominus"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "manu",
+            "lemma": "manus"
+        },
+        {
+            "key": "agg\u00e6i",
+            "lemma": "agg\u00e6i"
+        },
+        {
+            "key": "prophet\u00e6",
+            "lemma": "prophet\u00e6"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "zorobabel",
+            "lemma": "zorobabel"
+        },
+        {
+            "key": "filium",
+            "lemma": "filius"
+        },
+        {
+            "key": "salathiel",
+            "lemma": "salathiel"
+        },
+        {
+            "key": "ducem",
+            "lemma": "dux"
+        },
+        {
+            "key": "juda",
+            "lemma": "juda"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "jesum",
+            "lemma": "jesus"
+        },
+        {
+            "key": "filium",
+            "lemma": "filius"
+        },
+        {
+            "key": "josedec",
+            "lemma": "josedec"
+        },
+        {
+            "key": "sacerdotem",
+            "lemma": "sacerdos"
+        },
+        {
+            "key": "magnum",
+            "lemma": "magnus"
+        },
+        {
+            "key": "dicens",
+            "lemma": "dico"
+        }
+    ],
+    "Aggeus.1.2": [
+        {
+            "key": "h\u00e6c",
+            "lemma": "h\u00e6tque"
+        },
+        {
+            "key": "ait",
+            "lemma": "aio"
+        },
+        {
+            "key": "dominus",
+            "lemma": "dominus"
+        },
+        {
+            "key": "exercituum",
+            "lemma": "exercitus"
+        },
+        {
+            "key": "dicens",
+            "lemma": "dico"
+        },
+        {
+            "key": "populus",
+            "lemma": "populus"
+        },
+        {
+            "key": "iste",
+            "lemma": "iste"
+        },
+        {
+            "key": "dicit",
+            "lemma": "dico"
+        },
+        {
+            "key": "nondum",
+            "lemma": "nondum"
+        },
+        {
+            "key": "venit",
+            "lemma": "uenio"
+        },
+        {
+            "key": "tempus",
+            "lemma": "tempus"
+        },
+        {
+            "key": "domus",
+            "lemma": "domus"
+        },
+        {
+            "key": "domini",
+            "lemma": "dominus"
+        },
+        {
+            "key": "\u00e6dificand\u00e6",
+            "lemma": "\u00e6dificand\u00e6"
+        }
+    ],
+    "Aggeus.1.3": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "factum",
+            "lemma": "facio"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "verbum",
+            "lemma": "uerbum"
+        },
+        {
+            "key": "domini",
+            "lemma": "dominus"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "manu",
+            "lemma": "manus"
+        },
+        {
+            "key": "agg\u00e6i",
+            "lemma": "agg\u00e6i"
+        },
+        {
+            "key": "prophet\u00e6",
+            "lemma": "prophet\u00e6"
+        },
+        {
+            "key": "dicens",
+            "lemma": "dico"
+        }
+    ],
+    "Aggeus.1.4": [
+        {
+            "key": "numquid",
+            "lemma": "numquid"
+        },
+        {
+            "key": "tempus",
+            "lemma": "tempus"
+        },
+        {
+            "key": "vobis",
+            "lemma": "uos"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "habitetis",
+            "lemma": "habito"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "domibus",
+            "lemma": "domus"
+        },
+        {
+            "key": "laqueatis",
+            "lemma": "laqueo"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "domus",
+            "lemma": "domus"
+        },
+        {
+            "key": "ista",
+            "lemma": "iste"
+        },
+        {
+            "key": "deserta",
+            "lemma": "desero"
+        }
+    ],
+    "Aggeus.1.5": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "nunc",
+            "lemma": "nunc"
+        },
+        {
+            "key": "h\u00e6c",
+            "lemma": "h\u00e6c"
+        },
+        {
+            "key": "dicit",
+            "lemma": "dico"
+        },
+        {
+            "key": "dominus",
+            "lemma": "dominus"
+        },
+        {
+            "key": "exercituum",
+            "lemma": "exercitus"
+        },
+        {
+            "key": "ponite",
+            "lemma": "ponite"
+        },
+        {
+            "key": "corda",
+            "lemma": "cor"
+        },
+        {
+            "key": "vestra",
+            "lemma": "uester"
+        },
+        {
+            "key": "super",
+            "lemma": "super"
+        },
+        {
+            "key": "vias",
+            "lemma": "uia"
+        },
+        {
+            "key": "vestras",
+            "lemma": "uester"
+        }
+    ],
+    "Aggeus.1.6": [
+        {
+            "key": "seminastis",
+            "lemma": "seminastis"
+        },
+        {
+            "key": "multum",
+            "lemma": "multus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "intulistis",
+            "lemma": "intulistis"
+        },
+        {
+            "key": "parum",
+            "lemma": "parum"
+        },
+        {
+            "key": "comedistis",
+            "lemma": "comedistis"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "estis",
+            "lemma": "sum"
+        },
+        {
+            "key": "satiati",
+            "lemma": "satio"
+        },
+        {
+            "key": "bibistis",
+            "lemma": "bibistum"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "estis",
+            "lemma": "sum"
+        },
+        {
+            "key": "inebriati",
+            "lemma": "inebrio"
+        },
+        {
+            "key": "operuistis",
+            "lemma": "operio"
+        },
+        {
+            "key": "vos",
+            "lemma": "uos"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "estis",
+            "lemma": "sum"
+        },
+        {
+            "key": "calefacti",
+            "lemma": "calefago"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "mercedes",
+            "lemma": "merces"
+        },
+        {
+            "key": "congregavit",
+            "lemma": "congrego"
+        },
+        {
+            "key": "misit",
+            "lemma": "mitto"
+        },
+        {
+            "key": "eas",
+            "lemma": "is"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "sacculum",
+            "lemma": "sacculus"
+        },
+        {
+            "key": "pertusum",
+            "lemma": "pertudeo"
+        }
+    ],
+    "Aggeus.1.7": [
+        {
+            "key": "h\u00e6c",
+            "lemma": "h\u00e6tque"
+        },
+        {
+            "key": "dicit",
+            "lemma": "dico"
+        },
+        {
+            "key": "dominus",
+            "lemma": "dominus"
+        },
+        {
+            "key": "exercituum",
+            "lemma": "exercitus"
+        },
+        {
+            "key": "ponite",
+            "lemma": "ponite"
+        },
+        {
+            "key": "corda",
+            "lemma": "cor"
+        },
+        {
+            "key": "vestra",
+            "lemma": "uester"
+        },
+        {
+            "key": "super",
+            "lemma": "super"
+        },
+        {
+            "key": "vias",
+            "lemma": "uia"
+        },
+        {
+            "key": "vestras",
+            "lemma": "uester"
+        }
+    ],
+    "Aggeus.1.8": [
+        {
+            "key": "ascendite",
+            "lemma": "ascendo"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "montem",
+            "lemma": "mons"
+        },
+        {
+            "key": "portate",
+            "lemma": "porto"
+        },
+        {
+            "key": "ligna",
+            "lemma": "lignum"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "\u00e6dificate",
+            "lemma": "\u00e6difico"
+        },
+        {
+            "key": "domum",
+            "lemma": "domus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "acceptabilis",
+            "lemma": "acceptabilis"
+        },
+        {
+            "key": "mihi",
+            "lemma": "ego"
+        },
+        {
+            "key": "erit",
+            "lemma": "sum"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "glorificabor",
+            "lemma": "glorificor"
+        },
+        {
+            "key": "dicit",
+            "lemma": "dico"
+        },
+        {
+            "key": "dominus",
+            "lemma": "dominus"
+        }
+    ],
+    "Aggeus.1.9": [
+        {
+            "key": "respexistis",
+            "lemma": "respexistis"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "amplius",
+            "lemma": "amplus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "ecce",
+            "lemma": "ecce"
+        },
+        {
+            "key": "factum",
+            "lemma": "facio"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "minus",
+            "lemma": "paruus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "intulistis",
+            "lemma": "intulo"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "domum",
+            "lemma": "domus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "exsufflavi",
+            "lemma": "exsufflo"
+        },
+        {
+            "key": "illud",
+            "lemma": "ille"
+        },
+        {
+            "key": "quam",
+            "lemma": "qui"
+        },
+        {
+            "key": "ob",
+            "lemma": "ob"
+        },
+        {
+            "key": "causam",
+            "lemma": "causa"
+        },
+        {
+            "key": "dicit",
+            "lemma": "dico"
+        },
+        {
+            "key": "dominus",
+            "lemma": "dominus"
+        },
+        {
+            "key": "exercituum",
+            "lemma": "exercitus"
+        },
+        {
+            "key": "quia",
+            "lemma": "quia"
+        },
+        {
+            "key": "domus",
+            "lemma": "domus"
+        },
+        {
+            "key": "mea",
+            "lemma": "meus"
+        },
+        {
+            "key": "deserta",
+            "lemma": "desero"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "vos",
+            "lemma": "uos"
+        },
+        {
+            "key": "festinatis",
+            "lemma": "festino"
+        },
+        {
+            "key": "unusquisque",
+            "lemma": "unusquisque"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "domum",
+            "lemma": "domus"
+        },
+        {
+            "key": "suam",
+            "lemma": "suus"
+        }
+    ],
+    "Aggeus.1.10": [
+        {
+            "key": "propter",
+            "lemma": "propter"
+        },
+        {
+            "key": "hoc",
+            "lemma": "hic"
+        },
+        {
+            "key": "super",
+            "lemma": "super"
+        },
+        {
+            "key": "vos",
+            "lemma": "uos"
+        },
+        {
+            "key": "prohibiti",
+            "lemma": "prohibeo"
+        },
+        {
+            "key": "sunt",
+            "lemma": "sum"
+        },
+        {
+            "key": "c\u00e6li",
+            "lemma": "c\u00e6le"
+        },
+        {
+            "key": "ne",
+            "lemma": "ne"
+        },
+        {
+            "key": "darent",
+            "lemma": "do"
+        },
+        {
+            "key": "rorem",
+            "lemma": "ror"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "terra",
+            "lemma": "terra"
+        },
+        {
+            "key": "prohibita",
+            "lemma": "prohibio"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "ne",
+            "lemma": "ne"
+        },
+        {
+            "key": "daret",
+            "lemma": "do"
+        },
+        {
+            "key": "germen",
+            "lemma": "germen"
+        },
+        {
+            "key": "suum",
+            "lemma": "suus"
+        }
+    ],
+    "Aggeus.1.11": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "vocavi",
+            "lemma": "uoco"
+        },
+        {
+            "key": "siccitatem",
+            "lemma": "siccitas"
+        },
+        {
+            "key": "super",
+            "lemma": "super"
+        },
+        {
+            "key": "terram",
+            "lemma": "terra"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "super",
+            "lemma": "super"
+        },
+        {
+            "key": "montes",
+            "lemma": "mons"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "super",
+            "lemma": "super"
+        },
+        {
+            "key": "triticum",
+            "lemma": "triticum"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "super",
+            "lemma": "super"
+        },
+        {
+            "key": "vinum",
+            "lemma": "uinum"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "super",
+            "lemma": "super"
+        },
+        {
+            "key": "oleum",
+            "lemma": "oleum"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "qu\u00e6cum",
+            "lemma": "qu\u00e6cum"
+        },
+        {
+            "key": "que",
+            "lemma": "qui"
+        },
+        {
+            "key": "profert",
+            "lemma": "profero"
+        },
+        {
+            "key": "humus",
+            "lemma": "humus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "super",
+            "lemma": "super"
+        },
+        {
+            "key": "homines",
+            "lemma": "homo"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "super",
+            "lemma": "super"
+        },
+        {
+            "key": "jumenta",
+            "lemma": "jumentum"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "super",
+            "lemma": "super"
+        },
+        {
+            "key": "omnem",
+            "lemma": "omnis"
+        },
+        {
+            "key": "laborem",
+            "lemma": "labor"
+        },
+        {
+            "key": "manuum",
+            "lemma": "manus"
+        }
+    ],
+    "Aggeus.1.12": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "audivit",
+            "lemma": "audio"
+        },
+        {
+            "key": "zorobabel",
+            "lemma": "zorobabel"
+        },
+        {
+            "key": "filius",
+            "lemma": "filius"
+        },
+        {
+            "key": "salathiel",
+            "lemma": "salathiel"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "jesus",
+            "lemma": "jesus"
+        },
+        {
+            "key": "filius",
+            "lemma": "filius"
+        },
+        {
+            "key": "josedec",
+            "lemma": "josedec"
+        },
+        {
+            "key": "sacerdos",
+            "lemma": "sacerdos"
+        },
+        {
+            "key": "magnus",
+            "lemma": "magnus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "omnes",
+            "lemma": "omnis"
+        },
+        {
+            "key": "reliqui\u00e6",
+            "lemma": "reliqui\u00e6us"
+        },
+        {
+            "key": "populi",
+            "lemma": "populus"
+        },
+        {
+            "key": "vocem",
+            "lemma": "uox"
+        },
+        {
+            "key": "domini",
+            "lemma": "dominus"
+        },
+        {
+            "key": "dei",
+            "lemma": "deus"
+        },
+        {
+            "key": "sui",
+            "lemma": "suus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "verba",
+            "lemma": "uerbum"
+        },
+        {
+            "key": "agg\u00e6i",
+            "lemma": "agg\u00e6i"
+        },
+        {
+            "key": "prophet\u00e6",
+            "lemma": "prophet\u00e6"
+        },
+        {
+            "key": "sicut",
+            "lemma": "sicut"
+        },
+        {
+            "key": "misit",
+            "lemma": "mitto"
+        },
+        {
+            "key": "eum",
+            "lemma": "is"
+        },
+        {
+            "key": "dominus",
+            "lemma": "dominus"
+        },
+        {
+            "key": "deus",
+            "lemma": "deus"
+        },
+        {
+            "key": "eorum",
+            "lemma": "is"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "eos",
+            "lemma": "is"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "timuit",
+            "lemma": "timeo"
+        },
+        {
+            "key": "populus",
+            "lemma": "populus"
+        },
+        {
+            "key": "a",
+            "lemma": "ab"
+        },
+        {
+            "key": "facie",
+            "lemma": "facies"
+        },
+        {
+            "key": "domini",
+            "lemma": "dominus"
+        }
+    ],
+    "Aggeus.1.13": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "dixit",
+            "lemma": "dico"
+        },
+        {
+            "key": "agg\u00e6us",
+            "lemma": "agg\u00e6us"
+        },
+        {
+            "key": "nuntius",
+            "lemma": "nuntius"
+        },
+        {
+            "key": "domini",
+            "lemma": "dominus"
+        },
+        {
+            "key": "de",
+            "lemma": "de"
+        },
+        {
+            "key": "nuntiis",
+            "lemma": "nuntius"
+        },
+        {
+            "key": "domini",
+            "lemma": "dominus"
+        },
+        {
+            "key": "populo",
+            "lemma": "populus"
+        },
+        {
+            "key": "dicens",
+            "lemma": "dico"
+        },
+        {
+            "key": "ego",
+            "lemma": "ego"
+        },
+        {
+            "key": "vobis",
+            "lemma": "uos"
+        },
+        {
+            "key": "cum",
+            "lemma": "cum"
+        },
+        {
+            "key": "sum",
+            "lemma": "sum"
+        },
+        {
+            "key": "dicit",
+            "lemma": "dico"
+        },
+        {
+            "key": "dominus",
+            "lemma": "dominus"
+        }
+    ],
+    "Aggeus.1.14": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "suscitavit",
+            "lemma": "suscito"
+        },
+        {
+            "key": "dominus",
+            "lemma": "dominus"
+        },
+        {
+            "key": "spiritum",
+            "lemma": "spiritus"
+        },
+        {
+            "key": "zorobabel",
+            "lemma": "zorobabel"
+        },
+        {
+            "key": "filii",
+            "lemma": "filius"
+        },
+        {
+            "key": "salathiel",
+            "lemma": "salathiel"
+        },
+        {
+            "key": "ducis",
+            "lemma": "duc"
+        },
+        {
+            "key": "juda",
+            "lemma": "juda"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "spiritum",
+            "lemma": "spiritus"
+        },
+        {
+            "key": "jesu",
+            "lemma": "jesus"
+        },
+        {
+            "key": "filii",
+            "lemma": "filius"
+        },
+        {
+            "key": "josedec",
+            "lemma": "josedec"
+        },
+        {
+            "key": "sacerdotis",
+            "lemma": "sacerdos"
+        },
+        {
+            "key": "magni",
+            "lemma": "magnus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "spiritum",
+            "lemma": "spiritus"
+        },
+        {
+            "key": "reliquorum",
+            "lemma": "reliquus"
+        },
+        {
+            "key": "de",
+            "lemma": "de"
+        },
+        {
+            "key": "omni",
+            "lemma": "omnis"
+        },
+        {
+            "key": "populo",
+            "lemma": "populus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "ingressi",
+            "lemma": "ingredior"
+        },
+        {
+            "key": "sunt",
+            "lemma": "sum"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "faciebant",
+            "lemma": "facio"
+        },
+        {
+            "key": "opus",
+            "lemma": "opus"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "domo",
+            "lemma": "domus"
+        },
+        {
+            "key": "domini",
+            "lemma": "dominus"
+        },
+        {
+            "key": "exercituum",
+            "lemma": "exercitus"
+        },
+        {
+            "key": "dei",
+            "lemma": "deus"
+        },
+        {
+            "key": "sui",
+            "lemma": "suus"
+        }
+    ],
+    "Aggeus.2.1": [
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "die",
+            "lemma": "dies"
+        },
+        {
+            "key": "vigesima",
+            "lemma": "uigesima"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "quarta",
+            "lemma": "quartus"
+        },
+        {
+            "key": "mensis",
+            "lemma": "mensis"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "sexto",
+            "lemma": "sextus"
+        },
+        {
+            "key": "mense",
+            "lemma": "mensis"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "anno",
+            "lemma": "annus"
+        },
+        {
+            "key": "secundo",
+            "lemma": "secundus"
+        },
+        {
+            "key": "darii",
+            "lemma": "darius"
+        },
+        {
+            "key": "regis",
+            "lemma": "rex"
+        }
+    ],
+    "Aggeus.2.2": [
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "septimo",
+            "lemma": "septimus"
+        },
+        {
+            "key": "mense",
+            "lemma": "mensis"
+        },
+        {
+            "key": "vigesima",
+            "lemma": "uigesima"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "prima",
+            "lemma": "primus"
+        },
+        {
+            "key": "mensis",
+            "lemma": "mensis"
+        },
+        {
+            "key": "factum",
+            "lemma": "facio"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "verbum",
+            "lemma": "uerbum"
+        },
+        {
+            "key": "domini",
+            "lemma": "dominus"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "manu",
+            "lemma": "manus"
+        },
+        {
+            "key": "agg\u00e6i",
+            "lemma": "agg\u00e6i"
+        },
+        {
+            "key": "prophet\u00e6",
+            "lemma": "prophet\u00e6"
+        },
+        {
+            "key": "dicens",
+            "lemma": "dico"
+        }
+    ],
+    "Aggeus.2.3": [
+        {
+            "key": "loquere",
+            "lemma": "loquor"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "zorobabel",
+            "lemma": "zorobabel"
+        },
+        {
+            "key": "filium",
+            "lemma": "filius"
+        },
+        {
+            "key": "salathiel",
+            "lemma": "salathiel"
+        },
+        {
+            "key": "ducem",
+            "lemma": "dux"
+        },
+        {
+            "key": "juda",
+            "lemma": "juda"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "jesum",
+            "lemma": "jesus"
+        },
+        {
+            "key": "filium",
+            "lemma": "filius"
+        },
+        {
+            "key": "josedec",
+            "lemma": "josedec"
+        },
+        {
+            "key": "sacerdotem",
+            "lemma": "sacerdos"
+        },
+        {
+            "key": "magnum",
+            "lemma": "magnus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "reliquos",
+            "lemma": "reliquus"
+        },
+        {
+            "key": "populi",
+            "lemma": "populus"
+        },
+        {
+            "key": "dicens",
+            "lemma": "dico"
+        }
+    ],
+    "Aggeus.2.4": [
+        {
+            "key": "quis",
+            "lemma": "quis"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "vobis",
+            "lemma": "uos"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "derelictus",
+            "lemma": "derelinquo"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "vidit",
+            "lemma": "uideo"
+        },
+        {
+            "key": "domum",
+            "lemma": "domus"
+        },
+        {
+            "key": "istam",
+            "lemma": "iste"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "gloria",
+            "lemma": "gloria"
+        },
+        {
+            "key": "sua",
+            "lemma": "suus"
+        },
+        {
+            "key": "prima",
+            "lemma": "primus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "quid",
+            "lemma": "quis"
+        },
+        {
+            "key": "vos",
+            "lemma": "uos"
+        },
+        {
+            "key": "videtis",
+            "lemma": "uideo"
+        },
+        {
+            "key": "hanc",
+            "lemma": "hic"
+        },
+        {
+            "key": "nunc",
+            "lemma": "nunc"
+        },
+        {
+            "key": "numquid",
+            "lemma": "numquid"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "ita",
+            "lemma": "ita"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "quasi",
+            "lemma": "quasi"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "sit",
+            "lemma": "sum"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "oculis",
+            "lemma": "oculus"
+        },
+        {
+            "key": "vestris",
+            "lemma": "uester"
+        }
+    ],
+    "Aggeus.2.5": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "nunc",
+            "lemma": "nunc"
+        },
+        {
+            "key": "confortare",
+            "lemma": "conforto"
+        },
+        {
+            "key": "zorobabel",
+            "lemma": "zorobabel"
+        },
+        {
+            "key": "dicit",
+            "lemma": "dico"
+        },
+        {
+            "key": "dominus",
+            "lemma": "dominus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "confortare",
+            "lemma": "conforto"
+        },
+        {
+            "key": "jesu",
+            "lemma": "jesus"
+        },
+        {
+            "key": "fili",
+            "lemma": "filius"
+        },
+        {
+            "key": "josedec",
+            "lemma": "josedec"
+        },
+        {
+            "key": "sacerdos",
+            "lemma": "sacerdos"
+        },
+        {
+            "key": "magne",
+            "lemma": "magnus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "confortare",
+            "lemma": "conforto"
+        },
+        {
+            "key": "omnis",
+            "lemma": "omnis"
+        },
+        {
+            "key": "populus",
+            "lemma": "populus"
+        },
+        {
+            "key": "terr\u00e6",
+            "lemma": "terr\u00e6"
+        },
+        {
+            "key": "dicit",
+            "lemma": "dico"
+        },
+        {
+            "key": "dominus",
+            "lemma": "dominus"
+        },
+        {
+            "key": "exercituum",
+            "lemma": "exercitus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "facite",
+            "lemma": "facio"
+        },
+        {
+            "key": "quoniam",
+            "lemma": "quoniam"
+        },
+        {
+            "key": "ego",
+            "lemma": "ego"
+        },
+        {
+            "key": "vobis",
+            "lemma": "uos"
+        },
+        {
+            "key": "cum",
+            "lemma": "cum"
+        },
+        {
+            "key": "sum",
+            "lemma": "sum"
+        },
+        {
+            "key": "dicit",
+            "lemma": "dico"
+        },
+        {
+            "key": "dominus",
+            "lemma": "dominus"
+        },
+        {
+            "key": "exercituum",
+            "lemma": "exercitus"
+        }
+    ],
+    "Aggeus.2.6": [
+        {
+            "key": "verbum",
+            "lemma": "uerbum"
+        },
+        {
+            "key": "quod",
+            "lemma": "qui"
+        },
+        {
+            "key": "pepigi",
+            "lemma": "pepigo"
+        },
+        {
+            "key": "vobis",
+            "lemma": "uos"
+        },
+        {
+            "key": "cum",
+            "lemma": "cum"
+        },
+        {
+            "key": "cum",
+            "lemma": "cum"
+        },
+        {
+            "key": "egrederemini",
+            "lemma": "egrederemini"
+        },
+        {
+            "key": "de",
+            "lemma": "de"
+        },
+        {
+            "key": "terra",
+            "lemma": "terra"
+        },
+        {
+            "key": "\u00e6gypti",
+            "lemma": "\u00e6gyptum"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "spiritus",
+            "lemma": "spiritus"
+        },
+        {
+            "key": "meus",
+            "lemma": "meus"
+        },
+        {
+            "key": "erit",
+            "lemma": "sum"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "medio",
+            "lemma": "medius"
+        },
+        {
+            "key": "vestrum",
+            "lemma": "uos"
+        },
+        {
+            "key": "nolite",
+            "lemma": "nolo"
+        },
+        {
+            "key": "timere",
+            "lemma": "timeo"
+        }
+    ],
+    "Aggeus.2.7": [
+        {
+            "key": "quia",
+            "lemma": "quia"
+        },
+        {
+            "key": "h\u00e6c",
+            "lemma": "h\u00e6c"
+        },
+        {
+            "key": "dicit",
+            "lemma": "dico"
+        },
+        {
+            "key": "dominus",
+            "lemma": "dominus"
+        },
+        {
+            "key": "exercituum",
+            "lemma": "exercitus"
+        },
+        {
+            "key": "adhuc",
+            "lemma": "adhuc"
+        },
+        {
+            "key": "unum",
+            "lemma": "unus"
+        },
+        {
+            "key": "modicum",
+            "lemma": "modicus"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "ego",
+            "lemma": "ego"
+        },
+        {
+            "key": "commovebo",
+            "lemma": "commoveo"
+        },
+        {
+            "key": "c\u00e6lum",
+            "lemma": "c\u00e6lum"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "terram",
+            "lemma": "terra"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "mare",
+            "lemma": "mare"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "aridam",
+            "lemma": "aridus"
+        }
+    ],
+    "Aggeus.2.8": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "movebo",
+            "lemma": "moveo"
+        },
+        {
+            "key": "omnes",
+            "lemma": "omnis"
+        },
+        {
+            "key": "gentes",
+            "lemma": "gens"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "veniet",
+            "lemma": "uenio"
+        },
+        {
+            "key": "desideratus",
+            "lemma": "desideratus"
+        },
+        {
+            "key": "cunctis",
+            "lemma": "cunctus"
+        },
+        {
+            "key": "gentibus",
+            "lemma": "gens"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "implebo",
+            "lemma": "impleo"
+        },
+        {
+            "key": "domum",
+            "lemma": "domus"
+        },
+        {
+            "key": "istam",
+            "lemma": "iste"
+        },
+        {
+            "key": "gloria",
+            "lemma": "gloria"
+        },
+        {
+            "key": "dicit",
+            "lemma": "dico"
+        },
+        {
+            "key": "dominus",
+            "lemma": "dominus"
+        },
+        {
+            "key": "exercituum",
+            "lemma": "exercitus"
+        }
+    ],
+    "Aggeus.2.9": [
+        {
+            "key": "meum",
+            "lemma": "meus"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "argentum",
+            "lemma": "argentum"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "meum",
+            "lemma": "meus"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "aurum",
+            "lemma": "aurum"
+        },
+        {
+            "key": "dicit",
+            "lemma": "dico"
+        },
+        {
+            "key": "dominus",
+            "lemma": "dominus"
+        },
+        {
+            "key": "exercituum",
+            "lemma": "exercitus"
+        }
+    ],
+    "Aggeus.2.10": [
+        {
+            "key": "magna",
+            "lemma": "magnus"
+        },
+        {
+            "key": "erit",
+            "lemma": "sum"
+        },
+        {
+            "key": "gloria",
+            "lemma": "gloria"
+        },
+        {
+            "key": "domus",
+            "lemma": "domus"
+        },
+        {
+            "key": "istius",
+            "lemma": "iste"
+        },
+        {
+            "key": "novissim\u00e6",
+            "lemma": "nouissim\u00e6"
+        },
+        {
+            "key": "plus",
+            "lemma": "multus"
+        },
+        {
+            "key": "quam",
+            "lemma": "quam"
+        },
+        {
+            "key": "prim\u00e6",
+            "lemma": "prim\u00e6"
+        },
+        {
+            "key": "dicit",
+            "lemma": "dico"
+        },
+        {
+            "key": "dominus",
+            "lemma": "dominus"
+        },
+        {
+            "key": "exercituum",
+            "lemma": "exercitus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "loco",
+            "lemma": "locus"
+        },
+        {
+            "key": "isto",
+            "lemma": "iste"
+        },
+        {
+            "key": "dabo",
+            "lemma": "do"
+        },
+        {
+            "key": "pacem",
+            "lemma": "pax"
+        },
+        {
+            "key": "dicit",
+            "lemma": "dico"
+        },
+        {
+            "key": "dominus",
+            "lemma": "dominus"
+        },
+        {
+            "key": "exercituum",
+            "lemma": "exercitus"
+        }
+    ],
+    "Aggeus.2.11": [
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "vigesima",
+            "lemma": "uigesima"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "quarta",
+            "lemma": "quartus"
+        },
+        {
+            "key": "noni",
+            "lemma": "nonus"
+        },
+        {
+            "key": "mensis",
+            "lemma": "mensis"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "anno",
+            "lemma": "annus"
+        },
+        {
+            "key": "secundo",
+            "lemma": "secundus"
+        },
+        {
+            "key": "darii",
+            "lemma": "darius"
+        },
+        {
+            "key": "regis",
+            "lemma": "rex"
+        },
+        {
+            "key": "factum",
+            "lemma": "facio"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "verbum",
+            "lemma": "uerbum"
+        },
+        {
+            "key": "domini",
+            "lemma": "dominus"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "agg\u00e6um",
+            "lemma": "agg\u00e6um"
+        },
+        {
+            "key": "prophetam",
+            "lemma": "propheta"
+        },
+        {
+            "key": "dicens",
+            "lemma": "dico"
+        }
+    ],
+    "Aggeus.2.12": [
+        {
+            "key": "h\u00e6c",
+            "lemma": "h\u00e6tque"
+        },
+        {
+            "key": "dicit",
+            "lemma": "dico"
+        },
+        {
+            "key": "dominus",
+            "lemma": "dominus"
+        },
+        {
+            "key": "exercituum",
+            "lemma": "exercitus"
+        },
+        {
+            "key": "interroga",
+            "lemma": "interroga"
+        },
+        {
+            "key": "sacerdotes",
+            "lemma": "sacerdos"
+        },
+        {
+            "key": "legem",
+            "lemma": "lex"
+        },
+        {
+            "key": "dicens",
+            "lemma": "dico"
+        }
+    ],
+    "Aggeus.2.13": [
+        {
+            "key": "si",
+            "lemma": "si"
+        },
+        {
+            "key": "tulerit",
+            "lemma": "tulerit"
+        },
+        {
+            "key": "homo",
+            "lemma": "homo"
+        },
+        {
+            "key": "carnem",
+            "lemma": "caro"
+        },
+        {
+            "key": "sanctificatam",
+            "lemma": "sanctificatus"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "ora",
+            "lemma": "os"
+        },
+        {
+            "key": "vestimenti",
+            "lemma": "uestimentum"
+        },
+        {
+            "key": "sui",
+            "lemma": "suus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "tetigerit",
+            "lemma": "tango"
+        },
+        {
+            "key": "de",
+            "lemma": "de"
+        },
+        {
+            "key": "summitate",
+            "lemma": "summitas"
+        },
+        {
+            "key": "ejus",
+            "lemma": "js"
+        },
+        {
+            "key": "panem",
+            "lemma": "panis"
+        },
+        {
+            "key": "aut",
+            "lemma": "aut"
+        },
+        {
+            "key": "pulmentum",
+            "lemma": "pulmentum"
+        },
+        {
+            "key": "aut",
+            "lemma": "aut"
+        },
+        {
+            "key": "vinum",
+            "lemma": "uinum"
+        },
+        {
+            "key": "aut",
+            "lemma": "aut"
+        },
+        {
+            "key": "oleum",
+            "lemma": "oleum"
+        },
+        {
+            "key": "aut",
+            "lemma": "aut"
+        },
+        {
+            "key": "omnem",
+            "lemma": "omnis"
+        },
+        {
+            "key": "cibum",
+            "lemma": "cibus"
+        },
+        {
+            "key": "numquid",
+            "lemma": "numquid"
+        },
+        {
+            "key": "sanctificabitur",
+            "lemma": "sanctifico"
+        },
+        {
+            "key": "respondentes",
+            "lemma": "respondentes"
+        },
+        {
+            "key": "autem",
+            "lemma": "autem"
+        },
+        {
+            "key": "sacerdotes",
+            "lemma": "sacerdos"
+        },
+        {
+            "key": "dixerunt",
+            "lemma": "dico"
+        },
+        {
+            "key": "non.",
+            "lemma": "non."
+        }
+    ],
+    "Aggeus.2.14": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "dixit",
+            "lemma": "dico"
+        },
+        {
+            "key": "agg\u00e6us",
+            "lemma": "agg\u00e6us"
+        },
+        {
+            "key": "si",
+            "lemma": "si"
+        },
+        {
+            "key": "tetigerit",
+            "lemma": "tango"
+        },
+        {
+            "key": "pollutus",
+            "lemma": "pollutus"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "anima",
+            "lemma": "anima"
+        },
+        {
+            "key": "ex",
+            "lemma": "ex"
+        },
+        {
+            "key": "omnibus",
+            "lemma": "omnis"
+        },
+        {
+            "key": "his",
+            "lemma": "hic"
+        },
+        {
+            "key": "numquid",
+            "lemma": "numquid"
+        },
+        {
+            "key": "contaminabitur",
+            "lemma": "contamino"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "responderunt",
+            "lemma": "respondeo"
+        },
+        {
+            "key": "sacerdotes",
+            "lemma": "sacerdos"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "dixerunt",
+            "lemma": "dico"
+        },
+        {
+            "key": "contaminabitur",
+            "lemma": "contaminabitur"
+        }
+    ],
+    "Aggeus.2.15": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "respondit",
+            "lemma": "respondeo"
+        },
+        {
+            "key": "agg\u00e6us",
+            "lemma": "agg\u00e6us"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "dixit",
+            "lemma": "dico"
+        },
+        {
+            "key": "sic",
+            "lemma": "sic"
+        },
+        {
+            "key": "populus",
+            "lemma": "populus"
+        },
+        {
+            "key": "iste",
+            "lemma": "iste"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "sic",
+            "lemma": "sic"
+        },
+        {
+            "key": "gens",
+            "lemma": "gens"
+        },
+        {
+            "key": "ista",
+            "lemma": "iste"
+        },
+        {
+            "key": "ante",
+            "lemma": "ante"
+        },
+        {
+            "key": "faciem",
+            "lemma": "facies"
+        },
+        {
+            "key": "meam",
+            "lemma": "meus"
+        },
+        {
+            "key": "dicit",
+            "lemma": "dico"
+        },
+        {
+            "key": "dominus",
+            "lemma": "dominus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "sic",
+            "lemma": "sic"
+        },
+        {
+            "key": "omne",
+            "lemma": "omnis"
+        },
+        {
+            "key": "opus",
+            "lemma": "opus"
+        },
+        {
+            "key": "manuum",
+            "lemma": "manus"
+        },
+        {
+            "key": "eorum",
+            "lemma": "is"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "omnia",
+            "lemma": "omnis"
+        },
+        {
+            "key": "qu\u00e6",
+            "lemma": "qu\u00e6"
+        },
+        {
+            "key": "obtulerunt",
+            "lemma": "offero"
+        },
+        {
+            "key": "ibi",
+            "lemma": "ibi"
+        },
+        {
+            "key": "contaminata",
+            "lemma": "contamino"
+        },
+        {
+            "key": "erunt",
+            "lemma": "sum"
+        }
+    ],
+    "Aggeus.2.16": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "nunc",
+            "lemma": "nunc"
+        },
+        {
+            "key": "ponite",
+            "lemma": "pono"
+        },
+        {
+            "key": "corda",
+            "lemma": "cor"
+        },
+        {
+            "key": "vestra",
+            "lemma": "uester"
+        },
+        {
+            "key": "a",
+            "lemma": "ab"
+        },
+        {
+            "key": "die",
+            "lemma": "dies"
+        },
+        {
+            "key": "hac",
+            "lemma": "hic"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "supra",
+            "lemma": "supra"
+        },
+        {
+            "key": "antequam",
+            "lemma": "antequam"
+        },
+        {
+            "key": "poneretur",
+            "lemma": "pono"
+        },
+        {
+            "key": "lapis",
+            "lemma": "lapis"
+        },
+        {
+            "key": "super",
+            "lemma": "super"
+        },
+        {
+            "key": "lapidem",
+            "lemma": "lapis"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "templo",
+            "lemma": "templum"
+        },
+        {
+            "key": "domini",
+            "lemma": "dominus"
+        }
+    ],
+    "Aggeus.2.17": [
+        {
+            "key": "cum",
+            "lemma": "cum"
+        },
+        {
+            "key": "accederetis",
+            "lemma": "accedo"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "acervum",
+            "lemma": "aceruus"
+        },
+        {
+            "key": "viginti",
+            "lemma": "uiginti"
+        },
+        {
+            "key": "modiorum",
+            "lemma": "modius"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "fierent",
+            "lemma": "fio"
+        },
+        {
+            "key": "decem",
+            "lemma": "decem"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "intraretis",
+            "lemma": "iantrareta"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "torcular",
+            "lemma": "torcular"
+        },
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "exprimeretis",
+            "lemma": "exprimeretis"
+        },
+        {
+            "key": "quinquaginta",
+            "lemma": "quinquaginta"
+        },
+        {
+            "key": "lagenas",
+            "lemma": "lagena"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "fiebant",
+            "lemma": "fio"
+        },
+        {
+            "key": "viginti",
+            "lemma": "uiginti"
+        }
+    ],
+    "Aggeus.2.18": [
+        {
+            "key": "percussi",
+            "lemma": "percussus"
+        },
+        {
+            "key": "vos",
+            "lemma": "uos"
+        },
+        {
+            "key": "vento",
+            "lemma": "uentus"
+        },
+        {
+            "key": "urente",
+            "lemma": "uro"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "aurugine",
+            "lemma": "aurugine"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "grandine",
+            "lemma": "grando"
+        },
+        {
+            "key": "omnia",
+            "lemma": "omnis"
+        },
+        {
+            "key": "opera",
+            "lemma": "opus"
+        },
+        {
+            "key": "manuum",
+            "lemma": "manus"
+        },
+        {
+            "key": "vestrarum",
+            "lemma": "uester"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "fuit",
+            "lemma": "sum"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "vobis",
+            "lemma": "uos"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "reverteretur",
+            "lemma": "revertior"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "me",
+            "lemma": "ego"
+        },
+        {
+            "key": "dicit",
+            "lemma": "dico"
+        },
+        {
+            "key": "dominus",
+            "lemma": "dominus"
+        }
+    ],
+    "Aggeus.2.19": [
+        {
+            "key": "ponite",
+            "lemma": "ponite"
+        },
+        {
+            "key": "corda",
+            "lemma": "cor"
+        },
+        {
+            "key": "vestra",
+            "lemma": "uester"
+        },
+        {
+            "key": "ex",
+            "lemma": "ex"
+        },
+        {
+            "key": "die",
+            "lemma": "dies"
+        },
+        {
+            "key": "ista",
+            "lemma": "iste"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "futurum",
+            "lemma": "futurus"
+        },
+        {
+            "key": "a",
+            "lemma": "ab"
+        },
+        {
+            "key": "die",
+            "lemma": "dies"
+        },
+        {
+            "key": "vigesima",
+            "lemma": "uigesima"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "quarta",
+            "lemma": "quartus"
+        },
+        {
+            "key": "noni",
+            "lemma": "nonus"
+        },
+        {
+            "key": "mensis",
+            "lemma": "mensis"
+        },
+        {
+            "key": "a",
+            "lemma": "ab"
+        },
+        {
+            "key": "die",
+            "lemma": "dies"
+        },
+        {
+            "key": "qua",
+            "lemma": "qui"
+        },
+        {
+            "key": "fundamenta",
+            "lemma": "fundamentum"
+        },
+        {
+            "key": "jacta",
+            "lemma": "jaco"
+        },
+        {
+            "key": "sunt",
+            "lemma": "sum"
+        },
+        {
+            "key": "templi",
+            "lemma": "templum"
+        },
+        {
+            "key": "domini",
+            "lemma": "dominus"
+        },
+        {
+            "key": "ponite",
+            "lemma": "pono"
+        },
+        {
+            "key": "super",
+            "lemma": "super"
+        },
+        {
+            "key": "cor",
+            "lemma": "cor"
+        },
+        {
+            "key": "vestrum",
+            "lemma": "uester"
+        }
+    ],
+    "Aggeus.2.20": [
+        {
+            "key": "numquid",
+            "lemma": "numquid"
+        },
+        {
+            "key": "jam",
+            "lemma": "jam"
+        },
+        {
+            "key": "semen",
+            "lemma": "semen"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "germine",
+            "lemma": "germen"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "adhuc",
+            "lemma": "adhuc"
+        },
+        {
+            "key": "vinea",
+            "lemma": "uinea"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "ficus",
+            "lemma": "ficus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "malogranatum",
+            "lemma": "malogranatum"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "lignum",
+            "lemma": "lignum"
+        },
+        {
+            "key": "oliv\u00e6",
+            "lemma": "oliu\u00e6"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "floruit",
+            "lemma": "floreo"
+        },
+        {
+            "key": "ex",
+            "lemma": "ex"
+        },
+        {
+            "key": "die",
+            "lemma": "dies"
+        },
+        {
+            "key": "ista",
+            "lemma": "iste"
+        },
+        {
+            "key": "benedicam",
+            "lemma": "benedico"
+        }
+    ],
+    "Aggeus.2.21": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "factum",
+            "lemma": "facio"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "verbum",
+            "lemma": "uerbum"
+        },
+        {
+            "key": "domini",
+            "lemma": "dominus"
+        },
+        {
+            "key": "secundo",
+            "lemma": "secundus"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "agg\u00e6um",
+            "lemma": "agg\u00e6um"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "vigesima",
+            "lemma": "uigesima"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "quarta",
+            "lemma": "quartus"
+        },
+        {
+            "key": "mensis",
+            "lemma": "mensis"
+        },
+        {
+            "key": "dicens",
+            "lemma": "dico"
+        }
+    ],
+    "Aggeus.2.22": [
+        {
+            "key": "loquere",
+            "lemma": "loquor"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "zorobabel",
+            "lemma": "zorobabel"
+        },
+        {
+            "key": "ducem",
+            "lemma": "dux"
+        },
+        {
+            "key": "juda",
+            "lemma": "juda"
+        },
+        {
+            "key": "dicens",
+            "lemma": "dico"
+        },
+        {
+            "key": "ego",
+            "lemma": "ego"
+        },
+        {
+            "key": "movebo",
+            "lemma": "moveo"
+        },
+        {
+            "key": "c\u00e6lum",
+            "lemma": "c\u00e6lum"
+        },
+        {
+            "key": "pariter",
+            "lemma": "pariter"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "terram",
+            "lemma": "terra"
+        }
+    ],
+    "Aggeus.2.23": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "subvertam",
+            "lemma": "subverto"
+        },
+        {
+            "key": "solium",
+            "lemma": "solium"
+        },
+        {
+            "key": "regnorum",
+            "lemma": "regnum"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "conteram",
+            "lemma": "contero"
+        },
+        {
+            "key": "fortitudinem",
+            "lemma": "fortitudo"
+        },
+        {
+            "key": "regni",
+            "lemma": "regnum"
+        },
+        {
+            "key": "gentium",
+            "lemma": "gens"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "subvertam",
+            "lemma": "subverto"
+        },
+        {
+            "key": "quadrigam",
+            "lemma": "quadriga"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "ascensorem",
+            "lemma": "ascensor"
+        },
+        {
+            "key": "ejus",
+            "lemma": "js"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "descendent",
+            "lemma": "descendo"
+        },
+        {
+            "key": "equi",
+            "lemma": "equus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "ascensores",
+            "lemma": "ascensor"
+        },
+        {
+            "key": "eorum",
+            "lemma": "is"
+        },
+        {
+            "key": "vir",
+            "lemma": "uir"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "gladio",
+            "lemma": "gladius"
+        },
+        {
+            "key": "fratris",
+            "lemma": "frater"
+        },
+        {
+            "key": "sui",
+            "lemma": "suus"
+        }
+    ],
+    "Aggeus.2.24": [
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "die",
+            "lemma": "dies"
+        },
+        {
+            "key": "illa",
+            "lemma": "ille"
+        },
+        {
+            "key": "dicit",
+            "lemma": "dico"
+        },
+        {
+            "key": "dominus",
+            "lemma": "dominus"
+        },
+        {
+            "key": "exercituum",
+            "lemma": "exercitus"
+        },
+        {
+            "key": "assumam",
+            "lemma": "assumo"
+        },
+        {
+            "key": "te",
+            "lemma": "tu"
+        },
+        {
+            "key": "zorobabel",
+            "lemma": "zorobabel"
+        },
+        {
+            "key": "fili",
+            "lemma": "filius"
+        },
+        {
+            "key": "salathiel",
+            "lemma": "salathiel"
+        },
+        {
+            "key": "serve",
+            "lemma": "seruus"
+        },
+        {
+            "key": "meus",
+            "lemma": "meus"
+        },
+        {
+            "key": "dicit",
+            "lemma": "dico"
+        },
+        {
+            "key": "dominus",
+            "lemma": "dominus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "ponam",
+            "lemma": "pono"
+        },
+        {
+            "key": "te",
+            "lemma": "tu"
+        },
+        {
+            "key": "quasi",
+            "lemma": "quasi"
+        },
+        {
+            "key": "signaculum",
+            "lemma": "signaculum"
+        },
+        {
+            "key": "quia",
+            "lemma": "quia"
+        },
+        {
+            "key": "te",
+            "lemma": "tu"
+        },
+        {
+            "key": "elegi",
+            "lemma": "eligo"
+        },
+        {
+            "key": "dicit",
+            "lemma": "dico"
+        },
+        {
+            "key": "dominus",
+            "lemma": "dominus"
+        },
+        {
+            "key": "exercituum",
+            "lemma": "exercitus"
+        }
+    ]
+}

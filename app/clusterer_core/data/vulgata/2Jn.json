@@ -1,0 +1,908 @@
+{
+    "2 John.1.1": [
+        {
+            "key": "senior",
+            "lemma": "senior"
+        },
+        {
+            "key": "elect\u00e6",
+            "lemma": "elect\u00e6"
+        },
+        {
+            "key": "domin\u00e6",
+            "lemma": "domin\u00e6s"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "natis",
+            "lemma": "no"
+        },
+        {
+            "key": "ejus",
+            "lemma": "js"
+        },
+        {
+            "key": "quos",
+            "lemma": "qui"
+        },
+        {
+            "key": "ego",
+            "lemma": "ego"
+        },
+        {
+            "key": "diligo",
+            "lemma": "diligo"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "veritate",
+            "lemma": "ueritas"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "ego",
+            "lemma": "ego"
+        },
+        {
+            "key": "solus",
+            "lemma": "solus"
+        },
+        {
+            "key": "sed",
+            "lemma": "sed"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "omnes",
+            "lemma": "omnis"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "cognoverunt",
+            "lemma": "cognosco"
+        },
+        {
+            "key": "veritatem",
+            "lemma": "ueritas"
+        }
+    ],
+    "2 John.1.2": [
+        {
+            "key": "propter",
+            "lemma": "propter"
+        },
+        {
+            "key": "veritatem",
+            "lemma": "ueritas"
+        },
+        {
+            "key": "qu\u00e6",
+            "lemma": "qu\u00e6"
+        },
+        {
+            "key": "permanet",
+            "lemma": "permaneo"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "nobis",
+            "lemma": "nos"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "nobis",
+            "lemma": "nos"
+        },
+        {
+            "key": "cum",
+            "lemma": "cum"
+        },
+        {
+            "key": "erit",
+            "lemma": "sum"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "\u00e6ternum",
+            "lemma": "\u00e6ternus"
+        }
+    ],
+    "2 John.1.3": [
+        {
+            "key": "sit",
+            "lemma": "sum"
+        },
+        {
+            "key": "vobis",
+            "lemma": "uos"
+        },
+        {
+            "key": "cum",
+            "lemma": "cum"
+        },
+        {
+            "key": "gratia",
+            "lemma": "gratia"
+        },
+        {
+            "key": "misericordia",
+            "lemma": "misericordia"
+        },
+        {
+            "key": "pax",
+            "lemma": "pax"
+        },
+        {
+            "key": "a",
+            "lemma": "a"
+        },
+        {
+            "key": "deo",
+            "lemma": "deus"
+        },
+        {
+            "key": "patre",
+            "lemma": "pater"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "a",
+            "lemma": "ab"
+        },
+        {
+            "key": "christo",
+            "lemma": "christus"
+        },
+        {
+            "key": "jesu",
+            "lemma": "jesus"
+        },
+        {
+            "key": "filio",
+            "lemma": "filius"
+        },
+        {
+            "key": "patris",
+            "lemma": "pater"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "veritate",
+            "lemma": "ueritas"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "caritate",
+            "lemma": "caritas"
+        }
+    ],
+    "2 John.1.4": [
+        {
+            "key": "gavisus",
+            "lemma": "gavisus"
+        },
+        {
+            "key": "sum",
+            "lemma": "sum"
+        },
+        {
+            "key": "valde",
+            "lemma": "ualde"
+        },
+        {
+            "key": "quoniam",
+            "lemma": "quoniam"
+        },
+        {
+            "key": "inveni",
+            "lemma": "inuenio"
+        },
+        {
+            "key": "de",
+            "lemma": "de"
+        },
+        {
+            "key": "filiis",
+            "lemma": "filius"
+        },
+        {
+            "key": "tuis",
+            "lemma": "tuus"
+        },
+        {
+            "key": "ambulantes",
+            "lemma": "ambulo"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "veritate",
+            "lemma": "ueritas"
+        },
+        {
+            "key": "sicut",
+            "lemma": "sicut"
+        },
+        {
+            "key": "mandatum",
+            "lemma": "mandatum"
+        },
+        {
+            "key": "accepimus",
+            "lemma": "accipio"
+        },
+        {
+            "key": "a",
+            "lemma": "ab"
+        },
+        {
+            "key": "patre",
+            "lemma": "pater"
+        }
+    ],
+    "2 John.1.5": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "nunc",
+            "lemma": "nunc"
+        },
+        {
+            "key": "rogo",
+            "lemma": "rogo"
+        },
+        {
+            "key": "te",
+            "lemma": "tu"
+        },
+        {
+            "key": "domina",
+            "lemma": "domina"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "tamquam",
+            "lemma": "tamquam"
+        },
+        {
+            "key": "mandatum",
+            "lemma": "mandatum"
+        },
+        {
+            "key": "novum",
+            "lemma": "nouus"
+        },
+        {
+            "key": "scribens",
+            "lemma": "scribo"
+        },
+        {
+            "key": "tibi",
+            "lemma": "tu"
+        },
+        {
+            "key": "sed",
+            "lemma": "sed"
+        },
+        {
+            "key": "quod",
+            "lemma": "qui"
+        },
+        {
+            "key": "habuimus",
+            "lemma": "habeo"
+        },
+        {
+            "key": "ab",
+            "lemma": "ab"
+        },
+        {
+            "key": "initio",
+            "lemma": "initium"
+        },
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "diligamus",
+            "lemma": "diligo"
+        },
+        {
+            "key": "alterutrum",
+            "lemma": "alteruter"
+        }
+    ],
+    "2 John.1.6": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "h\u00e6c",
+            "lemma": "h\u00e6c"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "caritas",
+            "lemma": "caritas"
+        },
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "ambulemus",
+            "lemma": "ambulo"
+        },
+        {
+            "key": "secundum",
+            "lemma": "secundum"
+        },
+        {
+            "key": "mandata",
+            "lemma": "mandatum"
+        },
+        {
+            "key": "ejus",
+            "lemma": "js"
+        },
+        {
+            "key": "hoc",
+            "lemma": "hic"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "enim",
+            "lemma": "enim"
+        },
+        {
+            "key": "mandatum",
+            "lemma": "mandatum"
+        },
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "quemadmodum",
+            "lemma": "quemadmodum"
+        },
+        {
+            "key": "audistis",
+            "lemma": "audio"
+        },
+        {
+            "key": "ab",
+            "lemma": "ab"
+        },
+        {
+            "key": "initio",
+            "lemma": "initium"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "eo",
+            "lemma": "is"
+        },
+        {
+            "key": "ambuletis",
+            "lemma": "ambulo"
+        }
+    ],
+    "2 John.1.7": [
+        {
+            "key": "quoniam",
+            "lemma": "quoniam"
+        },
+        {
+            "key": "multi",
+            "lemma": "multus"
+        },
+        {
+            "key": "seductores",
+            "lemma": "seductor"
+        },
+        {
+            "key": "exierunt",
+            "lemma": "exeo"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "mundum",
+            "lemma": "mundus"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "confitentur",
+            "lemma": "confiteor"
+        },
+        {
+            "key": "jesum",
+            "lemma": "jesus"
+        },
+        {
+            "key": "christum",
+            "lemma": "christus"
+        },
+        {
+            "key": "venisse",
+            "lemma": "uenio"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "carnem",
+            "lemma": "caro"
+        },
+        {
+            "key": "hic",
+            "lemma": "hic"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "seductor",
+            "lemma": "seductor"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "antichristus",
+            "lemma": "antichristus"
+        }
+    ],
+    "2 John.1.8": [
+        {
+            "key": "videte",
+            "lemma": "videte"
+        },
+        {
+            "key": "vosmetipsos",
+            "lemma": "uosmetipsos"
+        },
+        {
+            "key": "ne",
+            "lemma": "ne"
+        },
+        {
+            "key": "perdatis",
+            "lemma": "perdatis"
+        },
+        {
+            "key": "qu\u00e6",
+            "lemma": "qu\u00e6"
+        },
+        {
+            "key": "operati",
+            "lemma": "opero"
+        },
+        {
+            "key": "estis",
+            "lemma": "sum"
+        },
+        {
+            "key": "sed",
+            "lemma": "sed"
+        },
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "mercedem",
+            "lemma": "merces"
+        },
+        {
+            "key": "plenam",
+            "lemma": "plenus"
+        },
+        {
+            "key": "accipiatis",
+            "lemma": "accipio"
+        }
+    ],
+    "2 John.1.9": [
+        {
+            "key": "omnis",
+            "lemma": "omnis"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "recedit",
+            "lemma": "recedo"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "permanet",
+            "lemma": "permaneo"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "doctrina",
+            "lemma": "doctrina"
+        },
+        {
+            "key": "christi",
+            "lemma": "christus"
+        },
+        {
+            "key": "deum",
+            "lemma": "deus"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "habet",
+            "lemma": "habeo"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "permanet",
+            "lemma": "permaneo"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "doctrina",
+            "lemma": "doctrina"
+        },
+        {
+            "key": "hic",
+            "lemma": "hic"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "patrem",
+            "lemma": "pater"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "filium",
+            "lemma": "filius"
+        },
+        {
+            "key": "habet",
+            "lemma": "habeo"
+        }
+    ],
+    "2 John.1.10": [
+        {
+            "key": "si",
+            "lemma": "si"
+        },
+        {
+            "key": "quis",
+            "lemma": "quis"
+        },
+        {
+            "key": "venit",
+            "lemma": "uenio"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "vos",
+            "lemma": "uos"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "hanc",
+            "lemma": "hic"
+        },
+        {
+            "key": "doctrinam",
+            "lemma": "doctrina"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "affert",
+            "lemma": "affero"
+        },
+        {
+            "key": "nolite",
+            "lemma": "nolo"
+        },
+        {
+            "key": "recipere",
+            "lemma": "recipio"
+        },
+        {
+            "key": "eum",
+            "lemma": "is"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "domum",
+            "lemma": "domus"
+        },
+        {
+            "key": "nec",
+            "lemma": "neque"
+        },
+        {
+            "key": "ave",
+            "lemma": "ave"
+        },
+        {
+            "key": "ei",
+            "lemma": "is"
+        },
+        {
+            "key": "dixeritis",
+            "lemma": "dico"
+        }
+    ],
+    "2 John.1.11": [
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "enim",
+            "lemma": "enim"
+        },
+        {
+            "key": "dicit",
+            "lemma": "dico"
+        },
+        {
+            "key": "illi",
+            "lemma": "ille"
+        },
+        {
+            "key": "ave",
+            "lemma": "ave"
+        },
+        {
+            "key": "communicat",
+            "lemma": "communico"
+        },
+        {
+            "key": "operibus",
+            "lemma": "opus"
+        },
+        {
+            "key": "ejus",
+            "lemma": "js"
+        },
+        {
+            "key": "malignis",
+            "lemma": "malignus"
+        }
+    ],
+    "2 John.1.12": [
+        {
+            "key": "plura",
+            "lemma": "plura"
+        },
+        {
+            "key": "habens",
+            "lemma": "habeo"
+        },
+        {
+            "key": "vobis",
+            "lemma": "uos"
+        },
+        {
+            "key": "scribere",
+            "lemma": "scribo"
+        },
+        {
+            "key": "nolui",
+            "lemma": "nolo"
+        },
+        {
+            "key": "per",
+            "lemma": "per"
+        },
+        {
+            "key": "cartam",
+            "lemma": "carta"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "atramentum",
+            "lemma": "atramentum"
+        },
+        {
+            "key": "spero",
+            "lemma": "spero"
+        },
+        {
+            "key": "enim",
+            "lemma": "enim"
+        },
+        {
+            "key": "me",
+            "lemma": "ego"
+        },
+        {
+            "key": "futurum",
+            "lemma": "sum"
+        },
+        {
+            "key": "apud",
+            "lemma": "apud"
+        },
+        {
+            "key": "vos",
+            "lemma": "uos"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "os",
+            "lemma": "os"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "os",
+            "lemma": "os"
+        },
+        {
+            "key": "loqui",
+            "lemma": "loquor"
+        },
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "gaudium",
+            "lemma": "gaudium"
+        },
+        {
+            "key": "vestrum",
+            "lemma": "uester"
+        },
+        {
+            "key": "plenum",
+            "lemma": "plenus"
+        },
+        {
+            "key": "sit",
+            "lemma": "sum"
+        }
+    ],
+    "2 John.1.13": [
+        {
+            "key": "salutant",
+            "lemma": "saluto"
+        },
+        {
+            "key": "te",
+            "lemma": "tu"
+        },
+        {
+            "key": "filii",
+            "lemma": "filius"
+        },
+        {
+            "key": "sororis",
+            "lemma": "soror"
+        },
+        {
+            "key": "tu\u00e6",
+            "lemma": "tu\u00e6"
+        },
+        {
+            "key": "elect\u00e6",
+            "lemma": "elect\u00e6"
+        }
+    ]
+}

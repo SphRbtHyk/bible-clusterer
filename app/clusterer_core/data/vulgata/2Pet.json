@@ -1,0 +1,4352 @@
+{
+    "2 Peter.1.1": [
+        {
+            "key": "simon",
+            "lemma": "simon"
+        },
+        {
+            "key": "petrus",
+            "lemma": "petrus"
+        },
+        {
+            "key": "servus",
+            "lemma": "seruus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "apostolus",
+            "lemma": "apostolus"
+        },
+        {
+            "key": "jesu",
+            "lemma": "jesus"
+        },
+        {
+            "key": "christi",
+            "lemma": "christus"
+        },
+        {
+            "key": "iis",
+            "lemma": "is"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "co\u00e6qualem",
+            "lemma": "co\u00e6qualis"
+        },
+        {
+            "key": "nobis",
+            "lemma": "nobis"
+        },
+        {
+            "key": "cum",
+            "lemma": "cum"
+        },
+        {
+            "key": "sortiti",
+            "lemma": "sortior"
+        },
+        {
+            "key": "sunt",
+            "lemma": "sum"
+        },
+        {
+            "key": "fidem",
+            "lemma": "fides"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "justitia",
+            "lemma": "justitia"
+        },
+        {
+            "key": "dei",
+            "lemma": "deus"
+        },
+        {
+            "key": "nostri",
+            "lemma": "noster"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "salvatoris",
+            "lemma": "saluator"
+        },
+        {
+            "key": "jesu",
+            "lemma": "jesus"
+        },
+        {
+            "key": "christi",
+            "lemma": "christus"
+        }
+    ],
+    "2 Peter.1.2": [
+        {
+            "key": "gratia",
+            "lemma": "gratia"
+        },
+        {
+            "key": "vobis",
+            "lemma": "uos"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "pax",
+            "lemma": "pax"
+        },
+        {
+            "key": "adimpleatur",
+            "lemma": "adimpleor"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "cognitione",
+            "lemma": "cognitio"
+        },
+        {
+            "key": "dei",
+            "lemma": "deus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "christi",
+            "lemma": "christus"
+        },
+        {
+            "key": "jesu",
+            "lemma": "jesus"
+        },
+        {
+            "key": "domini",
+            "lemma": "dominus"
+        },
+        {
+            "key": "nostri",
+            "lemma": "noster"
+        }
+    ],
+    "2 Peter.1.3": [
+        {
+            "key": "quomodo",
+            "lemma": "quomodo"
+        },
+        {
+            "key": "omnia",
+            "lemma": "omnis"
+        },
+        {
+            "key": "nobis",
+            "lemma": "nos"
+        },
+        {
+            "key": "divin\u00e6",
+            "lemma": "diuin\u00e6"
+        },
+        {
+            "key": "virtutis",
+            "lemma": "uirtus"
+        },
+        {
+            "key": "su\u00e6",
+            "lemma": "su\u00e6"
+        },
+        {
+            "key": "qu\u00e6",
+            "lemma": "qu\u00e6"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "vitam",
+            "lemma": "uita"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "pietatem",
+            "lemma": "pietas"
+        },
+        {
+            "key": "donata",
+            "lemma": "dono"
+        },
+        {
+            "key": "sunt",
+            "lemma": "sum"
+        },
+        {
+            "key": "per",
+            "lemma": "per"
+        },
+        {
+            "key": "cognitionem",
+            "lemma": "cognitio"
+        },
+        {
+            "key": "ejus",
+            "lemma": "ejus"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "vocavit",
+            "lemma": "uoco"
+        },
+        {
+            "key": "nos",
+            "lemma": "nos"
+        },
+        {
+            "key": "propria",
+            "lemma": "proprius"
+        },
+        {
+            "key": "gloria",
+            "lemma": "gloria"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "virtute",
+            "lemma": "uirtus"
+        }
+    ],
+    "2 Peter.1.4": [
+        {
+            "key": "per",
+            "lemma": "per"
+        },
+        {
+            "key": "quem",
+            "lemma": "qui"
+        },
+        {
+            "key": "maxima",
+            "lemma": "magnus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "pretiosa",
+            "lemma": "pretiosus"
+        },
+        {
+            "key": "nobis",
+            "lemma": "nos"
+        },
+        {
+            "key": "promissa",
+            "lemma": "promitto"
+        },
+        {
+            "key": "donavit",
+            "lemma": "dono"
+        },
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "per",
+            "lemma": "per"
+        },
+        {
+            "key": "h\u00e6c",
+            "lemma": "h\u00e6c"
+        },
+        {
+            "key": "efficiamini",
+            "lemma": "efficio"
+        },
+        {
+            "key": "divin\u00e6",
+            "lemma": "diuin\u00e6"
+        },
+        {
+            "key": "consortes",
+            "lemma": "consors"
+        },
+        {
+            "key": "natur\u00e6",
+            "lemma": "natur\u00e6"
+        },
+        {
+            "key": "fugientes",
+            "lemma": "fugio"
+        },
+        {
+            "key": "ejus",
+            "lemma": "js"
+        },
+        {
+            "key": "qu\u00e6",
+            "lemma": "qu\u00e6"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "mundo",
+            "lemma": "mundus"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "concupiscenti\u00e6",
+            "lemma": "concupiscenti\u00e6"
+        },
+        {
+            "key": "corruptionem",
+            "lemma": "corruptio"
+        }
+    ],
+    "2 Peter.1.5": [
+        {
+            "key": "vos",
+            "lemma": "uos"
+        },
+        {
+            "key": "autem",
+            "lemma": "autem"
+        },
+        {
+            "key": "curam",
+            "lemma": "cura"
+        },
+        {
+            "key": "omnem",
+            "lemma": "omnis"
+        },
+        {
+            "key": "subinferentes",
+            "lemma": "subinfero"
+        },
+        {
+            "key": "ministrate",
+            "lemma": "ministro"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "fide",
+            "lemma": "fides"
+        },
+        {
+            "key": "vestra",
+            "lemma": "uester"
+        },
+        {
+            "key": "virtutem",
+            "lemma": "uirtus"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "virtute",
+            "lemma": "uirtus"
+        },
+        {
+            "key": "autem",
+            "lemma": "autem"
+        },
+        {
+            "key": "scientiam",
+            "lemma": "scientia"
+        }
+    ],
+    "2 Peter.1.6": [
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "scientia",
+            "lemma": "scientia"
+        },
+        {
+            "key": "autem",
+            "lemma": "autem"
+        },
+        {
+            "key": "abstinentiam",
+            "lemma": "abstinentia"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "abstinentia",
+            "lemma": "abstinentia"
+        },
+        {
+            "key": "autem",
+            "lemma": "autem"
+        },
+        {
+            "key": "patientiam",
+            "lemma": "patientia"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "patientia",
+            "lemma": "patientia"
+        },
+        {
+            "key": "autem",
+            "lemma": "autem"
+        },
+        {
+            "key": "pietatem",
+            "lemma": "pietas"
+        }
+    ],
+    "2 Peter.1.7": [
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "pietate",
+            "lemma": "pietas"
+        },
+        {
+            "key": "autem",
+            "lemma": "autem"
+        },
+        {
+            "key": "amorem",
+            "lemma": "amor"
+        },
+        {
+            "key": "fraternitatis",
+            "lemma": "fraternitas"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "amore",
+            "lemma": "amor"
+        },
+        {
+            "key": "autem",
+            "lemma": "autem"
+        },
+        {
+            "key": "fraternitatis",
+            "lemma": "fraternitas"
+        },
+        {
+            "key": "caritatem",
+            "lemma": "caritas"
+        }
+    ],
+    "2 Peter.1.8": [
+        {
+            "key": "h\u00e6c",
+            "lemma": "h\u00e6c"
+        },
+        {
+            "key": "enim",
+            "lemma": "enim"
+        },
+        {
+            "key": "si",
+            "lemma": "si"
+        },
+        {
+            "key": "vobis",
+            "lemma": "uos"
+        },
+        {
+            "key": "cum",
+            "lemma": "cum"
+        },
+        {
+            "key": "adsint",
+            "lemma": "adsum"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "superent",
+            "lemma": "supio"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "vacuos",
+            "lemma": "uacuus"
+        },
+        {
+            "key": "nec",
+            "lemma": "neque"
+        },
+        {
+            "key": "sine",
+            "lemma": "sine"
+        },
+        {
+            "key": "fructu",
+            "lemma": "fructus"
+        },
+        {
+            "key": "vos",
+            "lemma": "uos"
+        },
+        {
+            "key": "constituent",
+            "lemma": "constituo"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "domini",
+            "lemma": "dominus"
+        },
+        {
+            "key": "nostri",
+            "lemma": "noster"
+        },
+        {
+            "key": "jesu",
+            "lemma": "jesus"
+        },
+        {
+            "key": "christi",
+            "lemma": "christus"
+        },
+        {
+            "key": "cognitione",
+            "lemma": "cognitio"
+        }
+    ],
+    "2 Peter.1.9": [
+        {
+            "key": "cui",
+            "lemma": "qui"
+        },
+        {
+            "key": "enim",
+            "lemma": "enim"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "pr\u00e6sto",
+            "lemma": "pr\u00e6sto"
+        },
+        {
+            "key": "sunt",
+            "lemma": "sum"
+        },
+        {
+            "key": "h\u00e6c",
+            "lemma": "h\u00e6c"
+        },
+        {
+            "key": "c\u00e6cus",
+            "lemma": "c\u00e6cus"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "manu",
+            "lemma": "manus"
+        },
+        {
+            "key": "tentans",
+            "lemma": "tento"
+        },
+        {
+            "key": "oblivionem",
+            "lemma": "oblivio"
+        },
+        {
+            "key": "accipiens",
+            "lemma": "accipio"
+        },
+        {
+            "key": "purgationis",
+            "lemma": "purgatio"
+        },
+        {
+            "key": "veterum",
+            "lemma": "uetus"
+        },
+        {
+            "key": "suorum",
+            "lemma": "suus"
+        },
+        {
+            "key": "delictorum",
+            "lemma": "delictum"
+        }
+    ],
+    "2 Peter.1.10": [
+        {
+            "key": "quapropter",
+            "lemma": "quapropter"
+        },
+        {
+            "key": "fratres",
+            "lemma": "frater"
+        },
+        {
+            "key": "magis",
+            "lemma": "magis"
+        },
+        {
+            "key": "satagite",
+            "lemma": "satago"
+        },
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "per",
+            "lemma": "per"
+        },
+        {
+            "key": "bona",
+            "lemma": "bonus"
+        },
+        {
+            "key": "opera",
+            "lemma": "opus"
+        },
+        {
+            "key": "certam",
+            "lemma": "certus"
+        },
+        {
+            "key": "vestram",
+            "lemma": "uester"
+        },
+        {
+            "key": "vocationem",
+            "lemma": "uocatio"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "electionem",
+            "lemma": "electio"
+        },
+        {
+            "key": "faciatis",
+            "lemma": "facio"
+        },
+        {
+            "key": "h\u00e6c",
+            "lemma": "h\u00e6c"
+        },
+        {
+            "key": "enim",
+            "lemma": "enim"
+        },
+        {
+            "key": "facientes",
+            "lemma": "facio"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "peccabitis",
+            "lemma": "pecco"
+        },
+        {
+            "key": "aliquando",
+            "lemma": "aliquando"
+        }
+    ],
+    "2 Peter.1.11": [
+        {
+            "key": "sic",
+            "lemma": "sic"
+        },
+        {
+            "key": "enim",
+            "lemma": "enim"
+        },
+        {
+            "key": "abundanter",
+            "lemma": "abundanter"
+        },
+        {
+            "key": "ministrabitur",
+            "lemma": "ministro"
+        },
+        {
+            "key": "vobis",
+            "lemma": "uos"
+        },
+        {
+            "key": "introitus",
+            "lemma": "introitus"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "\u00e6ternum",
+            "lemma": "\u00e6ternus"
+        },
+        {
+            "key": "regnum",
+            "lemma": "regnum"
+        },
+        {
+            "key": "domini",
+            "lemma": "dominus"
+        },
+        {
+            "key": "nostri",
+            "lemma": "noster"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "salvatoris",
+            "lemma": "saluator"
+        },
+        {
+            "key": "jesu",
+            "lemma": "jesus"
+        },
+        {
+            "key": "christi",
+            "lemma": "christus"
+        }
+    ],
+    "2 Peter.1.12": [
+        {
+            "key": "propter",
+            "lemma": "propter"
+        },
+        {
+            "key": "quod",
+            "lemma": "qui"
+        },
+        {
+            "key": "incipiam",
+            "lemma": "incipio"
+        },
+        {
+            "key": "vos",
+            "lemma": "uos"
+        },
+        {
+            "key": "semper",
+            "lemma": "semper"
+        },
+        {
+            "key": "commonere",
+            "lemma": "commoneo"
+        },
+        {
+            "key": "de",
+            "lemma": "de"
+        },
+        {
+            "key": "his",
+            "lemma": "hic"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "quidem",
+            "lemma": "quidem"
+        },
+        {
+            "key": "scientes",
+            "lemma": "scio"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "confirmatos",
+            "lemma": "confirmo"
+        },
+        {
+            "key": "vos",
+            "lemma": "uos"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "pr\u00e6senti",
+            "lemma": "pr\u00e6sentum"
+        },
+        {
+            "key": "veritate",
+            "lemma": "ueritas"
+        }
+    ],
+    "2 Peter.1.13": [
+        {
+            "key": "justum",
+            "lemma": "justus"
+        },
+        {
+            "key": "autem",
+            "lemma": "autem"
+        },
+        {
+            "key": "arbitror",
+            "lemma": "arbitror"
+        },
+        {
+            "key": "quamdiu",
+            "lemma": "quamdiu"
+        },
+        {
+            "key": "sum",
+            "lemma": "sum"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "hoc",
+            "lemma": "hic"
+        },
+        {
+            "key": "tabernaculo",
+            "lemma": "tabernaculum"
+        },
+        {
+            "key": "suscitare",
+            "lemma": "suscito"
+        },
+        {
+            "key": "vos",
+            "lemma": "uos"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "commonitione",
+            "lemma": "commonitio"
+        }
+    ],
+    "2 Peter.1.14": [
+        {
+            "key": "certus",
+            "lemma": "certus"
+        },
+        {
+            "key": "quod",
+            "lemma": "quod"
+        },
+        {
+            "key": "velox",
+            "lemma": "uelox"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "depositio",
+            "lemma": "depositio"
+        },
+        {
+            "key": "tabernaculi",
+            "lemma": "tabernaculum"
+        },
+        {
+            "key": "mei",
+            "lemma": "meus"
+        },
+        {
+            "key": "secundum",
+            "lemma": "secundum"
+        },
+        {
+            "key": "quod",
+            "lemma": "qui"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "dominus",
+            "lemma": "dominus"
+        },
+        {
+            "key": "noster",
+            "lemma": "noster"
+        },
+        {
+            "key": "jesus",
+            "lemma": "jesus"
+        },
+        {
+            "key": "christus",
+            "lemma": "christus"
+        },
+        {
+            "key": "significavit",
+            "lemma": "significo"
+        },
+        {
+            "key": "mihi",
+            "lemma": "ego"
+        }
+    ],
+    "2 Peter.1.15": [
+        {
+            "key": "dabo",
+            "lemma": "do"
+        },
+        {
+            "key": "autem",
+            "lemma": "autem"
+        },
+        {
+            "key": "operam",
+            "lemma": "opera"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "frequenter",
+            "lemma": "frequenter"
+        },
+        {
+            "key": "habere",
+            "lemma": "habeo"
+        },
+        {
+            "key": "vos",
+            "lemma": "uos"
+        },
+        {
+            "key": "post",
+            "lemma": "post"
+        },
+        {
+            "key": "obitum",
+            "lemma": "obitus"
+        },
+        {
+            "key": "meum",
+            "lemma": "meus"
+        },
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "horum",
+            "lemma": "hic"
+        },
+        {
+            "key": "memoriam",
+            "lemma": "memoria"
+        },
+        {
+            "key": "faciatis",
+            "lemma": "facio"
+        }
+    ],
+    "2 Peter.1.16": [
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "enim",
+            "lemma": "enim"
+        },
+        {
+            "key": "doctas",
+            "lemma": "doctus"
+        },
+        {
+            "key": "fabulas",
+            "lemma": "fabula"
+        },
+        {
+            "key": "secuti",
+            "lemma": "sequor"
+        },
+        {
+            "key": "notam",
+            "lemma": "nosco"
+        },
+        {
+            "key": "fecimus",
+            "lemma": "facio"
+        },
+        {
+            "key": "vobis",
+            "lemma": "uos"
+        },
+        {
+            "key": "domini",
+            "lemma": "dominus"
+        },
+        {
+            "key": "nostri",
+            "lemma": "noster"
+        },
+        {
+            "key": "jesu",
+            "lemma": "jesus"
+        },
+        {
+            "key": "christi",
+            "lemma": "christus"
+        },
+        {
+            "key": "virtutem",
+            "lemma": "uirtus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "pr\u00e6sentiam",
+            "lemma": "pr\u00e6sentia"
+        },
+        {
+            "key": "sed",
+            "lemma": "sed"
+        },
+        {
+            "key": "speculatores",
+            "lemma": "speculator"
+        },
+        {
+            "key": "facti",
+            "lemma": "facio"
+        },
+        {
+            "key": "illius",
+            "lemma": "ille"
+        },
+        {
+            "key": "magnitudinis",
+            "lemma": "magnitudo"
+        }
+    ],
+    "2 Peter.1.17": [
+        {
+            "key": "accipiens",
+            "lemma": "accipio"
+        },
+        {
+            "key": "enim",
+            "lemma": "enim"
+        },
+        {
+            "key": "a",
+            "lemma": "ab"
+        },
+        {
+            "key": "deo",
+            "lemma": "deus"
+        },
+        {
+            "key": "patre",
+            "lemma": "pater"
+        },
+        {
+            "key": "honorem",
+            "lemma": "honor"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "gloriam",
+            "lemma": "gloria"
+        },
+        {
+            "key": "voce",
+            "lemma": "uox"
+        },
+        {
+            "key": "delapsa",
+            "lemma": "delapsa"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "eum",
+            "lemma": "is"
+        },
+        {
+            "key": "hujuscemodi",
+            "lemma": "hujuscemodi"
+        },
+        {
+            "key": "a",
+            "lemma": "ab"
+        },
+        {
+            "key": "magnifica",
+            "lemma": "magnificus"
+        },
+        {
+            "key": "gloria",
+            "lemma": "gloria"
+        },
+        {
+            "key": "hic",
+            "lemma": "hic"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "filius",
+            "lemma": "filius"
+        },
+        {
+            "key": "meus",
+            "lemma": "meus"
+        },
+        {
+            "key": "dilectus",
+            "lemma": "diligo"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "quo",
+            "lemma": "qui"
+        },
+        {
+            "key": "mihi",
+            "lemma": "ego"
+        },
+        {
+            "key": "complacui",
+            "lemma": "compliceo"
+        },
+        {
+            "key": "ipsum",
+            "lemma": "ipse"
+        },
+        {
+            "key": "audite",
+            "lemma": "audio"
+        }
+    ],
+    "2 Peter.1.18": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "hanc",
+            "lemma": "hic"
+        },
+        {
+            "key": "vocem",
+            "lemma": "uox"
+        },
+        {
+            "key": "nos",
+            "lemma": "nos"
+        },
+        {
+            "key": "audivimus",
+            "lemma": "audio"
+        },
+        {
+            "key": "de",
+            "lemma": "de"
+        },
+        {
+            "key": "c\u00e6lo",
+            "lemma": "c\u00e6lum"
+        },
+        {
+            "key": "allatam",
+            "lemma": "allao"
+        },
+        {
+            "key": "cum",
+            "lemma": "cum"
+        },
+        {
+            "key": "essemus",
+            "lemma": "sum"
+        },
+        {
+            "key": "cum",
+            "lemma": "cum"
+        },
+        {
+            "key": "ipso",
+            "lemma": "ipse"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "monte",
+            "lemma": "mons"
+        },
+        {
+            "key": "sancto",
+            "lemma": "sanctus"
+        }
+    ],
+    "2 Peter.1.19": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "habemus",
+            "lemma": "habeo"
+        },
+        {
+            "key": "firmiorem",
+            "lemma": "firmus"
+        },
+        {
+            "key": "propheticum",
+            "lemma": "propheticus"
+        },
+        {
+            "key": "sermonem",
+            "lemma": "sermo"
+        },
+        {
+            "key": "cui",
+            "lemma": "qui"
+        },
+        {
+            "key": "benefacitis",
+            "lemma": "benefacitum"
+        },
+        {
+            "key": "attendentes",
+            "lemma": "attendo"
+        },
+        {
+            "key": "quasi",
+            "lemma": "quasi"
+        },
+        {
+            "key": "lucern\u00e6",
+            "lemma": "lucern\u00e6"
+        },
+        {
+            "key": "lucenti",
+            "lemma": "luceo"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "caliginoso",
+            "lemma": "caliginosus"
+        },
+        {
+            "key": "loco",
+            "lemma": "locus"
+        },
+        {
+            "key": "donec",
+            "lemma": "donec"
+        },
+        {
+            "key": "dies",
+            "lemma": "dies"
+        },
+        {
+            "key": "elucescat",
+            "lemma": "elucesco"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "lucifer",
+            "lemma": "lucifer"
+        },
+        {
+            "key": "oriatur",
+            "lemma": "orior"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "cordibus",
+            "lemma": "cor"
+        },
+        {
+            "key": "vestris",
+            "lemma": "uester"
+        }
+    ],
+    "2 Peter.1.20": [
+        {
+            "key": "hoc",
+            "lemma": "hic"
+        },
+        {
+            "key": "primum",
+            "lemma": "primus"
+        },
+        {
+            "key": "intelligentes",
+            "lemma": "intellego"
+        },
+        {
+            "key": "quod",
+            "lemma": "quod"
+        },
+        {
+            "key": "omnis",
+            "lemma": "omnis"
+        },
+        {
+            "key": "prophetia",
+            "lemma": "prophetia"
+        },
+        {
+            "key": "scriptur\u00e6",
+            "lemma": "scriptur\u00e6"
+        },
+        {
+            "key": "propria",
+            "lemma": "proprius"
+        },
+        {
+            "key": "interpretatione",
+            "lemma": "interpretatio"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "fit",
+            "lemma": "fio"
+        }
+    ],
+    "2 Peter.1.21": [
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "enim",
+            "lemma": "enim"
+        },
+        {
+            "key": "voluntate",
+            "lemma": "uoluntas"
+        },
+        {
+            "key": "humana",
+            "lemma": "humanus"
+        },
+        {
+            "key": "allata",
+            "lemma": "affero"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "aliquando",
+            "lemma": "aliquando"
+        },
+        {
+            "key": "prophetia",
+            "lemma": "prophetia"
+        },
+        {
+            "key": "sed",
+            "lemma": "sed"
+        },
+        {
+            "key": "spiritu",
+            "lemma": "spiritus"
+        },
+        {
+            "key": "sancto",
+            "lemma": "sanctus"
+        },
+        {
+            "key": "inspirati",
+            "lemma": "inspiro"
+        },
+        {
+            "key": "locuti",
+            "lemma": "loquor"
+        },
+        {
+            "key": "sunt",
+            "lemma": "sum"
+        },
+        {
+            "key": "sancti",
+            "lemma": "sanctus"
+        },
+        {
+            "key": "dei",
+            "lemma": "deus"
+        },
+        {
+            "key": "homines",
+            "lemma": "homo"
+        }
+    ],
+    "2 Peter.2.1": [
+        {
+            "key": "fuerunt",
+            "lemma": "fuerunt"
+        },
+        {
+            "key": "vero",
+            "lemma": "uero"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "pseudoprophet\u00e6",
+            "lemma": "pseudoprophet\u00e6"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "populo",
+            "lemma": "populus"
+        },
+        {
+            "key": "sicut",
+            "lemma": "sicut"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "vobis",
+            "lemma": "uos"
+        },
+        {
+            "key": "erunt",
+            "lemma": "sum"
+        },
+        {
+            "key": "magistri",
+            "lemma": "magister"
+        },
+        {
+            "key": "mendaces",
+            "lemma": "mendax"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "introducent",
+            "lemma": "introduco"
+        },
+        {
+            "key": "sectas",
+            "lemma": "secta"
+        },
+        {
+            "key": "perditionis",
+            "lemma": "perditio"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "eum",
+            "lemma": "is"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "emit",
+            "lemma": "emo"
+        },
+        {
+            "key": "eos",
+            "lemma": "is"
+        },
+        {
+            "key": "dominum",
+            "lemma": "dominus"
+        },
+        {
+            "key": "negant",
+            "lemma": "nego"
+        },
+        {
+            "key": "superducentes",
+            "lemma": "superduco"
+        },
+        {
+            "key": "sibi",
+            "lemma": "sui"
+        },
+        {
+            "key": "celerem",
+            "lemma": "celer"
+        },
+        {
+            "key": "perditionem",
+            "lemma": "perditio"
+        }
+    ],
+    "2 Peter.2.2": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "multi",
+            "lemma": "multus"
+        },
+        {
+            "key": "sequentur",
+            "lemma": "sequor"
+        },
+        {
+            "key": "eorum",
+            "lemma": "is"
+        },
+        {
+            "key": "luxurias",
+            "lemma": "luxuria"
+        },
+        {
+            "key": "per",
+            "lemma": "per"
+        },
+        {
+            "key": "quos",
+            "lemma": "qui"
+        },
+        {
+            "key": "via",
+            "lemma": "uia"
+        },
+        {
+            "key": "veritatis",
+            "lemma": "ueritas"
+        },
+        {
+            "key": "blasphemabitur",
+            "lemma": "blasphemo"
+        }
+    ],
+    "2 Peter.2.3": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "avaritia",
+            "lemma": "auaritia"
+        },
+        {
+            "key": "fictis",
+            "lemma": "fico"
+        },
+        {
+            "key": "verbis",
+            "lemma": "uerbum"
+        },
+        {
+            "key": "de",
+            "lemma": "de"
+        },
+        {
+            "key": "vobis",
+            "lemma": "uos"
+        },
+        {
+            "key": "negotiabuntur",
+            "lemma": "negotio"
+        },
+        {
+            "key": "quibus",
+            "lemma": "qui"
+        },
+        {
+            "key": "judicium",
+            "lemma": "judicium"
+        },
+        {
+            "key": "jam",
+            "lemma": "jam"
+        },
+        {
+            "key": "olim",
+            "lemma": "olim"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "cessat",
+            "lemma": "cesso"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "perditio",
+            "lemma": "perditio"
+        },
+        {
+            "key": "eorum",
+            "lemma": "is"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "dormitat",
+            "lemma": "dormito"
+        }
+    ],
+    "2 Peter.2.4": [
+        {
+            "key": "si",
+            "lemma": "si"
+        },
+        {
+            "key": "enim",
+            "lemma": "enim"
+        },
+        {
+            "key": "deus",
+            "lemma": "deus"
+        },
+        {
+            "key": "angelis",
+            "lemma": "angelus"
+        },
+        {
+            "key": "peccantibus",
+            "lemma": "pecco"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "pepercit",
+            "lemma": "parco"
+        },
+        {
+            "key": "sed",
+            "lemma": "sed"
+        },
+        {
+            "key": "rudentibus",
+            "lemma": "rudens"
+        },
+        {
+            "key": "inferni",
+            "lemma": "infernus"
+        },
+        {
+            "key": "detractos",
+            "lemma": "detraco"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "tartarum",
+            "lemma": "tarta"
+        },
+        {
+            "key": "tradidit",
+            "lemma": "trado"
+        },
+        {
+            "key": "cruciandos",
+            "lemma": "crucio"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "judicium",
+            "lemma": "judicium"
+        },
+        {
+            "key": "reservari",
+            "lemma": "reservo"
+        }
+    ],
+    "2 Peter.2.5": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "originali",
+            "lemma": "originalis"
+        },
+        {
+            "key": "mundo",
+            "lemma": "mundus"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "pepercit",
+            "lemma": "parco"
+        },
+        {
+            "key": "sed",
+            "lemma": "sed"
+        },
+        {
+            "key": "octavum",
+            "lemma": "octauus"
+        },
+        {
+            "key": "no\u00eb",
+            "lemma": "no\u00eb"
+        },
+        {
+            "key": "justiti\u00e6",
+            "lemma": "justiti\u00e6"
+        },
+        {
+            "key": "pr\u00e6conem",
+            "lemma": "pr\u00e6co"
+        },
+        {
+            "key": "custodivit",
+            "lemma": "custodio"
+        },
+        {
+            "key": "diluvium",
+            "lemma": "diluuium"
+        },
+        {
+            "key": "mundo",
+            "lemma": "mundus"
+        },
+        {
+            "key": "impiorum",
+            "lemma": "impius"
+        },
+        {
+            "key": "inducens",
+            "lemma": "induco"
+        }
+    ],
+    "2 Peter.2.6": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "civitates",
+            "lemma": "ciuitas"
+        },
+        {
+            "key": "sodomorum",
+            "lemma": "sodoma"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "gomorrh\u00e6orum",
+            "lemma": "gomorrh\u00e6orum"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "cinerem",
+            "lemma": "cinis"
+        },
+        {
+            "key": "redigens",
+            "lemma": "redigo"
+        },
+        {
+            "key": "eversione",
+            "lemma": "eversio"
+        },
+        {
+            "key": "damnavit",
+            "lemma": "damno"
+        },
+        {
+            "key": "exemplum",
+            "lemma": "exemplum"
+        },
+        {
+            "key": "eorum",
+            "lemma": "is"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "impie",
+            "lemma": "impie"
+        },
+        {
+            "key": "acturi",
+            "lemma": "acturi"
+        },
+        {
+            "key": "sunt",
+            "lemma": "sum"
+        },
+        {
+            "key": "ponens",
+            "lemma": "pono"
+        }
+    ],
+    "2 Peter.2.7": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "justum",
+            "lemma": "justum"
+        },
+        {
+            "key": "lot",
+            "lemma": "lot"
+        },
+        {
+            "key": "oppressum",
+            "lemma": "oppresto"
+        },
+        {
+            "key": "a",
+            "lemma": "ab"
+        },
+        {
+            "key": "nefandorum",
+            "lemma": "nefandor"
+        },
+        {
+            "key": "injuria",
+            "lemma": "injuria"
+        },
+        {
+            "key": "ac",
+            "lemma": "atque"
+        },
+        {
+            "key": "luxuriosa",
+            "lemma": "luxuriosus"
+        },
+        {
+            "key": "conversatione",
+            "lemma": "conuersatio"
+        },
+        {
+            "key": "eripuit",
+            "lemma": "eripio"
+        }
+    ],
+    "2 Peter.2.8": [
+        {
+            "key": "aspectu",
+            "lemma": "aspectus"
+        },
+        {
+            "key": "enim",
+            "lemma": "enim"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "auditu",
+            "lemma": "auditus"
+        },
+        {
+            "key": "justus",
+            "lemma": "justus"
+        },
+        {
+            "key": "erat",
+            "lemma": "sum"
+        },
+        {
+            "key": "habitans",
+            "lemma": "habito"
+        },
+        {
+            "key": "apud",
+            "lemma": "apud"
+        },
+        {
+            "key": "eos",
+            "lemma": "is"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "de",
+            "lemma": "de"
+        },
+        {
+            "key": "die",
+            "lemma": "dies"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "diem",
+            "lemma": "dies"
+        },
+        {
+            "key": "animam",
+            "lemma": "anima"
+        },
+        {
+            "key": "justam",
+            "lemma": "justus"
+        },
+        {
+            "key": "iniquis",
+            "lemma": "iniquus"
+        },
+        {
+            "key": "operibus",
+            "lemma": "opus"
+        },
+        {
+            "key": "cruciabant",
+            "lemma": "crucio"
+        }
+    ],
+    "2 Peter.2.9": [
+        {
+            "key": "novit",
+            "lemma": "novit"
+        },
+        {
+            "key": "dominus",
+            "lemma": "dominus"
+        },
+        {
+            "key": "pios",
+            "lemma": "pius"
+        },
+        {
+            "key": "de",
+            "lemma": "de"
+        },
+        {
+            "key": "tentatione",
+            "lemma": "tentatio"
+        },
+        {
+            "key": "eripere",
+            "lemma": "eripo"
+        },
+        {
+            "key": "iniquos",
+            "lemma": "iniquus"
+        },
+        {
+            "key": "vero",
+            "lemma": "uero"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "diem",
+            "lemma": "dies"
+        },
+        {
+            "key": "judicii",
+            "lemma": "judicium"
+        },
+        {
+            "key": "reservare",
+            "lemma": "reservo"
+        },
+        {
+            "key": "cruciandos",
+            "lemma": "crucio"
+        }
+    ],
+    "2 Peter.2.10": [
+        {
+            "key": "magis",
+            "lemma": "magis"
+        },
+        {
+            "key": "autem",
+            "lemma": "autem"
+        },
+        {
+            "key": "eos",
+            "lemma": "is"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "post",
+            "lemma": "post"
+        },
+        {
+            "key": "carnem",
+            "lemma": "caro"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "concupiscentia",
+            "lemma": "concupiscentia"
+        },
+        {
+            "key": "immunditi\u00e6",
+            "lemma": "immunditi\u00e6"
+        },
+        {
+            "key": "ambulant",
+            "lemma": "ambulo"
+        },
+        {
+            "key": "dominationem",
+            "lemma": "dominatio"
+        },
+        {
+            "key": "que",
+            "lemma": "que"
+        },
+        {
+            "key": "contemnunt",
+            "lemma": "contemno"
+        },
+        {
+            "key": "audaces",
+            "lemma": "audax"
+        },
+        {
+            "key": "sibi",
+            "lemma": "sui"
+        },
+        {
+            "key": "placentes",
+            "lemma": "placeo"
+        },
+        {
+            "key": "sectas",
+            "lemma": "secto"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "metuunt",
+            "lemma": "metuo"
+        },
+        {
+            "key": "introducere",
+            "lemma": "introduco"
+        },
+        {
+            "key": "blasphemantes",
+            "lemma": "blasphemo"
+        }
+    ],
+    "2 Peter.2.11": [
+        {
+            "key": "ubi",
+            "lemma": "ubi"
+        },
+        {
+            "key": "angeli",
+            "lemma": "angelus"
+        },
+        {
+            "key": "fortitudine",
+            "lemma": "fortitudo"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "virtute",
+            "lemma": "uirtus"
+        },
+        {
+            "key": "cum",
+            "lemma": "cum"
+        },
+        {
+            "key": "sint",
+            "lemma": "sum"
+        },
+        {
+            "key": "majores",
+            "lemma": "major"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "portant",
+            "lemma": "porto"
+        },
+        {
+            "key": "adversum",
+            "lemma": "aduersus"
+        },
+        {
+            "key": "se",
+            "lemma": "se"
+        },
+        {
+            "key": "execrabile",
+            "lemma": "execrabilis"
+        },
+        {
+            "key": "judicium",
+            "lemma": "judicium"
+        }
+    ],
+    "2 Peter.2.12": [
+        {
+            "key": "hi",
+            "lemma": "is"
+        },
+        {
+            "key": "vero",
+            "lemma": "uero"
+        },
+        {
+            "key": "velut",
+            "lemma": "uelut"
+        },
+        {
+            "key": "irrationabilia",
+            "lemma": "irrationabilis"
+        },
+        {
+            "key": "pecora",
+            "lemma": "pecus"
+        },
+        {
+            "key": "naturaliter",
+            "lemma": "naturaliter"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "captionem",
+            "lemma": "captio"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "perniciem",
+            "lemma": "pernicies"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "his",
+            "lemma": "hic"
+        },
+        {
+            "key": "qu\u00e6",
+            "lemma": "qu\u00e6"
+        },
+        {
+            "key": "ignorant",
+            "lemma": "ignoro"
+        },
+        {
+            "key": "blasphemantes",
+            "lemma": "blasphemo"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "corruptione",
+            "lemma": "corruptio"
+        },
+        {
+            "key": "sua",
+            "lemma": "suus"
+        },
+        {
+            "key": "peribunt",
+            "lemma": "pereo"
+        }
+    ],
+    "2 Peter.2.13": [
+        {
+            "key": "percipientes",
+            "lemma": "percipio"
+        },
+        {
+            "key": "mercedem",
+            "lemma": "merces"
+        },
+        {
+            "key": "injustiti\u00e6",
+            "lemma": "iniustiti\u00e6"
+        },
+        {
+            "key": "voluptatem",
+            "lemma": "uoluptas"
+        },
+        {
+            "key": "existimantes",
+            "lemma": "existimo"
+        },
+        {
+            "key": "diei",
+            "lemma": "dies"
+        },
+        {
+            "key": "delicias",
+            "lemma": "delicia"
+        },
+        {
+            "key": "coinquinationes",
+            "lemma": "coinquinatio"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "macul\u00e6",
+            "lemma": "macul\u00e6"
+        },
+        {
+            "key": "deliciis",
+            "lemma": "delicia"
+        },
+        {
+            "key": "affluentes",
+            "lemma": "affluo"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "conviviis",
+            "lemma": "conuiuium"
+        },
+        {
+            "key": "suis",
+            "lemma": "suus"
+        },
+        {
+            "key": "luxuriantes",
+            "lemma": "luxurio"
+        },
+        {
+            "key": "vobis",
+            "lemma": "uos"
+        },
+        {
+            "key": "cum",
+            "lemma": "cum"
+        }
+    ],
+    "2 Peter.2.14": [
+        {
+            "key": "oculos",
+            "lemma": "oculus"
+        },
+        {
+            "key": "habentes",
+            "lemma": "habeo"
+        },
+        {
+            "key": "plenos",
+            "lemma": "plenus"
+        },
+        {
+            "key": "adulterii",
+            "lemma": "adulterium"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "incessabilis",
+            "lemma": "incessabilis"
+        },
+        {
+            "key": "delicti",
+            "lemma": "delictum"
+        },
+        {
+            "key": "pellicientes",
+            "lemma": "pellicientes"
+        },
+        {
+            "key": "animas",
+            "lemma": "anima"
+        },
+        {
+            "key": "instabiles",
+            "lemma": "instabilis"
+        },
+        {
+            "key": "cor",
+            "lemma": "cor"
+        },
+        {
+            "key": "exercitatum",
+            "lemma": "exercitatum"
+        },
+        {
+            "key": "avaritia",
+            "lemma": "avaritia"
+        },
+        {
+            "key": "habentes",
+            "lemma": "habeo"
+        },
+        {
+            "key": "maledictionis",
+            "lemma": "maledictio"
+        },
+        {
+            "key": "filii",
+            "lemma": "filius"
+        }
+    ],
+    "2 Peter.2.15": [
+        {
+            "key": "derelinquentes",
+            "lemma": "derelinquo"
+        },
+        {
+            "key": "rectam",
+            "lemma": "rectus"
+        },
+        {
+            "key": "viam",
+            "lemma": "uia"
+        },
+        {
+            "key": "erraverunt",
+            "lemma": "erro"
+        },
+        {
+            "key": "secuti",
+            "lemma": "sequor"
+        },
+        {
+            "key": "viam",
+            "lemma": "uia"
+        },
+        {
+            "key": "balaam",
+            "lemma": "balaam"
+        },
+        {
+            "key": "ex",
+            "lemma": "ex"
+        },
+        {
+            "key": "bosor",
+            "lemma": "bosor"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "mercedem",
+            "lemma": "merces"
+        },
+        {
+            "key": "iniquitatis",
+            "lemma": "iniquitas"
+        },
+        {
+            "key": "amavit",
+            "lemma": "amo"
+        }
+    ],
+    "2 Peter.2.16": [
+        {
+            "key": "correptionem",
+            "lemma": "correptio"
+        },
+        {
+            "key": "vero",
+            "lemma": "uero"
+        },
+        {
+            "key": "habuit",
+            "lemma": "habeo"
+        },
+        {
+            "key": "su\u00e6",
+            "lemma": "su\u00e6"
+        },
+        {
+            "key": "vesani\u00e6",
+            "lemma": "uesani\u00e6"
+        },
+        {
+            "key": "subjugale",
+            "lemma": "subjugalis"
+        },
+        {
+            "key": "mutum",
+            "lemma": "mutus"
+        },
+        {
+            "key": "animal",
+            "lemma": "animal"
+        },
+        {
+            "key": "hominis",
+            "lemma": "homo"
+        },
+        {
+            "key": "voce",
+            "lemma": "uox"
+        },
+        {
+            "key": "loquens",
+            "lemma": "loquor"
+        },
+        {
+            "key": "prohibuit",
+            "lemma": "prohibeo"
+        },
+        {
+            "key": "prophet\u00e6",
+            "lemma": "prophet\u00e6"
+        },
+        {
+            "key": "insipientiam",
+            "lemma": "insipientia"
+        }
+    ],
+    "2 Peter.2.17": [
+        {
+            "key": "hi",
+            "lemma": "is"
+        },
+        {
+            "key": "sunt",
+            "lemma": "sum"
+        },
+        {
+            "key": "fontes",
+            "lemma": "fons"
+        },
+        {
+            "key": "sine",
+            "lemma": "sine"
+        },
+        {
+            "key": "aqua",
+            "lemma": "aqua"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "nebul\u00e6",
+            "lemma": "nebul\u00e6"
+        },
+        {
+            "key": "turbinibus",
+            "lemma": "turbinis"
+        },
+        {
+            "key": "exagitat\u00e6",
+            "lemma": "exagitat\u00e6"
+        },
+        {
+            "key": "quibus",
+            "lemma": "qui"
+        },
+        {
+            "key": "caligo",
+            "lemma": "caligo"
+        },
+        {
+            "key": "tenebrarum",
+            "lemma": "tenebrae"
+        },
+        {
+            "key": "reservatur",
+            "lemma": "reseruo"
+        }
+    ],
+    "2 Peter.2.18": [
+        {
+            "key": "superba",
+            "lemma": "superba"
+        },
+        {
+            "key": "enim",
+            "lemma": "enim"
+        },
+        {
+            "key": "vanitatis",
+            "lemma": "uanitas"
+        },
+        {
+            "key": "loquentes",
+            "lemma": "loquor"
+        },
+        {
+            "key": "pelliciunt",
+            "lemma": "pellicio"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "desideriis",
+            "lemma": "desiderium"
+        },
+        {
+            "key": "carnis",
+            "lemma": "caro"
+        },
+        {
+            "key": "luxuri\u00e6",
+            "lemma": "luxuri\u00e6"
+        },
+        {
+            "key": "eos",
+            "lemma": "is"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "paululum",
+            "lemma": "paululum"
+        },
+        {
+            "key": "effugiunt",
+            "lemma": "effugio"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "errore",
+            "lemma": "error"
+        },
+        {
+            "key": "conversantur",
+            "lemma": "converso"
+        }
+    ],
+    "2 Peter.2.19": [
+        {
+            "key": "libertatem",
+            "lemma": "libertas"
+        },
+        {
+            "key": "illis",
+            "lemma": "ille"
+        },
+        {
+            "key": "promittentes",
+            "lemma": "promitto"
+        },
+        {
+            "key": "cum",
+            "lemma": "cum"
+        },
+        {
+            "key": "ipsi",
+            "lemma": "ipse"
+        },
+        {
+            "key": "servi",
+            "lemma": "seruus"
+        },
+        {
+            "key": "sint",
+            "lemma": "sum"
+        },
+        {
+            "key": "corruptionem",
+            "lemma": "corruptio"
+        },
+        {
+            "key": "a",
+            "lemma": "ab"
+        },
+        {
+            "key": "quo",
+            "lemma": "qui"
+        },
+        {
+            "key": "enim",
+            "lemma": "enim"
+        },
+        {
+            "key": "quis",
+            "lemma": "quis"
+        },
+        {
+            "key": "superatus",
+            "lemma": "superaeo"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "hujus",
+            "lemma": "hjc"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "servus",
+            "lemma": "seruus"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        }
+    ],
+    "2 Peter.2.20": [
+        {
+            "key": "si",
+            "lemma": "si"
+        },
+        {
+            "key": "enim",
+            "lemma": "enim"
+        },
+        {
+            "key": "refugientes",
+            "lemma": "refugio"
+        },
+        {
+            "key": "coinquinationes",
+            "lemma": "coinquinatio"
+        },
+        {
+            "key": "mundi",
+            "lemma": "mundus"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "cognitione",
+            "lemma": "cognitio"
+        },
+        {
+            "key": "domini",
+            "lemma": "dominus"
+        },
+        {
+            "key": "nostri",
+            "lemma": "noster"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "salvatoris",
+            "lemma": "saluator"
+        },
+        {
+            "key": "jesu",
+            "lemma": "jesus"
+        },
+        {
+            "key": "christi",
+            "lemma": "christus"
+        },
+        {
+            "key": "his",
+            "lemma": "hic"
+        },
+        {
+            "key": "rursus",
+            "lemma": "rursus"
+        },
+        {
+            "key": "implicati",
+            "lemma": "implico"
+        },
+        {
+            "key": "superantur",
+            "lemma": "superao"
+        },
+        {
+            "key": "facta",
+            "lemma": "facio"
+        },
+        {
+            "key": "sunt",
+            "lemma": "sum"
+        },
+        {
+            "key": "eis",
+            "lemma": "is"
+        },
+        {
+            "key": "posteriora",
+            "lemma": "posterus"
+        },
+        {
+            "key": "deteriora",
+            "lemma": "deterus"
+        },
+        {
+            "key": "prioribus",
+            "lemma": "prior"
+        }
+    ],
+    "2 Peter.2.21": [
+        {
+            "key": "melius",
+            "lemma": "melius"
+        },
+        {
+            "key": "enim",
+            "lemma": "enim"
+        },
+        {
+            "key": "erat",
+            "lemma": "sum"
+        },
+        {
+            "key": "illis",
+            "lemma": "ille"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "cognoscere",
+            "lemma": "cognosco"
+        },
+        {
+            "key": "viam",
+            "lemma": "uia"
+        },
+        {
+            "key": "justiti\u00e6",
+            "lemma": "justiti\u00e6"
+        },
+        {
+            "key": "quam",
+            "lemma": "quam"
+        },
+        {
+            "key": "post",
+            "lemma": "post"
+        },
+        {
+            "key": "agnitionem",
+            "lemma": "agnitio"
+        },
+        {
+            "key": "retrorsum",
+            "lemma": "retrorsum"
+        },
+        {
+            "key": "converti",
+            "lemma": "conuerto"
+        },
+        {
+            "key": "ab",
+            "lemma": "ab"
+        },
+        {
+            "key": "eo",
+            "lemma": "is"
+        },
+        {
+            "key": "quod",
+            "lemma": "qui"
+        },
+        {
+            "key": "illis",
+            "lemma": "ille"
+        },
+        {
+            "key": "traditum",
+            "lemma": "trado"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "sancto",
+            "lemma": "sanctus"
+        },
+        {
+            "key": "mandato",
+            "lemma": "mandatum"
+        }
+    ],
+    "2 Peter.2.22": [
+        {
+            "key": "contigit",
+            "lemma": "contigit"
+        },
+        {
+            "key": "enim",
+            "lemma": "enim"
+        },
+        {
+            "key": "eis",
+            "lemma": "is"
+        },
+        {
+            "key": "illud",
+            "lemma": "ille"
+        },
+        {
+            "key": "veri",
+            "lemma": "uerus"
+        },
+        {
+            "key": "proverbii",
+            "lemma": "proverbio"
+        },
+        {
+            "key": "canis",
+            "lemma": "canis"
+        },
+        {
+            "key": "reversus",
+            "lemma": "reuertor"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "suum",
+            "lemma": "suus"
+        },
+        {
+            "key": "vomitum",
+            "lemma": "uomitus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "sus",
+            "lemma": "sus"
+        },
+        {
+            "key": "lota",
+            "lemma": "lotum"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "volutabro",
+            "lemma": "uolutabrum"
+        },
+        {
+            "key": "luti",
+            "lemma": "lutum"
+        }
+    ],
+    "2 Peter.3.1": [
+        {
+            "key": "hanc",
+            "lemma": "hic"
+        },
+        {
+            "key": "ecce",
+            "lemma": "ecce"
+        },
+        {
+            "key": "vobis",
+            "lemma": "uos"
+        },
+        {
+            "key": "carissimi",
+            "lemma": "carus"
+        },
+        {
+            "key": "secundam",
+            "lemma": "secundus"
+        },
+        {
+            "key": "scribo",
+            "lemma": "scribo"
+        },
+        {
+            "key": "epistolam",
+            "lemma": "epistola"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "quibus",
+            "lemma": "qui"
+        },
+        {
+            "key": "vestram",
+            "lemma": "uester"
+        },
+        {
+            "key": "excito",
+            "lemma": "excito"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "commonitione",
+            "lemma": "commonitio"
+        },
+        {
+            "key": "sinceram",
+            "lemma": "sincerus"
+        },
+        {
+            "key": "mentem",
+            "lemma": "mens"
+        }
+    ],
+    "2 Peter.3.2": [
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "memores",
+            "lemma": "memor"
+        },
+        {
+            "key": "sitis",
+            "lemma": "sum"
+        },
+        {
+            "key": "eorum",
+            "lemma": "is"
+        },
+        {
+            "key": "qu\u00e6",
+            "lemma": "qu\u00e6"
+        },
+        {
+            "key": "pr\u00e6dixi",
+            "lemma": "pr\u00e6dico"
+        },
+        {
+            "key": "verborum",
+            "lemma": "uerbum"
+        },
+        {
+            "key": "a",
+            "lemma": "ab"
+        },
+        {
+            "key": "sanctis",
+            "lemma": "sanctus"
+        },
+        {
+            "key": "prophetis",
+            "lemma": "propheta"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "apostolorum",
+            "lemma": "apostolus"
+        },
+        {
+            "key": "vestrorum",
+            "lemma": "uester"
+        },
+        {
+            "key": "pr\u00e6ceptorum",
+            "lemma": "pr\u00e6ceptum"
+        },
+        {
+            "key": "domini",
+            "lemma": "dominus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "salvatoris",
+            "lemma": "saluator"
+        }
+    ],
+    "2 Peter.3.3": [
+        {
+            "key": "hoc",
+            "lemma": "hic"
+        },
+        {
+            "key": "primum",
+            "lemma": "primus"
+        },
+        {
+            "key": "scientes",
+            "lemma": "scio"
+        },
+        {
+            "key": "quod",
+            "lemma": "quod"
+        },
+        {
+            "key": "venient",
+            "lemma": "uenio"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "novissimis",
+            "lemma": "nouissimus"
+        },
+        {
+            "key": "diebus",
+            "lemma": "dies"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "deceptione",
+            "lemma": "deceptio"
+        },
+        {
+            "key": "illusores",
+            "lemma": "illusor"
+        },
+        {
+            "key": "juxta",
+            "lemma": "juxta"
+        },
+        {
+            "key": "proprias",
+            "lemma": "proprius"
+        },
+        {
+            "key": "concupiscentias",
+            "lemma": "concupiscentia"
+        },
+        {
+            "key": "ambulantes",
+            "lemma": "ambulo"
+        }
+    ],
+    "2 Peter.3.4": [
+        {
+            "key": "dicentes",
+            "lemma": "dico"
+        },
+        {
+            "key": "ubi",
+            "lemma": "ubi"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "promissio",
+            "lemma": "promissio"
+        },
+        {
+            "key": "aut",
+            "lemma": "aut"
+        },
+        {
+            "key": "adventus",
+            "lemma": "aduentus"
+        },
+        {
+            "key": "ejus",
+            "lemma": "js"
+        },
+        {
+            "key": "ex",
+            "lemma": "ex"
+        },
+        {
+            "key": "quo",
+            "lemma": "qui"
+        },
+        {
+            "key": "enim",
+            "lemma": "enim"
+        },
+        {
+            "key": "patres",
+            "lemma": "pater"
+        },
+        {
+            "key": "dormierunt",
+            "lemma": "dormio"
+        },
+        {
+            "key": "omnia",
+            "lemma": "omnis"
+        },
+        {
+            "key": "sic",
+            "lemma": "sic"
+        },
+        {
+            "key": "perseverant",
+            "lemma": "perseuero"
+        },
+        {
+            "key": "ab",
+            "lemma": "ab"
+        },
+        {
+            "key": "initio",
+            "lemma": "initium"
+        },
+        {
+            "key": "creatur\u00e6",
+            "lemma": "creatur\u00e6"
+        }
+    ],
+    "2 Peter.3.5": [
+        {
+            "key": "latet",
+            "lemma": "latet"
+        },
+        {
+            "key": "enim",
+            "lemma": "enim"
+        },
+        {
+            "key": "eos",
+            "lemma": "is"
+        },
+        {
+            "key": "hoc",
+            "lemma": "hic"
+        },
+        {
+            "key": "volentes",
+            "lemma": "uolo"
+        },
+        {
+            "key": "quod",
+            "lemma": "quod"
+        },
+        {
+            "key": "c\u00e6li",
+            "lemma": "c\u00e6li"
+        },
+        {
+            "key": "erant",
+            "lemma": "sum"
+        },
+        {
+            "key": "prius",
+            "lemma": "prius"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "terra",
+            "lemma": "terra"
+        },
+        {
+            "key": "de",
+            "lemma": "de"
+        },
+        {
+            "key": "aqua",
+            "lemma": "aqua"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "per",
+            "lemma": "per"
+        },
+        {
+            "key": "aquam",
+            "lemma": "aqua"
+        },
+        {
+            "key": "consistens",
+            "lemma": "consisto"
+        },
+        {
+            "key": "dei",
+            "lemma": "deus"
+        },
+        {
+            "key": "verbo",
+            "lemma": "uerbum"
+        }
+    ],
+    "2 Peter.3.6": [
+        {
+            "key": "per",
+            "lemma": "per"
+        },
+        {
+            "key": "qu\u00e6",
+            "lemma": "qu\u00e6"
+        },
+        {
+            "key": "ille",
+            "lemma": "ille"
+        },
+        {
+            "key": "tunc",
+            "lemma": "tunc"
+        },
+        {
+            "key": "mundus",
+            "lemma": "mundus"
+        },
+        {
+            "key": "aqua",
+            "lemma": "aqua"
+        },
+        {
+            "key": "inundatus",
+            "lemma": "inundo"
+        },
+        {
+            "key": "periit",
+            "lemma": "pereo"
+        }
+    ],
+    "2 Peter.3.7": [
+        {
+            "key": "c\u00e6li",
+            "lemma": "c\u00e6li"
+        },
+        {
+            "key": "autem",
+            "lemma": "autem"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "nunc",
+            "lemma": "nunc"
+        },
+        {
+            "key": "sunt",
+            "lemma": "sum"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "terra",
+            "lemma": "terra"
+        },
+        {
+            "key": "eodem",
+            "lemma": "idem"
+        },
+        {
+            "key": "verbo",
+            "lemma": "uerbum"
+        },
+        {
+            "key": "repositi",
+            "lemma": "repono"
+        },
+        {
+            "key": "sunt",
+            "lemma": "sum"
+        },
+        {
+            "key": "igni",
+            "lemma": "ignis"
+        },
+        {
+            "key": "reservati",
+            "lemma": "reservo"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "diem",
+            "lemma": "dies"
+        },
+        {
+            "key": "judicii",
+            "lemma": "judicium"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "perditionis",
+            "lemma": "perditio"
+        },
+        {
+            "key": "impiorum",
+            "lemma": "impius"
+        },
+        {
+            "key": "hominum",
+            "lemma": "homo"
+        }
+    ],
+    "2 Peter.3.8": [
+        {
+            "key": "unum",
+            "lemma": "unus"
+        },
+        {
+            "key": "vero",
+            "lemma": "uero"
+        },
+        {
+            "key": "hoc",
+            "lemma": "hic"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "lateat",
+            "lemma": "lateo"
+        },
+        {
+            "key": "vos",
+            "lemma": "uos"
+        },
+        {
+            "key": "carissimi",
+            "lemma": "carus"
+        },
+        {
+            "key": "quia",
+            "lemma": "quia"
+        },
+        {
+            "key": "unus",
+            "lemma": "unus"
+        },
+        {
+            "key": "dies",
+            "lemma": "dies"
+        },
+        {
+            "key": "apud",
+            "lemma": "apud"
+        },
+        {
+            "key": "dominum",
+            "lemma": "dominus"
+        },
+        {
+            "key": "sicut",
+            "lemma": "sicut"
+        },
+        {
+            "key": "mille",
+            "lemma": "mille"
+        },
+        {
+            "key": "anni",
+            "lemma": "annus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "mille",
+            "lemma": "mille"
+        },
+        {
+            "key": "anni",
+            "lemma": "annus"
+        },
+        {
+            "key": "sicut",
+            "lemma": "sicut"
+        },
+        {
+            "key": "dies",
+            "lemma": "dies"
+        },
+        {
+            "key": "unus",
+            "lemma": "unus"
+        }
+    ],
+    "2 Peter.3.9": [
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "tardat",
+            "lemma": "tardo"
+        },
+        {
+            "key": "dominus",
+            "lemma": "dominus"
+        },
+        {
+            "key": "promissionem",
+            "lemma": "promissio"
+        },
+        {
+            "key": "suam",
+            "lemma": "suus"
+        },
+        {
+            "key": "sicut",
+            "lemma": "sicut"
+        },
+        {
+            "key": "quidam",
+            "lemma": "quidam"
+        },
+        {
+            "key": "existimant",
+            "lemma": "existimo"
+        },
+        {
+            "key": "sed",
+            "lemma": "sed"
+        },
+        {
+            "key": "patienter",
+            "lemma": "patienter"
+        },
+        {
+            "key": "agit",
+            "lemma": "ago"
+        },
+        {
+            "key": "propter",
+            "lemma": "propter"
+        },
+        {
+            "key": "vos",
+            "lemma": "uos"
+        },
+        {
+            "key": "nolens",
+            "lemma": "nolo"
+        },
+        {
+            "key": "aliquos",
+            "lemma": "aliqui"
+        },
+        {
+            "key": "perire",
+            "lemma": "pereo"
+        },
+        {
+            "key": "sed",
+            "lemma": "sed"
+        },
+        {
+            "key": "omnes",
+            "lemma": "omnis"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "p\u0153nitentiam",
+            "lemma": "p\u0153nitentia"
+        },
+        {
+            "key": "reverti",
+            "lemma": "reuertor"
+        }
+    ],
+    "2 Peter.3.10": [
+        {
+            "key": "adveniet",
+            "lemma": "adveniet"
+        },
+        {
+            "key": "autem",
+            "lemma": "autem"
+        },
+        {
+            "key": "dies",
+            "lemma": "dies"
+        },
+        {
+            "key": "domini",
+            "lemma": "dominus"
+        },
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "fur",
+            "lemma": "fur"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "quo",
+            "lemma": "qui"
+        },
+        {
+            "key": "c\u00e6li",
+            "lemma": "c\u00e6li"
+        },
+        {
+            "key": "magno",
+            "lemma": "magnus"
+        },
+        {
+            "key": "impetu",
+            "lemma": "impetus"
+        },
+        {
+            "key": "transient",
+            "lemma": "transio"
+        },
+        {
+            "key": "elementa",
+            "lemma": "elementum"
+        },
+        {
+            "key": "vero",
+            "lemma": "uero"
+        },
+        {
+            "key": "calore",
+            "lemma": "calor"
+        },
+        {
+            "key": "solventur",
+            "lemma": "solvo"
+        },
+        {
+            "key": "terra",
+            "lemma": "terra"
+        },
+        {
+            "key": "autem",
+            "lemma": "autem"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "qu\u00e6",
+            "lemma": "qu\u00e6"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "ipsa",
+            "lemma": "ipse"
+        },
+        {
+            "key": "sunt",
+            "lemma": "sum"
+        },
+        {
+            "key": "opera",
+            "lemma": "opus"
+        },
+        {
+            "key": "exurentur",
+            "lemma": "exuro"
+        }
+    ],
+    "2 Peter.3.11": [
+        {
+            "key": "cum",
+            "lemma": "cum"
+        },
+        {
+            "key": "igitur",
+            "lemma": "igitur"
+        },
+        {
+            "key": "h\u00e6c",
+            "lemma": "h\u00e6c"
+        },
+        {
+            "key": "omnia",
+            "lemma": "omnis"
+        },
+        {
+            "key": "dissolvenda",
+            "lemma": "dissolvo"
+        },
+        {
+            "key": "sunt",
+            "lemma": "sum"
+        },
+        {
+            "key": "quales",
+            "lemma": "qualis"
+        },
+        {
+            "key": "oportet",
+            "lemma": "oportet"
+        },
+        {
+            "key": "vos",
+            "lemma": "uos"
+        },
+        {
+            "key": "esse",
+            "lemma": "sum"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "sanctis",
+            "lemma": "sanctus"
+        },
+        {
+            "key": "conversationibus",
+            "lemma": "conversatio"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "pietatibus",
+            "lemma": "pietatis"
+        }
+    ],
+    "2 Peter.3.12": [
+        {
+            "key": "exspectantes",
+            "lemma": "exspecto"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "properantes",
+            "lemma": "propero"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "adventum",
+            "lemma": "aduentus"
+        },
+        {
+            "key": "diei",
+            "lemma": "dies"
+        },
+        {
+            "key": "domini",
+            "lemma": "dominus"
+        },
+        {
+            "key": "per",
+            "lemma": "per"
+        },
+        {
+            "key": "quem",
+            "lemma": "qui"
+        },
+        {
+            "key": "c\u00e6li",
+            "lemma": "c\u00e6li"
+        },
+        {
+            "key": "ardentes",
+            "lemma": "ardo"
+        },
+        {
+            "key": "solventur",
+            "lemma": "solvo"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "elementa",
+            "lemma": "elementum"
+        },
+        {
+            "key": "ignis",
+            "lemma": "ignis"
+        },
+        {
+            "key": "ardore",
+            "lemma": "ardor"
+        },
+        {
+            "key": "tabescent",
+            "lemma": "tabesco"
+        }
+    ],
+    "2 Peter.3.13": [
+        {
+            "key": "novos",
+            "lemma": "novos"
+        },
+        {
+            "key": "vero",
+            "lemma": "uero"
+        },
+        {
+            "key": "c\u00e6los",
+            "lemma": "c\u00e6lus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "novam",
+            "lemma": "nouus"
+        },
+        {
+            "key": "terram",
+            "lemma": "terra"
+        },
+        {
+            "key": "secundum",
+            "lemma": "secundum"
+        },
+        {
+            "key": "promissa",
+            "lemma": "promitto"
+        },
+        {
+            "key": "ipsius",
+            "lemma": "ipse"
+        },
+        {
+            "key": "exspectamus",
+            "lemma": "exspecto"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "quibus",
+            "lemma": "qui"
+        },
+        {
+            "key": "justitia",
+            "lemma": "justitia"
+        },
+        {
+            "key": "habitat",
+            "lemma": "habito"
+        }
+    ],
+    "2 Peter.3.14": [
+        {
+            "key": "propter",
+            "lemma": "propter"
+        },
+        {
+            "key": "quod",
+            "lemma": "qui"
+        },
+        {
+            "key": "carissimi",
+            "lemma": "carus"
+        },
+        {
+            "key": "h\u00e6c",
+            "lemma": "h\u00e6c"
+        },
+        {
+            "key": "exspectantes",
+            "lemma": "exspecto"
+        },
+        {
+            "key": "satagite",
+            "lemma": "satago"
+        },
+        {
+            "key": "immaculati",
+            "lemma": "immaculo"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "inviolati",
+            "lemma": "inviolo"
+        },
+        {
+            "key": "ei",
+            "lemma": "is"
+        },
+        {
+            "key": "inveniri",
+            "lemma": "invenio"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "pace",
+            "lemma": "pax"
+        }
+    ],
+    "2 Peter.3.15": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "domini",
+            "lemma": "dominus"
+        },
+        {
+            "key": "nostri",
+            "lemma": "noster"
+        },
+        {
+            "key": "longanimitatem",
+            "lemma": "longanimitas"
+        },
+        {
+            "key": "salutem",
+            "lemma": "salus"
+        },
+        {
+            "key": "arbitremini",
+            "lemma": "arbitreor"
+        },
+        {
+            "key": "sicut",
+            "lemma": "sicut"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "carissimus",
+            "lemma": "carus"
+        },
+        {
+            "key": "frater",
+            "lemma": "frater"
+        },
+        {
+            "key": "noster",
+            "lemma": "noster"
+        },
+        {
+            "key": "paulus",
+            "lemma": "paulus"
+        },
+        {
+            "key": "secundum",
+            "lemma": "secundum"
+        },
+        {
+            "key": "datam",
+            "lemma": "do"
+        },
+        {
+            "key": "sibi",
+            "lemma": "se"
+        },
+        {
+            "key": "sapientiam",
+            "lemma": "sapientia"
+        },
+        {
+            "key": "scripsit",
+            "lemma": "scribo"
+        },
+        {
+            "key": "vobis",
+            "lemma": "uos"
+        }
+    ],
+    "2 Peter.3.16": [
+        {
+            "key": "sicut",
+            "lemma": "sicut"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "omnibus",
+            "lemma": "omnis"
+        },
+        {
+            "key": "epistolis",
+            "lemma": "epistola"
+        },
+        {
+            "key": "loquens",
+            "lemma": "loquor"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "eis",
+            "lemma": "is"
+        },
+        {
+            "key": "de",
+            "lemma": "de"
+        },
+        {
+            "key": "his",
+            "lemma": "hic"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "quibus",
+            "lemma": "qui"
+        },
+        {
+            "key": "sunt",
+            "lemma": "sum"
+        },
+        {
+            "key": "qu\u00e6dam",
+            "lemma": "qu\u00e6dus"
+        },
+        {
+            "key": "difficilia",
+            "lemma": "difficilis"
+        },
+        {
+            "key": "intellectu",
+            "lemma": "intellectus"
+        },
+        {
+            "key": "qu\u00e6",
+            "lemma": "qu\u00e6"
+        },
+        {
+            "key": "indocti",
+            "lemma": "indoctus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "instabiles",
+            "lemma": "instabilis"
+        },
+        {
+            "key": "depravant",
+            "lemma": "depravo"
+        },
+        {
+            "key": "sicut",
+            "lemma": "sicut"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "ceteras",
+            "lemma": "ceterus"
+        },
+        {
+            "key": "scripturas",
+            "lemma": "scriptura"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "suam",
+            "lemma": "suus"
+        },
+        {
+            "key": "ipsorum",
+            "lemma": "ipse"
+        },
+        {
+            "key": "perditionem",
+            "lemma": "perditio"
+        }
+    ],
+    "2 Peter.3.17": [
+        {
+            "key": "vos",
+            "lemma": "uos"
+        },
+        {
+            "key": "igitur",
+            "lemma": "igitur"
+        },
+        {
+            "key": "fratres",
+            "lemma": "frater"
+        },
+        {
+            "key": "pr\u00e6scientes",
+            "lemma": "pr\u00e6scio"
+        },
+        {
+            "key": "custodite",
+            "lemma": "custodo"
+        },
+        {
+            "key": "ne",
+            "lemma": "ne"
+        },
+        {
+            "key": "insipientium",
+            "lemma": "insipiens"
+        },
+        {
+            "key": "errore",
+            "lemma": "error"
+        },
+        {
+            "key": "traducti",
+            "lemma": "traduco"
+        },
+        {
+            "key": "excidatis",
+            "lemma": "excido"
+        },
+        {
+            "key": "a",
+            "lemma": "ab"
+        },
+        {
+            "key": "propria",
+            "lemma": "proprius"
+        },
+        {
+            "key": "firmitate",
+            "lemma": "firmitas"
+        }
+    ],
+    "2 Peter.3.18": [
+        {
+            "key": "crescite",
+            "lemma": "cresco"
+        },
+        {
+            "key": "vero",
+            "lemma": "uero"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "gratia",
+            "lemma": "gratia"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "cognitione",
+            "lemma": "cognitio"
+        },
+        {
+            "key": "domini",
+            "lemma": "dominus"
+        },
+        {
+            "key": "nostri",
+            "lemma": "noster"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "salvatoris",
+            "lemma": "saluator"
+        },
+        {
+            "key": "jesu",
+            "lemma": "jesus"
+        },
+        {
+            "key": "christi",
+            "lemma": "christus"
+        },
+        {
+            "key": "ipsi",
+            "lemma": "ipse"
+        },
+        {
+            "key": "gloria",
+            "lemma": "gloria"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "nunc",
+            "lemma": "nunc"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "diem",
+            "lemma": "dies"
+        },
+        {
+            "key": "\u00e6ternitatis",
+            "lemma": "\u00e6ternitas"
+        },
+        {
+            "key": "amen",
+            "lemma": "amen"
+        }
+    ]
+}

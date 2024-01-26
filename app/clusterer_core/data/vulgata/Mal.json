@@ -1,0 +1,4996 @@
+{
+    "Malachias.1.1": [
+        {
+            "key": "onus",
+            "lemma": "onus"
+        },
+        {
+            "key": "verbi",
+            "lemma": "uerbum"
+        },
+        {
+            "key": "domini",
+            "lemma": "dominus"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "isra\u00ebl",
+            "lemma": "isra\u00ebl"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "manu",
+            "lemma": "manus"
+        },
+        {
+            "key": "malachi\u00e6",
+            "lemma": "malachi\u00e6"
+        }
+    ],
+    "Malachias.1.2": [
+        {
+            "key": "dilexi",
+            "lemma": "dilexi"
+        },
+        {
+            "key": "vos",
+            "lemma": "uos"
+        },
+        {
+            "key": "dicit",
+            "lemma": "dico"
+        },
+        {
+            "key": "dominus",
+            "lemma": "dominus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "dixistis",
+            "lemma": "dico"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "quo",
+            "lemma": "qui"
+        },
+        {
+            "key": "dilexisti",
+            "lemma": "diligo"
+        },
+        {
+            "key": "nos",
+            "lemma": "nos"
+        },
+        {
+            "key": "nonne",
+            "lemma": "non ne"
+        },
+        {
+            "key": "frater",
+            "lemma": "frater"
+        },
+        {
+            "key": "erat",
+            "lemma": "sum"
+        },
+        {
+            "key": "esau",
+            "lemma": "esau"
+        },
+        {
+            "key": "jacob",
+            "lemma": "jacob"
+        },
+        {
+            "key": "dicit",
+            "lemma": "dico"
+        },
+        {
+            "key": "dominus",
+            "lemma": "dominus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "dilexi",
+            "lemma": "diligo"
+        },
+        {
+            "key": "jacob",
+            "lemma": "jacob"
+        }
+    ],
+    "Malachias.1.3": [
+        {
+            "key": "esau",
+            "lemma": "esau"
+        },
+        {
+            "key": "autem",
+            "lemma": "autem"
+        },
+        {
+            "key": "odio",
+            "lemma": "odium"
+        },
+        {
+            "key": "habui",
+            "lemma": "habeo"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "posui",
+            "lemma": "pono"
+        },
+        {
+            "key": "montes",
+            "lemma": "mons"
+        },
+        {
+            "key": "ejus",
+            "lemma": "js"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "solitudinem",
+            "lemma": "solitudo"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "h\u00e6reditatem",
+            "lemma": "h\u00e6reditas"
+        },
+        {
+            "key": "ejus",
+            "lemma": "js"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "dracones",
+            "lemma": "draco"
+        },
+        {
+            "key": "deserti",
+            "lemma": "desero"
+        }
+    ],
+    "Malachias.1.4": [
+        {
+            "key": "quod",
+            "lemma": "quod"
+        },
+        {
+            "key": "si",
+            "lemma": "si"
+        },
+        {
+            "key": "dixerit",
+            "lemma": "dico"
+        },
+        {
+            "key": "idum\u00e6a",
+            "lemma": "idum\u00e6a"
+        },
+        {
+            "key": "destructi",
+            "lemma": "destructi"
+        },
+        {
+            "key": "sumus",
+            "lemma": "sum"
+        },
+        {
+            "key": "sed",
+            "lemma": "sed"
+        },
+        {
+            "key": "revertentes",
+            "lemma": "reuertor"
+        },
+        {
+            "key": "\u00e6dificabimus",
+            "lemma": "\u00e6difico"
+        },
+        {
+            "key": "qu\u00e6",
+            "lemma": "qu\u00e6"
+        },
+        {
+            "key": "destructa",
+            "lemma": "destruo"
+        },
+        {
+            "key": "sunt",
+            "lemma": "sum"
+        },
+        {
+            "key": "h\u00e6c",
+            "lemma": "h\u00e6c"
+        },
+        {
+            "key": "dicit",
+            "lemma": "dico"
+        },
+        {
+            "key": "dominus",
+            "lemma": "dominus"
+        },
+        {
+            "key": "exercituum",
+            "lemma": "exercitus"
+        },
+        {
+            "key": "isti",
+            "lemma": "istus"
+        },
+        {
+            "key": "\u00e6dificabunt",
+            "lemma": "\u00e6difico"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "ego",
+            "lemma": "ego"
+        },
+        {
+            "key": "destruam",
+            "lemma": "destruo"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "vocabuntur",
+            "lemma": "uoco"
+        },
+        {
+            "key": "termini",
+            "lemma": "terminus"
+        },
+        {
+            "key": "impietatis",
+            "lemma": "impietas"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "populus",
+            "lemma": "populus"
+        },
+        {
+            "key": "cui",
+            "lemma": "qui"
+        },
+        {
+            "key": "iratus",
+            "lemma": "irascor"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "dominus",
+            "lemma": "dominus"
+        },
+        {
+            "key": "usque",
+            "lemma": "usque"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "\u00e6ternum",
+            "lemma": "\u00e6ternus"
+        }
+    ],
+    "Malachias.1.5": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "oculi",
+            "lemma": "oculus"
+        },
+        {
+            "key": "vestri",
+            "lemma": "uester"
+        },
+        {
+            "key": "videbunt",
+            "lemma": "uideo"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "vos",
+            "lemma": "uos"
+        },
+        {
+            "key": "dicetis",
+            "lemma": "dico"
+        },
+        {
+            "key": "magnificetur",
+            "lemma": "magnificetur"
+        },
+        {
+            "key": "dominus",
+            "lemma": "dominus"
+        },
+        {
+            "key": "super",
+            "lemma": "super"
+        },
+        {
+            "key": "terminum",
+            "lemma": "terminus"
+        },
+        {
+            "key": "isra\u00ebl",
+            "lemma": "isra\u00ebl"
+        }
+    ],
+    "Malachias.1.6": [
+        {
+            "key": "filius",
+            "lemma": "filius"
+        },
+        {
+            "key": "honorat",
+            "lemma": "honoro"
+        },
+        {
+            "key": "patrem",
+            "lemma": "pater"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "servus",
+            "lemma": "seruus"
+        },
+        {
+            "key": "dominum",
+            "lemma": "dominus"
+        },
+        {
+            "key": "suum",
+            "lemma": "suus"
+        },
+        {
+            "key": "si",
+            "lemma": "si"
+        },
+        {
+            "key": "ergo",
+            "lemma": "ergo"
+        },
+        {
+            "key": "pater",
+            "lemma": "pater"
+        },
+        {
+            "key": "ego",
+            "lemma": "ego"
+        },
+        {
+            "key": "sum",
+            "lemma": "sum"
+        },
+        {
+            "key": "ubi",
+            "lemma": "ubi"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "honor",
+            "lemma": "honor"
+        },
+        {
+            "key": "meus",
+            "lemma": "meus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "si",
+            "lemma": "si"
+        },
+        {
+            "key": "dominus",
+            "lemma": "dominus"
+        },
+        {
+            "key": "ego",
+            "lemma": "ego"
+        },
+        {
+            "key": "sum",
+            "lemma": "sum"
+        },
+        {
+            "key": "ubi",
+            "lemma": "ubi"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "timor",
+            "lemma": "timor"
+        },
+        {
+            "key": "meus",
+            "lemma": "meus"
+        },
+        {
+            "key": "dicit",
+            "lemma": "dico"
+        },
+        {
+            "key": "dominus",
+            "lemma": "dominus"
+        },
+        {
+            "key": "exercituum",
+            "lemma": "exercitus"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "vos",
+            "lemma": "uos"
+        },
+        {
+            "key": "o",
+            "lemma": "o"
+        },
+        {
+            "key": "sacerdotes",
+            "lemma": "sacerdos"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "despicitis",
+            "lemma": "despicio"
+        },
+        {
+            "key": "nomen",
+            "lemma": "nomen"
+        },
+        {
+            "key": "meum",
+            "lemma": "meus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "dixistis",
+            "lemma": "dico"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "quo",
+            "lemma": "qui"
+        },
+        {
+            "key": "despeximus",
+            "lemma": "despeximus"
+        },
+        {
+            "key": "nomen",
+            "lemma": "nomen"
+        },
+        {
+            "key": "tuum",
+            "lemma": "tuus"
+        }
+    ],
+    "Malachias.1.7": [
+        {
+            "key": "offertis",
+            "lemma": "offerta"
+        },
+        {
+            "key": "super",
+            "lemma": "super"
+        },
+        {
+            "key": "altare",
+            "lemma": "altare"
+        },
+        {
+            "key": "meum",
+            "lemma": "meus"
+        },
+        {
+            "key": "panem",
+            "lemma": "panis"
+        },
+        {
+            "key": "pollutum",
+            "lemma": "pollutus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "dicitis",
+            "lemma": "dico"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "quo",
+            "lemma": "qui"
+        },
+        {
+            "key": "polluimus",
+            "lemma": "polluimus"
+        },
+        {
+            "key": "te",
+            "lemma": "tu"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "eo",
+            "lemma": "is"
+        },
+        {
+            "key": "quod",
+            "lemma": "qui"
+        },
+        {
+            "key": "dicitis",
+            "lemma": "dico"
+        },
+        {
+            "key": "mensa",
+            "lemma": "mensa"
+        },
+        {
+            "key": "domini",
+            "lemma": "dominus"
+        },
+        {
+            "key": "despecta",
+            "lemma": "despicio"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        }
+    ],
+    "Malachias.1.8": [
+        {
+            "key": "si",
+            "lemma": "si"
+        },
+        {
+            "key": "offeratis",
+            "lemma": "offero"
+        },
+        {
+            "key": "c\u00e6cum",
+            "lemma": "c\u00e6cus"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "immolandum",
+            "lemma": "immolo"
+        },
+        {
+            "key": "nonne",
+            "lemma": "non ne"
+        },
+        {
+            "key": "malum",
+            "lemma": "malum"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "si",
+            "lemma": "si"
+        },
+        {
+            "key": "offeratis",
+            "lemma": "offero"
+        },
+        {
+            "key": "claudum",
+            "lemma": "claudus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "languidum",
+            "lemma": "languidum"
+        },
+        {
+            "key": "nonne",
+            "lemma": "non ne"
+        },
+        {
+            "key": "malum",
+            "lemma": "malum"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "offer",
+            "lemma": "offero"
+        },
+        {
+            "key": "illud",
+            "lemma": "ille"
+        },
+        {
+            "key": "duci",
+            "lemma": "dux"
+        },
+        {
+            "key": "tuo",
+            "lemma": "tuus"
+        },
+        {
+            "key": "si",
+            "lemma": "si"
+        },
+        {
+            "key": "placuerit",
+            "lemma": "placeo"
+        },
+        {
+            "key": "ei",
+            "lemma": "is"
+        },
+        {
+            "key": "aut",
+            "lemma": "aut"
+        },
+        {
+            "key": "si",
+            "lemma": "si"
+        },
+        {
+            "key": "susceperit",
+            "lemma": "suscipio"
+        },
+        {
+            "key": "faciem",
+            "lemma": "facies"
+        },
+        {
+            "key": "tuam",
+            "lemma": "tuus"
+        },
+        {
+            "key": "dicit",
+            "lemma": "dico"
+        },
+        {
+            "key": "dominus",
+            "lemma": "dominus"
+        },
+        {
+            "key": "exercituum",
+            "lemma": "exercitus"
+        }
+    ],
+    "Malachias.1.9": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "nunc",
+            "lemma": "nunc"
+        },
+        {
+            "key": "deprecamini",
+            "lemma": "deprecaor"
+        },
+        {
+            "key": "vultum",
+            "lemma": "uultus"
+        },
+        {
+            "key": "dei",
+            "lemma": "deus"
+        },
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "misereatur",
+            "lemma": "misereo"
+        },
+        {
+            "key": "vestri",
+            "lemma": "uester"
+        },
+        {
+            "key": "de",
+            "lemma": "de"
+        },
+        {
+            "key": "manu",
+            "lemma": "manus"
+        },
+        {
+            "key": "enim",
+            "lemma": "enim"
+        },
+        {
+            "key": "vestra",
+            "lemma": "uester"
+        },
+        {
+            "key": "factum",
+            "lemma": "facio"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "hoc",
+            "lemma": "hic"
+        },
+        {
+            "key": "si",
+            "lemma": "si"
+        },
+        {
+            "key": "quomodo",
+            "lemma": "quomodo"
+        },
+        {
+            "key": "suscipiat",
+            "lemma": "suscipio"
+        },
+        {
+            "key": "facies",
+            "lemma": "facio"
+        },
+        {
+            "key": "vestras",
+            "lemma": "uester"
+        },
+        {
+            "key": "dicit",
+            "lemma": "dico"
+        },
+        {
+            "key": "dominus",
+            "lemma": "dominus"
+        },
+        {
+            "key": "exercituum",
+            "lemma": "exercitus"
+        }
+    ],
+    "Malachias.1.10": [
+        {
+            "key": "quis",
+            "lemma": "quis"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "vobis",
+            "lemma": "uos"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "claudat",
+            "lemma": "claudo"
+        },
+        {
+            "key": "ostia",
+            "lemma": "ostium"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "incendat",
+            "lemma": "incendo"
+        },
+        {
+            "key": "altare",
+            "lemma": "altare"
+        },
+        {
+            "key": "meum",
+            "lemma": "meus"
+        },
+        {
+            "key": "gratuito",
+            "lemma": "gratuitus"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "mihi",
+            "lemma": "ego"
+        },
+        {
+            "key": "voluntas",
+            "lemma": "uoluntas"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "vobis",
+            "lemma": "uos"
+        },
+        {
+            "key": "dicit",
+            "lemma": "dico"
+        },
+        {
+            "key": "dominus",
+            "lemma": "dominus"
+        },
+        {
+            "key": "exercituum",
+            "lemma": "exercitus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "munus",
+            "lemma": "munus"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "suscipiam",
+            "lemma": "suscipio"
+        },
+        {
+            "key": "de",
+            "lemma": "de"
+        },
+        {
+            "key": "manu",
+            "lemma": "manus"
+        },
+        {
+            "key": "vestra",
+            "lemma": "uester"
+        }
+    ],
+    "Malachias.1.11": [
+        {
+            "key": "ab",
+            "lemma": "ab"
+        },
+        {
+            "key": "ortu",
+            "lemma": "ortus"
+        },
+        {
+            "key": "enim",
+            "lemma": "enim"
+        },
+        {
+            "key": "solis",
+            "lemma": "sol"
+        },
+        {
+            "key": "usque",
+            "lemma": "usque"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "occasum",
+            "lemma": "occasus"
+        },
+        {
+            "key": "magnum",
+            "lemma": "magnus"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "nomen",
+            "lemma": "nomen"
+        },
+        {
+            "key": "meum",
+            "lemma": "meus"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "gentibus",
+            "lemma": "gens"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "omni",
+            "lemma": "omnis"
+        },
+        {
+            "key": "loco",
+            "lemma": "locus"
+        },
+        {
+            "key": "sacrificatur",
+            "lemma": "sacrifico"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "offertur",
+            "lemma": "offero"
+        },
+        {
+            "key": "nomini",
+            "lemma": "nomen"
+        },
+        {
+            "key": "meo",
+            "lemma": "meus"
+        },
+        {
+            "key": "oblatio",
+            "lemma": "oblatio"
+        },
+        {
+            "key": "munda",
+            "lemma": "mundus"
+        },
+        {
+            "key": "quia",
+            "lemma": "quia"
+        },
+        {
+            "key": "magnum",
+            "lemma": "magnus"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "nomen",
+            "lemma": "nomen"
+        },
+        {
+            "key": "meum",
+            "lemma": "meus"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "gentibus",
+            "lemma": "gens"
+        },
+        {
+            "key": "dicit",
+            "lemma": "dico"
+        },
+        {
+            "key": "dominus",
+            "lemma": "dominus"
+        },
+        {
+            "key": "exercituum",
+            "lemma": "exercitus"
+        }
+    ],
+    "Malachias.1.12": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "vos",
+            "lemma": "uos"
+        },
+        {
+            "key": "polluistis",
+            "lemma": "polluo"
+        },
+        {
+            "key": "illud",
+            "lemma": "ille"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "eo",
+            "lemma": "is"
+        },
+        {
+            "key": "quod",
+            "lemma": "qui"
+        },
+        {
+            "key": "dicitis",
+            "lemma": "dico"
+        },
+        {
+            "key": "mensa",
+            "lemma": "mensa"
+        },
+        {
+            "key": "domini",
+            "lemma": "dominus"
+        },
+        {
+            "key": "contaminata",
+            "lemma": "contamino"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "quod",
+            "lemma": "quod"
+        },
+        {
+            "key": "superponitur",
+            "lemma": "superpono"
+        },
+        {
+            "key": "contemptibilis",
+            "lemma": "contemptibilis"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "cum",
+            "lemma": "cum"
+        },
+        {
+            "key": "igne",
+            "lemma": "ignis"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "illud",
+            "lemma": "ille"
+        },
+        {
+            "key": "devorat",
+            "lemma": "devoro"
+        }
+    ],
+    "Malachias.1.13": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "dixistis",
+            "lemma": "dico"
+        },
+        {
+            "key": "ecce",
+            "lemma": "ecce"
+        },
+        {
+            "key": "de",
+            "lemma": "de"
+        },
+        {
+            "key": "labore",
+            "lemma": "labor"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "exsufflastis",
+            "lemma": "exsufflastis"
+        },
+        {
+            "key": "illud",
+            "lemma": "ille"
+        },
+        {
+            "key": "dicit",
+            "lemma": "dico"
+        },
+        {
+            "key": "dominus",
+            "lemma": "dominus"
+        },
+        {
+            "key": "exercituum",
+            "lemma": "exercitus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "intulistis",
+            "lemma": "intulo"
+        },
+        {
+            "key": "de",
+            "lemma": "de"
+        },
+        {
+            "key": "rapinis",
+            "lemma": "rapina"
+        },
+        {
+            "key": "claudum",
+            "lemma": "claudus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "languidum",
+            "lemma": "languidum"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "intulistis",
+            "lemma": "intulistis"
+        },
+        {
+            "key": "munus",
+            "lemma": "munus"
+        },
+        {
+            "key": "numquid",
+            "lemma": "numquid"
+        },
+        {
+            "key": "suscipiam",
+            "lemma": "suscipio"
+        },
+        {
+            "key": "illud",
+            "lemma": "ille"
+        },
+        {
+            "key": "de",
+            "lemma": "de"
+        },
+        {
+            "key": "manu",
+            "lemma": "manus"
+        },
+        {
+            "key": "vestra",
+            "lemma": "uester"
+        },
+        {
+            "key": "dicit",
+            "lemma": "dico"
+        },
+        {
+            "key": "dominus",
+            "lemma": "dominus"
+        }
+    ],
+    "Malachias.1.14": [
+        {
+            "key": "maledictus",
+            "lemma": "maledico"
+        },
+        {
+            "key": "dolosus",
+            "lemma": "dolosus"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "habet",
+            "lemma": "habeo"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "grege",
+            "lemma": "grex"
+        },
+        {
+            "key": "suo",
+            "lemma": "suus"
+        },
+        {
+            "key": "masculum",
+            "lemma": "masculus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "votum",
+            "lemma": "uotum"
+        },
+        {
+            "key": "faciens",
+            "lemma": "facio"
+        },
+        {
+            "key": "immolat",
+            "lemma": "immolo"
+        },
+        {
+            "key": "debile",
+            "lemma": "debilis"
+        },
+        {
+            "key": "domino",
+            "lemma": "dominus"
+        },
+        {
+            "key": "quia",
+            "lemma": "quia"
+        },
+        {
+            "key": "rex",
+            "lemma": "rex"
+        },
+        {
+            "key": "magnus",
+            "lemma": "magnus"
+        },
+        {
+            "key": "ego",
+            "lemma": "ego"
+        },
+        {
+            "key": "dicit",
+            "lemma": "dico"
+        },
+        {
+            "key": "dominus",
+            "lemma": "dominus"
+        },
+        {
+            "key": "exercituum",
+            "lemma": "exercitus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "nomen",
+            "lemma": "nomen"
+        },
+        {
+            "key": "meum",
+            "lemma": "meus"
+        },
+        {
+            "key": "horribile",
+            "lemma": "horribilis"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "gentibus",
+            "lemma": "gens"
+        }
+    ],
+    "Malachias.2.1": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "nunc",
+            "lemma": "nunc"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "vos",
+            "lemma": "uos"
+        },
+        {
+            "key": "mandatum",
+            "lemma": "mandatum"
+        },
+        {
+            "key": "hoc",
+            "lemma": "hic"
+        },
+        {
+            "key": "o",
+            "lemma": "o"
+        },
+        {
+            "key": "sacerdotes",
+            "lemma": "sacerdos"
+        }
+    ],
+    "Malachias.2.2": [
+        {
+            "key": "si",
+            "lemma": "si"
+        },
+        {
+            "key": "nolueritis",
+            "lemma": "nolueritis"
+        },
+        {
+            "key": "audire",
+            "lemma": "audio"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "si",
+            "lemma": "si"
+        },
+        {
+            "key": "nolueritis",
+            "lemma": "nolueritis"
+        },
+        {
+            "key": "ponere",
+            "lemma": "pono"
+        },
+        {
+            "key": "super",
+            "lemma": "super"
+        },
+        {
+            "key": "cor",
+            "lemma": "cor"
+        },
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "detis",
+            "lemma": "do"
+        },
+        {
+            "key": "gloriam",
+            "lemma": "gloria"
+        },
+        {
+            "key": "nomini",
+            "lemma": "nomen"
+        },
+        {
+            "key": "meo",
+            "lemma": "meus"
+        },
+        {
+            "key": "ait",
+            "lemma": "aio"
+        },
+        {
+            "key": "dominus",
+            "lemma": "dominus"
+        },
+        {
+            "key": "exercituum",
+            "lemma": "exercitus"
+        },
+        {
+            "key": "mittam",
+            "lemma": "mitto"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "vos",
+            "lemma": "uos"
+        },
+        {
+            "key": "egestatem",
+            "lemma": "egestas"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "maledicam",
+            "lemma": "maledico"
+        },
+        {
+            "key": "benedictionibus",
+            "lemma": "benedictio"
+        },
+        {
+            "key": "vestris",
+            "lemma": "uester"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "maledicam",
+            "lemma": "maledico"
+        },
+        {
+            "key": "illis",
+            "lemma": "ille"
+        },
+        {
+            "key": "quoniam",
+            "lemma": "quoniam"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "posuistis",
+            "lemma": "posuistis"
+        },
+        {
+            "key": "super",
+            "lemma": "super"
+        },
+        {
+            "key": "cor",
+            "lemma": "cor"
+        }
+    ],
+    "Malachias.2.3": [
+        {
+            "key": "ecce",
+            "lemma": "ecce"
+        },
+        {
+            "key": "ego",
+            "lemma": "ego"
+        },
+        {
+            "key": "projiciam",
+            "lemma": "projicio"
+        },
+        {
+            "key": "vobis",
+            "lemma": "uos"
+        },
+        {
+            "key": "brachium",
+            "lemma": "brachium"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "dispergam",
+            "lemma": "dispergo"
+        },
+        {
+            "key": "super",
+            "lemma": "super"
+        },
+        {
+            "key": "vultum",
+            "lemma": "uultus"
+        },
+        {
+            "key": "vestrum",
+            "lemma": "uester"
+        },
+        {
+            "key": "stercus",
+            "lemma": "stercus"
+        },
+        {
+            "key": "solemnitatum",
+            "lemma": "solemnitas"
+        },
+        {
+            "key": "vestrarum",
+            "lemma": "uester"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "assumet",
+            "lemma": "assumo"
+        },
+        {
+            "key": "vos",
+            "lemma": "uos"
+        },
+        {
+            "key": "secum",
+            "lemma": "sui"
+        }
+    ],
+    "Malachias.2.4": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "scietis",
+            "lemma": "scio"
+        },
+        {
+            "key": "quia",
+            "lemma": "quia"
+        },
+        {
+            "key": "misi",
+            "lemma": "mitto"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "vos",
+            "lemma": "uos"
+        },
+        {
+            "key": "mandatum",
+            "lemma": "mandatum"
+        },
+        {
+            "key": "istud",
+            "lemma": "iste"
+        },
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "esset",
+            "lemma": "sum"
+        },
+        {
+            "key": "pactum",
+            "lemma": "pactum"
+        },
+        {
+            "key": "meum",
+            "lemma": "meus"
+        },
+        {
+            "key": "cum",
+            "lemma": "cum"
+        },
+        {
+            "key": "levi",
+            "lemma": "leui"
+        },
+        {
+            "key": "dicit",
+            "lemma": "dico"
+        },
+        {
+            "key": "dominus",
+            "lemma": "dominus"
+        },
+        {
+            "key": "exercituum",
+            "lemma": "exercitus"
+        }
+    ],
+    "Malachias.2.5": [
+        {
+            "key": "pactum",
+            "lemma": "pactum"
+        },
+        {
+            "key": "meum",
+            "lemma": "meus"
+        },
+        {
+            "key": "fuit",
+            "lemma": "sum"
+        },
+        {
+            "key": "cum",
+            "lemma": "cum"
+        },
+        {
+            "key": "eo",
+            "lemma": "is"
+        },
+        {
+            "key": "vit\u00e6",
+            "lemma": "uit\u00e6"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "pacis",
+            "lemma": "pax"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "dedi",
+            "lemma": "do"
+        },
+        {
+            "key": "ei",
+            "lemma": "is"
+        },
+        {
+            "key": "timorem",
+            "lemma": "timor"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "timuit",
+            "lemma": "timeo"
+        },
+        {
+            "key": "me",
+            "lemma": "ego"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "a",
+            "lemma": "ab"
+        },
+        {
+            "key": "facie",
+            "lemma": "facies"
+        },
+        {
+            "key": "nominis",
+            "lemma": "nomen"
+        },
+        {
+            "key": "mei",
+            "lemma": "meus"
+        },
+        {
+            "key": "pavebat",
+            "lemma": "pavo"
+        }
+    ],
+    "Malachias.2.6": [
+        {
+            "key": "lex",
+            "lemma": "lex"
+        },
+        {
+            "key": "veritatis",
+            "lemma": "ueritas"
+        },
+        {
+            "key": "fuit",
+            "lemma": "sum"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "ore",
+            "lemma": "os"
+        },
+        {
+            "key": "ejus",
+            "lemma": "js"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "iniquitas",
+            "lemma": "iniquitas"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "inventa",
+            "lemma": "inuenio"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "labiis",
+            "lemma": "labium"
+        },
+        {
+            "key": "ejus",
+            "lemma": "js"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "pace",
+            "lemma": "pax"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "\u00e6quitate",
+            "lemma": "\u00e6quitas"
+        },
+        {
+            "key": "ambulavit",
+            "lemma": "ambulo"
+        },
+        {
+            "key": "me",
+            "lemma": "ego"
+        },
+        {
+            "key": "cum",
+            "lemma": "cum"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "multos",
+            "lemma": "multus"
+        },
+        {
+            "key": "avertit",
+            "lemma": "auerto"
+        },
+        {
+            "key": "ab",
+            "lemma": "ab"
+        },
+        {
+            "key": "iniquitate",
+            "lemma": "iniquitas"
+        }
+    ],
+    "Malachias.2.7": [
+        {
+            "key": "labia",
+            "lemma": "labia"
+        },
+        {
+            "key": "enim",
+            "lemma": "enim"
+        },
+        {
+            "key": "sacerdotis",
+            "lemma": "sacerdos"
+        },
+        {
+            "key": "custodient",
+            "lemma": "custodio"
+        },
+        {
+            "key": "scientiam",
+            "lemma": "scientia"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "legem",
+            "lemma": "lex"
+        },
+        {
+            "key": "requirent",
+            "lemma": "requiro"
+        },
+        {
+            "key": "ex",
+            "lemma": "ex"
+        },
+        {
+            "key": "ore",
+            "lemma": "os"
+        },
+        {
+            "key": "ejus",
+            "lemma": "js"
+        },
+        {
+            "key": "quia",
+            "lemma": "quia"
+        },
+        {
+            "key": "angelus",
+            "lemma": "angelus"
+        },
+        {
+            "key": "domini",
+            "lemma": "dominus"
+        },
+        {
+            "key": "exercituum",
+            "lemma": "exercitus"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        }
+    ],
+    "Malachias.2.8": [
+        {
+            "key": "vos",
+            "lemma": "uos"
+        },
+        {
+            "key": "autem",
+            "lemma": "autem"
+        },
+        {
+            "key": "recessistis",
+            "lemma": "recesso"
+        },
+        {
+            "key": "de",
+            "lemma": "de"
+        },
+        {
+            "key": "via",
+            "lemma": "uia"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "scandalizastis",
+            "lemma": "scandalizastis"
+        },
+        {
+            "key": "plurimos",
+            "lemma": "multus"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "lege",
+            "lemma": "lex"
+        },
+        {
+            "key": "irritum",
+            "lemma": "irritus"
+        },
+        {
+            "key": "fecistis",
+            "lemma": "facio"
+        },
+        {
+            "key": "pactum",
+            "lemma": "pactum"
+        },
+        {
+            "key": "levi",
+            "lemma": "leui"
+        },
+        {
+            "key": "dicit",
+            "lemma": "dico"
+        },
+        {
+            "key": "dominus",
+            "lemma": "dominus"
+        },
+        {
+            "key": "exercituum",
+            "lemma": "exercitus"
+        }
+    ],
+    "Malachias.2.9": [
+        {
+            "key": "propter",
+            "lemma": "propter"
+        },
+        {
+            "key": "quod",
+            "lemma": "qui"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "ego",
+            "lemma": "ego"
+        },
+        {
+            "key": "dedi",
+            "lemma": "do"
+        },
+        {
+            "key": "vos",
+            "lemma": "uos"
+        },
+        {
+            "key": "contemptibiles",
+            "lemma": "contemptibilis"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "humiles",
+            "lemma": "humilis"
+        },
+        {
+            "key": "omnibus",
+            "lemma": "omnis"
+        },
+        {
+            "key": "populis",
+            "lemma": "populus"
+        },
+        {
+            "key": "sicut",
+            "lemma": "sicut"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "servastis",
+            "lemma": "servastis"
+        },
+        {
+            "key": "vias",
+            "lemma": "uia"
+        },
+        {
+            "key": "meas",
+            "lemma": "meus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "accepistis",
+            "lemma": "accipio"
+        },
+        {
+            "key": "faciem",
+            "lemma": "facies"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "lege",
+            "lemma": "lex"
+        }
+    ],
+    "Malachias.2.10": [
+        {
+            "key": "numquid",
+            "lemma": "numquid"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "pater",
+            "lemma": "pater"
+        },
+        {
+            "key": "unus",
+            "lemma": "unus"
+        },
+        {
+            "key": "omnium",
+            "lemma": "omnis"
+        },
+        {
+            "key": "nostrum",
+            "lemma": "noster"
+        },
+        {
+            "key": "numquid",
+            "lemma": "numquid"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "deus",
+            "lemma": "deus"
+        },
+        {
+            "key": "unus",
+            "lemma": "unus"
+        },
+        {
+            "key": "creavit",
+            "lemma": "creo"
+        },
+        {
+            "key": "nos",
+            "lemma": "nos"
+        },
+        {
+            "key": "quare",
+            "lemma": "quare"
+        },
+        {
+            "key": "ergo",
+            "lemma": "ergo"
+        },
+        {
+            "key": "despicit",
+            "lemma": "despicio"
+        },
+        {
+            "key": "unusquisque",
+            "lemma": "unusquisque"
+        },
+        {
+            "key": "nostrum",
+            "lemma": "noster"
+        },
+        {
+            "key": "fratrem",
+            "lemma": "frater"
+        },
+        {
+            "key": "suum",
+            "lemma": "suus"
+        },
+        {
+            "key": "violans",
+            "lemma": "violo"
+        },
+        {
+            "key": "pactum",
+            "lemma": "pactum"
+        },
+        {
+            "key": "patrum",
+            "lemma": "pater"
+        },
+        {
+            "key": "nostrorum",
+            "lemma": "noster"
+        }
+    ],
+    "Malachias.2.11": [
+        {
+            "key": "transgressus",
+            "lemma": "transgressus"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "juda",
+            "lemma": "juda"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "abominatio",
+            "lemma": "abominatio"
+        },
+        {
+            "key": "facta",
+            "lemma": "facio"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "isra\u00ebl",
+            "lemma": "isra\u00ebl"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "jerusalem",
+            "lemma": "jerusale"
+        },
+        {
+            "key": "quia",
+            "lemma": "quia"
+        },
+        {
+            "key": "contaminavit",
+            "lemma": "contaminavit"
+        },
+        {
+            "key": "juda",
+            "lemma": "juda"
+        },
+        {
+            "key": "sanctificationem",
+            "lemma": "sanctificatio"
+        },
+        {
+            "key": "domini",
+            "lemma": "dominus"
+        },
+        {
+            "key": "quam",
+            "lemma": "qui"
+        },
+        {
+            "key": "dilexit",
+            "lemma": "diligo"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "habuit",
+            "lemma": "habeo"
+        },
+        {
+            "key": "filiam",
+            "lemma": "filia"
+        },
+        {
+            "key": "dei",
+            "lemma": "deus"
+        },
+        {
+            "key": "alieni",
+            "lemma": "alienus"
+        }
+    ],
+    "Malachias.2.12": [
+        {
+            "key": "disperdet",
+            "lemma": "disperdo"
+        },
+        {
+            "key": "dominus",
+            "lemma": "dominus"
+        },
+        {
+            "key": "virum",
+            "lemma": "uir"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "fecerit",
+            "lemma": "facio"
+        },
+        {
+            "key": "hoc",
+            "lemma": "hic"
+        },
+        {
+            "key": "magistrum",
+            "lemma": "magister"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "discipulum",
+            "lemma": "discipulus"
+        },
+        {
+            "key": "de",
+            "lemma": "de"
+        },
+        {
+            "key": "tabernaculis",
+            "lemma": "tabernaculum"
+        },
+        {
+            "key": "jacob",
+            "lemma": "jacob"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "offerentem",
+            "lemma": "offero"
+        },
+        {
+            "key": "munus",
+            "lemma": "munus"
+        },
+        {
+            "key": "domino",
+            "lemma": "dominus"
+        },
+        {
+            "key": "exercituum",
+            "lemma": "exercitus"
+        }
+    ],
+    "Malachias.2.13": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "hoc",
+            "lemma": "hic"
+        },
+        {
+            "key": "rursum",
+            "lemma": "rursus"
+        },
+        {
+            "key": "fecistis",
+            "lemma": "facio"
+        },
+        {
+            "key": "operiebatis",
+            "lemma": "operiebatis"
+        },
+        {
+            "key": "lacrimis",
+            "lemma": "lacrima"
+        },
+        {
+            "key": "altare",
+            "lemma": "altare"
+        },
+        {
+            "key": "domini",
+            "lemma": "dominus"
+        },
+        {
+            "key": "fletu",
+            "lemma": "fletus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "mugitu",
+            "lemma": "mugitus"
+        },
+        {
+            "key": "ita",
+            "lemma": "ita"
+        },
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "respiciam",
+            "lemma": "respicio"
+        },
+        {
+            "key": "ultra",
+            "lemma": "ultra"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "sacrificium",
+            "lemma": "sacrificium"
+        },
+        {
+            "key": "nec",
+            "lemma": "nec"
+        },
+        {
+            "key": "accipiam",
+            "lemma": "accipio"
+        },
+        {
+            "key": "placabile",
+            "lemma": "placabilis"
+        },
+        {
+            "key": "quid",
+            "lemma": "quis"
+        },
+        {
+            "key": "de",
+            "lemma": "de"
+        },
+        {
+            "key": "manu",
+            "lemma": "manus"
+        },
+        {
+            "key": "vestra",
+            "lemma": "uester"
+        }
+    ],
+    "Malachias.2.14": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "dixistis",
+            "lemma": "dico"
+        },
+        {
+            "key": "quam",
+            "lemma": "quamobrem"
+        },
+        {
+            "key": "ob",
+            "lemma": "ob"
+        },
+        {
+            "key": "causam",
+            "lemma": "causa"
+        },
+        {
+            "key": "quia",
+            "lemma": "quia"
+        },
+        {
+            "key": "dominus",
+            "lemma": "dominus"
+        },
+        {
+            "key": "testificatus",
+            "lemma": "testificor"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "inter",
+            "lemma": "inter"
+        },
+        {
+            "key": "te",
+            "lemma": "tu"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "uxorem",
+            "lemma": "uxor"
+        },
+        {
+            "key": "pubertatis",
+            "lemma": "pubertas"
+        },
+        {
+            "key": "tu\u00e6",
+            "lemma": "tu\u00e6"
+        },
+        {
+            "key": "quam",
+            "lemma": "qui"
+        },
+        {
+            "key": "tu",
+            "lemma": "tu"
+        },
+        {
+            "key": "despexisti",
+            "lemma": "despexo"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "h\u00e6c",
+            "lemma": "h\u00e6c"
+        },
+        {
+            "key": "particeps",
+            "lemma": "particeps"
+        },
+        {
+            "key": "tua",
+            "lemma": "tuus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "uxor",
+            "lemma": "uxor"
+        },
+        {
+            "key": "f\u0153deris",
+            "lemma": "f\u0153deris"
+        },
+        {
+            "key": "tui",
+            "lemma": "tuus"
+        }
+    ],
+    "Malachias.2.15": [
+        {
+            "key": "nonne",
+            "lemma": "non ne"
+        },
+        {
+            "key": "unus",
+            "lemma": "unus"
+        },
+        {
+            "key": "fecit",
+            "lemma": "facio"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "residuum",
+            "lemma": "residuus"
+        },
+        {
+            "key": "spiritus",
+            "lemma": "spiritus"
+        },
+        {
+            "key": "ejus",
+            "lemma": "ejus"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "quid",
+            "lemma": "quis"
+        },
+        {
+            "key": "unus",
+            "lemma": "unus"
+        },
+        {
+            "key": "qu\u00e6rit",
+            "lemma": "qu\u00e6rio"
+        },
+        {
+            "key": "nisi",
+            "lemma": "nisi"
+        },
+        {
+            "key": "semen",
+            "lemma": "semen"
+        },
+        {
+            "key": "dei",
+            "lemma": "deus"
+        },
+        {
+            "key": "custodite",
+            "lemma": "custodo"
+        },
+        {
+            "key": "ergo",
+            "lemma": "ergo"
+        },
+        {
+            "key": "spiritum",
+            "lemma": "spiritus"
+        },
+        {
+            "key": "vestrum",
+            "lemma": "uester"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "uxorem",
+            "lemma": "uxor"
+        },
+        {
+            "key": "adolescenti\u00e6",
+            "lemma": "adolescenti\u00e6"
+        },
+        {
+            "key": "tu\u00e6",
+            "lemma": "tu\u00e6"
+        },
+        {
+            "key": "noli",
+            "lemma": "nolo"
+        },
+        {
+            "key": "despicere",
+            "lemma": "despicio"
+        }
+    ],
+    "Malachias.2.16": [
+        {
+            "key": "cum",
+            "lemma": "cum"
+        },
+        {
+            "key": "odio",
+            "lemma": "odium"
+        },
+        {
+            "key": "habueris",
+            "lemma": "habeo"
+        },
+        {
+            "key": "dimitte",
+            "lemma": "dimitto"
+        },
+        {
+            "key": "dicit",
+            "lemma": "dico"
+        },
+        {
+            "key": "dominus",
+            "lemma": "dominus"
+        },
+        {
+            "key": "deus",
+            "lemma": "deus"
+        },
+        {
+            "key": "isra\u00ebl",
+            "lemma": "isra\u00ebl"
+        },
+        {
+            "key": "operiet",
+            "lemma": "operio"
+        },
+        {
+            "key": "autem",
+            "lemma": "autem"
+        },
+        {
+            "key": "iniquitas",
+            "lemma": "iniquitas"
+        },
+        {
+            "key": "vestimentum",
+            "lemma": "uestimentum"
+        },
+        {
+            "key": "ejus",
+            "lemma": "js"
+        },
+        {
+            "key": "dicit",
+            "lemma": "dico"
+        },
+        {
+            "key": "dominus",
+            "lemma": "dominus"
+        },
+        {
+            "key": "exercituum",
+            "lemma": "exercitus"
+        },
+        {
+            "key": "custodite",
+            "lemma": "custodo"
+        },
+        {
+            "key": "spiritum",
+            "lemma": "spiritus"
+        },
+        {
+            "key": "vestrum",
+            "lemma": "uester"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "nolite",
+            "lemma": "nolo"
+        },
+        {
+            "key": "despicere",
+            "lemma": "despico"
+        }
+    ],
+    "Malachias.2.17": [
+        {
+            "key": "laborare",
+            "lemma": "laboror"
+        },
+        {
+            "key": "fecistis",
+            "lemma": "facio"
+        },
+        {
+            "key": "dominum",
+            "lemma": "dominus"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "sermonibus",
+            "lemma": "sermo"
+        },
+        {
+            "key": "vestris",
+            "lemma": "uester"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "dixistis",
+            "lemma": "dico"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "quo",
+            "lemma": "qui"
+        },
+        {
+            "key": "eum",
+            "lemma": "is"
+        },
+        {
+            "key": "fecimus",
+            "lemma": "facio"
+        },
+        {
+            "key": "laborare",
+            "lemma": "laboro"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "eo",
+            "lemma": "is"
+        },
+        {
+            "key": "quod",
+            "lemma": "qui"
+        },
+        {
+            "key": "dicitis",
+            "lemma": "dico"
+        },
+        {
+            "key": "omnis",
+            "lemma": "omnis"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "facit",
+            "lemma": "facio"
+        },
+        {
+            "key": "malum",
+            "lemma": "malum"
+        },
+        {
+            "key": "bonus",
+            "lemma": "bonus"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "conspectu",
+            "lemma": "conspectus"
+        },
+        {
+            "key": "domini",
+            "lemma": "dominus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "tales",
+            "lemma": "talis"
+        },
+        {
+            "key": "ei",
+            "lemma": "is"
+        },
+        {
+            "key": "placent",
+            "lemma": "placeo"
+        },
+        {
+            "key": "aut",
+            "lemma": "aut"
+        },
+        {
+            "key": "certe",
+            "lemma": "certe"
+        },
+        {
+            "key": "ubi",
+            "lemma": "ubi"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "deus",
+            "lemma": "deus"
+        },
+        {
+            "key": "judicii",
+            "lemma": "judicium"
+        }
+    ],
+    "Malachias.3.1": [
+        {
+            "key": "ecce",
+            "lemma": "ecce"
+        },
+        {
+            "key": "ego",
+            "lemma": "ego"
+        },
+        {
+            "key": "mitto",
+            "lemma": "mitto"
+        },
+        {
+            "key": "angelum",
+            "lemma": "angelus"
+        },
+        {
+            "key": "meum",
+            "lemma": "meus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "pr\u00e6parabit",
+            "lemma": "pr\u00e6paro"
+        },
+        {
+            "key": "viam",
+            "lemma": "uia"
+        },
+        {
+            "key": "ante",
+            "lemma": "ante"
+        },
+        {
+            "key": "faciem",
+            "lemma": "facies"
+        },
+        {
+            "key": "meam",
+            "lemma": "meus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "statim",
+            "lemma": "statim"
+        },
+        {
+            "key": "veniet",
+            "lemma": "uenio"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "templum",
+            "lemma": "templum"
+        },
+        {
+            "key": "suum",
+            "lemma": "suus"
+        },
+        {
+            "key": "dominator",
+            "lemma": "dominator"
+        },
+        {
+            "key": "quem",
+            "lemma": "qui"
+        },
+        {
+            "key": "vos",
+            "lemma": "uos"
+        },
+        {
+            "key": "qu\u00e6ritis",
+            "lemma": "qu\u00e6ro"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "angelus",
+            "lemma": "angelus"
+        },
+        {
+            "key": "testamenti",
+            "lemma": "testamentum"
+        },
+        {
+            "key": "quem",
+            "lemma": "qui"
+        },
+        {
+            "key": "vos",
+            "lemma": "uos"
+        },
+        {
+            "key": "vultis",
+            "lemma": "uolo"
+        },
+        {
+            "key": "ecce",
+            "lemma": "ecce"
+        },
+        {
+            "key": "venit",
+            "lemma": "uenio"
+        },
+        {
+            "key": "dicit",
+            "lemma": "dico"
+        },
+        {
+            "key": "dominus",
+            "lemma": "dominus"
+        },
+        {
+            "key": "exercituum",
+            "lemma": "exercitus"
+        }
+    ],
+    "Malachias.3.2": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "quis",
+            "lemma": "quis"
+        },
+        {
+            "key": "poterit",
+            "lemma": "possum"
+        },
+        {
+            "key": "cogitare",
+            "lemma": "cogito"
+        },
+        {
+            "key": "diem",
+            "lemma": "dies"
+        },
+        {
+            "key": "adventus",
+            "lemma": "aduentus"
+        },
+        {
+            "key": "ejus",
+            "lemma": "js"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "quis",
+            "lemma": "quis"
+        },
+        {
+            "key": "stabit",
+            "lemma": "sto"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "videndum",
+            "lemma": "uideo"
+        },
+        {
+            "key": "eum",
+            "lemma": "is"
+        },
+        {
+            "key": "ipse",
+            "lemma": "ipse"
+        },
+        {
+            "key": "enim",
+            "lemma": "enim"
+        },
+        {
+            "key": "quasi",
+            "lemma": "quasi"
+        },
+        {
+            "key": "ignis",
+            "lemma": "ignis"
+        },
+        {
+            "key": "conflans",
+            "lemma": "conflo"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "quasi",
+            "lemma": "quasi"
+        },
+        {
+            "key": "herba",
+            "lemma": "herba"
+        },
+        {
+            "key": "fullonum",
+            "lemma": "fullonus"
+        }
+    ],
+    "Malachias.3.3": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "sedebit",
+            "lemma": "sedeo"
+        },
+        {
+            "key": "conflans",
+            "lemma": "conflo"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "emundans",
+            "lemma": "emundo"
+        },
+        {
+            "key": "argentum",
+            "lemma": "argentum"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "purgabit",
+            "lemma": "purgo"
+        },
+        {
+            "key": "filios",
+            "lemma": "filius"
+        },
+        {
+            "key": "levi",
+            "lemma": "leui"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "colabit",
+            "lemma": "colo"
+        },
+        {
+            "key": "eos",
+            "lemma": "is"
+        },
+        {
+            "key": "quasi",
+            "lemma": "quasi"
+        },
+        {
+            "key": "aurum",
+            "lemma": "aurum"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "quasi",
+            "lemma": "quasi"
+        },
+        {
+            "key": "argentum",
+            "lemma": "argentum"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "erunt",
+            "lemma": "sum"
+        },
+        {
+            "key": "domino",
+            "lemma": "dominus"
+        },
+        {
+            "key": "offerentes",
+            "lemma": "offero"
+        },
+        {
+            "key": "sacrificia",
+            "lemma": "sacrificium"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "justitia",
+            "lemma": "justitia"
+        }
+    ],
+    "Malachias.3.4": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "placebit",
+            "lemma": "placeo"
+        },
+        {
+            "key": "domino",
+            "lemma": "dominus"
+        },
+        {
+            "key": "sacrificium",
+            "lemma": "sacrificium"
+        },
+        {
+            "key": "juda",
+            "lemma": "juda"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "jerusalem",
+            "lemma": "jerusale"
+        },
+        {
+            "key": "sicut",
+            "lemma": "sicut"
+        },
+        {
+            "key": "dies",
+            "lemma": "dies"
+        },
+        {
+            "key": "s\u00e6culi",
+            "lemma": "s\u00e6culum"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "sicut",
+            "lemma": "sicut"
+        },
+        {
+            "key": "anni",
+            "lemma": "annus"
+        },
+        {
+            "key": "antiqui",
+            "lemma": "antiquus"
+        }
+    ],
+    "Malachias.3.5": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "accedam",
+            "lemma": "accedam"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "vos",
+            "lemma": "uos"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "judicio",
+            "lemma": "judicium"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "ero",
+            "lemma": "sum"
+        },
+        {
+            "key": "testis",
+            "lemma": "testis"
+        },
+        {
+            "key": "velox",
+            "lemma": "velox"
+        },
+        {
+            "key": "maleficis",
+            "lemma": "maleficus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "adulteris",
+            "lemma": "adulter"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "perjuris",
+            "lemma": "perjuris"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "calumniantur",
+            "lemma": "calumnio"
+        },
+        {
+            "key": "mercedem",
+            "lemma": "merces"
+        },
+        {
+            "key": "mercenarii",
+            "lemma": "mercenarius"
+        },
+        {
+            "key": "viduas",
+            "lemma": "uiduas"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "pupillos",
+            "lemma": "pupillus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "opprimunt",
+            "lemma": "opprimo"
+        },
+        {
+            "key": "peregrinum",
+            "lemma": "peregrinus"
+        },
+        {
+            "key": "nec",
+            "lemma": "nec"
+        },
+        {
+            "key": "timuerunt",
+            "lemma": "timeo"
+        },
+        {
+            "key": "me",
+            "lemma": "ego"
+        },
+        {
+            "key": "dicit",
+            "lemma": "dico"
+        },
+        {
+            "key": "dominus",
+            "lemma": "dominus"
+        },
+        {
+            "key": "exercituum",
+            "lemma": "exercitus"
+        }
+    ],
+    "Malachias.3.6": [
+        {
+            "key": "ego",
+            "lemma": "ego"
+        },
+        {
+            "key": "enim",
+            "lemma": "enim"
+        },
+        {
+            "key": "dominus",
+            "lemma": "dominus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "mutor",
+            "lemma": "mutor"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "vos",
+            "lemma": "uos"
+        },
+        {
+            "key": "filii",
+            "lemma": "filius"
+        },
+        {
+            "key": "jacob",
+            "lemma": "jacob"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "estis",
+            "lemma": "sum"
+        },
+        {
+            "key": "consumpti",
+            "lemma": "consumptus"
+        }
+    ],
+    "Malachias.3.7": [
+        {
+            "key": "a",
+            "lemma": "a"
+        },
+        {
+            "key": "diebus",
+            "lemma": "dies"
+        },
+        {
+            "key": "enim",
+            "lemma": "enim"
+        },
+        {
+            "key": "patrum",
+            "lemma": "pater"
+        },
+        {
+            "key": "vestrorum",
+            "lemma": "uester"
+        },
+        {
+            "key": "recessistis",
+            "lemma": "recesso"
+        },
+        {
+            "key": "a",
+            "lemma": "ab"
+        },
+        {
+            "key": "legitimis",
+            "lemma": "legitimus"
+        },
+        {
+            "key": "meis",
+            "lemma": "meus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "custodistis",
+            "lemma": "custodistis"
+        },
+        {
+            "key": "revertimini",
+            "lemma": "revertor"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "me",
+            "lemma": "ego"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "revertar",
+            "lemma": "reuertor"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "vos",
+            "lemma": "uos"
+        },
+        {
+            "key": "dicit",
+            "lemma": "dico"
+        },
+        {
+            "key": "dominus",
+            "lemma": "dominus"
+        },
+        {
+            "key": "exercituum",
+            "lemma": "exercitus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "dixistis",
+            "lemma": "dico"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "quo",
+            "lemma": "qui"
+        },
+        {
+            "key": "revertemur",
+            "lemma": "revertemur"
+        }
+    ],
+    "Malachias.3.8": [
+        {
+            "key": "si",
+            "lemma": "si"
+        },
+        {
+            "key": "affliget",
+            "lemma": "affligo"
+        },
+        {
+            "key": "homo",
+            "lemma": "homo"
+        },
+        {
+            "key": "deum",
+            "lemma": "deus"
+        },
+        {
+            "key": "quia",
+            "lemma": "quia"
+        },
+        {
+            "key": "vos",
+            "lemma": "uos"
+        },
+        {
+            "key": "configitis",
+            "lemma": "configo"
+        },
+        {
+            "key": "me",
+            "lemma": "ego"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "dixistis",
+            "lemma": "dico"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "quo",
+            "lemma": "qui"
+        },
+        {
+            "key": "configimus",
+            "lemma": "configimus"
+        },
+        {
+            "key": "te",
+            "lemma": "tu"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "decimis",
+            "lemma": "decimum"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "primitiis",
+            "lemma": "primitium"
+        }
+    ],
+    "Malachias.3.9": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "penuria",
+            "lemma": "penuria"
+        },
+        {
+            "key": "vos",
+            "lemma": "uos"
+        },
+        {
+            "key": "maledicti",
+            "lemma": "maledico"
+        },
+        {
+            "key": "estis",
+            "lemma": "sum"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "me",
+            "lemma": "ego"
+        },
+        {
+            "key": "vos",
+            "lemma": "uos"
+        },
+        {
+            "key": "configitis",
+            "lemma": "configo"
+        },
+        {
+            "key": "gens",
+            "lemma": "gens"
+        },
+        {
+            "key": "tota",
+            "lemma": "totus"
+        }
+    ],
+    "Malachias.3.10": [
+        {
+            "key": "inferte",
+            "lemma": "inferte"
+        },
+        {
+            "key": "omnem",
+            "lemma": "omnis"
+        },
+        {
+            "key": "decimam",
+            "lemma": "decimus"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "horreum",
+            "lemma": "horreum"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "sit",
+            "lemma": "sum"
+        },
+        {
+            "key": "cibus",
+            "lemma": "cibus"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "domo",
+            "lemma": "domus"
+        },
+        {
+            "key": "mea",
+            "lemma": "meus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "probate",
+            "lemma": "probo"
+        },
+        {
+            "key": "me",
+            "lemma": "ego"
+        },
+        {
+            "key": "super",
+            "lemma": "super"
+        },
+        {
+            "key": "hoc",
+            "lemma": "hic"
+        },
+        {
+            "key": "dicit",
+            "lemma": "dico"
+        },
+        {
+            "key": "dominus",
+            "lemma": "dominus"
+        },
+        {
+            "key": "si",
+            "lemma": "si"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "aperuero",
+            "lemma": "aperuo"
+        },
+        {
+            "key": "vobis",
+            "lemma": "uos"
+        },
+        {
+            "key": "cataractas",
+            "lemma": "cataracta"
+        },
+        {
+            "key": "c\u00e6li",
+            "lemma": "c\u00e6li"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "effudero",
+            "lemma": "effudero"
+        },
+        {
+            "key": "vobis",
+            "lemma": "uos"
+        },
+        {
+            "key": "benedictionem",
+            "lemma": "benedictio"
+        },
+        {
+            "key": "usque",
+            "lemma": "usque"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "abundantiam",
+            "lemma": "abundantia"
+        }
+    ],
+    "Malachias.3.11": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "increpabo",
+            "lemma": "increpo"
+        },
+        {
+            "key": "pro",
+            "lemma": "pro"
+        },
+        {
+            "key": "vobis",
+            "lemma": "uos"
+        },
+        {
+            "key": "devorantem",
+            "lemma": "devoro"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "corrumpet",
+            "lemma": "corrumpo"
+        },
+        {
+            "key": "fructum",
+            "lemma": "fructus"
+        },
+        {
+            "key": "terr\u00e6",
+            "lemma": "terr\u00e6"
+        },
+        {
+            "key": "vestr\u00e6",
+            "lemma": "uestr\u00e6"
+        },
+        {
+            "key": "nec",
+            "lemma": "nec"
+        },
+        {
+            "key": "erit",
+            "lemma": "sum"
+        },
+        {
+            "key": "sterilis",
+            "lemma": "sterilis"
+        },
+        {
+            "key": "vinea",
+            "lemma": "uinea"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "agro",
+            "lemma": "ager"
+        },
+        {
+            "key": "dicit",
+            "lemma": "dico"
+        },
+        {
+            "key": "dominus",
+            "lemma": "dominus"
+        },
+        {
+            "key": "exercituum",
+            "lemma": "exercitus"
+        }
+    ],
+    "Malachias.3.12": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "beatos",
+            "lemma": "beatus"
+        },
+        {
+            "key": "vos",
+            "lemma": "uos"
+        },
+        {
+            "key": "dicent",
+            "lemma": "dico"
+        },
+        {
+            "key": "omnes",
+            "lemma": "omnis"
+        },
+        {
+            "key": "gentes",
+            "lemma": "gens"
+        },
+        {
+            "key": "eritis",
+            "lemma": "sum"
+        },
+        {
+            "key": "enim",
+            "lemma": "enim"
+        },
+        {
+            "key": "vos",
+            "lemma": "uos"
+        },
+        {
+            "key": "terra",
+            "lemma": "terra"
+        },
+        {
+            "key": "desiderabilis",
+            "lemma": "desiderabilis"
+        },
+        {
+            "key": "dicit",
+            "lemma": "dico"
+        },
+        {
+            "key": "dominus",
+            "lemma": "dominus"
+        },
+        {
+            "key": "exercituum",
+            "lemma": "exercitus"
+        }
+    ],
+    "Malachias.3.13": [
+        {
+            "key": "invaluerunt",
+            "lemma": "invaluerunt"
+        },
+        {
+            "key": "super",
+            "lemma": "super"
+        },
+        {
+            "key": "me",
+            "lemma": "ego"
+        },
+        {
+            "key": "verba",
+            "lemma": "uerbum"
+        },
+        {
+            "key": "vestra",
+            "lemma": "uester"
+        },
+        {
+            "key": "dicit",
+            "lemma": "dico"
+        },
+        {
+            "key": "dominus",
+            "lemma": "dominus"
+        }
+    ],
+    "Malachias.3.14": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "dixistis",
+            "lemma": "dico"
+        },
+        {
+            "key": "quid",
+            "lemma": "quis"
+        },
+        {
+            "key": "locuti",
+            "lemma": "loquor"
+        },
+        {
+            "key": "sumus",
+            "lemma": "sum"
+        },
+        {
+            "key": "contra",
+            "lemma": "contra"
+        },
+        {
+            "key": "te",
+            "lemma": "tu"
+        },
+        {
+            "key": "dixistis",
+            "lemma": "dixistis"
+        },
+        {
+            "key": "vanus",
+            "lemma": "uanus"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "servit",
+            "lemma": "servo"
+        },
+        {
+            "key": "deo",
+            "lemma": "deus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "quod",
+            "lemma": "qui"
+        },
+        {
+            "key": "emolumentum",
+            "lemma": "emolumentum"
+        },
+        {
+            "key": "quia",
+            "lemma": "quia"
+        },
+        {
+            "key": "custodivimus",
+            "lemma": "custodio"
+        },
+        {
+            "key": "pr\u00e6cepta",
+            "lemma": "pr\u00e6ceptum"
+        },
+        {
+            "key": "ejus",
+            "lemma": "js"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "quia",
+            "lemma": "quia"
+        },
+        {
+            "key": "ambulavimus",
+            "lemma": "ambulaveo"
+        },
+        {
+            "key": "tristes",
+            "lemma": "tristis"
+        },
+        {
+            "key": "coram",
+            "lemma": "coram"
+        },
+        {
+            "key": "domino",
+            "lemma": "dominus"
+        },
+        {
+            "key": "exercituum",
+            "lemma": "exercitus"
+        }
+    ],
+    "Malachias.3.15": [
+        {
+            "key": "ergo",
+            "lemma": "ergo"
+        },
+        {
+            "key": "nunc",
+            "lemma": "nunc"
+        },
+        {
+            "key": "beatos",
+            "lemma": "beatus"
+        },
+        {
+            "key": "dicimus",
+            "lemma": "dico"
+        },
+        {
+            "key": "arrogantes",
+            "lemma": "arrogo"
+        },
+        {
+            "key": "siquidem",
+            "lemma": "siquidem"
+        },
+        {
+            "key": "\u00e6dificati",
+            "lemma": "\u00e6difico"
+        },
+        {
+            "key": "sunt",
+            "lemma": "sum"
+        },
+        {
+            "key": "facientes",
+            "lemma": "facio"
+        },
+        {
+            "key": "impietatem",
+            "lemma": "impietas"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "tentaverunt",
+            "lemma": "tento"
+        },
+        {
+            "key": "deum",
+            "lemma": "deus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "salvi",
+            "lemma": "saluus"
+        },
+        {
+            "key": "facti",
+            "lemma": "facio"
+        },
+        {
+            "key": "sunt",
+            "lemma": "sum"
+        }
+    ],
+    "Malachias.3.16": [
+        {
+            "key": "tunc",
+            "lemma": "tunc"
+        },
+        {
+            "key": "locuti",
+            "lemma": "loquor"
+        },
+        {
+            "key": "sunt",
+            "lemma": "sum"
+        },
+        {
+            "key": "timentes",
+            "lemma": "timeo"
+        },
+        {
+            "key": "dominum",
+            "lemma": "dominus"
+        },
+        {
+            "key": "unusquisque",
+            "lemma": "unusquisque"
+        },
+        {
+            "key": "cum",
+            "lemma": "cum"
+        },
+        {
+            "key": "proximo",
+            "lemma": "proximus"
+        },
+        {
+            "key": "suo",
+            "lemma": "suus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "attendit",
+            "lemma": "attendo"
+        },
+        {
+            "key": "dominus",
+            "lemma": "dominus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "audivit",
+            "lemma": "audio"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "scriptus",
+            "lemma": "scribo"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "liber",
+            "lemma": "liber"
+        },
+        {
+            "key": "monumenti",
+            "lemma": "monumentum"
+        },
+        {
+            "key": "coram",
+            "lemma": "coram"
+        },
+        {
+            "key": "eo",
+            "lemma": "is"
+        },
+        {
+            "key": "timentibus",
+            "lemma": "timeo"
+        },
+        {
+            "key": "dominum",
+            "lemma": "dominus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "cogitantibus",
+            "lemma": "cogito"
+        },
+        {
+            "key": "nomen",
+            "lemma": "nomen"
+        },
+        {
+            "key": "ejus",
+            "lemma": "js"
+        }
+    ],
+    "Malachias.3.17": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "erunt",
+            "lemma": "sum"
+        },
+        {
+            "key": "mihi",
+            "lemma": "ego"
+        },
+        {
+            "key": "ait",
+            "lemma": "aio"
+        },
+        {
+            "key": "dominus",
+            "lemma": "dominus"
+        },
+        {
+            "key": "exercituum",
+            "lemma": "exercitus"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "die",
+            "lemma": "dies"
+        },
+        {
+            "key": "qua",
+            "lemma": "qui"
+        },
+        {
+            "key": "ego",
+            "lemma": "ego"
+        },
+        {
+            "key": "facio",
+            "lemma": "facio"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "peculium",
+            "lemma": "peculium"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "parcam",
+            "lemma": "parco"
+        },
+        {
+            "key": "eis",
+            "lemma": "is"
+        },
+        {
+            "key": "sicut",
+            "lemma": "sicut"
+        },
+        {
+            "key": "parcit",
+            "lemma": "parco"
+        },
+        {
+            "key": "vir",
+            "lemma": "uir"
+        },
+        {
+            "key": "filio",
+            "lemma": "filius"
+        },
+        {
+            "key": "suo",
+            "lemma": "suus"
+        },
+        {
+            "key": "servienti",
+            "lemma": "servio"
+        },
+        {
+            "key": "sibi",
+            "lemma": "se"
+        }
+    ],
+    "Malachias.3.18": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "convertemini",
+            "lemma": "convertemini"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "videbitis",
+            "lemma": "uideo"
+        },
+        {
+            "key": "quid",
+            "lemma": "quis"
+        },
+        {
+            "key": "sit",
+            "lemma": "sum"
+        },
+        {
+            "key": "inter",
+            "lemma": "inter"
+        },
+        {
+            "key": "justum",
+            "lemma": "justus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "impium",
+            "lemma": "impius"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "inter",
+            "lemma": "inter"
+        },
+        {
+            "key": "servientem",
+            "lemma": "serviens"
+        },
+        {
+            "key": "deo",
+            "lemma": "deus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "servientem",
+            "lemma": "serviens"
+        },
+        {
+            "key": "ei",
+            "lemma": "is"
+        }
+    ],
+    "Malachias.4.1": [
+        {
+            "key": "ecce",
+            "lemma": "ecce"
+        },
+        {
+            "key": "enim",
+            "lemma": "enim"
+        },
+        {
+            "key": "dies",
+            "lemma": "dies"
+        },
+        {
+            "key": "veniet",
+            "lemma": "uenio"
+        },
+        {
+            "key": "succensa",
+            "lemma": "succendo"
+        },
+        {
+            "key": "quasi",
+            "lemma": "quasi"
+        },
+        {
+            "key": "caminus",
+            "lemma": "caminus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "erunt",
+            "lemma": "sum"
+        },
+        {
+            "key": "omnes",
+            "lemma": "omnis"
+        },
+        {
+            "key": "superbi",
+            "lemma": "superbus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "omnes",
+            "lemma": "omnis"
+        },
+        {
+            "key": "facientes",
+            "lemma": "facio"
+        },
+        {
+            "key": "impietatem",
+            "lemma": "impietas"
+        },
+        {
+            "key": "stipula",
+            "lemma": "stipula"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "inflammabit",
+            "lemma": "inflammao"
+        },
+        {
+            "key": "eos",
+            "lemma": "is"
+        },
+        {
+            "key": "dies",
+            "lemma": "dies"
+        },
+        {
+            "key": "veniens",
+            "lemma": "uenio"
+        },
+        {
+            "key": "dicit",
+            "lemma": "dico"
+        },
+        {
+            "key": "dominus",
+            "lemma": "dominus"
+        },
+        {
+            "key": "exercituum",
+            "lemma": "exercitus"
+        },
+        {
+            "key": "qu\u00e6",
+            "lemma": "qu\u00e6"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "derelinquet",
+            "lemma": "derelinquo"
+        },
+        {
+            "key": "eis",
+            "lemma": "is"
+        },
+        {
+            "key": "radicem",
+            "lemma": "radix"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "germen",
+            "lemma": "germen"
+        }
+    ],
+    "Malachias.4.2": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "orietur",
+            "lemma": "orio"
+        },
+        {
+            "key": "vobis",
+            "lemma": "uos"
+        },
+        {
+            "key": "timentibus",
+            "lemma": "timeo"
+        },
+        {
+            "key": "nomen",
+            "lemma": "nomen"
+        },
+        {
+            "key": "meum",
+            "lemma": "meus"
+        },
+        {
+            "key": "sol",
+            "lemma": "sol"
+        },
+        {
+            "key": "justiti\u00e6",
+            "lemma": "justiti\u00e6"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "sanitas",
+            "lemma": "sanitas"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "pennis",
+            "lemma": "penna"
+        },
+        {
+            "key": "ejus",
+            "lemma": "js"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "egrediemini",
+            "lemma": "egrediemini"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "salietis",
+            "lemma": "salio"
+        },
+        {
+            "key": "sicut",
+            "lemma": "sicut"
+        },
+        {
+            "key": "vituli",
+            "lemma": "uitulus"
+        },
+        {
+            "key": "de",
+            "lemma": "de"
+        },
+        {
+            "key": "armento",
+            "lemma": "armentum"
+        }
+    ],
+    "Malachias.4.3": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "calcabitis",
+            "lemma": "calco"
+        },
+        {
+            "key": "impios",
+            "lemma": "impius"
+        },
+        {
+            "key": "cum",
+            "lemma": "cum"
+        },
+        {
+            "key": "fuerint",
+            "lemma": "sum"
+        },
+        {
+            "key": "cinis",
+            "lemma": "cinis"
+        },
+        {
+            "key": "sub",
+            "lemma": "sub"
+        },
+        {
+            "key": "planta",
+            "lemma": "planta"
+        },
+        {
+            "key": "pedum",
+            "lemma": "pes"
+        },
+        {
+            "key": "vestrorum",
+            "lemma": "uester"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "die",
+            "lemma": "dies"
+        },
+        {
+            "key": "qua",
+            "lemma": "qui"
+        },
+        {
+            "key": "ego",
+            "lemma": "ego"
+        },
+        {
+            "key": "facio",
+            "lemma": "facio"
+        },
+        {
+            "key": "dicit",
+            "lemma": "dico"
+        },
+        {
+            "key": "dominus",
+            "lemma": "dominus"
+        },
+        {
+            "key": "exercituum",
+            "lemma": "exercitus"
+        }
+    ],
+    "Malachias.4.4": [
+        {
+            "key": "mementote",
+            "lemma": "mementote"
+        },
+        {
+            "key": "legis",
+            "lemma": "lex"
+        },
+        {
+            "key": "moysi",
+            "lemma": "moyses"
+        },
+        {
+            "key": "servi",
+            "lemma": "seruus"
+        },
+        {
+            "key": "mei",
+            "lemma": "meus"
+        },
+        {
+            "key": "quam",
+            "lemma": "quam"
+        },
+        {
+            "key": "mandavi",
+            "lemma": "mando"
+        },
+        {
+            "key": "ei",
+            "lemma": "is"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "horeb",
+            "lemma": "horeb"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "omnem",
+            "lemma": "omnis"
+        },
+        {
+            "key": "isra\u00ebl",
+            "lemma": "isra\u00ebl"
+        },
+        {
+            "key": "pr\u00e6cepta",
+            "lemma": "pr\u00e6ceptum"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "judicia",
+            "lemma": "judicium"
+        }
+    ],
+    "Malachias.4.5": [
+        {
+            "key": "ecce",
+            "lemma": "ecce"
+        },
+        {
+            "key": "ego",
+            "lemma": "ego"
+        },
+        {
+            "key": "mittam",
+            "lemma": "mitto"
+        },
+        {
+            "key": "vobis",
+            "lemma": "uos"
+        },
+        {
+            "key": "eliam",
+            "lemma": "elia"
+        },
+        {
+            "key": "prophetam",
+            "lemma": "propheta"
+        },
+        {
+            "key": "antequam",
+            "lemma": "antequam"
+        },
+        {
+            "key": "veniat",
+            "lemma": "uenio"
+        },
+        {
+            "key": "dies",
+            "lemma": "dies"
+        },
+        {
+            "key": "domini",
+            "lemma": "dominus"
+        },
+        {
+            "key": "magnus",
+            "lemma": "magnus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "horribilis",
+            "lemma": "horribilis"
+        }
+    ],
+    "Malachias.4.6": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "convertet",
+            "lemma": "converto"
+        },
+        {
+            "key": "cor",
+            "lemma": "cor"
+        },
+        {
+            "key": "patrum",
+            "lemma": "pater"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "filios",
+            "lemma": "filius"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "cor",
+            "lemma": "cor"
+        },
+        {
+            "key": "filiorum",
+            "lemma": "filius"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "patres",
+            "lemma": "pater"
+        },
+        {
+            "key": "eorum",
+            "lemma": "is"
+        },
+        {
+            "key": "ne",
+            "lemma": "ne"
+        },
+        {
+            "key": "forte",
+            "lemma": "forte"
+        },
+        {
+            "key": "veniam",
+            "lemma": "uenio"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "percutiam",
+            "lemma": "percutio"
+        },
+        {
+            "key": "terram",
+            "lemma": "terra"
+        },
+        {
+            "key": "anathemate",
+            "lemma": "anathema"
+        }
+    ]
+}

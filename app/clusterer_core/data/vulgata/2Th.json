@@ -1,0 +1,3108 @@
+{
+    "2 Thessalonians.1.1": [
+        {
+            "key": "paulus",
+            "lemma": "paulus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "sylvanus",
+            "lemma": "sylvanus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "timotheus",
+            "lemma": "timotheus"
+        },
+        {
+            "key": "ecclesi\u00e6",
+            "lemma": "ecclesi\u00e6"
+        },
+        {
+            "key": "thessalonicensium",
+            "lemma": "thessalonicenses"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "deo",
+            "lemma": "deus"
+        },
+        {
+            "key": "patre",
+            "lemma": "pater"
+        },
+        {
+            "key": "nostro",
+            "lemma": "noster"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "domino",
+            "lemma": "dominus"
+        },
+        {
+            "key": "jesu",
+            "lemma": "jesus"
+        },
+        {
+            "key": "christo",
+            "lemma": "christus"
+        }
+    ],
+    "2 Thessalonians.1.2": [
+        {
+            "key": "gratia",
+            "lemma": "gratia"
+        },
+        {
+            "key": "vobis",
+            "lemma": "uos"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "pax",
+            "lemma": "pax"
+        },
+        {
+            "key": "a",
+            "lemma": "ab"
+        },
+        {
+            "key": "deo",
+            "lemma": "deus"
+        },
+        {
+            "key": "patre",
+            "lemma": "pater"
+        },
+        {
+            "key": "nostro",
+            "lemma": "noster"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "domino",
+            "lemma": "dominus"
+        },
+        {
+            "key": "jesu",
+            "lemma": "jesus"
+        },
+        {
+            "key": "christo",
+            "lemma": "christus"
+        }
+    ],
+    "2 Thessalonians.1.3": [
+        {
+            "key": "gratias",
+            "lemma": "gratia"
+        },
+        {
+            "key": "agere",
+            "lemma": "ago"
+        },
+        {
+            "key": "debemus",
+            "lemma": "debeo"
+        },
+        {
+            "key": "semper",
+            "lemma": "semper"
+        },
+        {
+            "key": "deo",
+            "lemma": "deus"
+        },
+        {
+            "key": "pro",
+            "lemma": "pro"
+        },
+        {
+            "key": "vobis",
+            "lemma": "uos"
+        },
+        {
+            "key": "fratres",
+            "lemma": "frater"
+        },
+        {
+            "key": "ita",
+            "lemma": "ita"
+        },
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "dignum",
+            "lemma": "dignus"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "quoniam",
+            "lemma": "quoniam"
+        },
+        {
+            "key": "supercrescit",
+            "lemma": "supercresco"
+        },
+        {
+            "key": "fides",
+            "lemma": "fides"
+        },
+        {
+            "key": "vestra",
+            "lemma": "uester"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "abundat",
+            "lemma": "abundo"
+        },
+        {
+            "key": "caritas",
+            "lemma": "caritas"
+        },
+        {
+            "key": "uniuscujus",
+            "lemma": "uniuscujus"
+        },
+        {
+            "key": "que",
+            "lemma": "que"
+        },
+        {
+            "key": "vestrum",
+            "lemma": "uos"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "invicem",
+            "lemma": "inuicem"
+        }
+    ],
+    "2 Thessalonians.1.4": [
+        {
+            "key": "ita",
+            "lemma": "ita"
+        },
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "nos",
+            "lemma": "nos"
+        },
+        {
+            "key": "ipsi",
+            "lemma": "ipse"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "vobis",
+            "lemma": "uos"
+        },
+        {
+            "key": "gloriemur",
+            "lemma": "glorior"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "ecclesiis",
+            "lemma": "ecclesia"
+        },
+        {
+            "key": "dei",
+            "lemma": "deus"
+        },
+        {
+            "key": "pro",
+            "lemma": "pro"
+        },
+        {
+            "key": "patientia",
+            "lemma": "patientia"
+        },
+        {
+            "key": "vestra",
+            "lemma": "uester"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "fide",
+            "lemma": "fides"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "omnibus",
+            "lemma": "omnis"
+        },
+        {
+            "key": "persecutionibus",
+            "lemma": "persecutio"
+        },
+        {
+            "key": "vestris",
+            "lemma": "uester"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "tribulationibus",
+            "lemma": "tribulatio"
+        },
+        {
+            "key": "quas",
+            "lemma": "qui"
+        },
+        {
+            "key": "sustinetis",
+            "lemma": "sustineo"
+        }
+    ],
+    "2 Thessalonians.1.5": [
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "exemplum",
+            "lemma": "exemplum"
+        },
+        {
+            "key": "justi",
+            "lemma": "justus"
+        },
+        {
+            "key": "judicii",
+            "lemma": "judicium"
+        },
+        {
+            "key": "dei",
+            "lemma": "deus"
+        },
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "digni",
+            "lemma": "dignus"
+        },
+        {
+            "key": "habeamini",
+            "lemma": "habeo"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "regno",
+            "lemma": "regnum"
+        },
+        {
+            "key": "dei",
+            "lemma": "deus"
+        },
+        {
+            "key": "pro",
+            "lemma": "pro"
+        },
+        {
+            "key": "quo",
+            "lemma": "qui"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "patimini",
+            "lemma": "patior"
+        }
+    ],
+    "2 Thessalonians.1.6": [
+        {
+            "key": "si",
+            "lemma": "si"
+        },
+        {
+            "key": "tamen",
+            "lemma": "tamen"
+        },
+        {
+            "key": "justum",
+            "lemma": "justus"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "apud",
+            "lemma": "apud"
+        },
+        {
+            "key": "deum",
+            "lemma": "deus"
+        },
+        {
+            "key": "retribuere",
+            "lemma": "retribuo"
+        },
+        {
+            "key": "tribulationem",
+            "lemma": "tribulatio"
+        },
+        {
+            "key": "iis",
+            "lemma": "is"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "vos",
+            "lemma": "uos"
+        },
+        {
+            "key": "tribulant",
+            "lemma": "tribulo"
+        }
+    ],
+    "2 Thessalonians.1.7": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "vobis",
+            "lemma": "uos"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "tribulamini",
+            "lemma": "tribulo"
+        },
+        {
+            "key": "requiem",
+            "lemma": "requies"
+        },
+        {
+            "key": "nobis",
+            "lemma": "nos"
+        },
+        {
+            "key": "cum",
+            "lemma": "cum"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "revelatione",
+            "lemma": "revelatio"
+        },
+        {
+            "key": "domini",
+            "lemma": "dominus"
+        },
+        {
+            "key": "jesu",
+            "lemma": "jesus"
+        },
+        {
+            "key": "de",
+            "lemma": "de"
+        },
+        {
+            "key": "c\u00e6lo",
+            "lemma": "c\u00e6lo"
+        },
+        {
+            "key": "cum",
+            "lemma": "cum"
+        },
+        {
+            "key": "angelis",
+            "lemma": "angelus"
+        },
+        {
+            "key": "virtutis",
+            "lemma": "uirtus"
+        },
+        {
+            "key": "ejus",
+            "lemma": "js"
+        }
+    ],
+    "2 Thessalonians.1.8": [
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "flamma",
+            "lemma": "flamma"
+        },
+        {
+            "key": "ignis",
+            "lemma": "ignis"
+        },
+        {
+            "key": "dantis",
+            "lemma": "do"
+        },
+        {
+            "key": "vindictam",
+            "lemma": "uindicta"
+        },
+        {
+            "key": "iis",
+            "lemma": "is"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "noverunt",
+            "lemma": "nosco"
+        },
+        {
+            "key": "deum",
+            "lemma": "deus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "obediunt",
+            "lemma": "obedio"
+        },
+        {
+            "key": "evangelio",
+            "lemma": "evangelius"
+        },
+        {
+            "key": "domini",
+            "lemma": "dominus"
+        },
+        {
+            "key": "nostri",
+            "lemma": "noster"
+        },
+        {
+            "key": "jesu",
+            "lemma": "jesus"
+        },
+        {
+            "key": "christi",
+            "lemma": "christus"
+        }
+    ],
+    "2 Thessalonians.1.9": [
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "p\u0153nas",
+            "lemma": "p\u0153na"
+        },
+        {
+            "key": "dabunt",
+            "lemma": "do"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "interitu",
+            "lemma": "interitus"
+        },
+        {
+            "key": "\u00e6ternas",
+            "lemma": "\u00e6ternus"
+        },
+        {
+            "key": "a",
+            "lemma": "ab"
+        },
+        {
+            "key": "facie",
+            "lemma": "facies"
+        },
+        {
+            "key": "domini",
+            "lemma": "dominus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "a",
+            "lemma": "ab"
+        },
+        {
+            "key": "gloria",
+            "lemma": "gloria"
+        },
+        {
+            "key": "virtutis",
+            "lemma": "uirtus"
+        },
+        {
+            "key": "ejus",
+            "lemma": "js"
+        }
+    ],
+    "2 Thessalonians.1.10": [
+        {
+            "key": "cum",
+            "lemma": "cum"
+        },
+        {
+            "key": "venerit",
+            "lemma": "uenio"
+        },
+        {
+            "key": "glorificari",
+            "lemma": "glorifico"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "sanctis",
+            "lemma": "sanctus"
+        },
+        {
+            "key": "suis",
+            "lemma": "suus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "admirabilis",
+            "lemma": "admirabilis"
+        },
+        {
+            "key": "fieri",
+            "lemma": "fio"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "omnibus",
+            "lemma": "omnis"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "crediderunt",
+            "lemma": "credo"
+        },
+        {
+            "key": "quia",
+            "lemma": "quia"
+        },
+        {
+            "key": "creditum",
+            "lemma": "credo"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "testimonium",
+            "lemma": "testimonium"
+        },
+        {
+            "key": "nostrum",
+            "lemma": "noster"
+        },
+        {
+            "key": "super",
+            "lemma": "super"
+        },
+        {
+            "key": "vos",
+            "lemma": "uos"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "die",
+            "lemma": "dies"
+        },
+        {
+            "key": "illo",
+            "lemma": "ille"
+        }
+    ],
+    "2 Thessalonians.1.11": [
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "quo",
+            "lemma": "qui"
+        },
+        {
+            "key": "etiam",
+            "lemma": "etiam"
+        },
+        {
+            "key": "oramus",
+            "lemma": "oro"
+        },
+        {
+            "key": "semper",
+            "lemma": "semper"
+        },
+        {
+            "key": "pro",
+            "lemma": "pro"
+        },
+        {
+            "key": "vobis",
+            "lemma": "uos"
+        },
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "dignetur",
+            "lemma": "dignor"
+        },
+        {
+            "key": "vos",
+            "lemma": "uos"
+        },
+        {
+            "key": "vocatione",
+            "lemma": "uocatio"
+        },
+        {
+            "key": "sua",
+            "lemma": "suus"
+        },
+        {
+            "key": "deus",
+            "lemma": "deus"
+        },
+        {
+            "key": "noster",
+            "lemma": "noster"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "impleat",
+            "lemma": "impleo"
+        },
+        {
+            "key": "omnem",
+            "lemma": "omnis"
+        },
+        {
+            "key": "voluntatem",
+            "lemma": "uoluntas"
+        },
+        {
+            "key": "bonitatis",
+            "lemma": "bonitas"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "opus",
+            "lemma": "opus"
+        },
+        {
+            "key": "fidei",
+            "lemma": "fides"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "virtute",
+            "lemma": "uirtus"
+        }
+    ],
+    "2 Thessalonians.1.12": [
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "clarificetur",
+            "lemma": "clarifico"
+        },
+        {
+            "key": "nomen",
+            "lemma": "nomen"
+        },
+        {
+            "key": "domini",
+            "lemma": "dominus"
+        },
+        {
+            "key": "nostri",
+            "lemma": "noster"
+        },
+        {
+            "key": "jesu",
+            "lemma": "jesus"
+        },
+        {
+            "key": "christi",
+            "lemma": "christus"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "vobis",
+            "lemma": "uos"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "vos",
+            "lemma": "uos"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "illo",
+            "lemma": "ille"
+        },
+        {
+            "key": "secundum",
+            "lemma": "secundum"
+        },
+        {
+            "key": "gratiam",
+            "lemma": "gratia"
+        },
+        {
+            "key": "dei",
+            "lemma": "deus"
+        },
+        {
+            "key": "nostri",
+            "lemma": "noster"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "domini",
+            "lemma": "dominus"
+        },
+        {
+            "key": "jesu",
+            "lemma": "jesus"
+        },
+        {
+            "key": "christi",
+            "lemma": "christus"
+        }
+    ],
+    "2 Thessalonians.2.1": [
+        {
+            "key": "rogamus",
+            "lemma": "rogamus"
+        },
+        {
+            "key": "autem",
+            "lemma": "autem"
+        },
+        {
+            "key": "vos",
+            "lemma": "uos"
+        },
+        {
+            "key": "fratres",
+            "lemma": "frater"
+        },
+        {
+            "key": "per",
+            "lemma": "per"
+        },
+        {
+            "key": "adventum",
+            "lemma": "aduentus"
+        },
+        {
+            "key": "domini",
+            "lemma": "dominus"
+        },
+        {
+            "key": "nostri",
+            "lemma": "noster"
+        },
+        {
+            "key": "jesu",
+            "lemma": "jesus"
+        },
+        {
+            "key": "christi",
+            "lemma": "christus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "nostr\u00e6",
+            "lemma": "nostr\u00e6"
+        },
+        {
+            "key": "congregationis",
+            "lemma": "congregatio"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "ipsum",
+            "lemma": "ipse"
+        }
+    ],
+    "2 Thessalonians.2.2": [
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "cito",
+            "lemma": "cito"
+        },
+        {
+            "key": "moveamini",
+            "lemma": "moveo"
+        },
+        {
+            "key": "a",
+            "lemma": "ab"
+        },
+        {
+            "key": "vestro",
+            "lemma": "uester"
+        },
+        {
+            "key": "sensu",
+            "lemma": "sensus"
+        },
+        {
+            "key": "neque",
+            "lemma": "neque"
+        },
+        {
+            "key": "terreamini",
+            "lemma": "terreo"
+        },
+        {
+            "key": "neque",
+            "lemma": "neque"
+        },
+        {
+            "key": "per",
+            "lemma": "per"
+        },
+        {
+            "key": "spiritum",
+            "lemma": "spiritus"
+        },
+        {
+            "key": "neque",
+            "lemma": "neque"
+        },
+        {
+            "key": "per",
+            "lemma": "per"
+        },
+        {
+            "key": "sermonem",
+            "lemma": "sermo"
+        },
+        {
+            "key": "neque",
+            "lemma": "neque"
+        },
+        {
+            "key": "per",
+            "lemma": "per"
+        },
+        {
+            "key": "epistolam",
+            "lemma": "epistola"
+        },
+        {
+            "key": "tamquam",
+            "lemma": "tamquam"
+        },
+        {
+            "key": "per",
+            "lemma": "per"
+        },
+        {
+            "key": "nos",
+            "lemma": "nos"
+        },
+        {
+            "key": "missam",
+            "lemma": "mitto"
+        },
+        {
+            "key": "quasi",
+            "lemma": "quasi"
+        },
+        {
+            "key": "instet",
+            "lemma": "insto"
+        },
+        {
+            "key": "dies",
+            "lemma": "dies"
+        },
+        {
+            "key": "domini",
+            "lemma": "dominus"
+        }
+    ],
+    "2 Thessalonians.2.3": [
+        {
+            "key": "ne",
+            "lemma": "ne"
+        },
+        {
+            "key": "quis",
+            "lemma": "quis"
+        },
+        {
+            "key": "vos",
+            "lemma": "uos"
+        },
+        {
+            "key": "seducat",
+            "lemma": "seduco"
+        },
+        {
+            "key": "ullo",
+            "lemma": "ullus"
+        },
+        {
+            "key": "modo",
+            "lemma": "modus"
+        },
+        {
+            "key": "quoniam",
+            "lemma": "quoniam"
+        },
+        {
+            "key": "nisi",
+            "lemma": "nisi"
+        },
+        {
+            "key": "venerit",
+            "lemma": "uenio"
+        },
+        {
+            "key": "discessio",
+            "lemma": "discessio"
+        },
+        {
+            "key": "primum",
+            "lemma": "primus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "revelatus",
+            "lemma": "reuelo"
+        },
+        {
+            "key": "fuerit",
+            "lemma": "sum"
+        },
+        {
+            "key": "homo",
+            "lemma": "homo"
+        },
+        {
+            "key": "peccati",
+            "lemma": "peccatum"
+        },
+        {
+            "key": "filius",
+            "lemma": "filius"
+        },
+        {
+            "key": "perditionis",
+            "lemma": "perditio"
+        }
+    ],
+    "2 Thessalonians.2.4": [
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "adversatur",
+            "lemma": "aduersor"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "extollitur",
+            "lemma": "extollo"
+        },
+        {
+            "key": "supra",
+            "lemma": "supra"
+        },
+        {
+            "key": "omne",
+            "lemma": "omnis"
+        },
+        {
+            "key": "quod",
+            "lemma": "qui"
+        },
+        {
+            "key": "dicitur",
+            "lemma": "dico"
+        },
+        {
+            "key": "deus",
+            "lemma": "deus"
+        },
+        {
+            "key": "aut",
+            "lemma": "aut"
+        },
+        {
+            "key": "quod",
+            "lemma": "qui"
+        },
+        {
+            "key": "colitur",
+            "lemma": "colo"
+        },
+        {
+            "key": "ita",
+            "lemma": "ita"
+        },
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "templo",
+            "lemma": "templum"
+        },
+        {
+            "key": "dei",
+            "lemma": "deus"
+        },
+        {
+            "key": "sedeat",
+            "lemma": "sedeo"
+        },
+        {
+            "key": "ostendens",
+            "lemma": "ostendo"
+        },
+        {
+            "key": "se",
+            "lemma": "se"
+        },
+        {
+            "key": "tamquam",
+            "lemma": "tamquam"
+        },
+        {
+            "key": "sit",
+            "lemma": "sum"
+        },
+        {
+            "key": "deus",
+            "lemma": "deus"
+        }
+    ],
+    "2 Thessalonians.2.5": [
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "retinetis",
+            "lemma": "retineo"
+        },
+        {
+            "key": "quod",
+            "lemma": "quod"
+        },
+        {
+            "key": "cum",
+            "lemma": "cum"
+        },
+        {
+            "key": "adhuc",
+            "lemma": "adhuc"
+        },
+        {
+            "key": "essem",
+            "lemma": "sum"
+        },
+        {
+            "key": "apud",
+            "lemma": "apud"
+        },
+        {
+            "key": "vos",
+            "lemma": "uos"
+        },
+        {
+            "key": "h\u00e6c",
+            "lemma": "h\u00e6c"
+        },
+        {
+            "key": "dicebam",
+            "lemma": "dico"
+        },
+        {
+            "key": "vobis",
+            "lemma": "uos"
+        }
+    ],
+    "2 Thessalonians.2.6": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "nunc",
+            "lemma": "nunc"
+        },
+        {
+            "key": "quid",
+            "lemma": "quis"
+        },
+        {
+            "key": "detineat",
+            "lemma": "detineo"
+        },
+        {
+            "key": "scitis",
+            "lemma": "scio"
+        },
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "reveletur",
+            "lemma": "reuelo"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "suo",
+            "lemma": "suus"
+        },
+        {
+            "key": "tempore",
+            "lemma": "tempus"
+        }
+    ],
+    "2 Thessalonians.2.7": [
+        {
+            "key": "nam",
+            "lemma": "nam"
+        },
+        {
+            "key": "mysterium",
+            "lemma": "mysterium"
+        },
+        {
+            "key": "jam",
+            "lemma": "jam"
+        },
+        {
+            "key": "operatur",
+            "lemma": "operor"
+        },
+        {
+            "key": "iniquitatis",
+            "lemma": "iniquitas"
+        },
+        {
+            "key": "tantum",
+            "lemma": "tantum"
+        },
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "tenet",
+            "lemma": "teneo"
+        },
+        {
+            "key": "nunc",
+            "lemma": "nunc"
+        },
+        {
+            "key": "teneat",
+            "lemma": "teneo"
+        },
+        {
+            "key": "donec",
+            "lemma": "donec"
+        },
+        {
+            "key": "de",
+            "lemma": "de"
+        },
+        {
+            "key": "medio",
+            "lemma": "medius"
+        },
+        {
+            "key": "fiat",
+            "lemma": "fio"
+        }
+    ],
+    "2 Thessalonians.2.8": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "tunc",
+            "lemma": "tunc"
+        },
+        {
+            "key": "revelabitur",
+            "lemma": "reuelo"
+        },
+        {
+            "key": "ille",
+            "lemma": "ille"
+        },
+        {
+            "key": "iniquus",
+            "lemma": "iniquus"
+        },
+        {
+            "key": "quem",
+            "lemma": "qui"
+        },
+        {
+            "key": "dominus",
+            "lemma": "dominus"
+        },
+        {
+            "key": "jesus",
+            "lemma": "jesus"
+        },
+        {
+            "key": "interficiet",
+            "lemma": "interficio"
+        },
+        {
+            "key": "spiritu",
+            "lemma": "spiritus"
+        },
+        {
+            "key": "oris",
+            "lemma": "os"
+        },
+        {
+            "key": "sui",
+            "lemma": "suus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "destruet",
+            "lemma": "destruo"
+        },
+        {
+            "key": "illustratione",
+            "lemma": "illustratio"
+        },
+        {
+            "key": "adventus",
+            "lemma": "aduentus"
+        },
+        {
+            "key": "sui",
+            "lemma": "se"
+        },
+        {
+            "key": "eum",
+            "lemma": "is"
+        }
+    ],
+    "2 Thessalonians.2.9": [
+        {
+            "key": "cujus",
+            "lemma": "qujs"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "adventus",
+            "lemma": "aduentus"
+        },
+        {
+            "key": "secundum",
+            "lemma": "secundum"
+        },
+        {
+            "key": "operationem",
+            "lemma": "operatio"
+        },
+        {
+            "key": "satan\u00e6",
+            "lemma": "satan\u00e6"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "omni",
+            "lemma": "omnis"
+        },
+        {
+            "key": "virtute",
+            "lemma": "uirtus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "signis",
+            "lemma": "signum"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "prodigiis",
+            "lemma": "prodigium"
+        },
+        {
+            "key": "mendacibus",
+            "lemma": "mendaces"
+        }
+    ],
+    "2 Thessalonians.2.10": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "omni",
+            "lemma": "omnis"
+        },
+        {
+            "key": "seductione",
+            "lemma": "seductio"
+        },
+        {
+            "key": "iniquitatis",
+            "lemma": "iniquitas"
+        },
+        {
+            "key": "iis",
+            "lemma": "is"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "pereunt",
+            "lemma": "pereo"
+        },
+        {
+            "key": "eo",
+            "lemma": "is"
+        },
+        {
+            "key": "quod",
+            "lemma": "quod"
+        },
+        {
+            "key": "caritatem",
+            "lemma": "caritas"
+        },
+        {
+            "key": "veritatis",
+            "lemma": "ueritas"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "receperunt",
+            "lemma": "recipio"
+        },
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "salvi",
+            "lemma": "saluus"
+        },
+        {
+            "key": "fierent",
+            "lemma": "fio"
+        }
+    ],
+    "2 Thessalonians.2.11": [
+        {
+            "key": "ideo",
+            "lemma": "ideo"
+        },
+        {
+            "key": "mittet",
+            "lemma": "mitto"
+        },
+        {
+            "key": "illis",
+            "lemma": "ille"
+        },
+        {
+            "key": "deus",
+            "lemma": "deus"
+        },
+        {
+            "key": "operationem",
+            "lemma": "operatio"
+        },
+        {
+            "key": "erroris",
+            "lemma": "error"
+        },
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "credant",
+            "lemma": "credo"
+        },
+        {
+            "key": "mendacio",
+            "lemma": "mendacium"
+        }
+    ],
+    "2 Thessalonians.2.12": [
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "judicentur",
+            "lemma": "judico"
+        },
+        {
+            "key": "omnes",
+            "lemma": "omnis"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "crediderunt",
+            "lemma": "credo"
+        },
+        {
+            "key": "veritati",
+            "lemma": "ueritas"
+        },
+        {
+            "key": "sed",
+            "lemma": "sed"
+        },
+        {
+            "key": "consenserunt",
+            "lemma": "consentio"
+        },
+        {
+            "key": "iniquitati",
+            "lemma": "iniquitas"
+        }
+    ],
+    "2 Thessalonians.2.13": [
+        {
+            "key": "nos",
+            "lemma": "nos"
+        },
+        {
+            "key": "autem",
+            "lemma": "autem"
+        },
+        {
+            "key": "debemus",
+            "lemma": "debeo"
+        },
+        {
+            "key": "gratias",
+            "lemma": "gratia"
+        },
+        {
+            "key": "agere",
+            "lemma": "ago"
+        },
+        {
+            "key": "deo",
+            "lemma": "deus"
+        },
+        {
+            "key": "semper",
+            "lemma": "semper"
+        },
+        {
+            "key": "pro",
+            "lemma": "pro"
+        },
+        {
+            "key": "vobis",
+            "lemma": "uos"
+        },
+        {
+            "key": "fratres",
+            "lemma": "frater"
+        },
+        {
+            "key": "dilecti",
+            "lemma": "diligo"
+        },
+        {
+            "key": "a",
+            "lemma": "ab"
+        },
+        {
+            "key": "deo",
+            "lemma": "deus"
+        },
+        {
+            "key": "quod",
+            "lemma": "quod"
+        },
+        {
+            "key": "elegerit",
+            "lemma": "eligo"
+        },
+        {
+            "key": "vos",
+            "lemma": "uos"
+        },
+        {
+            "key": "deus",
+            "lemma": "deus"
+        },
+        {
+            "key": "primitias",
+            "lemma": "primitiae"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "salutem",
+            "lemma": "salus"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "sanctificatione",
+            "lemma": "sanctificatio"
+        },
+        {
+            "key": "spiritus",
+            "lemma": "spiritus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "fide",
+            "lemma": "fides"
+        },
+        {
+            "key": "veritatis",
+            "lemma": "ueritas"
+        }
+    ],
+    "2 Thessalonians.2.14": [
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "qua",
+            "lemma": "qui"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "vocavit",
+            "lemma": "uoco"
+        },
+        {
+            "key": "vos",
+            "lemma": "uos"
+        },
+        {
+            "key": "per",
+            "lemma": "per"
+        },
+        {
+            "key": "evangelium",
+            "lemma": "evangelium"
+        },
+        {
+            "key": "nostrum",
+            "lemma": "noster"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "acquisitionem",
+            "lemma": "acquisitio"
+        },
+        {
+            "key": "glori\u00e6",
+            "lemma": "glori\u00e6"
+        },
+        {
+            "key": "domini",
+            "lemma": "dominus"
+        },
+        {
+            "key": "nostri",
+            "lemma": "noster"
+        },
+        {
+            "key": "jesu",
+            "lemma": "jesus"
+        },
+        {
+            "key": "christi",
+            "lemma": "christus"
+        }
+    ],
+    "2 Thessalonians.2.15": [
+        {
+            "key": "itaque",
+            "lemma": "itaque"
+        },
+        {
+            "key": "fratres",
+            "lemma": "frater"
+        },
+        {
+            "key": "state",
+            "lemma": "sto"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "tenete",
+            "lemma": "teneo"
+        },
+        {
+            "key": "traditiones",
+            "lemma": "traditio"
+        },
+        {
+            "key": "quas",
+            "lemma": "qui"
+        },
+        {
+            "key": "didicistis",
+            "lemma": "disco"
+        },
+        {
+            "key": "sive",
+            "lemma": "siue"
+        },
+        {
+            "key": "per",
+            "lemma": "per"
+        },
+        {
+            "key": "sermonem",
+            "lemma": "sermo"
+        },
+        {
+            "key": "sive",
+            "lemma": "siue"
+        },
+        {
+            "key": "per",
+            "lemma": "per"
+        },
+        {
+            "key": "epistolam",
+            "lemma": "epistola"
+        },
+        {
+            "key": "nostram",
+            "lemma": "noster"
+        }
+    ],
+    "2 Thessalonians.2.16": [
+        {
+            "key": "ipse",
+            "lemma": "ipse"
+        },
+        {
+            "key": "autem",
+            "lemma": "autem"
+        },
+        {
+            "key": "dominus",
+            "lemma": "dominus"
+        },
+        {
+            "key": "noster",
+            "lemma": "noster"
+        },
+        {
+            "key": "jesus",
+            "lemma": "jesus"
+        },
+        {
+            "key": "christus",
+            "lemma": "christus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "deus",
+            "lemma": "deus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "pater",
+            "lemma": "pater"
+        },
+        {
+            "key": "noster",
+            "lemma": "noster"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "dilexit",
+            "lemma": "diligo"
+        },
+        {
+            "key": "nos",
+            "lemma": "nos"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "dedit",
+            "lemma": "do"
+        },
+        {
+            "key": "consolationem",
+            "lemma": "consolatio"
+        },
+        {
+            "key": "\u00e6ternam",
+            "lemma": "\u00e6ternus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "spem",
+            "lemma": "spes"
+        },
+        {
+            "key": "bonam",
+            "lemma": "bonus"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "gratia",
+            "lemma": "gratia"
+        }
+    ],
+    "2 Thessalonians.2.17": [
+        {
+            "key": "exhortetur",
+            "lemma": "exhortor"
+        },
+        {
+            "key": "corda",
+            "lemma": "cor"
+        },
+        {
+            "key": "vestra",
+            "lemma": "uester"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "confirmet",
+            "lemma": "confirmo"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "omni",
+            "lemma": "omnis"
+        },
+        {
+            "key": "opere",
+            "lemma": "opus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "sermone",
+            "lemma": "sermo"
+        },
+        {
+            "key": "bono",
+            "lemma": "bonus"
+        }
+    ],
+    "2 Thessalonians.3.1": [
+        {
+            "key": "de",
+            "lemma": "de"
+        },
+        {
+            "key": "cetero",
+            "lemma": "ceterus"
+        },
+        {
+            "key": "fratres",
+            "lemma": "frater"
+        },
+        {
+            "key": "orate",
+            "lemma": "oro"
+        },
+        {
+            "key": "pro",
+            "lemma": "pro"
+        },
+        {
+            "key": "nobis",
+            "lemma": "nos"
+        },
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "sermo",
+            "lemma": "sermo"
+        },
+        {
+            "key": "dei",
+            "lemma": "deus"
+        },
+        {
+            "key": "currat",
+            "lemma": "curro"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "clarificetur",
+            "lemma": "clarifico"
+        },
+        {
+            "key": "sicut",
+            "lemma": "sicut"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "apud",
+            "lemma": "apud"
+        },
+        {
+            "key": "vos",
+            "lemma": "uos"
+        }
+    ],
+    "2 Thessalonians.3.2": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "liberemur",
+            "lemma": "libero"
+        },
+        {
+            "key": "ab",
+            "lemma": "ab"
+        },
+        {
+            "key": "importunis",
+            "lemma": "importunis"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "malis",
+            "lemma": "malum"
+        },
+        {
+            "key": "hominibus",
+            "lemma": "homo"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "enim",
+            "lemma": "enim"
+        },
+        {
+            "key": "omnium",
+            "lemma": "omnis"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "fides",
+            "lemma": "fides"
+        }
+    ],
+    "2 Thessalonians.3.3": [
+        {
+            "key": "fidelis",
+            "lemma": "fidelis"
+        },
+        {
+            "key": "autem",
+            "lemma": "autem"
+        },
+        {
+            "key": "deus",
+            "lemma": "deus"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "confirmabit",
+            "lemma": "confirmo"
+        },
+        {
+            "key": "vos",
+            "lemma": "uos"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "custodiet",
+            "lemma": "custodio"
+        },
+        {
+            "key": "a",
+            "lemma": "ab"
+        },
+        {
+            "key": "malo",
+            "lemma": "malus"
+        }
+    ],
+    "2 Thessalonians.3.4": [
+        {
+            "key": "confidimus",
+            "lemma": "confidimus"
+        },
+        {
+            "key": "autem",
+            "lemma": "autem"
+        },
+        {
+            "key": "de",
+            "lemma": "de"
+        },
+        {
+            "key": "vobis",
+            "lemma": "uos"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "domino",
+            "lemma": "dominus"
+        },
+        {
+            "key": "quoniam",
+            "lemma": "quoniam"
+        },
+        {
+            "key": "qu\u00e6",
+            "lemma": "qu\u00e6"
+        },
+        {
+            "key": "pr\u00e6cepimus",
+            "lemma": "pr\u00e6cepimus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "facitis",
+            "lemma": "facio"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "facietis",
+            "lemma": "facio"
+        }
+    ],
+    "2 Thessalonians.3.5": [
+        {
+            "key": "dominus",
+            "lemma": "dominus"
+        },
+        {
+            "key": "autem",
+            "lemma": "autem"
+        },
+        {
+            "key": "dirigat",
+            "lemma": "dirigo"
+        },
+        {
+            "key": "corda",
+            "lemma": "cor"
+        },
+        {
+            "key": "vestra",
+            "lemma": "uester"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "caritate",
+            "lemma": "caritas"
+        },
+        {
+            "key": "dei",
+            "lemma": "deus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "patientia",
+            "lemma": "patientia"
+        },
+        {
+            "key": "christi",
+            "lemma": "christus"
+        }
+    ],
+    "2 Thessalonians.3.6": [
+        {
+            "key": "denuntiamus",
+            "lemma": "denuntiamus"
+        },
+        {
+            "key": "autem",
+            "lemma": "autem"
+        },
+        {
+            "key": "vobis",
+            "lemma": "uos"
+        },
+        {
+            "key": "fratres",
+            "lemma": "frater"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "nomine",
+            "lemma": "nomen"
+        },
+        {
+            "key": "domini",
+            "lemma": "dominus"
+        },
+        {
+            "key": "nostri",
+            "lemma": "noster"
+        },
+        {
+            "key": "jesu",
+            "lemma": "jesus"
+        },
+        {
+            "key": "christi",
+            "lemma": "christus"
+        },
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "subtrahatis",
+            "lemma": "subtraho"
+        },
+        {
+            "key": "vos",
+            "lemma": "uos"
+        },
+        {
+            "key": "ab",
+            "lemma": "ab"
+        },
+        {
+            "key": "omni",
+            "lemma": "omnis"
+        },
+        {
+            "key": "fratre",
+            "lemma": "frater"
+        },
+        {
+            "key": "ambulante",
+            "lemma": "ambulo"
+        },
+        {
+            "key": "inordinate",
+            "lemma": "inordinate"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "secundum",
+            "lemma": "secundum"
+        },
+        {
+            "key": "traditionem",
+            "lemma": "traditio"
+        },
+        {
+            "key": "quam",
+            "lemma": "quam"
+        },
+        {
+            "key": "acceperunt",
+            "lemma": "accipio"
+        },
+        {
+            "key": "a",
+            "lemma": "ab"
+        },
+        {
+            "key": "nobis",
+            "lemma": "nos"
+        }
+    ],
+    "2 Thessalonians.3.7": [
+        {
+            "key": "ipsi",
+            "lemma": "ipse"
+        },
+        {
+            "key": "enim",
+            "lemma": "enim"
+        },
+        {
+            "key": "scitis",
+            "lemma": "scio"
+        },
+        {
+            "key": "quemadmodum",
+            "lemma": "quemadmodum"
+        },
+        {
+            "key": "oporteat",
+            "lemma": "oportet"
+        },
+        {
+            "key": "imitari",
+            "lemma": "imitor"
+        },
+        {
+            "key": "nos",
+            "lemma": "nos"
+        },
+        {
+            "key": "quoniam",
+            "lemma": "quoniam"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "inquieti",
+            "lemma": "inquietus"
+        },
+        {
+            "key": "fuimus",
+            "lemma": "sum"
+        },
+        {
+            "key": "inter",
+            "lemma": "inter"
+        },
+        {
+            "key": "vos",
+            "lemma": "uos"
+        }
+    ],
+    "2 Thessalonians.3.8": [
+        {
+            "key": "neque",
+            "lemma": "neque"
+        },
+        {
+            "key": "gratis",
+            "lemma": "gratis"
+        },
+        {
+            "key": "panem",
+            "lemma": "panis"
+        },
+        {
+            "key": "manducavimus",
+            "lemma": "manduco"
+        },
+        {
+            "key": "ab",
+            "lemma": "ab"
+        },
+        {
+            "key": "aliquo",
+            "lemma": "aliquis"
+        },
+        {
+            "key": "sed",
+            "lemma": "sed"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "labore",
+            "lemma": "labor"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "fatigatione",
+            "lemma": "fatigatio"
+        },
+        {
+            "key": "nocte",
+            "lemma": "nox"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "die",
+            "lemma": "dies"
+        },
+        {
+            "key": "operantes",
+            "lemma": "operor"
+        },
+        {
+            "key": "ne",
+            "lemma": "ne"
+        },
+        {
+            "key": "quem",
+            "lemma": "qui"
+        },
+        {
+            "key": "vestrum",
+            "lemma": "uos"
+        },
+        {
+            "key": "gravaremus",
+            "lemma": "grauo"
+        }
+    ],
+    "2 Thessalonians.3.9": [
+        {
+            "key": "non",
+            "lemma": "nonnullus"
+        },
+        {
+            "key": "quasi",
+            "lemma": "quasi"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "habuerimus",
+            "lemma": "habeo"
+        },
+        {
+            "key": "potestatem",
+            "lemma": "potestas"
+        },
+        {
+            "key": "sed",
+            "lemma": "sed"
+        },
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "nosmetipsos",
+            "lemma": "nosmetipsi"
+        },
+        {
+            "key": "formam",
+            "lemma": "forma"
+        },
+        {
+            "key": "daremus",
+            "lemma": "do"
+        },
+        {
+            "key": "vobis",
+            "lemma": "uos"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "imitandum",
+            "lemma": "imito"
+        },
+        {
+            "key": "nos",
+            "lemma": "nos"
+        }
+    ],
+    "2 Thessalonians.3.10": [
+        {
+            "key": "nam",
+            "lemma": "nam"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "cum",
+            "lemma": "cum"
+        },
+        {
+            "key": "essemus",
+            "lemma": "sum"
+        },
+        {
+            "key": "apud",
+            "lemma": "apud"
+        },
+        {
+            "key": "vos",
+            "lemma": "uos"
+        },
+        {
+            "key": "hoc",
+            "lemma": "hic"
+        },
+        {
+            "key": "denuntiabamus",
+            "lemma": "denuntio"
+        },
+        {
+            "key": "vobis",
+            "lemma": "uos"
+        },
+        {
+            "key": "quoniam",
+            "lemma": "quoniam"
+        },
+        {
+            "key": "si",
+            "lemma": "si"
+        },
+        {
+            "key": "quis",
+            "lemma": "quis"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "vult",
+            "lemma": "uolo"
+        },
+        {
+            "key": "operari",
+            "lemma": "operor"
+        },
+        {
+            "key": "nec",
+            "lemma": "nec"
+        },
+        {
+            "key": "manducet",
+            "lemma": "manduco"
+        }
+    ],
+    "2 Thessalonians.3.11": [
+        {
+            "key": "audivimus",
+            "lemma": "audivimus"
+        },
+        {
+            "key": "enim",
+            "lemma": "enim"
+        },
+        {
+            "key": "inter",
+            "lemma": "inter"
+        },
+        {
+            "key": "vos",
+            "lemma": "uos"
+        },
+        {
+            "key": "quosdam",
+            "lemma": "quidam"
+        },
+        {
+            "key": "ambulare",
+            "lemma": "ambulo"
+        },
+        {
+            "key": "inquiete",
+            "lemma": "inquiete"
+        },
+        {
+            "key": "nihil",
+            "lemma": "nihil"
+        },
+        {
+            "key": "operantes",
+            "lemma": "operor"
+        },
+        {
+            "key": "sed",
+            "lemma": "sed"
+        },
+        {
+            "key": "curiose",
+            "lemma": "curiose"
+        },
+        {
+            "key": "agentes",
+            "lemma": "ago"
+        }
+    ],
+    "2 Thessalonians.3.12": [
+        {
+            "key": "iis",
+            "lemma": "iis"
+        },
+        {
+            "key": "autem",
+            "lemma": "autem"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "ejusmodi",
+            "lemma": "ejusmodus"
+        },
+        {
+            "key": "sunt",
+            "lemma": "sum"
+        },
+        {
+            "key": "denuntiemus",
+            "lemma": "denuntio"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "obsecramus",
+            "lemma": "obsecro"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "domino",
+            "lemma": "dominus"
+        },
+        {
+            "key": "jesu",
+            "lemma": "jesus"
+        },
+        {
+            "key": "christo",
+            "lemma": "christus"
+        },
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "cum",
+            "lemma": "cum"
+        },
+        {
+            "key": "silentio",
+            "lemma": "silentium"
+        },
+        {
+            "key": "operantes",
+            "lemma": "operor"
+        },
+        {
+            "key": "suum",
+            "lemma": "suus"
+        },
+        {
+            "key": "panem",
+            "lemma": "panis"
+        },
+        {
+            "key": "manducent",
+            "lemma": "manduco"
+        }
+    ],
+    "2 Thessalonians.3.13": [
+        {
+            "key": "vos",
+            "lemma": "uos"
+        },
+        {
+            "key": "autem",
+            "lemma": "autem"
+        },
+        {
+            "key": "fratres",
+            "lemma": "frater"
+        },
+        {
+            "key": "nolite",
+            "lemma": "nolo"
+        },
+        {
+            "key": "deficere",
+            "lemma": "deficio"
+        },
+        {
+            "key": "benefacientes",
+            "lemma": "benefacio"
+        }
+    ],
+    "2 Thessalonians.3.14": [
+        {
+            "key": "quod",
+            "lemma": "quod"
+        },
+        {
+            "key": "si",
+            "lemma": "si"
+        },
+        {
+            "key": "quis",
+            "lemma": "quis"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "obedit",
+            "lemma": "obedio"
+        },
+        {
+            "key": "verbo",
+            "lemma": "uerbum"
+        },
+        {
+            "key": "nostro",
+            "lemma": "noster"
+        },
+        {
+            "key": "per",
+            "lemma": "per"
+        },
+        {
+            "key": "epistolam",
+            "lemma": "epistola"
+        },
+        {
+            "key": "hunc",
+            "lemma": "hic"
+        },
+        {
+            "key": "notate",
+            "lemma": "noto"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "ne",
+            "lemma": "ne"
+        },
+        {
+            "key": "commisceamini",
+            "lemma": "commisceo"
+        },
+        {
+            "key": "cum",
+            "lemma": "cum"
+        },
+        {
+            "key": "illo",
+            "lemma": "ille"
+        },
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "confundatur",
+            "lemma": "confundo"
+        }
+    ],
+    "2 Thessalonians.3.15": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "nolite",
+            "lemma": "nolo"
+        },
+        {
+            "key": "quasi",
+            "lemma": "quasi"
+        },
+        {
+            "key": "inimicum",
+            "lemma": "inimicus"
+        },
+        {
+            "key": "existimare",
+            "lemma": "existimo"
+        },
+        {
+            "key": "sed",
+            "lemma": "sed"
+        },
+        {
+            "key": "corripite",
+            "lemma": "corripio"
+        },
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "fratrem",
+            "lemma": "frater"
+        }
+    ],
+    "2 Thessalonians.3.16": [
+        {
+            "key": "ipse",
+            "lemma": "ipse"
+        },
+        {
+            "key": "autem",
+            "lemma": "autem"
+        },
+        {
+            "key": "dominus",
+            "lemma": "dominus"
+        },
+        {
+            "key": "pacis",
+            "lemma": "pax"
+        },
+        {
+            "key": "det",
+            "lemma": "do"
+        },
+        {
+            "key": "vobis",
+            "lemma": "uos"
+        },
+        {
+            "key": "pacem",
+            "lemma": "pax"
+        },
+        {
+            "key": "sempiternam",
+            "lemma": "sempiternus"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "omni",
+            "lemma": "omnis"
+        },
+        {
+            "key": "loco",
+            "lemma": "locus"
+        },
+        {
+            "key": "dominus",
+            "lemma": "dominus"
+        },
+        {
+            "key": "sit",
+            "lemma": "sum"
+        },
+        {
+            "key": "cum",
+            "lemma": "cum"
+        },
+        {
+            "key": "omnibus",
+            "lemma": "omnis"
+        },
+        {
+            "key": "vobis",
+            "lemma": "uos"
+        }
+    ],
+    "2 Thessalonians.3.17": [
+        {
+            "key": "salutatio",
+            "lemma": "salutatio"
+        },
+        {
+            "key": "mea",
+            "lemma": "meus"
+        },
+        {
+            "key": "manu",
+            "lemma": "manus"
+        },
+        {
+            "key": "pauli",
+            "lemma": "paulus"
+        },
+        {
+            "key": "quod",
+            "lemma": "qui"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "signum",
+            "lemma": "signum"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "omni",
+            "lemma": "omnis"
+        },
+        {
+            "key": "epistola",
+            "lemma": "epistola"
+        },
+        {
+            "key": "ita",
+            "lemma": "ita"
+        },
+        {
+            "key": "scribo",
+            "lemma": "scribo"
+        }
+    ],
+    "2 Thessalonians.3.18": [
+        {
+            "key": "gratia",
+            "lemma": "gratia"
+        },
+        {
+            "key": "domini",
+            "lemma": "dominus"
+        },
+        {
+            "key": "nostri",
+            "lemma": "noster"
+        },
+        {
+            "key": "jesu",
+            "lemma": "jesus"
+        },
+        {
+            "key": "christi",
+            "lemma": "christus"
+        },
+        {
+            "key": "cum",
+            "lemma": "cum"
+        },
+        {
+            "key": "omnibus",
+            "lemma": "omnis"
+        },
+        {
+            "key": "vobis",
+            "lemma": "uos"
+        },
+        {
+            "key": "amen",
+            "lemma": "amen"
+        }
+    ]
+}

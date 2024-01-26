@@ -1,0 +1,4126 @@
+{
+    "Habacuc.1.1": [
+        {
+            "key": "onus",
+            "lemma": "onus"
+        },
+        {
+            "key": "quod",
+            "lemma": "qui"
+        },
+        {
+            "key": "vidit",
+            "lemma": "uideo"
+        },
+        {
+            "key": "habacuc",
+            "lemma": "habacuc"
+        },
+        {
+            "key": "propheta",
+            "lemma": "propheta"
+        }
+    ],
+    "Habacuc.1.2": [
+        {
+            "key": "usquequo",
+            "lemma": "usquequo"
+        },
+        {
+            "key": "domine",
+            "lemma": "dominus"
+        },
+        {
+            "key": "clamabo",
+            "lemma": "clamo"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "exaudies",
+            "lemma": "exaudio"
+        },
+        {
+            "key": "vociferabor",
+            "lemma": "vociferabor"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "te",
+            "lemma": "tu"
+        },
+        {
+            "key": "vim",
+            "lemma": "uis"
+        },
+        {
+            "key": "patiens",
+            "lemma": "patiens"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "salvabis",
+            "lemma": "salvo"
+        }
+    ],
+    "Habacuc.1.3": [
+        {
+            "key": "quare",
+            "lemma": "quare"
+        },
+        {
+            "key": "ostendisti",
+            "lemma": "ostendo"
+        },
+        {
+            "key": "mihi",
+            "lemma": "ego"
+        },
+        {
+            "key": "iniquitatem",
+            "lemma": "iniquitas"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "laborem",
+            "lemma": "labor"
+        },
+        {
+            "key": "videre",
+            "lemma": "uideo"
+        },
+        {
+            "key": "pr\u00e6dam",
+            "lemma": "pr\u00e6da"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "injustitiam",
+            "lemma": "injustitia"
+        },
+        {
+            "key": "contra",
+            "lemma": "contra"
+        },
+        {
+            "key": "me",
+            "lemma": "ego"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "factum",
+            "lemma": "facio"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "judicium",
+            "lemma": "judicium"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "contradictio",
+            "lemma": "contradictio"
+        },
+        {
+            "key": "potentior",
+            "lemma": "possum"
+        }
+    ],
+    "Habacuc.1.4": [
+        {
+            "key": "propter",
+            "lemma": "propter"
+        },
+        {
+            "key": "hoc",
+            "lemma": "hic"
+        },
+        {
+            "key": "lacerata",
+            "lemma": "lacero"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "lex",
+            "lemma": "lex"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "pervenit",
+            "lemma": "peruenio"
+        },
+        {
+            "key": "usque",
+            "lemma": "usque"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "finem",
+            "lemma": "finis"
+        },
+        {
+            "key": "judicium",
+            "lemma": "judicium"
+        },
+        {
+            "key": "quia",
+            "lemma": "quia"
+        },
+        {
+            "key": "impius",
+            "lemma": "impius"
+        },
+        {
+            "key": "pr\u00e6valet",
+            "lemma": "pr\u00e6valo"
+        },
+        {
+            "key": "adversus",
+            "lemma": "aduersus"
+        },
+        {
+            "key": "justum",
+            "lemma": "justus"
+        },
+        {
+            "key": "propterea",
+            "lemma": "propterea"
+        },
+        {
+            "key": "egreditur",
+            "lemma": "egredior"
+        },
+        {
+            "key": "judicium",
+            "lemma": "judicium"
+        },
+        {
+            "key": "perversum",
+            "lemma": "perversum"
+        }
+    ],
+    "Habacuc.1.5": [
+        {
+            "key": "aspicite",
+            "lemma": "aspicite"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "gentibus",
+            "lemma": "gens"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "videte",
+            "lemma": "uideo"
+        },
+        {
+            "key": "admiramini",
+            "lemma": "admiror"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "obstupescite",
+            "lemma": "obstupescio"
+        },
+        {
+            "key": "quia",
+            "lemma": "quia"
+        },
+        {
+            "key": "opus",
+            "lemma": "opus"
+        },
+        {
+            "key": "factum",
+            "lemma": "facio"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "diebus",
+            "lemma": "dies"
+        },
+        {
+            "key": "vestris",
+            "lemma": "uester"
+        },
+        {
+            "key": "quod",
+            "lemma": "qui"
+        },
+        {
+            "key": "nemo",
+            "lemma": "nemo"
+        },
+        {
+            "key": "credet",
+            "lemma": "credo"
+        },
+        {
+            "key": "cum",
+            "lemma": "cum"
+        },
+        {
+            "key": "narrabitur",
+            "lemma": "narro"
+        }
+    ],
+    "Habacuc.1.6": [
+        {
+            "key": "quia",
+            "lemma": "quia"
+        },
+        {
+            "key": "ecce",
+            "lemma": "ecce"
+        },
+        {
+            "key": "ego",
+            "lemma": "ego"
+        },
+        {
+            "key": "suscitabo",
+            "lemma": "suscito"
+        },
+        {
+            "key": "chald\u00e6os",
+            "lemma": "chald\u00e6os"
+        },
+        {
+            "key": "gentem",
+            "lemma": "gens"
+        },
+        {
+            "key": "amaram",
+            "lemma": "amarus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "velocem",
+            "lemma": "uelox"
+        },
+        {
+            "key": "ambulantem",
+            "lemma": "ambulo"
+        },
+        {
+            "key": "super",
+            "lemma": "super"
+        },
+        {
+            "key": "latitudinem",
+            "lemma": "latitudo"
+        },
+        {
+            "key": "terr\u00e6",
+            "lemma": "terr\u00e6"
+        },
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "possideat",
+            "lemma": "possideo"
+        },
+        {
+            "key": "tabernacula",
+            "lemma": "tabernaculum"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "sua",
+            "lemma": "suus"
+        }
+    ],
+    "Habacuc.1.7": [
+        {
+            "key": "horribilis",
+            "lemma": "horribilis"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "terribilis",
+            "lemma": "terribilis"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "ex",
+            "lemma": "ex"
+        },
+        {
+            "key": "semetipsa",
+            "lemma": "semetipse"
+        },
+        {
+            "key": "judicium",
+            "lemma": "judicium"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "onus",
+            "lemma": "onus"
+        },
+        {
+            "key": "ejus",
+            "lemma": "js"
+        },
+        {
+            "key": "egredietur",
+            "lemma": "egredio"
+        }
+    ],
+    "Habacuc.1.8": [
+        {
+            "key": "leviores",
+            "lemma": "leviores"
+        },
+        {
+            "key": "pardis",
+            "lemma": "pardus"
+        },
+        {
+            "key": "equi",
+            "lemma": "equus"
+        },
+        {
+            "key": "ejus",
+            "lemma": "js"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "velociores",
+            "lemma": "velocus"
+        },
+        {
+            "key": "lupis",
+            "lemma": "lupi"
+        },
+        {
+            "key": "vespertinis",
+            "lemma": "vespertinis"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "diffundentur",
+            "lemma": "diffundo"
+        },
+        {
+            "key": "equites",
+            "lemma": "eques"
+        },
+        {
+            "key": "ejus",
+            "lemma": "ejus"
+        },
+        {
+            "key": "equites",
+            "lemma": "eques"
+        },
+        {
+            "key": "namque",
+            "lemma": "nam"
+        },
+        {
+            "key": "ejus",
+            "lemma": "js"
+        },
+        {
+            "key": "de",
+            "lemma": "de"
+        },
+        {
+            "key": "longe",
+            "lemma": "longe"
+        },
+        {
+            "key": "venient",
+            "lemma": "uenio"
+        },
+        {
+            "key": "volabunt",
+            "lemma": "volabunt"
+        },
+        {
+            "key": "quasi",
+            "lemma": "quasi"
+        },
+        {
+            "key": "aquila",
+            "lemma": "aquila"
+        },
+        {
+            "key": "festinans",
+            "lemma": "festino"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "comedendum",
+            "lemma": "comedo"
+        }
+    ],
+    "Habacuc.1.9": [
+        {
+            "key": "omnes",
+            "lemma": "omnis"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "pr\u00e6dam",
+            "lemma": "pr\u00e6da"
+        },
+        {
+            "key": "venient",
+            "lemma": "uenio"
+        },
+        {
+            "key": "facies",
+            "lemma": "facio"
+        },
+        {
+            "key": "eorum",
+            "lemma": "is"
+        },
+        {
+            "key": "ventus",
+            "lemma": "uentus"
+        },
+        {
+            "key": "urens",
+            "lemma": "uro"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "congregabit",
+            "lemma": "congrego"
+        },
+        {
+            "key": "quasi",
+            "lemma": "quasi"
+        },
+        {
+            "key": "arenam",
+            "lemma": "arena"
+        },
+        {
+            "key": "captivitatem",
+            "lemma": "captiuitas"
+        }
+    ],
+    "Habacuc.1.10": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "ipse",
+            "lemma": "ipse"
+        },
+        {
+            "key": "de",
+            "lemma": "de"
+        },
+        {
+            "key": "regibus",
+            "lemma": "rex"
+        },
+        {
+            "key": "triumphabit",
+            "lemma": "triumpho"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "tyranni",
+            "lemma": "tyrannus"
+        },
+        {
+            "key": "ridiculi",
+            "lemma": "ridiculum"
+        },
+        {
+            "key": "ejus",
+            "lemma": "js"
+        },
+        {
+            "key": "erunt",
+            "lemma": "sum"
+        },
+        {
+            "key": "ipse",
+            "lemma": "ipse"
+        },
+        {
+            "key": "super",
+            "lemma": "super"
+        },
+        {
+            "key": "omnem",
+            "lemma": "omnis"
+        },
+        {
+            "key": "munitionem",
+            "lemma": "munitio"
+        },
+        {
+            "key": "ridebit",
+            "lemma": "rideo"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "comportabit",
+            "lemma": "comporto"
+        },
+        {
+            "key": "aggerem",
+            "lemma": "agger"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "capiet",
+            "lemma": "capio"
+        },
+        {
+            "key": "eam",
+            "lemma": "is"
+        }
+    ],
+    "Habacuc.1.11": [
+        {
+            "key": "tunc",
+            "lemma": "tunc"
+        },
+        {
+            "key": "mutabitur",
+            "lemma": "muto"
+        },
+        {
+            "key": "spiritus",
+            "lemma": "spiritus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "pertransibit",
+            "lemma": "pertranseo"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "corruet",
+            "lemma": "corruo"
+        },
+        {
+            "key": "h\u00e6c",
+            "lemma": "h\u00e6c"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "fortitudo",
+            "lemma": "fortitudo"
+        },
+        {
+            "key": "ejus",
+            "lemma": "js"
+        },
+        {
+            "key": "dei",
+            "lemma": "deus"
+        },
+        {
+            "key": "sui",
+            "lemma": "suus"
+        }
+    ],
+    "Habacuc.1.12": [
+        {
+            "key": "numquid",
+            "lemma": "numquid"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "tu",
+            "lemma": "tu"
+        },
+        {
+            "key": "a",
+            "lemma": "ab"
+        },
+        {
+            "key": "principio",
+            "lemma": "principium"
+        },
+        {
+            "key": "domine",
+            "lemma": "dominus"
+        },
+        {
+            "key": "deus",
+            "lemma": "deus"
+        },
+        {
+            "key": "meus",
+            "lemma": "meus"
+        },
+        {
+            "key": "sancte",
+            "lemma": "sanctus"
+        },
+        {
+            "key": "meus",
+            "lemma": "meus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "moriemur",
+            "lemma": "morior"
+        },
+        {
+            "key": "domine",
+            "lemma": "dominus"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "judicium",
+            "lemma": "judicium"
+        },
+        {
+            "key": "posuisti",
+            "lemma": "pono"
+        },
+        {
+            "key": "eum",
+            "lemma": "is"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "fortem",
+            "lemma": "fortis"
+        },
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "corriperes",
+            "lemma": "corripero"
+        },
+        {
+            "key": "fundasti",
+            "lemma": "fundo"
+        },
+        {
+            "key": "eum",
+            "lemma": "is"
+        }
+    ],
+    "Habacuc.1.13": [
+        {
+            "key": "mundi",
+            "lemma": "mundus"
+        },
+        {
+            "key": "sunt",
+            "lemma": "sum"
+        },
+        {
+            "key": "oculi",
+            "lemma": "oculus"
+        },
+        {
+            "key": "tui",
+            "lemma": "tuus"
+        },
+        {
+            "key": "ne",
+            "lemma": "ne"
+        },
+        {
+            "key": "videas",
+            "lemma": "uideo"
+        },
+        {
+            "key": "malum",
+            "lemma": "malum"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "respicere",
+            "lemma": "respico"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "iniquitatem",
+            "lemma": "iniquitas"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "poteris",
+            "lemma": "possum"
+        },
+        {
+            "key": "quare",
+            "lemma": "quare"
+        },
+        {
+            "key": "respicis",
+            "lemma": "respicio"
+        },
+        {
+            "key": "super",
+            "lemma": "super"
+        },
+        {
+            "key": "iniqua",
+            "lemma": "iniquus"
+        },
+        {
+            "key": "agentes",
+            "lemma": "ago"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "taces",
+            "lemma": "taces"
+        },
+        {
+            "key": "devorante",
+            "lemma": "devoro"
+        },
+        {
+            "key": "impio",
+            "lemma": "impius"
+        },
+        {
+            "key": "justiorem",
+            "lemma": "justus"
+        },
+        {
+            "key": "se",
+            "lemma": "sui"
+        }
+    ],
+    "Habacuc.1.14": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "facies",
+            "lemma": "facio"
+        },
+        {
+            "key": "homines",
+            "lemma": "homo"
+        },
+        {
+            "key": "quasi",
+            "lemma": "quasi"
+        },
+        {
+            "key": "pisces",
+            "lemma": "piscis"
+        },
+        {
+            "key": "maris",
+            "lemma": "mare"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "quasi",
+            "lemma": "quasi"
+        },
+        {
+            "key": "reptile",
+            "lemma": "reptilis"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "habens",
+            "lemma": "habeo"
+        },
+        {
+            "key": "principem",
+            "lemma": "princeps"
+        }
+    ],
+    "Habacuc.1.15": [
+        {
+            "key": "totum",
+            "lemma": "totus"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "hamo",
+            "lemma": "hamus"
+        },
+        {
+            "key": "sublevavit",
+            "lemma": "sublevo"
+        },
+        {
+            "key": "traxit",
+            "lemma": "traho"
+        },
+        {
+            "key": "illud",
+            "lemma": "ille"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "sagena",
+            "lemma": "sagena"
+        },
+        {
+            "key": "sua",
+            "lemma": "suus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "congregavit",
+            "lemma": "congrego"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "rete",
+            "lemma": "rete"
+        },
+        {
+            "key": "suum",
+            "lemma": "suus"
+        },
+        {
+            "key": "super",
+            "lemma": "super"
+        },
+        {
+            "key": "hoc",
+            "lemma": "hic"
+        },
+        {
+            "key": "l\u00e6tabitur",
+            "lemma": "l\u00e6to"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "exsultabit",
+            "lemma": "exsulto"
+        }
+    ],
+    "Habacuc.1.16": [
+        {
+            "key": "propterea",
+            "lemma": "propterea"
+        },
+        {
+            "key": "immolabit",
+            "lemma": "immolo"
+        },
+        {
+            "key": "sagen\u00e6",
+            "lemma": "sagen\u00e6s"
+        },
+        {
+            "key": "su\u00e6",
+            "lemma": "su\u00e6"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "sacrificabit",
+            "lemma": "sacrifico"
+        },
+        {
+            "key": "reti",
+            "lemma": "retus"
+        },
+        {
+            "key": "suo",
+            "lemma": "suus"
+        },
+        {
+            "key": "quia",
+            "lemma": "quia"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "ipsis",
+            "lemma": "ipse"
+        },
+        {
+            "key": "incrassata",
+            "lemma": "incrasso"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "pars",
+            "lemma": "pars"
+        },
+        {
+            "key": "ejus",
+            "lemma": "js"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "cibus",
+            "lemma": "cibus"
+        },
+        {
+            "key": "ejus",
+            "lemma": "ejus"
+        },
+        {
+            "key": "electus",
+            "lemma": "eligo"
+        }
+    ],
+    "Habacuc.1.17": [
+        {
+            "key": "propter",
+            "lemma": "propter"
+        },
+        {
+            "key": "hoc",
+            "lemma": "hic"
+        },
+        {
+            "key": "ergo",
+            "lemma": "ergo"
+        },
+        {
+            "key": "expandit",
+            "lemma": "expando"
+        },
+        {
+            "key": "sagenam",
+            "lemma": "sagena"
+        },
+        {
+            "key": "suam",
+            "lemma": "suus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "semper",
+            "lemma": "semper"
+        },
+        {
+            "key": "interficere",
+            "lemma": "interficio"
+        },
+        {
+            "key": "gentes",
+            "lemma": "gens"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "parcet",
+            "lemma": "parco"
+        }
+    ],
+    "Habacuc.2.1": [
+        {
+            "key": "super",
+            "lemma": "super"
+        },
+        {
+            "key": "custodiam",
+            "lemma": "custodia"
+        },
+        {
+            "key": "meam",
+            "lemma": "meus"
+        },
+        {
+            "key": "stabo",
+            "lemma": "sto"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "figam",
+            "lemma": "figo"
+        },
+        {
+            "key": "gradum",
+            "lemma": "gradus"
+        },
+        {
+            "key": "super",
+            "lemma": "super"
+        },
+        {
+            "key": "munitionem",
+            "lemma": "munitio"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "contemplabor",
+            "lemma": "contemplor"
+        },
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "videam",
+            "lemma": "uideo"
+        },
+        {
+            "key": "quid",
+            "lemma": "quis"
+        },
+        {
+            "key": "dicatur",
+            "lemma": "dico"
+        },
+        {
+            "key": "mihi",
+            "lemma": "ego"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "quid",
+            "lemma": "quis"
+        },
+        {
+            "key": "respondeam",
+            "lemma": "respondeo"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "arguentem",
+            "lemma": "arguo"
+        },
+        {
+            "key": "me",
+            "lemma": "ego"
+        }
+    ],
+    "Habacuc.2.2": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "respondit",
+            "lemma": "respondeo"
+        },
+        {
+            "key": "mihi",
+            "lemma": "ego"
+        },
+        {
+            "key": "dominus",
+            "lemma": "dominus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "dixit",
+            "lemma": "dico"
+        },
+        {
+            "key": "scribe",
+            "lemma": "scribus"
+        },
+        {
+            "key": "visum",
+            "lemma": "uideo"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "explana",
+            "lemma": "explano"
+        },
+        {
+            "key": "eum",
+            "lemma": "is"
+        },
+        {
+            "key": "super",
+            "lemma": "super"
+        },
+        {
+            "key": "tabulas",
+            "lemma": "tabula"
+        },
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "percurrat",
+            "lemma": "percurro"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "legerit",
+            "lemma": "ligo"
+        },
+        {
+            "key": "eum",
+            "lemma": "is"
+        }
+    ],
+    "Habacuc.2.3": [
+        {
+            "key": "quia",
+            "lemma": "quia"
+        },
+        {
+            "key": "adhuc",
+            "lemma": "adhuc"
+        },
+        {
+            "key": "visus",
+            "lemma": "uideo"
+        },
+        {
+            "key": "procul",
+            "lemma": "procul"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "apparebit",
+            "lemma": "appareo"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "finem",
+            "lemma": "finis"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "mentietur",
+            "lemma": "mentio"
+        },
+        {
+            "key": "si",
+            "lemma": "si"
+        },
+        {
+            "key": "moram",
+            "lemma": "mora"
+        },
+        {
+            "key": "fecerit",
+            "lemma": "facio"
+        },
+        {
+            "key": "exspecta",
+            "lemma": "exspecto"
+        },
+        {
+            "key": "illum",
+            "lemma": "ille"
+        },
+        {
+            "key": "quia",
+            "lemma": "quia"
+        },
+        {
+            "key": "veniens",
+            "lemma": "uenio"
+        },
+        {
+            "key": "veniet",
+            "lemma": "uenio"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "tardabit",
+            "lemma": "tardo"
+        }
+    ],
+    "Habacuc.2.4": [
+        {
+            "key": "ecce",
+            "lemma": "ecce"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "incredulus",
+            "lemma": "incredulus"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "erit",
+            "lemma": "sum"
+        },
+        {
+            "key": "recta",
+            "lemma": "rego"
+        },
+        {
+            "key": "anima",
+            "lemma": "anima"
+        },
+        {
+            "key": "ejus",
+            "lemma": "js"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "semetipso",
+            "lemma": "semetipsum"
+        },
+        {
+            "key": "justus",
+            "lemma": "justus"
+        },
+        {
+            "key": "autem",
+            "lemma": "autem"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "fide",
+            "lemma": "fides"
+        },
+        {
+            "key": "sua",
+            "lemma": "suus"
+        },
+        {
+            "key": "vivet",
+            "lemma": "uiuo"
+        }
+    ],
+    "Habacuc.2.5": [
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "quomodo",
+            "lemma": "quomodo"
+        },
+        {
+            "key": "vinum",
+            "lemma": "uinum"
+        },
+        {
+            "key": "potantem",
+            "lemma": "poto"
+        },
+        {
+            "key": "decipit",
+            "lemma": "decipio"
+        },
+        {
+            "key": "sic",
+            "lemma": "sic"
+        },
+        {
+            "key": "erit",
+            "lemma": "sum"
+        },
+        {
+            "key": "vir",
+            "lemma": "uir"
+        },
+        {
+            "key": "superbus",
+            "lemma": "superbus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "decorabitur",
+            "lemma": "decoro"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "dilatavit",
+            "lemma": "dilato"
+        },
+        {
+            "key": "quasi",
+            "lemma": "quasi"
+        },
+        {
+            "key": "infernus",
+            "lemma": "infernus"
+        },
+        {
+            "key": "animam",
+            "lemma": "anima"
+        },
+        {
+            "key": "suam",
+            "lemma": "suus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "ipse",
+            "lemma": "ipse"
+        },
+        {
+            "key": "quasi",
+            "lemma": "quasi"
+        },
+        {
+            "key": "mors",
+            "lemma": "mors"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "adimpletur",
+            "lemma": "adimpleo"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "congregabit",
+            "lemma": "congrego"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "se",
+            "lemma": "sui"
+        },
+        {
+            "key": "omnes",
+            "lemma": "omnis"
+        },
+        {
+            "key": "gentes",
+            "lemma": "gens"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "coacervabit",
+            "lemma": "coacervo"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "se",
+            "lemma": "se"
+        },
+        {
+            "key": "omnes",
+            "lemma": "omnis"
+        },
+        {
+            "key": "populos",
+            "lemma": "populus"
+        }
+    ],
+    "Habacuc.2.6": [
+        {
+            "key": "numquid",
+            "lemma": "numquid"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "omnes",
+            "lemma": "omnis"
+        },
+        {
+            "key": "isti",
+            "lemma": "iste"
+        },
+        {
+            "key": "super",
+            "lemma": "super"
+        },
+        {
+            "key": "eum",
+            "lemma": "is"
+        },
+        {
+            "key": "parabolam",
+            "lemma": "parabola"
+        },
+        {
+            "key": "sument",
+            "lemma": "sumo"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "loquelam",
+            "lemma": "loquela"
+        },
+        {
+            "key": "\u00e6nigmatum",
+            "lemma": "\u00e6nigmatus"
+        },
+        {
+            "key": "ejus",
+            "lemma": "ejus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "dicetur",
+            "lemma": "dico"
+        },
+        {
+            "key": "v\u00e6",
+            "lemma": "v\u00e6"
+        },
+        {
+            "key": "ei",
+            "lemma": "is"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "multiplicat",
+            "lemma": "multiplico"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "sua",
+            "lemma": "suus"
+        },
+        {
+            "key": "usquequo",
+            "lemma": "usquequo"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "aggravat",
+            "lemma": "aggravat"
+        },
+        {
+            "key": "contra",
+            "lemma": "contra"
+        },
+        {
+            "key": "se",
+            "lemma": "sui"
+        },
+        {
+            "key": "densum",
+            "lemma": "densus"
+        },
+        {
+            "key": "lutum",
+            "lemma": "lutum"
+        }
+    ],
+    "Habacuc.2.7": [
+        {
+            "key": "numquid",
+            "lemma": "numquid"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "repente",
+            "lemma": "repente"
+        },
+        {
+            "key": "consurgent",
+            "lemma": "consurgo"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "mordeant",
+            "lemma": "mordeo"
+        },
+        {
+            "key": "te",
+            "lemma": "tu"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "suscitabuntur",
+            "lemma": "suscito"
+        },
+        {
+            "key": "lacerantes",
+            "lemma": "lacero"
+        },
+        {
+            "key": "te",
+            "lemma": "tu"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "eris",
+            "lemma": "sum"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "rapinam",
+            "lemma": "rapina"
+        },
+        {
+            "key": "eis",
+            "lemma": "is"
+        }
+    ],
+    "Habacuc.2.8": [
+        {
+            "key": "quia",
+            "lemma": "quia"
+        },
+        {
+            "key": "tu",
+            "lemma": "tu"
+        },
+        {
+            "key": "spoliasti",
+            "lemma": "spolio"
+        },
+        {
+            "key": "gentes",
+            "lemma": "gens"
+        },
+        {
+            "key": "multas",
+            "lemma": "multus"
+        },
+        {
+            "key": "spoliabunt",
+            "lemma": "spolio"
+        },
+        {
+            "key": "te",
+            "lemma": "tu"
+        },
+        {
+            "key": "omnes",
+            "lemma": "omnis"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "reliqui",
+            "lemma": "reliquus"
+        },
+        {
+            "key": "fuerint",
+            "lemma": "sum"
+        },
+        {
+            "key": "de",
+            "lemma": "de"
+        },
+        {
+            "key": "populis",
+            "lemma": "populus"
+        },
+        {
+            "key": "propter",
+            "lemma": "propter"
+        },
+        {
+            "key": "sanguinem",
+            "lemma": "sanguis"
+        },
+        {
+            "key": "hominis",
+            "lemma": "homo"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "iniquitatem",
+            "lemma": "iniquitas"
+        },
+        {
+            "key": "terr\u00e6",
+            "lemma": "terr\u00e6"
+        },
+        {
+            "key": "civitatis",
+            "lemma": "ciuitas"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "omnium",
+            "lemma": "omnis"
+        },
+        {
+            "key": "habitantium",
+            "lemma": "habito"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "ea",
+            "lemma": "is"
+        }
+    ],
+    "Habacuc.2.9": [
+        {
+            "key": "v\u00e6",
+            "lemma": "v\u00e6"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "congregat",
+            "lemma": "congrego"
+        },
+        {
+            "key": "avaritiam",
+            "lemma": "avaritia"
+        },
+        {
+            "key": "malam",
+            "lemma": "malus"
+        },
+        {
+            "key": "domui",
+            "lemma": "domus"
+        },
+        {
+            "key": "su\u00e6",
+            "lemma": "su\u00e6"
+        },
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "sit",
+            "lemma": "sum"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "excelso",
+            "lemma": "excelsum"
+        },
+        {
+            "key": "nidus",
+            "lemma": "nidus"
+        },
+        {
+            "key": "ejus",
+            "lemma": "js"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "liberari",
+            "lemma": "libero"
+        },
+        {
+            "key": "se",
+            "lemma": "sui"
+        },
+        {
+            "key": "putat",
+            "lemma": "puto"
+        },
+        {
+            "key": "de",
+            "lemma": "de"
+        },
+        {
+            "key": "manu",
+            "lemma": "manus"
+        },
+        {
+            "key": "mali",
+            "lemma": "malus"
+        }
+    ],
+    "Habacuc.2.10": [
+        {
+            "key": "cogitasti",
+            "lemma": "cogitasti"
+        },
+        {
+            "key": "confusionem",
+            "lemma": "confusio"
+        },
+        {
+            "key": "domui",
+            "lemma": "domus"
+        },
+        {
+            "key": "tu\u00e6",
+            "lemma": "tu\u00e6"
+        },
+        {
+            "key": "concidisti",
+            "lemma": "conco"
+        },
+        {
+            "key": "populos",
+            "lemma": "populus"
+        },
+        {
+            "key": "multos",
+            "lemma": "multus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "peccavit",
+            "lemma": "pecco"
+        },
+        {
+            "key": "anima",
+            "lemma": "anima"
+        },
+        {
+            "key": "tua",
+            "lemma": "tuus"
+        }
+    ],
+    "Habacuc.2.11": [
+        {
+            "key": "quia",
+            "lemma": "quia"
+        },
+        {
+            "key": "lapis",
+            "lemma": "lapis"
+        },
+        {
+            "key": "de",
+            "lemma": "de"
+        },
+        {
+            "key": "pariete",
+            "lemma": "paries"
+        },
+        {
+            "key": "clamabit",
+            "lemma": "clamo"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "lignum",
+            "lemma": "lignum"
+        },
+        {
+            "key": "quod",
+            "lemma": "qui"
+        },
+        {
+            "key": "inter",
+            "lemma": "inter"
+        },
+        {
+            "key": "juncturas",
+            "lemma": "junctura"
+        },
+        {
+            "key": "\u00e6dificiorum",
+            "lemma": "\u00e6dificium"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "respondebit",
+            "lemma": "respondeo"
+        }
+    ],
+    "Habacuc.2.12": [
+        {
+            "key": "v\u00e6",
+            "lemma": "v\u00e6"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "\u00e6dificat",
+            "lemma": "\u00e6difico"
+        },
+        {
+            "key": "civitatem",
+            "lemma": "ciuitas"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "sanguinibus",
+            "lemma": "sanguinibus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "pr\u00e6parat",
+            "lemma": "pr\u00e6paro"
+        },
+        {
+            "key": "urbem",
+            "lemma": "urbs"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "iniquitate",
+            "lemma": "iniquitas"
+        }
+    ],
+    "Habacuc.2.13": [
+        {
+            "key": "numquid",
+            "lemma": "numquid"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "h\u00e6c",
+            "lemma": "h\u00e6c"
+        },
+        {
+            "key": "sunt",
+            "lemma": "sum"
+        },
+        {
+            "key": "a",
+            "lemma": "ab"
+        },
+        {
+            "key": "domino",
+            "lemma": "dominus"
+        },
+        {
+            "key": "exercituum",
+            "lemma": "exercitus"
+        },
+        {
+            "key": "laborabunt",
+            "lemma": "laboro"
+        },
+        {
+            "key": "enim",
+            "lemma": "enim"
+        },
+        {
+            "key": "populi",
+            "lemma": "populus"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "multo",
+            "lemma": "multus"
+        },
+        {
+            "key": "igne",
+            "lemma": "ignis"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "gentes",
+            "lemma": "gens"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "vacuum",
+            "lemma": "uacuus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "deficient",
+            "lemma": "deficio"
+        }
+    ],
+    "Habacuc.2.14": [
+        {
+            "key": "quia",
+            "lemma": "quia"
+        },
+        {
+            "key": "replebitur",
+            "lemma": "repleo"
+        },
+        {
+            "key": "terra",
+            "lemma": "terra"
+        },
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "cognoscant",
+            "lemma": "cognosco"
+        },
+        {
+            "key": "gloriam",
+            "lemma": "gloria"
+        },
+        {
+            "key": "domini",
+            "lemma": "dominus"
+        },
+        {
+            "key": "quasi",
+            "lemma": "quasi"
+        },
+        {
+            "key": "aqu\u00e6",
+            "lemma": "aqu\u00e6"
+        },
+        {
+            "key": "operientes",
+            "lemma": "operio"
+        },
+        {
+            "key": "mare",
+            "lemma": "mare"
+        }
+    ],
+    "Habacuc.2.15": [
+        {
+            "key": "v\u00e6",
+            "lemma": "v\u00e6"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "potum",
+            "lemma": "potus"
+        },
+        {
+            "key": "dat",
+            "lemma": "do"
+        },
+        {
+            "key": "amico",
+            "lemma": "amicus"
+        },
+        {
+            "key": "suo",
+            "lemma": "suus"
+        },
+        {
+            "key": "mittens",
+            "lemma": "mitto"
+        },
+        {
+            "key": "fel",
+            "lemma": "fel"
+        },
+        {
+            "key": "suum",
+            "lemma": "suus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "inebrians",
+            "lemma": "inebrio"
+        },
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "aspiciat",
+            "lemma": "aspicio"
+        },
+        {
+            "key": "nuditatem",
+            "lemma": "nuditas"
+        },
+        {
+            "key": "ejus",
+            "lemma": "js"
+        }
+    ],
+    "Habacuc.2.16": [
+        {
+            "key": "repletus",
+            "lemma": "repletus"
+        },
+        {
+            "key": "es",
+            "lemma": "sum"
+        },
+        {
+            "key": "ignominia",
+            "lemma": "ignominia"
+        },
+        {
+            "key": "pro",
+            "lemma": "pro"
+        },
+        {
+            "key": "gloria",
+            "lemma": "gloria"
+        },
+        {
+            "key": "bibe",
+            "lemma": "bibo"
+        },
+        {
+            "key": "tu",
+            "lemma": "tu"
+        },
+        {
+            "key": "quoque",
+            "lemma": "quoque"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "consopire",
+            "lemma": "consopio"
+        },
+        {
+            "key": "circumdabit",
+            "lemma": "circumdo"
+        },
+        {
+            "key": "te",
+            "lemma": "tu"
+        },
+        {
+            "key": "calix",
+            "lemma": "calix"
+        },
+        {
+            "key": "dexter\u00e6",
+            "lemma": "dexter\u00e6"
+        },
+        {
+            "key": "domini",
+            "lemma": "dominus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "vomitus",
+            "lemma": "uomitus"
+        },
+        {
+            "key": "ignomini\u00e6",
+            "lemma": "ignomini\u00e6"
+        },
+        {
+            "key": "super",
+            "lemma": "super"
+        },
+        {
+            "key": "gloriam",
+            "lemma": "gloria"
+        },
+        {
+            "key": "tuam",
+            "lemma": "tuus"
+        }
+    ],
+    "Habacuc.2.17": [
+        {
+            "key": "quia",
+            "lemma": "quia"
+        },
+        {
+            "key": "iniquitas",
+            "lemma": "iniquitas"
+        },
+        {
+            "key": "libani",
+            "lemma": "libani"
+        },
+        {
+            "key": "operiet",
+            "lemma": "operio"
+        },
+        {
+            "key": "te",
+            "lemma": "tu"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "vastitas",
+            "lemma": "uastitas"
+        },
+        {
+            "key": "animalium",
+            "lemma": "animal"
+        },
+        {
+            "key": "deterrebit",
+            "lemma": "deterreo"
+        },
+        {
+            "key": "eos",
+            "lemma": "is"
+        },
+        {
+            "key": "de",
+            "lemma": "de"
+        },
+        {
+            "key": "sanguinibus",
+            "lemma": "sanguinibus"
+        },
+        {
+            "key": "hominum",
+            "lemma": "homo"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "iniquitate",
+            "lemma": "iniquitas"
+        },
+        {
+            "key": "terr\u00e6",
+            "lemma": "terr\u00e6"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "civitatis",
+            "lemma": "ciuitas"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "omnium",
+            "lemma": "omnis"
+        },
+        {
+            "key": "habitantium",
+            "lemma": "habito"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "ea",
+            "lemma": "is"
+        }
+    ],
+    "Habacuc.2.18": [
+        {
+            "key": "quid",
+            "lemma": "quis"
+        },
+        {
+            "key": "prodest",
+            "lemma": "prosum"
+        },
+        {
+            "key": "sculptile",
+            "lemma": "sculptilis"
+        },
+        {
+            "key": "quia",
+            "lemma": "quia"
+        },
+        {
+            "key": "sculpsit",
+            "lemma": "sculpsit"
+        },
+        {
+            "key": "illud",
+            "lemma": "ille"
+        },
+        {
+            "key": "fictor",
+            "lemma": "fictor"
+        },
+        {
+            "key": "suus",
+            "lemma": "suus"
+        },
+        {
+            "key": "conflatile",
+            "lemma": "conflatilis"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "imaginem",
+            "lemma": "imago"
+        },
+        {
+            "key": "falsam",
+            "lemma": "falsus"
+        },
+        {
+            "key": "quia",
+            "lemma": "quia"
+        },
+        {
+            "key": "speravit",
+            "lemma": "spero"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "figmento",
+            "lemma": "figmentum"
+        },
+        {
+            "key": "fictor",
+            "lemma": "fictor"
+        },
+        {
+            "key": "ejus",
+            "lemma": "js"
+        },
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "faceret",
+            "lemma": "facio"
+        },
+        {
+            "key": "simulacra",
+            "lemma": "simulacrum"
+        },
+        {
+            "key": "muta",
+            "lemma": "mutus"
+        }
+    ],
+    "Habacuc.2.19": [
+        {
+            "key": "v\u00e6",
+            "lemma": "v\u00e6"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "dicit",
+            "lemma": "dico"
+        },
+        {
+            "key": "ligno",
+            "lemma": "lignum"
+        },
+        {
+            "key": "expergiscere",
+            "lemma": "expergiscere"
+        },
+        {
+            "key": "surge",
+            "lemma": "surgo"
+        },
+        {
+            "key": "lapidi",
+            "lemma": "lapis"
+        },
+        {
+            "key": "tacenti",
+            "lemma": "tacentus"
+        },
+        {
+            "key": "numquid",
+            "lemma": "numquid"
+        },
+        {
+            "key": "ipse",
+            "lemma": "ipse"
+        },
+        {
+            "key": "docere",
+            "lemma": "doceo"
+        },
+        {
+            "key": "poterit",
+            "lemma": "possum"
+        },
+        {
+            "key": "ecce",
+            "lemma": "ecce"
+        },
+        {
+            "key": "iste",
+            "lemma": "iste"
+        },
+        {
+            "key": "coopertus",
+            "lemma": "coopero"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "auro",
+            "lemma": "aurum"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "argento",
+            "lemma": "argentum"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "omnis",
+            "lemma": "omnis"
+        },
+        {
+            "key": "spiritus",
+            "lemma": "spiritus"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "visceribus",
+            "lemma": "uiscera"
+        },
+        {
+            "key": "ejus",
+            "lemma": "js"
+        }
+    ],
+    "Habacuc.2.20": [
+        {
+            "key": "dominus",
+            "lemma": "dominus"
+        },
+        {
+            "key": "autem",
+            "lemma": "autem"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "templo",
+            "lemma": "templum"
+        },
+        {
+            "key": "sancto",
+            "lemma": "sanctus"
+        },
+        {
+            "key": "suo",
+            "lemma": "suus"
+        },
+        {
+            "key": "sileat",
+            "lemma": "sileo"
+        },
+        {
+            "key": "a",
+            "lemma": "ab"
+        },
+        {
+            "key": "facie",
+            "lemma": "facies"
+        },
+        {
+            "key": "ejus",
+            "lemma": "js"
+        },
+        {
+            "key": "omnis",
+            "lemma": "omnis"
+        },
+        {
+            "key": "terra",
+            "lemma": "terra"
+        }
+    ],
+    "Habacuc.3.1": [
+        {
+            "key": "oratio",
+            "lemma": "oratio"
+        },
+        {
+            "key": "habacuc",
+            "lemma": "habacucus"
+        },
+        {
+            "key": "prophet\u00e6",
+            "lemma": "prophet\u00e6"
+        },
+        {
+            "key": "pro",
+            "lemma": "pro"
+        },
+        {
+            "key": "ignorantiis",
+            "lemma": "ignorantiis"
+        }
+    ],
+    "Habacuc.3.2": [
+        {
+            "key": "domine",
+            "lemma": "dominus"
+        },
+        {
+            "key": "audivi",
+            "lemma": "audio"
+        },
+        {
+            "key": "auditionem",
+            "lemma": "auditio"
+        },
+        {
+            "key": "tuam",
+            "lemma": "tuus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "timui",
+            "lemma": "timeo"
+        },
+        {
+            "key": "domine",
+            "lemma": "dominus"
+        },
+        {
+            "key": "opus",
+            "lemma": "opus"
+        },
+        {
+            "key": "tuum",
+            "lemma": "tuus"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "medio",
+            "lemma": "medius"
+        },
+        {
+            "key": "annorum",
+            "lemma": "annus"
+        },
+        {
+            "key": "vivifica",
+            "lemma": "uivifica"
+        },
+        {
+            "key": "illud",
+            "lemma": "ille"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "medio",
+            "lemma": "medius"
+        },
+        {
+            "key": "annorum",
+            "lemma": "annus"
+        },
+        {
+            "key": "notum",
+            "lemma": "notus"
+        },
+        {
+            "key": "facies",
+            "lemma": "facio"
+        },
+        {
+            "key": "cum",
+            "lemma": "cum"
+        },
+        {
+            "key": "iratus",
+            "lemma": "irascor"
+        },
+        {
+            "key": "fueris",
+            "lemma": "sum"
+        },
+        {
+            "key": "misericordi\u00e6",
+            "lemma": "misericordi\u00e6"
+        },
+        {
+            "key": "recordaberis",
+            "lemma": "recordor"
+        }
+    ],
+    "Habacuc.3.3": [
+        {
+            "key": "deus",
+            "lemma": "deus"
+        },
+        {
+            "key": "ab",
+            "lemma": "ab"
+        },
+        {
+            "key": "austro",
+            "lemma": "auster"
+        },
+        {
+            "key": "veniet",
+            "lemma": "uenio"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "sanctus",
+            "lemma": "sanctus"
+        },
+        {
+            "key": "de",
+            "lemma": "de"
+        },
+        {
+            "key": "monte",
+            "lemma": "mons"
+        },
+        {
+            "key": "pharan",
+            "lemma": "pharan"
+        },
+        {
+            "key": "operuit",
+            "lemma": "opereo"
+        },
+        {
+            "key": "c\u00e6los",
+            "lemma": "c\u00e6lus"
+        },
+        {
+            "key": "gloria",
+            "lemma": "gloria"
+        },
+        {
+            "key": "ejus",
+            "lemma": "js"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "laudis",
+            "lemma": "laus"
+        },
+        {
+            "key": "ejus",
+            "lemma": "js"
+        },
+        {
+            "key": "plena",
+            "lemma": "plenus"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "terra",
+            "lemma": "terra"
+        }
+    ],
+    "Habacuc.3.4": [
+        {
+            "key": "splendor",
+            "lemma": "splendor"
+        },
+        {
+            "key": "ejus",
+            "lemma": "ejus"
+        },
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "lux",
+            "lemma": "lux"
+        },
+        {
+            "key": "erit",
+            "lemma": "sum"
+        },
+        {
+            "key": "cornua",
+            "lemma": "cornu"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "manibus",
+            "lemma": "manus"
+        },
+        {
+            "key": "ejus",
+            "lemma": "ejus"
+        },
+        {
+            "key": "ibi",
+            "lemma": "ibi"
+        },
+        {
+            "key": "abscondita",
+            "lemma": "absconditus"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "fortitudo",
+            "lemma": "fortitudo"
+        },
+        {
+            "key": "ejus",
+            "lemma": "js"
+        }
+    ],
+    "Habacuc.3.5": [
+        {
+            "key": "ante",
+            "lemma": "ante"
+        },
+        {
+            "key": "faciem",
+            "lemma": "facies"
+        },
+        {
+            "key": "ejus",
+            "lemma": "js"
+        },
+        {
+            "key": "ibit",
+            "lemma": "eo"
+        },
+        {
+            "key": "mors",
+            "lemma": "mors"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "egredietur",
+            "lemma": "egredior"
+        },
+        {
+            "key": "diabolus",
+            "lemma": "diabolus"
+        },
+        {
+            "key": "ante",
+            "lemma": "ante"
+        },
+        {
+            "key": "pedes",
+            "lemma": "pes"
+        },
+        {
+            "key": "ejus",
+            "lemma": "js"
+        }
+    ],
+    "Habacuc.3.6": [
+        {
+            "key": "stetit",
+            "lemma": "stetit"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "mensus",
+            "lemma": "metior"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "terram",
+            "lemma": "terra"
+        },
+        {
+            "key": "aspexit",
+            "lemma": "aspicio"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "dissolvit",
+            "lemma": "dissolvo"
+        },
+        {
+            "key": "gentes",
+            "lemma": "gens"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "contriti",
+            "lemma": "contritus"
+        },
+        {
+            "key": "sunt",
+            "lemma": "sum"
+        },
+        {
+            "key": "montes",
+            "lemma": "mons"
+        },
+        {
+            "key": "s\u00e6culi",
+            "lemma": "s\u00e6culum"
+        },
+        {
+            "key": "incurvati",
+            "lemma": "incurvo"
+        },
+        {
+            "key": "sunt",
+            "lemma": "sum"
+        },
+        {
+            "key": "colles",
+            "lemma": "collis"
+        },
+        {
+            "key": "mundi",
+            "lemma": "mundus"
+        },
+        {
+            "key": "ab",
+            "lemma": "ab"
+        },
+        {
+            "key": "itineribus",
+            "lemma": "iter"
+        },
+        {
+            "key": "\u00e6ternitatis",
+            "lemma": "\u00e6ternitas"
+        },
+        {
+            "key": "ejus",
+            "lemma": "js"
+        }
+    ],
+    "Habacuc.3.7": [
+        {
+            "key": "pro",
+            "lemma": "pro"
+        },
+        {
+            "key": "iniquitate",
+            "lemma": "iniquitas"
+        },
+        {
+            "key": "vidi",
+            "lemma": "uideo"
+        },
+        {
+            "key": "tentoria",
+            "lemma": "tentoria"
+        },
+        {
+            "key": "\u00e6thiopi\u00e6",
+            "lemma": "\u00e6thiopi\u00e6us"
+        },
+        {
+            "key": "turbabuntur",
+            "lemma": "turbo"
+        },
+        {
+            "key": "pelles",
+            "lemma": "pellis"
+        },
+        {
+            "key": "terr\u00e6",
+            "lemma": "terr\u00e6"
+        },
+        {
+            "key": "madian",
+            "lemma": "madian"
+        }
+    ],
+    "Habacuc.3.8": [
+        {
+            "key": "numquid",
+            "lemma": "numquid"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "fluminibus",
+            "lemma": "flumen"
+        },
+        {
+            "key": "iratus",
+            "lemma": "irascor"
+        },
+        {
+            "key": "es",
+            "lemma": "sum"
+        },
+        {
+            "key": "domine",
+            "lemma": "dominus"
+        },
+        {
+            "key": "aut",
+            "lemma": "aut"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "fluminibus",
+            "lemma": "flumen"
+        },
+        {
+            "key": "furor",
+            "lemma": "furor"
+        },
+        {
+            "key": "tuus",
+            "lemma": "tuus"
+        },
+        {
+            "key": "vel",
+            "lemma": "uel"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "mari",
+            "lemma": "mare"
+        },
+        {
+            "key": "indignatio",
+            "lemma": "indignatio"
+        },
+        {
+            "key": "tua",
+            "lemma": "tuus"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "ascendes",
+            "lemma": "ascendo"
+        },
+        {
+            "key": "super",
+            "lemma": "super"
+        },
+        {
+            "key": "equos",
+            "lemma": "equus"
+        },
+        {
+            "key": "tuos",
+            "lemma": "tuus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "quadrig\u00e6",
+            "lemma": "quadrig\u00e6"
+        },
+        {
+            "key": "tu\u00e6",
+            "lemma": "tu\u00e6"
+        },
+        {
+            "key": "salvatio",
+            "lemma": "salvatio"
+        }
+    ],
+    "Habacuc.3.9": [
+        {
+            "key": "suscitans",
+            "lemma": "suscito"
+        },
+        {
+            "key": "suscitabis",
+            "lemma": "suscito"
+        },
+        {
+            "key": "arcum",
+            "lemma": "arcus"
+        },
+        {
+            "key": "tuum",
+            "lemma": "tuus"
+        },
+        {
+            "key": "juramenta",
+            "lemma": "juramentum"
+        },
+        {
+            "key": "tribubus",
+            "lemma": "tribus"
+        },
+        {
+            "key": "qu\u00e6",
+            "lemma": "qu\u00e6"
+        },
+        {
+            "key": "locutus",
+            "lemma": "loquor"
+        },
+        {
+            "key": "es",
+            "lemma": "sum"
+        },
+        {
+            "key": "fluvios",
+            "lemma": "fluvius"
+        },
+        {
+            "key": "scindes",
+            "lemma": "scindo"
+        },
+        {
+            "key": "terr\u00e6",
+            "lemma": "terr\u00e6"
+        }
+    ],
+    "Habacuc.3.10": [
+        {
+            "key": "viderunt",
+            "lemma": "viderunt"
+        },
+        {
+            "key": "te",
+            "lemma": "tu"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "doluerunt",
+            "lemma": "doleo"
+        },
+        {
+            "key": "montes",
+            "lemma": "mons"
+        },
+        {
+            "key": "gurges",
+            "lemma": "gurx"
+        },
+        {
+            "key": "aquarum",
+            "lemma": "aqua"
+        },
+        {
+            "key": "transiit",
+            "lemma": "transeo"
+        },
+        {
+            "key": "dedit",
+            "lemma": "do"
+        },
+        {
+            "key": "abyssus",
+            "lemma": "abyssus"
+        },
+        {
+            "key": "vocem",
+            "lemma": "uox"
+        },
+        {
+            "key": "suam",
+            "lemma": "suus"
+        },
+        {
+            "key": "altitudo",
+            "lemma": "altitudo"
+        },
+        {
+            "key": "manus",
+            "lemma": "manus"
+        },
+        {
+            "key": "suas",
+            "lemma": "suus"
+        },
+        {
+            "key": "levavit",
+            "lemma": "leuo"
+        }
+    ],
+    "Habacuc.3.11": [
+        {
+            "key": "sol",
+            "lemma": "sol"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "luna",
+            "lemma": "luna"
+        },
+        {
+            "key": "steterunt",
+            "lemma": "sto"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "habitaculo",
+            "lemma": "habitaculum"
+        },
+        {
+            "key": "suo",
+            "lemma": "suus"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "luce",
+            "lemma": "lux"
+        },
+        {
+            "key": "sagittarum",
+            "lemma": "sagitta"
+        },
+        {
+            "key": "tuarum",
+            "lemma": "tuus"
+        },
+        {
+            "key": "ibunt",
+            "lemma": "eo"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "splendore",
+            "lemma": "splendor"
+        },
+        {
+            "key": "fulgurantis",
+            "lemma": "fulgurans"
+        },
+        {
+            "key": "hast\u00e6",
+            "lemma": "hast\u00e6"
+        },
+        {
+            "key": "tu\u00e6",
+            "lemma": "tu\u00e6"
+        }
+    ],
+    "Habacuc.3.12": [
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "fremitu",
+            "lemma": "fremitus"
+        },
+        {
+            "key": "conculcabis",
+            "lemma": "conculco"
+        },
+        {
+            "key": "terram",
+            "lemma": "terra"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "furore",
+            "lemma": "furor"
+        },
+        {
+            "key": "obstupefacies",
+            "lemma": "obstupefacies"
+        },
+        {
+            "key": "gentes",
+            "lemma": "gens"
+        }
+    ],
+    "Habacuc.3.13": [
+        {
+            "key": "egressus",
+            "lemma": "egressus"
+        },
+        {
+            "key": "es",
+            "lemma": "sum"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "salutem",
+            "lemma": "salus"
+        },
+        {
+            "key": "populi",
+            "lemma": "populus"
+        },
+        {
+            "key": "tui",
+            "lemma": "tuus"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "salutem",
+            "lemma": "salus"
+        },
+        {
+            "key": "cum",
+            "lemma": "cum"
+        },
+        {
+            "key": "christo",
+            "lemma": "christus"
+        },
+        {
+            "key": "tuo",
+            "lemma": "tuus"
+        },
+        {
+            "key": "percussisti",
+            "lemma": "percussisti"
+        },
+        {
+            "key": "caput",
+            "lemma": "caput"
+        },
+        {
+            "key": "de",
+            "lemma": "de"
+        },
+        {
+            "key": "domo",
+            "lemma": "domus"
+        },
+        {
+            "key": "impii",
+            "lemma": "impius"
+        },
+        {
+            "key": "denudasti",
+            "lemma": "denudo"
+        },
+        {
+            "key": "fundamentum",
+            "lemma": "fundamentum"
+        },
+        {
+            "key": "ejus",
+            "lemma": "js"
+        },
+        {
+            "key": "usque",
+            "lemma": "usque"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "collum",
+            "lemma": "collum"
+        }
+    ],
+    "Habacuc.3.14": [
+        {
+            "key": "maledixisti",
+            "lemma": "maledixisti"
+        },
+        {
+            "key": "sceptris",
+            "lemma": "sceptrus"
+        },
+        {
+            "key": "ejus",
+            "lemma": "js"
+        },
+        {
+            "key": "capiti",
+            "lemma": "capitis"
+        },
+        {
+            "key": "bellatorum",
+            "lemma": "bellator"
+        },
+        {
+            "key": "ejus",
+            "lemma": "js"
+        },
+        {
+            "key": "venientibus",
+            "lemma": "venientibus"
+        },
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "turbo",
+            "lemma": "turbo"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "dispergendum",
+            "lemma": "dispergo"
+        },
+        {
+            "key": "me",
+            "lemma": "ego"
+        },
+        {
+            "key": "exsultatio",
+            "lemma": "exsultatio"
+        },
+        {
+            "key": "eorum",
+            "lemma": "is"
+        },
+        {
+            "key": "sicut",
+            "lemma": "sicut"
+        },
+        {
+            "key": "ejus",
+            "lemma": "ejus"
+        },
+        {
+            "key": "qui",
+            "lemma": "qui"
+        },
+        {
+            "key": "devorat",
+            "lemma": "devoro"
+        },
+        {
+            "key": "pauperem",
+            "lemma": "pauper"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "abscondito",
+            "lemma": "absconditus"
+        }
+    ],
+    "Habacuc.3.15": [
+        {
+            "key": "viam",
+            "lemma": "via"
+        },
+        {
+            "key": "fecisti",
+            "lemma": "facio"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "mari",
+            "lemma": "mare"
+        },
+        {
+            "key": "equis",
+            "lemma": "equus"
+        },
+        {
+            "key": "tuis",
+            "lemma": "tuus"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "luto",
+            "lemma": "lutum"
+        },
+        {
+            "key": "aquarum",
+            "lemma": "aqua"
+        },
+        {
+            "key": "multarum",
+            "lemma": "multus"
+        }
+    ],
+    "Habacuc.3.16": [
+        {
+            "key": "audivi",
+            "lemma": "audivi"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "conturbatus",
+            "lemma": "conturbo"
+        },
+        {
+            "key": "est",
+            "lemma": "sum"
+        },
+        {
+            "key": "venter",
+            "lemma": "uenter"
+        },
+        {
+            "key": "meus",
+            "lemma": "meus"
+        },
+        {
+            "key": "a",
+            "lemma": "ab"
+        },
+        {
+            "key": "voce",
+            "lemma": "uox"
+        },
+        {
+            "key": "contremuerunt",
+            "lemma": "contremnuo"
+        },
+        {
+            "key": "labia",
+            "lemma": "labium"
+        },
+        {
+            "key": "mea",
+            "lemma": "meus"
+        },
+        {
+            "key": "ingrediatur",
+            "lemma": "ingrediatur"
+        },
+        {
+            "key": "putredo",
+            "lemma": "putredo"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "ossibus",
+            "lemma": "os"
+        },
+        {
+            "key": "meis",
+            "lemma": "meus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "subter",
+            "lemma": "subter"
+        },
+        {
+            "key": "me",
+            "lemma": "ego"
+        },
+        {
+            "key": "scateat",
+            "lemma": "scateo"
+        },
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "requiescam",
+            "lemma": "requiesco"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "die",
+            "lemma": "dies"
+        },
+        {
+            "key": "tribulationis",
+            "lemma": "tribulatio"
+        },
+        {
+            "key": "ut",
+            "lemma": "ut"
+        },
+        {
+            "key": "ascendam",
+            "lemma": "asco"
+        },
+        {
+            "key": "ad",
+            "lemma": "ad"
+        },
+        {
+            "key": "populum",
+            "lemma": "populus"
+        },
+        {
+            "key": "accinctum",
+            "lemma": "accinctus"
+        },
+        {
+            "key": "nostrum",
+            "lemma": "noster"
+        }
+    ],
+    "Habacuc.3.17": [
+        {
+            "key": "ficus",
+            "lemma": "ficus"
+        },
+        {
+            "key": "enim",
+            "lemma": "enim"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "florebit",
+            "lemma": "floreo"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "erit",
+            "lemma": "sum"
+        },
+        {
+            "key": "germen",
+            "lemma": "germen"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "vineis",
+            "lemma": "uinea"
+        },
+        {
+            "key": "mentietur",
+            "lemma": "mentio"
+        },
+        {
+            "key": "opus",
+            "lemma": "opus"
+        },
+        {
+            "key": "oliv\u00e6",
+            "lemma": "oliu\u00e6"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "arva",
+            "lemma": "arvum"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "afferent",
+            "lemma": "affero"
+        },
+        {
+            "key": "cibum",
+            "lemma": "cibus"
+        },
+        {
+            "key": "abscindetur",
+            "lemma": "abscindo"
+        },
+        {
+            "key": "de",
+            "lemma": "de"
+        },
+        {
+            "key": "ovili",
+            "lemma": "ovili"
+        },
+        {
+            "key": "pecus",
+            "lemma": "pecus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "non",
+            "lemma": "non"
+        },
+        {
+            "key": "erit",
+            "lemma": "sum"
+        },
+        {
+            "key": "armentum",
+            "lemma": "armentum"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "pr\u00e6sepibus",
+            "lemma": "pr\u00e6sepes"
+        }
+    ],
+    "Habacuc.3.18": [
+        {
+            "key": "ego",
+            "lemma": "ego"
+        },
+        {
+            "key": "autem",
+            "lemma": "autem"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "domino",
+            "lemma": "dominus"
+        },
+        {
+            "key": "gaudebo",
+            "lemma": "gaudeo"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "exsultabo",
+            "lemma": "exsulto"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "deo",
+            "lemma": "deus"
+        },
+        {
+            "key": "jesu",
+            "lemma": "jesus"
+        },
+        {
+            "key": "meo",
+            "lemma": "meus"
+        }
+    ],
+    "Habacuc.3.19": [
+        {
+            "key": "deus",
+            "lemma": "deus"
+        },
+        {
+            "key": "dominus",
+            "lemma": "dominus"
+        },
+        {
+            "key": "fortitudo",
+            "lemma": "fortitudo"
+        },
+        {
+            "key": "mea",
+            "lemma": "meus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "ponet",
+            "lemma": "pono"
+        },
+        {
+            "key": "pedes",
+            "lemma": "pes"
+        },
+        {
+            "key": "meos",
+            "lemma": "meus"
+        },
+        {
+            "key": "quasi",
+            "lemma": "quasi"
+        },
+        {
+            "key": "cervorum",
+            "lemma": "cervus"
+        },
+        {
+            "key": "et",
+            "lemma": "et"
+        },
+        {
+            "key": "super",
+            "lemma": "super"
+        },
+        {
+            "key": "excelsa",
+            "lemma": "excelsus"
+        },
+        {
+            "key": "mea",
+            "lemma": "meus"
+        },
+        {
+            "key": "deducet",
+            "lemma": "deduco"
+        },
+        {
+            "key": "me",
+            "lemma": "ego"
+        },
+        {
+            "key": "victor",
+            "lemma": "uictor"
+        },
+        {
+            "key": "in",
+            "lemma": "in"
+        },
+        {
+            "key": "psalmis",
+            "lemma": "psalmus"
+        },
+        {
+            "key": "canentem",
+            "lemma": "cano"
+        }
+    ]
+}

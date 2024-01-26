@@ -9,23 +9,10 @@ from starlette.staticfiles import StaticFiles
 from starlette.types import Scope
 
 if os.environ.get("DEV"):
-    # I work with the following layout during development:
-    # \__ build
-    #     \__ index.html
-    # \__ backend
-    #     \__ quara
-    #         \__agent
-    #             \__ server.py
-    # So:
-    #   parent => ~/backend/quara/agent
-    #   parent.parent => ~/backend/quara
-    #   parent.parent.parent => ~/backend
-    #   parent.parent.parent.parent / "build" => ~/build
     STATIC_ROOT = os.environ.get(
         "STATIC_ROOT", Path(__file__).parent.parent.parent.parent / "build"
     )
 else:
-    # In production we expect HTML build directory to be found in ~/backend/quara/agent/html
     # But it's always possible to use STATIC_ROOT environment variable to configure location of HTML build directory.
     STATIC_ROOT = os.environ.get("STATIC_ROOT", Path(__file__).parent / "html")
 
@@ -50,7 +37,7 @@ def create_server(
         html_root = STATIC_ROOT
 
     # First create an instance of StaticFiles to serve the HTML directory
-    website = SPAStaticFiles(directory=html_root, html=True)
+    #website = SPAStaticFiles(directory=html_root, html=True)
 
     # Create a Starlette instance
     server = Starlette(
@@ -58,7 +45,7 @@ def create_server(
         on_shutdown=api.router.on_shutdown,
         routes=[
             Mount("/api", api, name="api"),
-            Mount("/", website, name="web"),
+            # Mount("/", website, name="web"),
         ]
     )
 
@@ -76,9 +63,6 @@ def factory() -> None:
         - A mounted FastAPI application on "/api": The API
         - A mounted StaticFile application on "/": The frontend
 
-    To start a new server simply run:
-        $ uvicorn --factory quara.agent.server
-
     Configuration should be provided either through environment variables or through files.
     """
     # Let's say we've got a function which returns a FastAPI application in a module
@@ -86,7 +70,7 @@ def factory() -> None:
     #             |         |
     #             V         V
     # create_app: ()  ->  FastAPI
-    from gnt_api.main import app
+    from clusterer_api.main import app
 
     # Use create_server to return a server as Starlette instance
     return create_server(app)
