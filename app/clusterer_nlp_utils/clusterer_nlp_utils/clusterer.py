@@ -141,5 +141,4 @@ class BibleClusterer:
                  "fullText": text_corpus,
                  "markers": {"color": "blue"}}
             )
-        print(projections)
         return projections
