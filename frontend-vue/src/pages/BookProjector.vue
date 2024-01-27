@@ -1,12 +1,15 @@
 <template>
   <b-col>
     <router-view></router-view>
-    <b-row>
-      <b-col md="4" class="text-center" offset="4">
-        Select at least 3 books, in order to check the similarities between
-        their vocabulary, through a PCA projection of their tf-idf similarities.
-      </b-col></b-row
-    >
+    <b-row class="text-center">
+      <b-col md="4" :offset="isProjection ? 1 : 4" style="background-color: lightyellow; margin-top: 20px; margin-bottom: 20px">
+      <b>Select text</b>
+      <b-form-group style="column-count: 2;">
+        <b-form-radio v-model="language" name="language-radios" value="greek"> SBLGNT + LXX</b-form-radio>
+        <b-form-radio v-model="language" name="language-radios" value="latin">Vulgata</b-form-radio>        
+      </b-form-group>
+      </b-col>
+    </b-row>
     <b-row>
       <b-col
         class="jumbotron"
@@ -68,6 +71,7 @@ export default {
   components: { Checkboxes, ProjectionGraph },
   data() {
     return {
+      language: "greek",
       projections: {},
       selectedGlobal: {
         Gospels: [],
@@ -102,7 +106,7 @@ export default {
   },
   mounted() {
     this.axios
-      .get("api/bookclasses/nt")
+      .get("http://localhost:8000/api/bookclasses/nt")
       .then((response) => {
         this.booksListNT = response.data;
       })
@@ -110,7 +114,7 @@ export default {
         console.log(error);
       });
     this.axios
-      .get("api/bookclasses/ot")
+      .get("http://localhost:8000/api/bookclasses/ot")
       .then((response) => {
         this.booksListOT = response.data;
       })
@@ -123,7 +127,7 @@ export default {
       if (this.selectedList.length > 0) {
         console.log(this.selectedList);
         this.axios
-          .post("api/clusterize?", null, {
+          .post("http://localhost:8000/api/"+this.language+"/clusterize?", null, {
             params: { book: this.selectedList },
             paramsSerializer: (params) => {
               return qs.stringify(params, { arrayFormat: "repeat" });
